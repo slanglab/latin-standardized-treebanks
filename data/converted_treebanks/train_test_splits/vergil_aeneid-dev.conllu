@@ -1,0 +1,28 @@
+# sent_id = phi0690.phi003.perseus-lat1.tb.xml@22
+# text = nunc grege de intacto septem mactare iuvencos praestiterit, totidem lectas de more bidentes. '
+1	nunc	nunc	ADV	d--------	_	8	advmod:tmod	_	AdvType=Tim
+2	grege	grex	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	7	nmod	_	Case=Abl|Gender=Masc|Number=Sing
+3	de	de	ADP	r--------	_	2	case	_	_
+4	intacto	intactus	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	2	amod	_	Case=Abl|Gender=Masc|Number=Sing
+5	septem	septem	NUM	m--------	_	7	nummod	_	NumForm=Word|NumType=Card
+6	mactare	macto	VERB	v--pna---	Mood=Inf|Tense=Pres|Voice=Act	8	csubj	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+7	iuvencos	iuvencus	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	6	obj	_	Case=Acc|Gender=Masc|Number=Plur
+8	praestiterit	praesto	VERB	v3srsa---	Mood=Sub|Number=Sing|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+9	,	,	PUNCT	u--------	_	14	punct	_	_
+10	totidem	totidem	DET	m--------	_	14	det	_	PronType=Dem
+11	lectas	lego	VERB	v-prppfa-	Case=Acc|Gender=Fem|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	14	amod	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+12	de	de	ADP	r--------	_	13	case	_	_
+13	more	mos	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	11	obl	_	Case=Abl|Gender=Masc|Number=Sing
+14	bidentes	bidens	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	7	conj	_	Case=Acc|Gender=Fem|Number=Plur
+15	.	.	PUNCT	u--------	_	8	punct	_	_
+16	'	'	PUNCT	u--------	_	8	punct	_	_
+
+# sent_id = phi0690.phi003.perseus-lat1.tb.xml@51
+# text = In regna Lavini Dardanidae venient;
+1	In	in	ADP	r--------	_	2	case	_	_
+2	regna	regnum	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	5	obl	_	Case=Acc|Gender=Neut|Number=Plur
+3	Lavini	Lavinium	PROPN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	Case=Gen|Gender=Neut|Number=Sing
+4	Dardanidae	Dardanides	PROPN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	3	flat:name	_	Case=Nom|Gender=Masc|Number=Plur
+5	venient	venio	VERB	v3pfia---	Mood=Ind|Number=Plur|Person=3|Tense=Fut|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+6	;	;	PUNCT	u--------	_	5	punct	_	_
+

@@ -1,0 +1,57 @@
+# sent_id = Egl-16
+# text = Ni canis hec alios a te pendendo poeta, omnibus ut solus dicas, indicta manebunt.
+# citation_hierarchy = I,Paragraphus_46
+1	Ni	ne	SCONJ	cs	_	2	mark	_	Polarity=Neg
+2	canis	cano	VERB	va3ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	16	advcl	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+3	hec	hic	DET	ddipna	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Dem
+4	alios	alius	DET	dpmpa	Case=Acc|Gender=Masc|Number=Plur	7	obj	_	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Con
+5	a	a	ADP	e	_	6	case	_	_
+6	te	tu	PRON	ppp2smb	Case=Abl|Number=Sing|Person=2	7	obl	_	Case=Abl|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs
+7	pendendo	pendo	VERB	va3fgb	Case=Abl|Mood=Ger|Voice=Act	2	advcl	_	Aspect=Prosp|Case=Abl|Gender=Neut|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass
+8	poeta	poeta	NOUN	sms1b	Case=Abl|Gender=Masc|Number=Sing	6	appos	_	Case=Abl|Gender=Masc|InflClass=IndEurA|Number=Sing
+9	,	,	PUNCT	Pu	_	13	punct	_	_
+10	omnibus	omnis	DET	dinpmd	Case=Dat|Gender=Masc|Number=Plur	13	obl	_	Case=Dat|Gender=Masc|InflClass=IndEurI|Number=Plur|PronType=Tot
+11	ut	ut	SCONJ	cs	_	13	mark	_	PronType=Rel
+12	solus	solus	DET	dpmsn	Case=Nom|Gender=Masc|Number=Sing	13	advcl:pred	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Con
+13	dicas	dico	VERB	va3cps2	Mood=Sub|Number=Sing|Person=2|Tense=Pres|Voice=Act	2	advcl	_	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+14	,	,	PUNCT	Pu	_	2	punct	_	_
+15	indicta	indictus	ADJ	anp1n	Case=Nom|Gender=Neut|Number=Plur	16	xcomp	_	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur|Polarity=Neg
+16	manebunt	maneo	VERB	va2ifp3	Mood=Ind|Number=Plur|Person=3|Tense=Fut|Voice=Act	0	root	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+17	.	.	PUNCT	Pu	_	16	punct	_	_
+
+# sent_id = Egl-83
+# text = Dum loquor, en comites, et sol de monte rotabat.
+# citation_hierarchy = III_,Paragraphus_97
+1	Dum	dum	SCONJ	cs	_	2	mark	_	_
+2	loquor	loquor	VERB	vd3ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Pass	5	advcl	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+3	,	,	PUNCT	Pu	_	2	punct	_	_
+4	en	en	PART	i	_	5	discourse	_	_
+5	comites	comes	NOUN	smp3n	Case=Nom|Gender=Masc|Number=Plur	0	root	_	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Plur
+6	,	,	PUNCT	Pu	_	11	punct	_	_
+7	et	et	CCONJ	co	_	11	cc	_	_
+8	sol	sol	NOUN	sms3n	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing
+9	de	de	ADP	e	_	10	case	_	_
+10	monte	mons	NOUN	sms3b	Case=Abl|Gender=Masc|Number=Sing	11	obl	_	Case=Abl|Gender=Masc|InflClass=IndEurI|Number=Sing
+11	rotabat	roto	VERB	va1iis3	Mood=Ind|Number=Sing|Person=3|Voice=Act	5	conj	_	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+12	.	.	PUNCT	Pu	_	5	punct	_	_
+
+# sent_id = Egl-107
+# text = Quid, quod Achemenides, sociorum cede cruentum tantum prospiciens, animam vix claudere quivit?
+# citation_hierarchy = IV,Paragraphus_83
+1	Quid	quid	ADV	rt	_	15	advmod	_	PronType=Rel
+2	,	,	PUNCT	Pu	_	1	punct	_	_
+3	quod	quod	SCONJ	cs	_	15	mark	_	PronType=Rel
+4	Achemenides	achemenides	PROPN	Sms3n	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	Case=Nom|Gender=Masc|InflClass=IndEurI|NameType=Giv|Number=Sing
+5	,	,	PUNCT	Pu	_	10	punct	_	_
+6	sociorum	socius	NOUN	smp2g	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Plur
+7	cede	caedes	NOUN	sfs3b	Case=Abl|Gender=Fem|Number=Sing	8	obl:agent	_	Case=Abl|Gender=Fem|InflClass=IndEurI|Number=Sing
+8	cruentum	cruentus	ADJ	ams1a	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing
+9	tantum	tantum	ADV	r	_	8	advmod	_	NumType=Card|PronType=Dem
+10	prospiciens	prospicio	VERB	va3ppsmn	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	4	acl	_	Aspect=Imp|Case=Nom|Gender=Masc|InflClass=LatI2|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act
+11	,	,	PUNCT	Pu	_	4	punct	_	_
+12	animam	anima	NOUN	sfs1a	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing
+13	vix	uix	ADV	r	_	14	advmod	_	_
+14	claudere	claudo	VERB	va3fp	Mood=Inf|Tense=Pres|Voice=Act	15	xcomp	_	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Act
+15	quivit	queo	VERB	va5irs3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Perf|InflClass=LatI2|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+16	?	?	PUNCT	Pu	_	15	punct	_	_
+

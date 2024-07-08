@@ -1,0 +1,1059 @@
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@2
+# text = nam post conditam urbem octingentos et viginti prioris aevi annos multi auctores rettulerunt, dum res populi Romani memorabantur pari eloquentia ac libertate:
+1	nam	nam	PART	c--------	_	13	discourse	_	_
+2	post	post	ADP	r--------	_	4	case	_	_
+3	conditam	condo	VERB	v-srppfa-	Case=Acc|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	4	nmod	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+4	urbem	urbs	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	10	nmod	_	Case=Acc|Gender=Fem|Number=Sing
+5	octingentos	octingenti	NUM	m-p---ma-	Case=Acc|Gender=Masc|Number=Plur	10	nummod	_	Case=Acc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card
+6	et	et	CCONJ	c--------	_	7	cc	_	_
+7	viginti	viginti	NUM	m--------	_	5	conj	_	NumForm=Word|NumType=Card
+8	prioris	prior	ADJ	a-s---ngc	Case=Gen|Degree=Cmp|Gender=Neut|Number=Sing	9	amod	_	Case=Gen|Degree=Cmp|Gender=Neut|Number=Sing
+9	aevi	aevum	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	Case=Gen|Gender=Neut|Number=Sing
+10	annos	annus	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	13	obj	_	Case=Acc|Gender=Masc|Number=Plur
+11	multi	multus	DET	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	12	det	_	Case=Nom|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind
+12	auctores	auctor	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	Case=Nom|Gender=Masc|Number=Plur
+13	rettulerunt	refero	VERB	v3pria---	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+14	,	,	PUNCT	u--------	_	15	punct	_	_
+15	dum	dum	SCONJ	c--------	_	19	mark	_	_
+16	res	res	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	19	nsubj:pass	_	Case=Nom|Gender=Fem|Number=Plur
+17	populi	populus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+18	Romani	Romanus	ADJ	a-s---mg-	Case=Gen|Gender=Masc|Number=Sing	17	amod	_	Case=Gen|Gender=Masc|Number=Sing
+19	memorabantur	memoro	VERB	v3piip---	Mood=Ind|Number=Plur|Person=3|Tense=Imp|Voice=Pass	13	advcl	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+20	pari	par	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	21	amod	_	Case=Abl|Gender=Fem|Number=Sing
+21	eloquentia	eloquentia	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	19	obl	_	Case=Abl|Gender=Fem|Number=Sing
+22	ac	atque	CCONJ	c--------	_	23	cc	_	_
+23	libertate	libertas	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	21	conj	_	Case=Abl|Gender=Fem|Number=Sing
+24	:	:	PUNCT	u--------	_	13	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@3
+# text = postquam bellatum apud Actium atque omnem potentiam ad unum conferri pacis interfuit, magna illa ingenia cessere;
+1	postquam	postquam	SCONJ	c--------	_	2	mark	_	_
+2	bellatum	bello	VERB	v-srppnn-	Case=Nom|Gender=Neut|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	17	advcl	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+3	apud	apud	ADP	r--------	_	4	case	_	_
+4	Actium	Actium	PROPN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	Case=Acc|Gender=Neut|Number=Sing
+5	atque	atque	CCONJ	c--------	_	12	cc	_	_
+6	omnem	omnis	DET	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	7	det	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot
+7	potentiam	potentia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	10	nsubj:pass	_	Case=Acc|Gender=Fem|Number=Sing
+8	ad	ad	ADP	r--------	_	9	case	_	_
+9	unum	unus	NUM	m-s---ma-	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	Case=Acc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card
+10	conferri	confero	VERB	v--pnp---	Mood=Inf|Tense=Pres|Voice=Pass	12	csubj	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+11	pacis	pax	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	12	obj	_	Case=Gen|Gender=Fem|Number=Sing
+12	interfuit	intersum	VERB	v3sria---	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	2	conj	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+13	,	,	PUNCT	u--------	_	2	punct	_	_
+14	magna	magnus	ADJ	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	16	amod	_	Case=Nom|Gender=Neut|Number=Plur
+15	illa	ille	DET	p-p---nn-	Case=Nom|Gender=Neut|Number=Plur	16	det	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem
+16	ingenia	ingenium	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	17	nsubj	_	Case=Nom|Gender=Neut|Number=Plur
+17	cessere	cedo	VERB	v3pria---	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+18	;	;	PUNCT	u--------	_	17	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@4
+# text = simul veritas pluribus modis infracta, primum inscitia rei publicae ut alienae, mox libidine adsentandi aut rursus odio adversus dominantis:
+1	simul	simul	ADV	d--------	_	5	advmod	_	_
+2	veritas	veritas	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	5	nsubj:pass	_	Case=Nom|Gender=Fem|Number=Sing
+3	pluribus	multus	DET	a-p---mbc	Case=Abl|Degree=Cmp|Gender=Masc|Number=Plur	4	det	_	Case=Abl|Degree=Cmp|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind
+4	modis	modus	NOUN	n-p---mb-	Case=Abl|Gender=Masc|Number=Plur	5	obl	_	Case=Abl|Gender=Masc|Number=Plur
+5	infracta	infringo	VERB	v-srppfn-	Case=Nom|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	0	root	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+6	,	,	PUNCT	u--------	_	8	punct	_	_
+7	primum	primus	ADV	d--------	_	8	advmod	_	_
+8	inscitia	inscitia	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	5	obl	_	Case=Abl|Gender=Fem|Number=Sing
+9	rei	res	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+10	publicae	publicus	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	9	amod	_	Case=Gen|Gender=Fem|Number=Sing
+11	ut	ut	SCONJ	c--------	_	12	mark	_	_
+12	alienae	alienus	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	9	advcl:cmp	_	Case=Gen|Gender=Fem|Number=Sing
+13	,	,	PUNCT	u--------	_	15	punct	_	_
+14	mox	mox	ADV	d--------	_	15	advmod	_	_
+15	libidine	libido	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	8	conj	_	Case=Abl|Gender=Fem|Number=Sing
+16	adsentandi	assentor	VERB	v---d----	Case=Gen|Mood=Ger|Voice=Act	15	acl	_	Aspect=Prosp|Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+17	aut	aut	CCONJ	c--------	_	19	cc	_	_
+18	rursus	rursus	ADV	d--------	_	19	advmod	_	_
+19	odio	odium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	8	conj	_	Case=Abl|Gender=Neut|Number=Sing
+20	adversus	adversus	ADP	r--------	_	21	case	_	_
+21	dominantis	dominor	VERB	v-ppp-ma-	Case=Acc|Gender=Masc|Mood=Part|Number=Plur|Tense=Pres|Voice=Act	19	amod	_	Aspect=Imp|Case=Acc|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act
+22	:	:	PUNCT	u--------	_	5	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@9
+# text = dignitatem nostram a Vespasiano incohatam, a Tito auctam, a Domitiano longius provectam non abnuerim:
+1	dignitatem	dignitas	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	nsubj:pass	_	Case=Acc|Gender=Fem|Number=Sing
+2	nostram	noster	DET	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	1	det	_	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs
+3	a	ab	ADP	r--------	_	4	case	_	_
+4	Vespasiano	Vespasianus	PROPN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	5	obl	_	Case=Abl|Gender=Masc|Number=Sing
+5	incohatam	incoho	VERB	v-srppfa-	Case=Acc|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	16	ccomp	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+6	,	,	PUNCT	u--------	_	9	punct	_	_
+7	a	ab	ADP	r--------	_	8	case	_	_
+8	Tito	Titus	PROPN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	9	obl	_	Case=Abl|Gender=Masc|Number=Sing
+9	auctam	augeo	VERB	v-srppfa-	Case=Acc|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	5	conj	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+10	,	,	PUNCT	u--------	_	14	punct	_	_
+11	a	ab	ADP	r--------	_	12	case	_	_
+12	Domitiano	Domitianus	PROPN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	14	obl	_	Case=Abl|Gender=Masc|Number=Sing
+13	longius	longus	ADV	d-------c	Degree=Cmp	14	advmod	_	Degree=Cmp
+14	provectam	proveho	VERB	v-srppfa-	Case=Acc|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	5	conj	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+15	non	non	PART	d--------	_	16	advmod:neg	_	_
+16	abnuerim	abnuo	VERB	v1srsa---	Mood=Sub|Number=Sing|Person=1|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+17	:	:	PUNCT	u--------	_	16	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@12
+# text = Opus adgredior† opimum casibus, atrox proeliis, discors seditionibus, ipsa etiam pace saevum.
+1	Opus	opus	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	Case=Acc|Gender=Neut|Number=Sing
+2	adgredior	aggredior	VERB	v1spid---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+3	†	†	PUNCT	u--------	_	4	punct	_	_
+4	opimum	opimus	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	1	amod	_	Case=Acc|Gender=Neut|Number=Sing
+5	casibus	casus	NOUN	n-p---mb-	Case=Abl|Gender=Masc|Number=Plur	4	obj	_	Case=Abl|Gender=Masc|Number=Plur
+6	,	,	PUNCT	u--------	_	7	punct	_	_
+7	atrox	atrox	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	4	conj	_	Case=Acc|Gender=Neut|Number=Sing
+8	proeliis	proelium	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	7	obl	_	Case=Abl|Gender=Neut|Number=Plur
+9	,	,	PUNCT	u--------	_	10	punct	_	_
+10	discors	discors	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	4	conj	_	Case=Acc|Gender=Neut|Number=Sing
+11	seditionibus	seditio	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	10	obl	_	Case=Abl|Gender=Fem|Number=Plur
+12	,	,	PUNCT	u--------	_	16	punct	_	_
+13	ipsa	ipse	DET	p-s---fb-	Case=Abl|Gender=Fem|Number=Sing	15	det	_	Case=Abl|Gender=Fem|Number=Sing|PronType=Dem
+14	etiam	etiam	ADV	c--------	_	15	advmod	_	_
+15	pace	pax	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	16	obl	_	Case=Abl|Gender=Fem|Number=Sing
+16	saevum	saevus	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	4	conj	_	Case=Acc|Gender=Neut|Number=Sing
+17	.	.	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@13
+# text = quattuor principes ferro interempti:
+1	quattuor	quattuor	NUM	m--------	_	2	nummod	_	NumForm=Word|NumType=Card
+2	principes	princeps	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	4	nsubj:pass	_	Case=Nom|Gender=Masc|Number=Plur
+3	ferro	ferrum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	4	obj	_	Case=Abl|Gender=Neut|Number=Sing
+4	interempti	interimo	VERB	v-prppmn-	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	0	root	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+5	:	:	PUNCT	u--------	_	4	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@17
+# text = coortae in nos Sarmatarum ac Sueborum gentes, nobilitatus cladibus mutuis Dacus, mota prope etiam Parthorum arma falsi Neronis ludibrio.
+1	coortae	coorior	VERB	v-prpdfn-	Case=Nom|Gender=Fem|Mood=Part|Number=Plur|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act
+2	in	in	ADP	r--------	_	3	case	_	_
+3	nos	nos	PRON	p-p---ma-	Case=Acc|Number=Plur|Person=1	1	obl	_	Case=Acc|Number=Plur|Person=1|PronType=Prs
+4	Sarmatarum	Sarmata	PROPN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+5	ac	atque	CCONJ	c--------	_	6	cc	_	_
+6	Sueborum	Suevi	PROPN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	4	conj	_	Case=Gen|Gender=Masc|Number=Plur
+7	gentes	gens	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	Case=Nom|Gender=Fem|Number=Plur
+8	,	,	PUNCT	u--------	_	9	punct	_	_
+9	nobilitatus	nobilito	VERB	v-srppmn-	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	1	conj	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+10	cladibus	clades	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	9	obj	_	Case=Abl|Gender=Fem|Number=Plur
+11	mutuis	mutuus	ADJ	a-p---fb-	Case=Abl|Gender=Fem|Number=Plur	10	amod	_	Case=Abl|Gender=Fem|Number=Plur
+12	Dacus	Daci	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	9	nsubj:pass	_	Case=Nom|Gender=Masc|Number=Sing
+13	,	,	PUNCT	u--------	_	14	punct	_	_
+14	mota	moveo	VERB	v-prppnn-	Case=Nom|Gender=Neut|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	1	conj	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+15	prope	prope	ADV	d--------	_	14	advmod	_	_
+16	etiam	etiam	ADV	c--------	_	18	advmod	_	_
+17	Parthorum	Parthi	PROPN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+18	arma	arma	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	14	nsubj:pass	_	Case=Nom|Gender=Neut|Number=Plur
+19	falsi	fallo	VERB	v-srppmg-	Case=Gen|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	20	nmod	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+20	Neronis	Nero	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+21	ludibrio	ludibrium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	14	obl	_	Case=Abl|Gender=Neut|Number=Sing
+22	.	.	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@18
+# text = iam vero Italia novis cladibus vel post longam saeculorum seriem repetitis adflicta.
+1	iam	iam	ADV	d--------	_	12	advmod:tmod	_	AdvType=Tim
+2	vero	vero	ADV	d--------	_	1	discourse	_	_
+3	Italia	Italia	PROPN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	12	nsubj:pass	_	Case=Nom|Gender=Fem|Number=Sing
+4	novis	novus	ADJ	a-p---fb-	Case=Abl|Gender=Fem|Number=Plur	5	amod	_	Case=Abl|Gender=Fem|Number=Plur
+5	cladibus	clades	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	12	obj	_	Case=Abl|Gender=Fem|Number=Plur
+6	vel	vel	CCONJ	c--------	_	11	cc	_	_
+7	post	post	ADP	r--------	_	10	case	_	_
+8	longam	longus	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	10	amod	_	Case=Acc|Gender=Fem|Number=Sing
+9	saeculorum	saeculum	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	10	nmod	_	Case=Gen|Gender=Neut|Number=Plur
+10	seriem	series	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	11	obl	_	Case=Acc|Gender=Fem|Number=Sing
+11	repetitis	repeto	VERB	v-prppfb-	Case=Abl|Gender=Fem|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	4	conj	_	Aspect=Perf|Case=Abl|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+12	adflicta	affligo	VERB	v-srppfn-	Case=Nom|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	0	root	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+13	.	.	PUNCT	u--------	_	12	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@20
+# text = et urbs incendiis vastata, consumptis antiquissimis delubris, ipso Capitolio civium manibus incenso.
+1	et	et	CCONJ	c--------	_	4	cc	_	_
+2	urbs	urbs	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	4	nsubj:pass	_	Case=Nom|Gender=Fem|Number=Sing
+3	incendiis	incendium	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	4	obj	_	Case=Abl|Gender=Neut|Number=Plur
+4	vastata	vasto	VERB	v-srppfn-	Case=Nom|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	0	root	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+5	,	,	PUNCT	u--------	_	6	punct	_	_
+6	consumptis	consumo	VERB	v-prppnb-	Case=Abl|Gender=Neut|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	4	advcl:abs	_	Aspect=Perf|Case=Abl|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+7	antiquissimis	antiquus	ADJ	a-p---nbs	Case=Abl|Degree=Sup|Gender=Neut|Number=Plur	8	amod	_	Case=Abl|Degree=Abs|Gender=Neut|Number=Plur
+8	delubris	delubrum	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	6	nsubj:pass	_	Case=Abl|Gender=Neut|Number=Plur
+9	,	,	PUNCT	u--------	_	14	punct	_	_
+10	ipso	ipse	DET	p-s---nb-	Case=Abl|Gender=Neut|Number=Sing	11	det	_	Case=Abl|Gender=Neut|Number=Sing|PronType=Dem
+11	Capitolio	Capitolium	PROPN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	14	nsubj:pass	_	Case=Abl|Gender=Neut|Number=Sing
+12	civium	civis	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+13	manibus	manus	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	14	obj	_	Case=Abl|Gender=Fem|Number=Plur
+14	incenso	incendo	VERB	v-srppnb-	Case=Abl|Gender=Neut|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	6	conj	_	Aspect=Perf|Case=Abl|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+15	.	.	PUNCT	u--------	_	4	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@23
+# text = atrocius in urbe saevitum:
+1	atrocius	atrox	ADV	d-------c	Degree=Cmp	4	advmod	_	Degree=Cmp
+2	in	in	ADP	r--------	_	3	case	_	_
+3	urbe	urbs	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	4	obl	_	Case=Abl|Gender=Fem|Number=Sing
+4	saevitum	saevio	VERB	v-srppnn-	Case=Nom|Gender=Neut|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	0	root	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+5	:	:	PUNCT	u--------	_	4	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@27
+# text = et quibus deerat inimicus per amicos oppressi.
+1	et	et	CCONJ	c--------	_	7	cc	_	_
+2	quibus	qui	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur	3	obl	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Rel
+3	deerat	desum	VERB	v3siia---	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Voice=Act	7	csubj	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+4	inimicus	inimicus	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+5	per	per	ADP	r--------	_	6	case	_	_
+6	amicos	amicus	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	7	obl	_	Case=Acc|Gender=Masc|Number=Plur
+7	oppressi	opprimo	VERB	v-prppmn-	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	0	root	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+8	.	.	PUNCT	u--------	_	7	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@29
+# text = comitatae profugos liberos matres, secutae maritos in exilia coniuges:
+1	comitatae	comitor	VERB	v-prpdfn-	Case=Nom|Gender=Fem|Mood=Part|Number=Plur|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act
+2	profugos	profugus	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	3	amod	_	Case=Acc|Gender=Masc|Number=Plur
+3	liberos	liber	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	1	obj	_	Case=Acc|Gender=Masc|Number=Plur
+4	matres	mater	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	Case=Nom|Gender=Fem|Number=Plur
+5	,	,	PUNCT	u--------	_	6	punct	_	_
+6	secutae	sequor	VERB	v-prpdfn-	Case=Nom|Gender=Fem|Mood=Part|Number=Plur|Tense=Perf|Voice=Act	1	conj	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act
+7	maritos	maritus	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	6	obj	_	Case=Acc|Gender=Masc|Number=Plur
+8	in	in	ADP	r--------	_	9	case	_	_
+9	exilia	exsilium	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	6	obl	_	Case=Acc|Gender=Neut|Number=Plur
+10	coniuges	coniunx	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	6	nsubj	_	Case=Nom|Gender=Fem|Number=Plur
+11	:	:	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@42
+# text = laudata olim et militari fama celebrata severitas eius angebat aspernantis veterem disciplinam atque ita quattuordecim annis a Nerone adsuefactos ut haud minus vitia principum amarent quam olim virtutes verebantur.
+1	laudata	laudo	VERB	v-srppfn-	Case=Nom|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	7	amod	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+2	olim	olim	ADV	d--------	_	1	advmod:tmod	_	AdvType=Tim
+3	et	et	CCONJ	c--------	_	6	cc	_	_
+4	militari	militaris	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	5	amod	_	Case=Abl|Gender=Fem|Number=Sing
+5	fama	fama	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	6	obl	_	Case=Abl|Gender=Fem|Number=Sing
+6	celebrata	celebro	VERB	v-srppfn-	Case=Nom|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	1	conj	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+7	severitas	severitas	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+8	eius	is	PRON	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing|Person=3	7	nmod	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+9	angebat	ango	VERB	v3siia---	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+10	aspernantis	aspernor	VERB	v-ppp-ma-	Case=Acc|Gender=Masc|Mood=Part|Number=Plur|Tense=Pres|Voice=Act	9	xcomp	_	Aspect=Imp|Case=Acc|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act
+11	veterem	vetus	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	12	amod	_	Case=Acc|Gender=Fem|Number=Sing
+12	disciplinam	disciplina	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	Case=Acc|Gender=Fem|Number=Sing
+13	atque	atque	CCONJ	c--------	_	19	cc	_	_
+14	ita	ita	ADV	d--------	_	19	advmod	_	_
+15	quattuordecim	quattuordecim	NUM	m--------	_	16	nummod	_	NumForm=Word|NumType=Card
+16	annis	annus	NOUN	n-p---mb-	Case=Abl|Gender=Masc|Number=Plur	19	obl	_	Case=Abl|Gender=Masc|Number=Plur
+17	a	ab	ADP	r--------	_	18	case	_	_
+18	Nerone	Nero	PROPN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	19	obl	_	Case=Abl|Gender=Masc|Number=Sing
+19	adsuefactos	assuefacio	VERB	v-prppma-	Case=Acc|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	10	conj	_	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+20	ut	ut	SCONJ	c--------	_	25	mark	_	_
+21	haud	haud	PART	d--------	_	22	advmod:neg	_	_
+22	minus	parvus	ADV	d-------c	Degree=Cmp	25	advmod	_	Degree=Cmp
+23	vitia	vitium	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	25	obj	_	Case=Acc|Gender=Neut|Number=Plur
+24	principum	princeps	ADJ	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	23	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+25	amarent	amo	VERB	v3pisa---	Mood=Sub|Number=Plur|Person=3|Tense=Imp|Voice=Act	19	ccomp	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+26	quam	quam	SCONJ	d--------	_	29	mark	_	PronType=Rel
+27	olim	olim	ADV	d--------	_	29	advmod:tmod	_	AdvType=Tim
+28	virtutes	virtus	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	29	obj	_	Case=Acc|Gender=Fem|Number=Plur
+29	verebantur	vereor	VERB	v3piid---	Mood=Ind|Number=Plur|Person=3|Tense=Imp|Voice=Act	22	advcl:cmp	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+30	.	.	PUNCT	u--------	_	9	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@43
+# text = accessit Galbae vox pro re publica honesta, ipsi anceps, legi a se militem, non emi;
+1	accessit	accedo	VERB	v3sria---	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+2	Galbae	Galba	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+3	vox	vox	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+4	pro	pro	ADP	r--------	_	5	case	_	_
+5	re	res	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	7	nmod	_	Case=Abl|Gender=Fem|Number=Sing
+6	publica	publicus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	5	amod	_	Case=Abl|Gender=Fem|Number=Sing
+7	honesta	honestus	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	Case=Nom|Gender=Fem|Number=Sing
+8	,	,	PUNCT	u--------	_	10	punct	_	_
+9	ipsi	ipse	DET	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	10	obl	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem
+10	anceps	anceps	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	7	conj	_	Case=Nom|Gender=Fem|Number=Sing
+11	,	,	PUNCT	u--------	_	12	punct	_	_
+12	legi	lego	VERB	v--pnp---	Mood=Inf|Tense=Pres|Voice=Pass	3	acl	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+13	a	ab	ADP	r--------	_	14	case	_	_
+14	se	sui	PRON	p-s---mb-	Case=Abl|Number=Sing|Person=3	12	obl	_	Case=Abl|Number=Sing|Person=3|PronType=Prs|Reflex=Yes
+15	militem	miles	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	12	nsubj:pass	_	Case=Acc|Gender=Masc|Number=Sing
+16	,	,	PUNCT	u--------	_	18	punct	_	_
+17	non	non	PART	d--------	_	18	advmod:neg	_	_
+18	emi	emo	VERB	v--pnp---	Mood=Inf|Tense=Pres|Voice=Pass	12	conj	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+19	;	;	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@52
+# text = Forte congruerat ut Clodii Macri et Fontei Capitonis caedes nuntiarentur.
+1	Forte	fors	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	2	obl	_	Case=Abl|Gender=Fem|Number=Sing
+2	congruerat	congruo	VERB	v3slia---	Mood=Ind|Number=Sing|Person=3|Tense=Plup|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act
+3	ut	ut	SCONJ	c--------	_	10	mark	_	_
+4	Clodii	Clodius	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+5	Macri	Macer	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	4	flat:name	_	Case=Gen|Gender=Masc|Number=Sing
+6	et	et	CCONJ	c--------	_	8	cc	_	_
+7	Fontei	Fonteius	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	5	conj	_	Case=Gen|Gender=Masc|Number=Sing
+8	Capitonis	Capito	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	7	flat:name	_	Case=Gen|Gender=Masc|Number=Sing
+9	caedes	caedes	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	10	nsubj:pass	_	Case=Nom|Gender=Fem|Number=Plur
+10	nuntiarentur	nuntio	VERB	v3pisp---	Mood=Sub|Number=Plur|Person=3|Tense=Imp|Voice=Pass	2	csubj	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+11	.	.	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@55
+# text = ceterum utraque caedes sinistre accepta, et inviso semel principi seu bene seu male facta parem invidiam adferebant.
+1	ceterum	ceter	ADV	d--------	_	5	advmod	_	_
+2	utraque	uterque	DET	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	det	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Con
+3	caedes	caedes	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	5	nsubj:pass	_	Case=Nom|Gender=Fem|Number=Sing
+4	sinistre	sinister	ADV	d--------	_	5	advmod	_	_
+5	accepta	accipio	VERB	v-srppfn-	Case=Nom|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	0	root	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+6	,	,	PUNCT	u--------	_	18	punct	_	_
+7	et	et	CCONJ	c--------	_	18	cc	_	_
+8	inviso	invideo	VERB	v-srppmd-	Case=Dat|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	10	amod	_	Aspect=Perf|Case=Dat|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+9	semel	semel	ADV	d--------	_	8	advmod	_	_
+10	principi	princeps	ADJ	a-s---md-	Case=Dat|Gender=Masc|Number=Sing	18	obl:arg	_	Case=Dat|Gender=Masc|Number=Sing
+11	seu	sive	CCONJ	c--------	_	12	cc	_	_
+12	bene	bene	ADV	d--------	_	15	advmod	_	_
+13	seu	sive	CCONJ	c--------	_	14	cc	_	_
+14	male	malus	ADV	d--------	_	12	conj	_	_
+15	facta	facio	VERB	v-prppnn-	Case=Nom|Gender=Neut|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	18	nsubj	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+16	parem	par	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	17	amod	_	Case=Acc|Gender=Fem|Number=Sing
+17	invidiam	invidia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	18	obj	_	Case=Acc|Gender=Fem|Number=Sing
+18	adferebant	affero	VERB	v3piia---	Mood=Ind|Number=Plur|Person=3|Tense=Imp|Voice=Act	5	conj	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+19	.	.	PUNCT	u--------	_	5	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@58
+# text = Et hic quidem Romae, tamquam in tanta multitudine, habitus animorum fuit.
+1	Et	et	CCONJ	c--------	_	2	cc	_	_
+2	hic	hic	DET	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem
+3	quidem	quidem	PART	d--------	_	2	discourse	_	_
+4	Romae	Roma	PROPN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	2	obl	_	Case=Gen|Gender=Fem|Number=Sing
+5	,	,	PUNCT	u--------	_	7	punct	_	_
+6	tamquam	tamquam	ADV	d--------	_	7	advmod	_	_
+7	in	in	ADP	r--------	_	9	case	_	_
+8	tanta	tantus	DET	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	9	det	_	Case=Abl|Gender=Fem|Number=Sing|PronType=Dem
+9	multitudine	multitudo	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	2	obl	_	Case=Abl|Gender=Fem|Number=Sing
+10	,	,	PUNCT	u--------	_	11	punct	_	_
+11	habitus	habitus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+12	animorum	animus	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+13	fuit	sum	AUX	v3sria---	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	2	cop	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+14	.	.	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@60
+# text = Galliae super memoriam Vindicis obligatae recenti dono Romanae civitatis et in posterum tributi levamento.
+1	Galliae	Gallia	PROPN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	5	nsubj:pass	_	Case=Nom|Gender=Fem|Number=Plur
+2	super	super	ADP	r--------	_	3	case	_	_
+3	memoriam	memoria	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	Case=Acc|Gender=Fem|Number=Sing
+4	Vindicis	Vindex	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+5	obligatae	obligo	VERB	v-prppfn-	Case=Nom|Gender=Fem|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	0	root	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+6	recenti	recens	ADJ	a-s---nb-	Case=Abl|Gender=Neut|Number=Sing	7	amod	_	Case=Abl|Gender=Neut|Number=Sing
+7	dono	donum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	5	obj	_	Case=Abl|Gender=Neut|Number=Sing
+8	Romanae	Romanus	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	9	amod	_	Case=Gen|Gender=Fem|Number=Sing
+9	civitatis	civitas	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+10	et	et	CCONJ	c--------	_	14	cc	_	_
+11	in	in	ADP	r--------	_	12	case	_	_
+12	posterum	posterus	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	14	amod	_	Case=Acc|Gender=Neut|Number=Sing
+13	tributi	tribuo	VERB	v-srppng-	Case=Gen|Gender=Neut|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	14	nmod	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+14	levamento	levamentum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	7	conj	_	Case=Abl|Gender=Neut|Number=Sing
+15	.	.	PUNCT	u--------	_	5	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@61
+# text = proximae tamen Germanicis exercitibus Galliarum civitates non eodem honore habitae, quaedam etiam finibus ademptis pari dolore commoda aliena ac suas iniurias metiebantur.
+1	proximae	propior	ADJ	a-p---fns	Case=Nom|Degree=Sup|Gender=Fem|Number=Plur	6	amod	_	Case=Nom|Degree=Abs|Gender=Fem|Number=Plur
+2	tamen	tamen	ADV	d--------	_	10	advmod	_	_
+3	Germanicis	Germanicus	ADJ	a-p---md-	Case=Dat|Gender=Masc|Number=Plur	4	amod	_	Case=Dat|Gender=Masc|Number=Plur
+4	exercitibus	exercitus	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	1	obl	_	Case=Dat|Gender=Masc|Number=Plur
+5	Galliarum	Gallia	PROPN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	Case=Gen|Gender=Fem|Number=Plur
+6	civitates	civitas	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	10	nsubj:pass	_	Case=Nom|Gender=Fem|Number=Plur
+7	non	non	PART	d--------	_	10	advmod:neg	_	_
+8	eodem	idem	DET	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	9	det	_	Case=Abl|Gender=Masc|Number=Sing|PronType=Dem
+9	honore	honor	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	10	obl	_	Case=Abl|Gender=Masc|Number=Sing
+10	habitae	habeo	VERB	v-prppfn-	Case=Nom|Gender=Fem|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	0	root	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+11	,	,	PUNCT	u--------	_	23	punct	_	_
+12	quaedam	quidam	DET	p-p---fn-	Case=Nom|Gender=Fem|Number=Plur	23	nsubj	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind
+13	etiam	etiam	ADV	c--------	_	15	advmod	_	_
+14	finibus	finis	NOUN	n-p---mb-	Case=Abl|Gender=Masc|Number=Plur	15	nsubj:pass	_	Case=Abl|Gender=Masc|Number=Plur
+15	ademptis	adimo	VERB	v-prppmb-	Case=Abl|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	23	advcl:abs	_	Aspect=Perf|Case=Abl|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+16	pari	par	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	17	amod	_	Case=Abl|Gender=Masc|Number=Sing
+17	dolore	dolor	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	23	obl	_	Case=Abl|Gender=Masc|Number=Sing
+18	commoda	commodus	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	22	obj	_	Case=Acc|Gender=Neut|Number=Plur
+19	aliena	alienus	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	18	amod	_	Case=Acc|Gender=Neut|Number=Plur
+20	ac	atque	CCONJ	c--------	_	22	cc	_	_
+21	suas	suus	DET	p-p---fa-	Case=Acc|Gender=Fem|Number=Plur	22	det	_	Case=Acc|Gender=Fem|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs
+22	iniurias	iniuria	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	23	obj	_	Case=Acc|Gender=Fem|Number=Plur
+23	metiebantur	metior	VERB	v3piid---	Mood=Ind|Number=Plur|Person=3|Tense=Imp|Voice=Act	10	conj	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+24	.	.	PUNCT	u--------	_	10	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@65
+# text = delatum ei a milite imperium conveniebat.
+1	delatum	defero	VERB	v-srppna-	Case=Acc|Gender=Neut|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	6	nsubj	_	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+2	ei	is	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|Person=3	1	obl:arg	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+3	a	ab	ADP	r--------	_	4	case	_	_
+4	milite	miles	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	1	obl	_	Case=Abl|Gender=Masc|Number=Sing
+5	imperium	imperium	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	1	nsubj:pass	_	Case=Acc|Gender=Neut|Number=Sing
+6	conveniebat	convenio	VERB	v3siia---	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+7	.	.	PUNCT	u--------	_	6	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@66
+# text = Fonteium Capitonem occisum etiam qui queri non poterant, tamen indignabantur.
+1	Fonteium	Fonteius	PROPN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	3	nsubj:pass	_	Case=Acc|Gender=Masc|Number=Sing
+2	Capitonem	Capito	PROPN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	1	flat:name	_	Case=Acc|Gender=Masc|Number=Sing
+3	occisum	occido	VERB	v-srppma-	Case=Acc|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	11	ccomp	_	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+4	etiam	etiam	ADV	c--------	_	8	advmod	_	_
+5	qui	qui	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel
+6	queri	queror	VERB	v--pnd---	Mood=Inf|Tense=Pres|Voice=Act	8	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+7	non	non	PART	d--------	_	8	advmod:neg	_	_
+8	poterant	possum	VERB	v3piia---	Mood=Ind|Number=Plur|Person=3|Tense=Imp|Voice=Act	11	csubj	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+9	,	,	PUNCT	u--------	_	8	punct	_	_
+10	tamen	tamen	ADV	d--------	_	11	advmod	_	_
+11	indignabantur	indignor	VERB	v3piid---	Mood=Ind|Number=Plur|Person=3|Tense=Imp|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+12	.	.	PUNCT	u--------	_	11	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@67
+# text = dux deerat abducto Verginio per simulationem amicitiae;
+1	dux	dux	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+2	deerat	desum	VERB	v3siia---	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+3	abducto	abduco	VERB	v-srppmb-	Case=Abl|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	2	advcl:abs	_	Aspect=Perf|Case=Abl|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+4	Verginio	Verginius	PROPN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	3	nsubj:pass	_	Case=Abl|Gender=Masc|Number=Sing
+5	per	per	ADP	r--------	_	6	case	_	_
+6	simulationem	simulatio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	Case=Acc|Gender=Fem|Number=Sing
+7	amicitiae	amicitia	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+8	;	;	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@69
+# text = Superior exercitus legatum Hordeonium Flaccum spernebat, senecta ac debilitate pedum invalidum, sine constantia, sine auctoritate:
+1	Superior	superus	ADJ	a-s---mnc	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	2	amod	_	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing
+2	exercitus	exercitus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+3	legatum	legatus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	Case=Acc|Gender=Masc|Number=Sing
+4	Hordeonium	Hordeonius	PROPN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	3	flat	_	Case=Acc|Gender=Masc|Number=Sing
+5	Flaccum	Flaccus	PROPN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	4	flat:name	_	Case=Acc|Gender=Masc|Number=Sing
+6	spernebat	sperno	VERB	v3siia---	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+7	,	,	PUNCT	u--------	_	12	punct	_	_
+8	senecta	senecta	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	12	obl	_	Case=Abl|Gender=Fem|Number=Sing
+9	ac	atque	CCONJ	c--------	_	10	cc	_	_
+10	debilitate	debilitas	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	8	conj	_	Case=Abl|Gender=Fem|Number=Sing
+11	pedum	pes	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+12	invalidum	invalidus	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	3	amod	_	Case=Acc|Gender=Masc|Number=Sing
+13	,	,	PUNCT	u--------	_	15	punct	_	_
+14	sine	sine	ADP	r--------	_	15	case	_	_
+15	constantia	constantia	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	12	conj	_	Case=Abl|Gender=Fem|Number=Sing
+16	,	,	PUNCT	u--------	_	18	punct	_	_
+17	sine	sine	ADP	r--------	_	18	case	_	_
+18	auctoritate	auctoritas	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	12	conj	_	Case=Abl|Gender=Fem|Number=Sing
+19	:	:	PUNCT	u--------	_	6	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@71
+# text = adeo furentes infirmitate retinentis ultro accendebantur.
+1	adeo	adeo	ADV	d--------	_	2	advmod	_	_
+2	furentes	furo	VERB	v-ppp-mn-	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Pres|Voice=Act	6	advcl	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act
+3	infirmitate	infirmitas	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	2	obl	_	Case=Abl|Gender=Fem|Number=Sing
+4	retinentis	retineo	VERB	v-spp-mg-	Case=Gen|Gender=Masc|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	3	nmod	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act
+5	ultro	ultro	ADV	d--------	_	6	advmod	_	_
+6	accendebantur	accendo	VERB	v3piip---	Mood=Ind|Number=Plur|Person=3|Tense=Imp|Voice=Pass	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+7	.	.	PUNCT	u--------	_	6	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@73
+# text = id satis videbatur.
+1	id	is	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nsubj:pass	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+2	satis	satis	ADV	d--------	_	3	xcomp	_	_
+3	videbatur	video	VERB	v3siip---	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Voice=Pass	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+4	.	.	PUNCT	u--------	_	3	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@80
+# text = insignis amicitias iuvenis ambitiose coluerat;
+1	insignis	insignis	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	2	amod	_	Case=Acc|Gender=Fem|Number=Plur
+2	amicitias	amicitia	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	5	obj	_	Case=Acc|Gender=Fem|Number=Plur
+3	iuvenis	iuvenis	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	xcomp	_	Case=Nom|Gender=Masc|Number=Sing
+4	ambitiose	ambitiosus	ADV	d--------	_	5	advmod	_	_
+5	coluerat	colo	VERB	v3slia---	Mood=Ind|Number=Sing|Person=3|Tense=Plup|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act
+6	;	;	PUNCT	u--------	_	5	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@85
+# text = palam laudares, secreta male audiebant:
+1	palam	palam	ADV	d--------	_	2	advmod	_	_
+2	laudares	laudo	VERB	v2sisa---	Mood=Sub|Number=Sing|Person=2|Tense=Imp|Voice=Act	0	root	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+3	,	,	PUNCT	u--------	_	6	punct	_	_
+4	secreta	secerno	VERB	v-prppnn-	Case=Nom|Gender=Neut|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	6	nsubj	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+5	male	malus	ADV	d--------	_	6	obj	_	_
+6	audiebant	audio	VERB	v3piia---	Mood=Ind|Number=Plur|Person=3|Tense=Imp|Voice=Act	2	conj	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+7	:	:	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@87
+# text = bellum Iudaicum Flavius Vespasianus ( ducem eum Nero delegerat ) tribus legionibus administrabat.
+1	bellum	bellum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	13	obj	_	Case=Acc|Gender=Neut|Number=Sing
+2	Iudaicum	Iudaicus	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	1	amod	_	Case=Acc|Gender=Neut|Number=Sing
+3	Flavius	Flavius	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+4	Vespasianus	Vespasianus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	Case=Nom|Gender=Masc|Number=Sing
+5	(	(	PUNCT	u--------	_	9	punct	_	_
+6	ducem	dux	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	9	xcomp	_	Case=Acc|Gender=Masc|Number=Sing
+7	eum	is	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	obj	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+8	Nero	Nero	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+9	delegerat	deligo	VERB	v3slia---	Mood=Ind|Number=Sing|Person=3|Tense=Plup|Voice=Act	13	parataxis	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act
+10	)	)	PUNCT	u--------	_	9	punct	_	_
+11	tribus	tres	NUM	m-p---fb-	Case=Abl|Gender=Fem|Number=Plur	12	nummod	_	Case=Abl|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card
+12	legionibus	legio	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	13	obl	_	Case=Abl|Gender=Fem|Number=Plur
+13	administrabat	administro	VERB	v3siia---	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+14	.	.	PUNCT	u--------	_	13	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@93
+# text = regebat tum Tiberius Alexander, eiusdem nationis.
+1	regebat	rego	VERB	v3siia---	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+2	tum	tum	ADV	d--------	_	1	advmod:tmod	_	AdvType=Tim
+3	Tiberius	Tiberius	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+4	Alexander	Alexander	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	Case=Nom|Gender=Masc|Number=Sing
+5	,	,	PUNCT	u--------	_	7	punct	_	_
+6	eiusdem	idem	DET	p-s---fg-	Case=Gen|Gender=Fem|Number=Sing	7	det	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem
+7	nationis	natio	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+8	.	.	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@94
+# text = Africa ac legiones in ea interfecto Clodio Macro contenta qualicumque principe post experimentum domini minoris.
+1	Africa	Africa	PROPN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	9	nsubj:pass	_	Case=Nom|Gender=Fem|Number=Sing
+2	ac	atque	CCONJ	c--------	_	3	cc	_	_
+3	legiones	legio	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	1	conj	_	Case=Nom|Gender=Fem|Number=Plur
+4	in	in	ADP	r--------	_	5	case	_	_
+5	ea	is	PRON	p-s---fb-	Case=Abl|Gender=Fem|Number=Sing|Person=3	3	nmod	_	Case=Abl|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+6	interfecto	interficio	VERB	v-srppmb-	Case=Abl|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	9	advcl:abs	_	Aspect=Perf|Case=Abl|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+7	Clodio	Clodius	PROPN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	6	nsubj:pass	_	Case=Abl|Gender=Masc|Number=Sing
+8	Macro	Macer	PROPN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	7	flat:name	_	Case=Abl|Gender=Masc|Number=Sing
+9	contenta	contineo	VERB	v-srppfn-	Case=Nom|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	0	root	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+10	qualicumque	qualiscumque	DET	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	11	det	_	Case=Abl|Gender=Masc|Number=Sing|PronType=Ind
+11	principe	princeps	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	9	obj	_	Case=Abl|Gender=Masc|Number=Sing
+12	post	post	ADP	r--------	_	13	case	_	_
+13	experimentum	experimentum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	9	obl	_	Case=Acc|Gender=Neut|Number=Sing
+14	domini	dominus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+15	minoris	parvus	ADJ	a-s---mgc	Case=Gen|Degree=Cmp|Gender=Masc|Number=Sing	14	amod	_	Case=Gen|Degree=Cmp|Gender=Masc|Number=Sing
+16	.	.	PUNCT	u--------	_	9	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@98
+# text = Paucis post kalendas Ianuarias diebus Pompei Propinqui procuratoris e Belgica litterae adferuntur, superioris Germaniae legiones rupta sacramenti reverentia imperatorem alium flagitare et senatui ac populo Romano arbitrium eligendi permittere quo seditio mollius acciperetur.
+1	Paucis	paucus	DET	a-p---mb-	Case=Abl|Gender=Masc|Number=Plur	5	det	_	Case=Abl|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind
+2	post	post	ADP	r--------	_	3	case	_	_
+3	kalendas	Kalendae	PROPN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	5	nmod	_	Case=Acc|Gender=Fem|Number=Plur
+4	Ianuarias	Ianuarius	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	3	amod	_	Case=Acc|Gender=Fem|Number=Plur
+5	diebus	dies	NOUN	n-p---mb-	Case=Abl|Gender=Masc|Number=Plur	12	obl	_	Case=Abl|Gender=Masc|Number=Plur
+6	Pompei	Pompeius	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+7	Propinqui	Propinquus	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	6	flat:name	_	Case=Gen|Gender=Masc|Number=Sing
+8	procuratoris	procurator	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	6	appos	_	Case=Gen|Gender=Masc|Number=Sing
+9	e	ex	ADP	r--------	_	10	case	_	_
+10	Belgica	Belgicus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	12	obl	_	Case=Abl|Gender=Fem|Number=Sing
+11	litterae	littera	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	12	nsubj:pass	_	Case=Nom|Gender=Fem|Number=Plur
+12	adferuntur	affero	VERB	v3ppip---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+13	,	,	PUNCT	u--------	_	22	punct	_	_
+14	superioris	superus	ADJ	a-s---fgc	Case=Gen|Degree=Cmp|Gender=Fem|Number=Sing	15	amod	_	Case=Gen|Degree=Cmp|Gender=Fem|Number=Sing
+15	Germaniae	Germania	PROPN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+16	legiones	legio	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	22	nsubj	_	Case=Acc|Gender=Fem|Number=Plur
+17	rupta	rumpo	VERB	v-srppfb-	Case=Abl|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	22	advcl:abs	_	Aspect=Perf|Case=Abl|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+18	sacramenti	sacramentum	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	Case=Gen|Gender=Neut|Number=Sing
+19	reverentia	reverentia	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	17	nsubj:pass	_	Case=Abl|Gender=Fem|Number=Sing
+20	imperatorem	imperator	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	22	obj	_	Case=Acc|Gender=Masc|Number=Sing
+21	alium	alius	DET	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	20	det	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Con
+22	flagitare	flagito	VERB	v--pna---	Mood=Inf|Tense=Pres|Voice=Act	11	acl	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+23	et	et	CCONJ	c--------	_	30	cc	_	_
+24	senatui	senatus	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	30	obl:arg	_	Case=Dat|Gender=Masc|Number=Sing
+25	ac	atque	CCONJ	c--------	_	26	cc	_	_
+26	populo	populus	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	24	conj	_	Case=Dat|Gender=Masc|Number=Sing
+27	Romano	Romanus	ADJ	a-s---md-	Case=Dat|Gender=Masc|Number=Sing	26	amod	_	Case=Dat|Gender=Masc|Number=Sing
+28	arbitrium	arbitrium	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	30	obj	_	Case=Acc|Gender=Neut|Number=Sing
+29	eligendi	eligo	VERB	v---g--g-	Case=Gen|Mood=Ger|Voice=Act	28	nmod	_	Aspect=Prosp|Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+30	permittere	permitto	VERB	v--pna---	Mood=Inf|Tense=Pres|Voice=Act	22	conj	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+31	quo	quo	ADV	d--------	_	34	mark	_	_
+32	seditio	seditio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	34	nsubj:pass	_	Case=Nom|Gender=Fem|Number=Sing
+33	mollius	mollis	ADV	d-------c	Degree=Cmp	34	advmod	_	Degree=Cmp
+34	acciperetur	accipio	VERB	v3sisp---	Mood=Sub|Number=Sing|Person=3|Tense=Imp|Voice=Pass	30	advcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+35	.	.	PUNCT	u--------	_	12	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@99
+# text = maturavit ea res consilium Galbae iam pridem de adoptione secum et cum proximis agitantis.
+1	maturavit	maturo	VERB	v3sria---	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+2	ea	is	DET	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	det	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem
+3	res	res	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+4	consilium	consilium	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	1	obj	_	Case=Acc|Gender=Neut|Number=Sing
+5	Galbae	Galba	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+6	iam	iam	ADV	d--------	_	7	advmod:tmod	_	AdvType=Tim
+7	pridem	pridem	ADV	d--------	_	15	advmod:tmod	_	AdvType=Tim
+8	de	de	ADP	r--------	_	9	case	_	_
+9	adoptione	adoptio	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	15	obl	_	Case=Abl|Gender=Fem|Number=Sing
+10	se	sui	PRON	p-s---mb-	Case=Abl|Person=3	15	obl	_	Case=Abl|Person=3|PronType=Prs|Reflex=Yes
+11	cum	cum	ADP	_	_	10	case	_	AdpType=Post
+12	et	et	CCONJ	c--------	_	14	cc	_	_
+13	cum	cum	ADP	r--------	_	14	case	_	_
+14	proximis	propior	ADJ	a-p---mbs	Case=Abl|Degree=Sup|Gender=Masc|Number=Plur	10	conj	_	Case=Abl|Degree=Abs|Gender=Masc|Number=Plur
+15	agitantis	agito	VERB	v-spp-mg-	Case=Gen|Gender=Masc|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	5	amod	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act
+16	.	.	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@103
+# text = quippe hiantis in magna fortuna amicorum cupiditates ipsa Galbae facilitas intendebat, cum apud infirmum et credulum minore metu et maiore praemio peccaretur.
+1	quippe	quippe	ADV	d--------	_	11	advmod	_	_
+2	hiantis	hio	VERB	v-ppp-fa-	Case=Acc|Gender=Fem|Mood=Part|Number=Plur|Tense=Pres|Voice=Act	7	amod	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act
+3	in	in	ADP	r--------	_	5	case	_	_
+4	magna	magnus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	5	amod	_	Case=Abl|Gender=Fem|Number=Sing
+5	fortuna	fortuna	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	2	obl	_	Case=Abl|Gender=Fem|Number=Sing
+6	amicorum	amicus	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+7	cupiditates	cupiditas	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	11	obj	_	Case=Acc|Gender=Fem|Number=Plur
+8	ipsa	ipse	DET	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing	10	det	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem
+9	Galbae	Galba	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+10	facilitas	facilitas	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+11	intendebat	intendo	VERB	v3siia---	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+12	,	,	PUNCT	u--------	_	13	punct	_	_
+13	cum	cum	SCONJ	c--------	_	23	mark	_	_
+14	apud	apud	ADP	r--------	_	15	case	_	_
+15	infirmum	infirmus	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	23	obl	_	Case=Acc|Gender=Masc|Number=Sing
+16	et	et	CCONJ	c--------	_	17	cc	_	_
+17	credulum	credulus	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	15	conj	_	Case=Acc|Gender=Masc|Number=Sing
+18	minore	parvus	ADJ	a-s---mbc	Case=Abl|Degree=Cmp|Gender=Masc|Number=Sing	19	amod	_	Case=Abl|Degree=Cmp|Gender=Masc|Number=Sing
+19	metu	metus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	23	obl	_	Case=Abl|Gender=Masc|Number=Sing
+20	et	et	CCONJ	c--------	_	22	cc	_	_
+21	maiore	magnus	ADJ	a-s---nbc	Case=Abl|Degree=Cmp|Gender=Neut|Number=Sing	22	amod	_	Case=Abl|Degree=Cmp|Gender=Neut|Number=Sing
+22	praemio	praemium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	19	conj	_	Case=Abl|Gender=Neut|Number=Sing
+23	peccaretur	pecco	VERB	v3sisp---	Mood=Sub|Number=Sing|Person=3|Tense=Imp|Voice=Pass	11	advcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+24	.	.	PUNCT	u--------	_	11	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@110
+# text = credo et rei publicae curam subisse, frustra a Nerone translatae si apud Othonem relinqueretur.
+1	credo	credo	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+2	et	et	CCONJ	c--------	_	5	advmod:emph	_	_
+3	rei	res	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+4	publicae	publicus	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	3	amod	_	Case=Gen|Gender=Fem|Number=Sing
+5	curam	cura	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	6	nsubj	_	Case=Acc|Gender=Fem|Number=Sing
+6	subisse	subeo	VERB	v--rna---	Mood=Inf|Tense=Perf|Voice=Act	1	ccomp	_	Aspect=Perf|VerbForm=Inf|Voice=Act
+7	,	,	PUNCT	u--------	_	11	punct	_	_
+8	frustra	frustra	ADV	d--------	_	11	advmod	_	_
+9	a	ab	ADP	r--------	_	10	case	_	_
+10	Nerone	Nero	PROPN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	11	obl	_	Case=Abl|Gender=Masc|Number=Sing
+11	translatae	transfero	VERB	v-srppfg-	Case=Gen|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	3	amod	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+12	si	si	SCONJ	c--------	_	15	mark	_	_
+13	apud	apud	ADP	r--------	_	14	case	_	_
+14	Othonem	Otho	PROPN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	15	obl	_	Case=Acc|Gender=Masc|Number=Sing
+15	relinqueretur	relinquo	VERB	v3sisp---	Mood=Sub|Number=Sing|Person=3|Tense=Imp|Voice=Pass	11	advcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+16	.	.	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@113
+# text = mox suspectum in eadem Poppaea in provinciam Lusitaniam specie legationis seposuit.
+1	mox	mox	ADV	d--------	_	11	advmod	_	_
+2	suspectum	suspicio	VERB	v-srppma-	Case=Acc|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	11	xcomp	_	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+3	in	in	ADP	r--------	_	5	case	_	_
+4	eadem	idem	DET	p-s---fb-	Case=Abl|Gender=Fem|Number=Sing	5	det	_	Case=Abl|Gender=Fem|Number=Sing|PronType=Dem
+5	Poppaea	Poppaea	PROPN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	2	obl	_	Case=Abl|Gender=Fem|Number=Sing
+6	in	in	ADP	r--------	_	7	case	_	_
+7	provinciam	provincia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	11	obl	_	Case=Acc|Gender=Fem|Number=Sing
+8	Lusitaniam	Lusitania	PROPN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	7	flat	_	Case=Acc|Gender=Fem|Number=Sing
+9	specie	species	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	11	obl	_	Case=Abl|Gender=Fem|Number=Sing
+10	legationis	legatio	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+11	seposuit	sepono	VERB	v3sria---	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+12	.	.	PUNCT	u--------	_	11	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@120
+# text = Igitur Galba, adprehensa Pisonis manu, in hunc modum locutus fertur:
+1	Igitur	igitur	PART	c--------	_	12	discourse	_	_
+2	Galba	Galba	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	12	nsubj:pass	_	Case=Nom|Gender=Masc|Number=Sing
+3	,	,	PUNCT	u--------	_	4	punct	_	_
+4	adprehensa	apprehendo	VERB	v-srppfb-	Case=Abl|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	12	advcl:abs	_	Aspect=Perf|Case=Abl|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+5	Pisonis	Piso	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+6	manu	manus	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	4	nsubj:pass	_	Case=Abl|Gender=Fem|Number=Sing
+7	,	,	PUNCT	u--------	_	4	punct	_	_
+8	in	in	ADP	r--------	_	10	case	_	_
+9	hunc	hic	DET	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	10	det	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem
+10	modum	modus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	11	obl	_	Case=Acc|Gender=Masc|Number=Sing
+11	locutus	loquor	VERB	v-srpdmn-	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Act	12	xcomp	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act
+12	fertur	fero	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+13	:	:	PUNCT	u--------	_	12	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@126
+# text = fortunam adhuc tantum adversam tulisti:
+1	fortunam	fortuna	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	Case=Acc|Gender=Fem|Number=Sing
+2	adhuc	adhuc	ADV	d--------	_	5	advmod	_	_
+3	tantum	tantus	ADV	d--------	_	4	advmod	_	_
+4	adversam	adverto	VERB	v-srppfa-	Case=Acc|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	1	amod	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+5	tulisti	fero	VERB	v2sria---	Mood=Ind|Number=Sing|Person=2|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+6	:	:	PUNCT	u--------	_	5	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@127
+# text = secundae res acrioribus stimulis animos explorant, quia miseriae tolerantur, felicitate corrumpimur.
+1	secundae	secundus	ADJ	a-p---fn-	Case=Nom|Gender=Fem|Number=Plur	2	amod	_	Case=Nom|Gender=Fem|Number=Plur|NumType=Ord
+2	res	res	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	6	nsubj	_	Case=Nom|Gender=Fem|Number=Plur
+3	acrioribus	acer	ADJ	a-p---mbc	Case=Abl|Degree=Cmp|Gender=Masc|Number=Plur	4	amod	_	Case=Abl|Degree=Cmp|Gender=Masc|Number=Plur
+4	stimulis	stimulus	NOUN	n-p---mb-	Case=Abl|Gender=Masc|Number=Plur	6	obl	_	Case=Abl|Gender=Masc|Number=Plur
+5	animos	animus	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	6	obj	_	Case=Acc|Gender=Masc|Number=Plur
+6	explorant	exploro	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+7	,	,	PUNCT	u--------	_	8	punct	_	_
+8	quia	quia	SCONJ	c--------	_	10	mark	_	_
+9	miseriae	miseria	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	10	nsubj:pass	_	Case=Nom|Gender=Fem|Number=Plur
+10	tolerantur	tolero	VERB	v3ppip---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass	6	advcl	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+11	,	,	PUNCT	u--------	_	13	punct	_	_
+12	felicitate	felicitas	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	13	obj	_	Case=Abl|Gender=Fem|Number=Sing
+13	corrumpimur	corrumpo	VERB	v1ppip---	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Pass	10	conj	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+14	.	.	PUNCT	u--------	_	6	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@132
+# text = ' Si immensum imperii corpus stare ac librari sine rectore posset, dignus eram a quo res publica inciperet:
+1	'	'	PUNCT	u--------	_	2	punct	_	_
+2	Si	si	SCONJ	c--------	_	11	mark	_	_
+3	immensum	immensus	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	5	amod	_	Case=Nom|Gender=Neut|Number=Sing
+4	imperii	imperium	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	Case=Gen|Gender=Neut|Number=Sing
+5	corpus	corpus	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	Case=Nom|Gender=Neut|Number=Sing
+6	stare	sto	VERB	v--pna---	Mood=Inf|Tense=Pres|Voice=Act	11	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+7	ac	atque	CCONJ	c--------	_	8	cc	_	_
+8	librari	libro	VERB	v--pnp---	Mood=Inf|Tense=Pres|Voice=Pass	6	conj	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+9	sine	sine	ADP	r--------	_	10	case	_	_
+10	rectore	rector	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	6	obl	_	Case=Abl|Gender=Masc|Number=Sing
+11	posset	possum	VERB	v3sisa---	Mood=Sub|Number=Sing|Person=3|Tense=Imp|Voice=Act	13	advcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+12	,	,	PUNCT	u--------	_	11	punct	_	_
+13	dignus	dignus	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Case=Nom|Gender=Masc|Number=Sing
+14	eram	sum	AUX	v1siia---	Mood=Ind|Number=Sing|Person=1|Tense=Imp|Voice=Act	13	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+15	a	ab	ADP	r--------	_	16	case	_	_
+16	quo	qui	PRON	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	19	obl	_	Case=Abl|Gender=Masc|Number=Sing|PronType=Rel
+17	res	res	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+18	publica	publicus	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	17	amod	_	Case=Nom|Gender=Fem|Number=Sing
+19	inciperet	incipio	VERB	v3sisa---	Mood=Sub|Number=Sing|Person=3|Tense=Imp|Voice=Act	13	acl:relcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+20	:	:	PUNCT	u--------	_	13	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@134
+# text = sub Tiberio et Gaio et Claudio unius familiae quasi hereditas fuimus:
+1	sub	sub	ADP	r--------	_	2	case	_	_
+2	Tiberio	Tiberius	PROPN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	10	obl	_	Case=Abl|Gender=Masc|Number=Sing
+3	et	et	CCONJ	c--------	_	2	cc	_	_
+4	Gaio	Gaius	PROPN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	2	conj	_	Case=Abl|Gender=Masc|Number=Sing
+5	et	et	CCONJ	c--------	_	6	cc	_	_
+6	Claudio	Claudius	PROPN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	2	conj	_	Case=Abl|Gender=Masc|Number=Sing
+7	unius	unus	NUM	m-s---fg-	Case=Gen|Gender=Fem|Number=Sing	8	nummod	_	Case=Gen|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card
+8	familiae	familia	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+9	quasi	quasi	ADV	d--------	_	10	advmod	_	_
+10	hereditas	hereditas	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Case=Nom|Gender=Fem|Number=Sing
+11	fuimus	sum	AUX	v1pria---	Mood=Ind|Number=Plur|Person=1|Tense=Perf|Voice=Act	10	cop	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin
+12	:	:	PUNCT	u--------	_	10	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@144
+# text = Nero a pessimo quoque semper desiderabitur:
+1	Nero	Nero	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	nsubj:pass	_	Case=Nom|Gender=Masc|Number=Sing
+2	a	ab	ADP	r--------	_	4	case	_	_
+3	pessimo	malus	ADJ	a-s---mbs	Case=Abl|Degree=Sup|Gender=Masc|Number=Sing	4	amod	_	Case=Abl|Degree=Abs|Gender=Masc|Number=Sing
+4	quoque	quisque	DET	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	6	obl	_	Case=Abl|Gender=Masc|Number=Sing|PronType=Ind
+5	semper	semper	ADV	d--------	_	6	advmod:tmod	_	AdvType=Tim
+6	desiderabitur	desidero	VERB	v3sfip---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Pass	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass
+7	:	:	PUNCT	u--------	_	6	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@145
+# text = mihi ac tibi providendum est ne etiam a bonis desideretur.
+1	mihi	ego	PRON	p-s---md-	Case=Dat|Number=Sing|Person=1	4	obl	_	Case=Dat|Number=Sing|Person=1|PronType=Prs
+2	ac	atque	CCONJ	c--------	_	3	cc	_	_
+3	tibi	tu	PRON	p-s---md-	Case=Dat|Number=Sing|Person=2	1	conj	_	Case=Dat|Number=Sing|Person=2|PronType=Prs
+4	providendum	provideo	VERB	v-s-g-nn-	Case=Nom|Gender=Neut|Mood=Gdv|Number=Sing|Voice=Pass	0	root	_	Aspect=Prosp|Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+5	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	aux	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+6	ne	ne	SCONJ	d--------	_	10	mark	_	_
+7	etiam	etiam	ADV	c--------	_	8	advmod	_	_
+8	a	ab	ADP	r--------	_	9	case	_	_
+9	bonis	bonus	ADJ	a-p---mb-	Case=Abl|Gender=Masc|Number=Plur	10	obl	_	Case=Abl|Gender=Masc|Number=Plur
+10	desideretur	desidero	VERB	v3spsp---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Pass	4	csubj:pass	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+11	.	.	PUNCT	u--------	_	4	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@150
+# text = Pisonem ferunt statim intuentibus et mox coniectis in eum omnium oculis nullum turbati aut exultantis animi motum prodidisse.
+1	Pisonem	Piso	PROPN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	18	nsubj	_	Case=Acc|Gender=Masc|Number=Sing
+2	ferunt	fero	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+3	statim	statim	ADV	d--------	_	4	advmod	_	_
+4	intuentibus	intueor	VERB	v-ppp-md-	Case=Dat|Gender=Masc|Mood=Part|Number=Plur|Tense=Pres|Voice=Act	18	obl	_	Aspect=Imp|Case=Dat|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act
+5	et	et	CCONJ	c--------	_	7	cc	_	_
+6	mox	mox	ADV	d--------	_	7	advmod	_	_
+7	coniectis	conicio	VERB	v-prppmb-	Case=Abl|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	4	conj	_	Aspect=Perf|Case=Abl|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+8	in	in	ADP	r--------	_	9	case	_	_
+9	eum	is	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|Person=3	7	obl	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+10	omnium	omnis	DET	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot
+11	oculis	oculus	NOUN	n-p---mb-	Case=Abl|Gender=Masc|Number=Plur	7	nsubj:pass	_	Case=Abl|Gender=Masc|Number=Plur
+12	nullum	nullus	DET	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	17	det	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind
+13	turbati	turbo	VERB	v-srppmg-	Case=Gen|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	16	amod	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+14	aut	aut	CCONJ	c--------	_	15	cc	_	_
+15	exultantis	exsulto	VERB	v-sppamg-	Case=Gen|Gender=Masc|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	13	conj	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act
+16	animi	animus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+17	motum	motus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	18	obj	_	Case=Acc|Gender=Masc|Number=Sing
+18	prodidisse	prodo	VERB	v--rna---	Mood=Inf|Tense=Perf|Voice=Act	2	ccomp	_	Aspect=Perf|VerbForm=Inf|Voice=Act
+19	.	.	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@153
+# text = consultatum inde, pro rostris an in senatu an in castris adoptio nuncuparetur.
+1	consultatum	consulto	VERB	v-srppnn-	Case=Nom|Gender=Neut|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	0	root	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+2	inde	inde	ADV	d--------	_	1	advmod:lmod	_	AdvType=Loc
+3	,	,	PUNCT	u--------	_	5	punct	_	_
+4	pro	pro	ADP	r--------	_	5	case	_	_
+5	rostris	rostrum	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	13	obl	_	Case=Abl|Gender=Neut|Number=Plur
+6	an	an	SCONJ	c--------	_	5	mark	_	_
+7	in	in	ADP	r--------	_	8	case	_	_
+8	senatu	senatus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	5	conj	_	Case=Abl|Gender=Masc|Number=Sing
+9	an	an	SCONJ	c--------	_	11	cc	_	_
+10	in	in	ADP	r--------	_	11	case	_	_
+11	castris	castrum	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	5	conj	_	Case=Abl|Gender=Neut|Number=Plur
+12	adoptio	adoptio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	13	nsubj:pass	_	Case=Nom|Gender=Fem|Number=Sing
+13	nuncuparetur	nuncupo	VERB	v3sisp---	Mood=Sub|Number=Sing|Person=3|Tense=Imp|Voice=Pass	1	csubj	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+14	.	.	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@154
+# text = iri in castra placuit:
+1	iri	eo	VERB	v--pnp---	Mood=Inf|Tense=Pres|Voice=Pass	4	csubj	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+2	in	in	ADP	r--------	_	3	case	_	_
+3	castra	castrum	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	1	obl	_	Case=Acc|Gender=Neut|Number=Plur
+4	placuit	placeo	VERB	v3sria---	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+5	:	:	PUNCT	u--------	_	4	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@156
+# text = circumsteterat interim Palatium publica expectatio, magni secreti impatiens;
+1	circumsteterat	circumsto	VERB	v3slia---	Mood=Ind|Number=Sing|Person=3|Tense=Plup|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act
+2	interim	interim	ADV	d--------	_	1	advmod:tmod	_	AdvType=Tim
+3	Palatium	Palatium	PROPN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	1	obj	_	Case=Acc|Gender=Neut|Number=Sing
+4	publica	publicus	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	5	amod	_	Case=Nom|Gender=Fem|Number=Sing
+5	expectatio	exspectatio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+6	,	,	PUNCT	u--------	_	9	punct	_	_
+7	magni	magnus	ADJ	a-s---ng-	Case=Gen|Gender=Neut|Number=Sing	8	amod	_	Case=Gen|Gender=Neut|Number=Sing
+8	secreti	secerno	VERB	v-srppng-	Case=Gen|Gender=Neut|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	9	xcomp	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+9	impatiens	impatiens	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	5	xcomp	_	Case=Nom|Gender=Fem|Number=Sing
+10	;	;	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@157
+# text = et male coercitam famam supprimentes augebant.
+1	et	et	CCONJ	c--------	_	6	cc	_	_
+2	male	malus	ADV	d--------	_	3	advmod	_	_
+3	coercitam	coerceo	VERB	v-srppfa-	Case=Acc|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	4	amod	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+4	famam	fama	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	Case=Acc|Gender=Fem|Number=Sing
+5	supprimentes	supprimo	VERB	v-ppp-mn-	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Pres|Voice=Act	6	nsubj	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act
+6	augebant	augeo	VERB	v3piia---	Mood=Ind|Number=Plur|Person=3|Tense=Imp|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+7	.	.	PUNCT	u--------	_	6	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@160
+# text = seu quae fato manent, quamvis significata, non vitantur.
+1	seu	sive	CCONJ	c--------	_	10	cc	_	_
+2	quae	qui	PRON	p-p---nn-	Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel
+3	fato	fatum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	4	obl	_	Case=Abl|Gender=Neut|Number=Sing
+4	manent	maneo	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	10	csubj	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+5	,	,	PUNCT	u--------	_	4	punct	_	_
+6	quamvis	quamvis	SCONJ	d--------	_	7	mark	_	_
+7	significata	significo	VERB	v-prppnn-	Case=Nom|Gender=Neut|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	10	advcl	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+8	,	,	PUNCT	u--------	_	7	punct	_	_
+9	non	non	PART	d--------	_	10	advmod:neg	_	_
+10	vitantur	vito	VERB	v3ppip---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+11	.	.	PUNCT	u--------	_	10	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@161
+# text = apud frequentem militum contionem imperatoria brevitate adoptari a se Pisonem exemplo divi Augusti et more militari, quo vir virum legeret, pronuntiat.
+1	apud	apud	ADP	r--------	_	4	case	_	_
+2	frequentem	frequens	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	Case=Acc|Gender=Fem|Number=Sing
+3	militum	miles	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+4	contionem	contio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	23	obl	_	Case=Acc|Gender=Fem|Number=Sing
+5	imperatoria	imperatorius	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	6	amod	_	Case=Abl|Gender=Fem|Number=Sing
+6	brevitate	brevitas	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	23	obl	_	Case=Abl|Gender=Fem|Number=Sing
+7	adoptari	adopto	VERB	v--pnp---	Mood=Inf|Tense=Pres|Voice=Pass	23	ccomp	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+8	a	ab	ADP	r--------	_	9	case	_	_
+9	se	sui	PRON	p-s---mb-	Case=Abl|Number=Sing|Person=3	7	obl	_	Case=Abl|Number=Sing|Person=3|PronType=Prs|Reflex=Yes
+10	Pisonem	Piso	PROPN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	7	nsubj:pass	_	Case=Acc|Gender=Masc|Number=Sing
+11	exemplo	exemplum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	7	obl	_	Case=Abl|Gender=Neut|Number=Sing
+12	divi	divus	ADJ	a-s---mg-	Case=Gen|Gender=Masc|Number=Sing	13	amod	_	Case=Gen|Gender=Masc|Number=Sing
+13	Augusti	Augustus	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+14	et	et	CCONJ	c--------	_	15	cc	_	_
+15	more	mos	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	11	conj	_	Case=Abl|Gender=Masc|Number=Sing
+16	militari	militaris	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	15	amod	_	Case=Abl|Gender=Masc|Number=Sing
+17	,	,	PUNCT	u--------	_	21	punct	_	_
+18	quo	qui	PRON	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	21	obl	_	Case=Abl|Gender=Masc|Number=Sing|PronType=Rel
+19	vir	vir	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	21	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+20	virum	vir	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	21	obj	_	Case=Acc|Gender=Masc|Number=Sing
+21	legeret	lego	VERB	v3sisa---	Mood=Sub|Number=Sing|Person=3|Tense=Imp|Voice=Act	15	acl:relcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+22	,	,	PUNCT	u--------	_	21	punct	_	_
+23	pronuntiat	pronuntio	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+24	.	.	PUNCT	u--------	_	23	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@163
+# text = nec ullum orationi aut lenocinium addit aut pretium.
+1	nec	neque	CCONJ	c--------	_	2	advmod:emph	_	_
+2	ullum	ullus	DET	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	5	det	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind
+3	orationi	oratio	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	6	obl:arg	_	Case=Dat|Gender=Fem|Number=Sing
+4	aut	aut	CCONJ	c--------	_	5	cc	_	_
+5	lenocinium	lenocinium	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Case=Acc|Gender=Neut|Number=Sing
+6	addit	addo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+7	aut	aut	CCONJ	c--------	_	8	cc	_	_
+8	pretium	pretium	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	5	conj	_	Case=Acc|Gender=Neut|Number=Sing
+9	.	.	PUNCT	u--------	_	6	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@166
+# text = constat potuisse conciliari animos quantulacumque parci senis liberalitate:
+1	constat	consto	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+2	potuisse	possum	VERB	v--rna---	Mood=Inf|Tense=Perf|Voice=Act	1	csubj	_	Aspect=Perf|VerbForm=Inf|Voice=Act
+3	conciliari	concilio	VERB	v--pnp---	Mood=Inf|Tense=Pres|Voice=Pass	2	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+4	animos	animus	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	2	nsubj	_	Case=Acc|Gender=Masc|Number=Plur
+5	quantulacumque	quantuluscumque	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	8	amod	_	Case=Abl|Gender=Fem|Number=Sing
+6	parci	parcus	ADJ	a-s---mg-	Case=Gen|Gender=Masc|Number=Sing	7	amod	_	Case=Gen|Gender=Masc|Number=Sing
+7	senis	senex	ADJ	a-s---mg-	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+8	liberalitate	liberalitas	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	3	obl	_	Case=Abl|Gender=Fem|Number=Sing
+9	:	:	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@167
+# text = nocuit antiquus rigor et nimia severitas, cui iam pares non sumus.
+1	nocuit	noceo	VERB	v3sria---	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+2	antiquus	antiquus	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	Case=Nom|Gender=Masc|Number=Sing
+3	rigor	rigor	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+4	et	et	CCONJ	c--------	_	6	cc	_	_
+5	nimia	nimius	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	6	amod	_	Case=Nom|Gender=Fem|Number=Sing
+6	severitas	severitas	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	conj	_	Case=Nom|Gender=Fem|Number=Sing
+7	,	,	PUNCT	u--------	_	10	punct	_	_
+8	cui	qui	PRON	p-s---fd-	Case=Dat|Gender=Fem|Number=Sing	10	obl	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Rel
+9	iam	iam	ADV	d--------	_	10	advmod:tmod	_	AdvType=Tim
+10	pares	par	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	6	amod	_	Case=Nom|Gender=Masc|Number=Plur
+11	non	non	PART	d--------	_	10	advmod:neg	_	_
+12	sumus	sum	AUX	v1ppia---	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	10	cop	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+13	.	.	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@170
+# text = et patrum favor aderat:
+1	et	et	CCONJ	c--------	_	3	advmod:emph	_	_
+2	patrum	pater	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+3	favor	favor	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+4	aderat	adsum	VERB	v3siia---	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+5	:	:	PUNCT	u--------	_	4	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@175
+# text = placebat et Laconem praetorii praefectum simul mitti:
+1	placebat	placeo	VERB	v3siia---	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+2	et	et	CCONJ	c--------	_	5	advmod:emph	_	_
+3	Laconem	Laco	PROPN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	Case=Acc|Gender=Masc|Number=Sing
+4	praetorii	praetorius	ADJ	a-s---ng-	Case=Gen|Gender=Neut|Number=Sing	5	amod	_	Case=Gen|Gender=Neut|Number=Sing
+5	praefectum	praeficio	VERB	v-srppma-	Case=Acc|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	7	nsubj:pass	_	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+6	simul	simul	ADV	d--------	_	7	advmod	_	_
+7	mitti	mitto	VERB	v--pnp---	Mood=Inf|Tense=Pres|Voice=Pass	1	csubj	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+8	:	:	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@176
+# text = is consilio intercessit.
+1	is	is	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+2	consilio	consilium	NOUN	n-s---nd-	Case=Dat|Gender=Neut|Number=Sing	3	obl	_	Case=Dat|Gender=Neut|Number=Sing
+3	intercessit	intercedo	VERB	v3sria---	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+4	.	.	PUNCT	u--------	_	3	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@177
+# text = legati quoque ( nam senatus electionem Galbae permiserat ) foeda inconstantia nominati, excusati, substituti, ambitu remanendi aut eundi, ut quemque metus vel spes impulerat.
+1	legati	lego	VERB	v-prppmn-	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	12	nsubj:pass	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+2	quoque	quoque	ADV	d--------	_	1	advmod	_	_
+3	(	(	PUNCT	u--------	_	8	punct	_	_
+4	nam	nam	PART	c--------	_	8	discourse	_	_
+5	senatus	senatus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+6	electionem	electio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	Case=Acc|Gender=Fem|Number=Sing
+7	Galbae	Galba	PROPN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	8	obl:arg	_	Case=Dat|Gender=Masc|Number=Sing
+8	permiserat	permitto	VERB	v3slia---	Mood=Ind|Number=Sing|Person=3|Tense=Plup|Voice=Act	12	parataxis	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act
+9	)	)	PUNCT	u--------	_	8	punct	_	_
+10	foeda	foedus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	11	amod	_	Case=Abl|Gender=Fem|Number=Sing
+11	inconstantia	inconstantia	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	12	obl	_	Case=Abl|Gender=Fem|Number=Sing
+12	nominati	nomino	VERB	v-prppmn-	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	0	root	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+13	,	,	PUNCT	u--------	_	14	punct	_	_
+14	excusati	excuso	VERB	v-prppmn-	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	12	conj	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+15	,	,	PUNCT	u--------	_	16	punct	_	_
+16	substituti	substituo	VERB	v-prppmn-	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	12	conj	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+17	,	,	PUNCT	u--------	_	18	punct	_	_
+18	ambitu	ambitus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	12	obl	_	Case=Abl|Gender=Masc|Number=Sing
+19	remanendi	remaneo	VERB	v---d--g-	Case=Gen|Mood=Ger|Voice=Act	18	acl	_	Aspect=Prosp|Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+20	aut	aut	CCONJ	c--------	_	21	cc	_	_
+21	eundi	eo	VERB	v---d--g-	Case=Gen|Mood=Ger|Voice=Act	19	conj	_	Aspect=Prosp|Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+22	,	,	PUNCT	u--------	_	23	punct	_	_
+23	ut	ut	SCONJ	d--------	_	28	mark	_	_
+24	quemque	quisque	DET	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	28	obj	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind
+25	metus	metus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	28	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+26	vel	vel	CCONJ	c--------	_	27	cc	_	_
+27	spes	spes	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	25	conj	_	Case=Nom|Gender=Fem|Number=Sing
+28	impulerat	impello	VERB	v3slia---	Mood=Ind|Number=Sing|Person=3|Tense=Plup|Voice=Act	19	advcl	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act
+29	.	.	PUNCT	u--------	_	12	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@180
+# text = bis et viciens miliens sestertium donationibus Nero effuderat:
+1	bis	bis	ADV	d--------	_	4	advmod	_	_
+2	et	et	CCONJ	c--------	_	3	cc	_	_
+3	viciens	viciens	ADV	d--------	_	1	conj	_	_
+4	miliens	millies	ADV	d--------	_	8	obj	_	_
+5	sestertium	sestertius	ADJ	a-p---ng-	Case=Gen|Gender=Neut|Number=Plur	4	amod	_	Case=Gen|Gender=Neut|Number=Plur
+6	donationibus	donatio	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	8	obl	_	Case=Abl|Gender=Fem|Number=Plur
+7	Nero	Nero	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+8	effuderat	effundo	VERB	v3slia---	Mood=Ind|Number=Sing|Person=3|Tense=Plup|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act
+9	:	:	PUNCT	u--------	_	8	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@181
+# text = appellari singulos iussit, decima parte liberalitatis apud quemque eorum relicta.
+1	appellari	appello	VERB	v--pnp---	Mood=Inf|Tense=Pres|Voice=Pass	3	ccomp	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+2	singulos	singuli	ADJ	m-p---ma-	Case=Acc|Gender=Masc|Number=Plur	1	nsubj:pass	_	Case=Acc|Gender=Masc|Number=Plur|NumType=Dist
+3	iussit	iubeo	VERB	v3sria---	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+4	,	,	PUNCT	u--------	_	11	punct	_	_
+5	decima	decimus	ADJ	m-s---fb-	Case=Abl|Gender=Fem|Number=Sing	6	amod	_	Case=Abl|Gender=Fem|Number=Sing|NumType=Ord
+6	parte	pars	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	11	nsubj:pass	_	Case=Abl|Gender=Fem|Number=Sing
+7	liberalitatis	liberalitas	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+8	apud	apud	ADP	r--------	_	9	case	_	_
+9	quemque	quisque	DET	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	11	obl	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind
+10	eorum	is	PRON	p-p---mg-	Case=Gen|Gender=Masc|Number=Plur|Person=3	9	nmod	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+11	relicta	relinquo	VERB	v-srppfb-	Case=Abl|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	3	advcl:abs	_	Aspect=Perf|Case=Abl|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+12	.	.	PUNCT	u--------	_	3	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@187
+# text = nec remedium in ceteros fuit, sed metus initium, tamquam per artem et formidine singuli pellerentur, omnibus suspectis.
+1	nec	neque	CCONJ	c--------	_	2	cc	_	_
+2	remedium	remedium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	_	Case=Nom|Gender=Neut|Number=Sing
+3	in	in	ADP	r--------	_	4	case	_	_
+4	ceteros	ceterus	DET	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	2	obl	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Con
+5	fuit	sum	AUX	v3sria---	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	2	cop	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+6	,	,	PUNCT	u--------	_	9	punct	_	_
+7	sed	sed	CCONJ	c--------	_	9	cc	_	_
+8	metus	metus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+9	initium	initium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	2	conj	_	Case=Nom|Gender=Neut|Number=Sing
+10	,	,	PUNCT	u--------	_	11	punct	_	_
+11	tamquam	tamquam	SCONJ	d--------	_	17	mark	_	_
+12	per	per	ADP	r--------	_	13	case	_	_
+13	artem	ars	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	17	obl	_	Case=Acc|Gender=Fem|Number=Sing
+14	et	et	CCONJ	c--------	_	15	cc	_	_
+15	formidine	formido	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	13	conj	_	Case=Abl|Gender=Fem|Number=Sing
+16	singuli	singuli	ADJ	m-p---mn-	Case=Nom|Gender=Masc|Number=Plur	17	nsubj:pass	_	Case=Nom|Gender=Masc|Number=Plur|NumType=Dist
+17	pellerentur	pello	VERB	v3pisp---	Mood=Sub|Number=Plur|Person=3|Tense=Imp|Voice=Pass	2	advcl:cmp	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+18	,	,	PUNCT	u--------	_	20	punct	_	_
+19	omnibus	omnis	DET	a-p---mb-	Case=Abl|Gender=Masc|Number=Plur	20	nsubj:pass	_	Case=Abl|Gender=Masc|Number=Plur|PronType=Tot
+20	suspectis	suspicio	VERB	v-prppmb-	Case=Abl|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	17	advcl:abs	_	Aspect=Perf|Case=Abl|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+21	.	.	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@189
+# text = fingebat et metum quo magis concupisceret:
+1	fingebat	fingo	VERB	v3siia---	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+2	et	et	CCONJ	c--------	_	3	advmod:emph	_	_
+3	metum	metus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	Case=Acc|Gender=Masc|Number=Sing
+4	quo	quo	ADV	d--------	_	6	mark	_	_
+5	magis	magnus	ADV	d-------c	Degree=Cmp	6	advmod	_	Degree=Cmp
+6	concupisceret	concupisco	VERB	v3sisa---	Mood=Sub|Number=Sing|Person=3|Tense=Imp|Voice=Act	1	advcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+7	:	:	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@190
+# text = praegravem se Neroni fuisse, nec Lusitaniam rursus et alterius exilii honorem expectandum.
+1	praegravem	praegravis	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	0	root	_	Case=Acc|Gender=Masc|Number=Sing
+2	se	sui	PRON	p-s---ma-	Case=Acc|Number=Sing|Person=3	1	nsubj	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes
+3	Neroni	Nero	PROPN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	1	obl	_	Case=Dat|Gender=Masc|Number=Sing
+4	fuisse	sum	AUX	v--rna---	Mood=Inf|Tense=Perf|Voice=Act	1	cop	_	Aspect=Perf|VerbForm=Inf
+5	,	,	PUNCT	u--------	_	13	punct	_	_
+6	nec	neque	CCONJ	c--------	_	13	cc	_	_
+7	Lusitaniam	Lusitania	PROPN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	13	nsubj	_	Case=Acc|Gender=Fem|Number=Sing
+8	rursus	rursus	ADV	d--------	_	7	nmod	_	_
+9	et	et	CCONJ	c--------	_	12	cc	_	_
+10	alterius	alter	DET	a-s---ng-	Case=Gen|Gender=Neut|Number=Sing	11	det	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Con
+11	exilii	exsilium	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	Case=Gen|Gender=Neut|Number=Sing
+12	honorem	honor	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	7	conj	_	Case=Acc|Gender=Masc|Number=Sing
+13	expectandum	exspecto	VERB	v-s-g-ma-	Case=Acc|Gender=Masc|Mood=Gdv|Number=Sing|Voice=Pass	1	conj	_	Aspect=Prosp|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+14	.	.	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@192
+# text = nocuisse id sibi apud senem principem, magis nociturum apud iuvenem ingenio trucem et longo exilio efferatum:
+1	nocuisse	noceo	VERB	v--rna---	Mood=Inf|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|VerbForm=Inf|Voice=Act
+2	id	is	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing|Person=3	1	nsubj	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+3	sibi	sui	PRON	p-s---md-	Case=Dat|Number=Sing|Person=3	1	obl	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes
+4	apud	apud	ADP	r--------	_	6	case	_	_
+5	senem	senex	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	6	amod	_	Case=Acc|Gender=Masc|Number=Sing
+6	principem	princeps	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	Case=Acc|Gender=Masc|Number=Sing
+7	,	,	PUNCT	u--------	_	9	punct	_	_
+8	magis	magnus	ADV	d-------c	Degree=Cmp	9	advmod	_	Degree=Cmp
+9	nociturum	noceo	VERB	v-sfpana-	Case=Acc|Gender=Neut|Mood=Part|Number=Sing|Tense=Fut|Voice=Act	1	conj	_	Aspect=Prosp|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act
+10	apud	apud	ADP	r--------	_	11	case	_	_
+11	iuvenem	iuvenis	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	Case=Acc|Gender=Masc|Number=Sing
+12	ingenio	ingenium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	13	obl	_	Case=Abl|Gender=Neut|Number=Sing
+13	trucem	trux	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	11	amod	_	Case=Acc|Gender=Masc|Number=Sing
+14	et	et	CCONJ	c--------	_	17	cc	_	_
+15	longo	longus	ADJ	a-s---nb-	Case=Abl|Gender=Neut|Number=Sing	16	amod	_	Case=Abl|Gender=Neut|Number=Sing
+16	exilio	exsilium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	17	obl	_	Case=Abl|Gender=Neut|Number=Sing
+17	efferatum	effero	VERB	v-srppma-	Case=Acc|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	13	conj	_	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+18	:	:	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@193
+# text = occidi Othonem posse.
+1	occidi	occido	VERB	v--pnp---	Mood=Inf|Tense=Pres|Voice=Pass	3	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+2	Othonem	Otho	PROPN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	3	nsubj	_	Case=Acc|Gender=Masc|Number=Sing
+3	posse	possum	VERB	v--pna---	Mood=Inf|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+4	.	.	PUNCT	u--------	_	3	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@196
+# text = mortem omnibus ex natura aequalem oblivione apud posteros vel gloria distingui;
+1	mortem	mors	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	11	nsubj:pass	_	Case=Acc|Gender=Fem|Number=Sing
+2	omnibus	omnis	DET	a-p---md-	Case=Dat|Gender=Masc|Number=Plur	5	obl	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Tot
+3	ex	ex	ADP	r--------	_	4	case	_	_
+4	natura	natura	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	5	obl	_	Case=Abl|Gender=Fem|Number=Sing
+5	aequalem	aequalis	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	1	amod	_	Case=Acc|Gender=Fem|Number=Sing
+6	oblivione	oblivio	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	11	obl	_	Case=Abl|Gender=Fem|Number=Sing
+7	apud	apud	ADP	r--------	_	8	case	_	_
+8	posteros	posterus	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	6	amod	_	Case=Acc|Gender=Masc|Number=Plur
+9	vel	vel	CCONJ	c--------	_	10	cc	_	_
+10	gloria	gloria	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	6	conj	_	Case=Abl|Gender=Fem|Number=Sing
+11	distingui	distinguo	VERB	v--pnp---	Mood=Inf|Tense=Pres|Voice=Pass	0	root	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+12	;	;	PUNCT	u--------	_	11	punct	_	_
+

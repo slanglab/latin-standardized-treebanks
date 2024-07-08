@@ -1,0 +1,294 @@
+# sent_id = 86061
+# text = ex quo magnitudo animi exsistit humanarum que rerum contemptio
+# source = De officiis, Book 1, section 13
+1	ex	ex	ADP	R-	_	2	case	_	AdpType=Prep
+2	quo	qui	PRON	Pr	Case=Abl|Gender=Neut|Number=Sing	5	obl	_	Case=Abl|Gender=Neut|Number=Sing|PronType=Rel
+3	magnitudo	magnitudo	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+4	animi	animus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+5	exsistit	exsisto	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+6	humanarum	humanus	ADJ	A-	Case=Gen|Gender=Fem|Number=Plur	8	amod	_	Case=Gen|Gender=Fem|Number=Plur
+7	que	que	CCONJ	C-	_	9	cc	_	_
+8	rerum	res	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	Case=Gen|Gender=Fem|Number=Plur
+9	contemptio	contemptio	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	conj	_	Case=Nom|Gender=Fem|Number=Sing
+
+# sent_id = 86089
+# text = Omnis autem cogitatio motus que animi aut in consiliis capiendis de rebus honestis et pertinentibus ad bene beate que vivendum aut in studiis scientiae cognitionis que versabitur
+# source = De officiis, Book 1, section 19
+1	Omnis	omnis	DET	Px	Case=Nom|Gender=Fem|Number=Sing	3	det	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot
+2	autem	autem	PART	Df	_	27	discourse	_	_
+3	cogitatio	cogitatio	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	27	nsubj:pass	_	Case=Nom|Gender=Fem|Number=Sing
+4	motus	motus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	Case=Nom|Gender=Masc|Number=Sing
+5	que	que	CCONJ	C-	_	4	cc	_	_
+6	animi	animus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+7	aut	aut	CCONJ	C-	_	10	cc	_	_
+8	in	in	ADP	R-	_	10	mark	_	AdpType=Prep
+9	consiliis	consilium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	10	nsubj:pass	_	Case=Abl|Gender=Neut|Number=Plur
+10	capiendis	capio	VERB	V-	Case=Abl|Gender=Neut|Mood=Gdv|Number=Plur|Voice=Pass	27	advcl:abs	_	Aspect=Prosp|Case=Abl|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+11	de	de	ADP	R-	_	12	case	_	AdpType=Prep
+12	rebus	res	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	9	nmod	_	Case=Abl|Gender=Fem|Number=Plur
+13	honestis	honestus	ADJ	A-	Case=Abl|Gender=Fem|Number=Plur	12	amod	_	Case=Abl|Gender=Fem|Number=Plur
+14	et	et	CCONJ	C-	_	15	cc	_	_
+15	pertinentibus	pertineo	VERB	V-	Case=Abl|Gender=Fem|Mood=Part|Number=Plur|Tense=Pres|Voice=Act	13	conj	_	Aspect=Imp|Case=Abl|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act
+16	ad	ad	ADP	R-	_	20	case	_	AdpType=Prep
+17	bene	bene	ADV	Df	_	20	advmod	_	_
+18	beate	beate	ADV	Df	_	17	conj	_	_
+19	que	que	CCONJ	C-	_	18	cc	_	_
+20	vivendum	vivo	VERB	V-	Case=Acc|Mood=Ger|Voice=Act	15	obl	_	Aspect=Prosp|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+21	aut	aut	CCONJ	C-	_	23	cc	_	_
+22	in	in	ADP	R-	_	23	case	_	AdpType=Prep
+23	studiis	studium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	10	conj	_	Case=Abl|Gender=Neut|Number=Plur
+24	scientiae	scientia	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+25	cognitionis	cognitio	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	24	conj	_	Case=Gen|Gender=Fem|Number=Sing
+26	que	que	CCONJ	C-	_	25	cc	_	_
+27	versabitur	verso	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Pass	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass
+
+# sent_id = 86135
+# text = Qui altero genere iniustitiae vacant
+# source = De officiis, Book 1, section 29
+1	Qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel
+2	altero	alter	DET	A-	Case=Abl|Gender=Neut|Number=Sing	3	det	_	Case=Abl|Gender=Neut|Number=Sing|PronType=Con
+3	genere	genus	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	5	obl:arg	_	Case=Abl|Gender=Neut|Number=Sing
+4	iniustitiae	iniustitia	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+5	vacant	vaco	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 86184
+# text = Indicant duodecim tabulae
+# source = De officiis, Book 1, section 37
+1	Indicant	indico	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+2	duodecim	duodecim	NUM	Ma	_	3	nummod	_	NumForm=Word|NumType=Card
+3	tabulae	tabula	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	Case=Nom|Gender=Fem|Number=Plur
+
+# sent_id = 86226
+# text = in quo et mores eius erunt spectandi in quem beneficium conferetur et animus erga nos et communitas ac societas vitae et ad nostras utilitates officia ante collata
+# source = De officiis, Book 1, section 45
+1	in	in	ADP	R-	_	2	case	_	AdpType=Prep
+2	quo	qui	PRON	Pr	Case=Abl|Gender=Neut|Number=Sing	7	obl	_	Case=Abl|Gender=Neut|Number=Sing|PronType=Rel
+3	et	et	CCONJ	C-	_	4	cc	_	_
+4	mores	mos	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	7	nsubj:pass	_	Case=Nom|Gender=Masc|Number=Plur
+5	eius	is	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3	4	nmod	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+6	erunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|Voice=Act	7	aux:pass	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin
+7	spectandi	specto	VERB	V-	Case=Nom|Gender=Masc|Mood=Gdv|Number=Plur|Voice=Pass	0	root	_	Aspect=Prosp|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+8	in	in	ADP	R-	_	9	case	_	AdpType=Prep
+9	quem	qui	PRON	Pr	Case=Acc|Gender=Masc|Number=Sing	11	obl	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel
+10	beneficium	beneficium	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	11	nsubj:pass	_	Case=Nom|Gender=Neut|Number=Sing
+11	conferetur	confero	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Pass	5	acl:relcl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass
+12	et	et	CCONJ	C-	_	13	cc	_	_
+13	animus	animus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	Case=Nom|Gender=Masc|Number=Sing
+14	erga	erga	ADP	R-	_	15	case	_	AdpType=Prep
+15	nos	nos	PRON	Pp	Case=Acc|Number=Plur|Person=1	13	det	_	Case=Acc|Number=Plur|Person=1|PronType=Prs
+16	et	et	CCONJ	C-	_	17	cc	_	_
+17	communitas	communitas	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	conj	_	Case=Nom|Gender=Fem|Number=Sing
+18	ac	atque	CCONJ	C-	_	19	cc	_	_
+19	societas	societas	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	17	conj	_	Case=Nom|Gender=Fem|Number=Sing
+20	vitae	vita	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+21	et	et	CCONJ	C-	_	25	cc	_	_
+22	ad	ad	ADP	R-	_	24	case	_	AdpType=Prep
+23	nostras	noster	DET	Ps	Case=Acc|Gender=Fem|Number=Plur	24	det	_	Case=Acc|Gender=Fem|Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs
+24	utilitates	utilitas	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	27	obl	_	Case=Acc|Gender=Fem|Number=Plur
+25	officia	officium	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	4	conj	_	Case=Nom|Gender=Neut|Number=Plur
+26	ante	ante	ADV	Df	_	27	advmod:tmod	_	AdvType=Tim
+27	collata	confero	VERB	V-	Case=Nom|Gender=Neut|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	25	acl	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+
+# sent_id = 86256
+# text = Nihiló minus ipsi lúcet cum illi accénderit
+# source = De officiis, Book 1, section 51
+1	Nihiló	nihilominus	ADV	Df	_	4	advmod	_	_
+2	minus	minus	ADV	Df	_	1	fixed	_	_
+3	ipsi	ipse	DET	Pd	Case=Dat|Gender=Masc|Number=Sing	4	obl:arg	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem
+4	lúcet	luceo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+5	cum	cum	SCONJ	G-	_	7	mark	_	_
+6	illi	ille	DET	Pd	Case=Dat|Gender=Masc|Number=Sing	7	obl:arg	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem
+7	accénderit	accendo	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Perf|Voice=Act	4	advcl	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+
+# sent_id = 86312
+# text = Itaque viros fortes et magnanimnos eosdem bonos et simplices veritatis amicos minime que fallaces esse volumus
+# source = De officiis, Book 1, section 63
+1	Itaque	itaque	PART	Df	_	16	discourse	_	_
+2	viros	vir	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	7	nsubj	_	Case=Acc|Gender=Masc|Number=Plur
+3	fortes	fors	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	nmod	_	Case=Acc|Gender=Masc|Number=Plur
+4	et	et	CCONJ	C-	_	5	cc	_	_
+5	magnanimnos	magnanimus	ADJ	A-	Case=Acc|Gender=Masc|Number=Plur	3	conj	_	Case=Acc|Gender=Masc|Number=Plur
+6	eosdem	idem	DET	Pd	Case=Acc|Gender=Masc|Number=Plur	2	det	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Dem
+7	bonos	bonus	ADJ	A-	Case=Acc|Gender=Masc|Number=Plur	16	ccomp	_	Case=Acc|Gender=Masc|Number=Plur
+8	et	et	CCONJ	C-	_	9	cc	_	_
+9	simplices	simplex	ADJ	A-	Case=Acc|Gender=Masc|Number=Plur	7	conj	_	Case=Acc|Gender=Masc|Number=Plur
+10	veritatis	veritas	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+11	amicos	amicus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	7	conj	_	Case=Acc|Gender=Masc|Number=Plur
+12	minime	parum	ADV	Df	Degree=Sup	14	advmod	_	Degree=Abs
+13	que	que	CCONJ	C-	_	14	cc	_	_
+14	fallaces	fallax	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	7	conj	_	Case=Acc|Gender=Masc|Number=Plur
+15	esse	sum	AUX	V-	Mood=Inf|Tense=Pres|Voice=Act	7	cop	_	Aspect=Imp|VerbForm=Inf
+16	volumus	volo	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 86361
+# text = illud enim semel profuit
+# source = De officiis, Book 1, section 75
+1	illud	ille	DET	Pd	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem
+2	enim	enim	PART	Df	_	4	discourse	_	_
+3	semel	semel	ADV	Df	_	4	advmod	_	_
+4	profuit	prosum	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+
+# sent_id = 86402
+# text = temere autem in acie versari et manu cum hoste confligere immane quiddam et beluarum simile est
+# source = De officiis, Book 1, section 81
+1	temere	temere	ADV	Df	_	5	advmod	_	_
+2	autem	autem	PART	Df	_	11	discourse	_	_
+3	in	in	ADP	R-	_	4	case	_	AdpType=Prep
+4	acie	acies	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	5	obl	_	Case=Abl|Gender=Fem|Number=Sing
+5	versari	verso	VERB	V-	Mood=Inf|Tense=Pres|Voice=Pass	11	ccomp	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+6	et	et	CCONJ	C-	_	10	cc	_	_
+7	manu	manus	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	10	obl	_	Case=Abl|Gender=Fem|Number=Sing
+8	cum	cum	ADP	R-	_	9	case	_	AdpType=Prep
+9	hoste	hostis	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	10	obl	_	Case=Abl|Gender=Masc|Number=Sing
+10	confligere	confligo	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	5	conj	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+11	immane	immanis	ADJ	A-	Case=Nom|Gender=Neut|Number=Sing	0	root	_	Case=Nom|Gender=Neut|Number=Sing
+12	quiddam	quidam	DET	Px	Case=Nom|Gender=Neut|Number=Sing	11	det	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind
+13	et	et	CCONJ	C-	_	15	cc	_	_
+14	beluarum	belua	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	15	obl:arg	_	Case=Gen|Gender=Fem|Number=Plur
+15	simile	similis	ADJ	A-	Case=Nom|Gender=Neut|Number=Sing	11	conj	_	Case=Nom|Gender=Neut|Number=Sing
+16	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	11	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+# sent_id = 86421
+# text = Ergo post que magis que viri nunc gloria claret
+# source = De officiis, Book 1, section 84
+1	Ergo	ergo	ADV	Df	_	9	discourse	_	_
+2	post	post	ADV	Df	_	9	advmod:tmod	_	AdvType=Tim
+3	que	que	CCONJ	C-	_	4	cc	_	_
+4	magis	magis	ADV	Df	Degree=Cmp	2	conj	_	Degree=Cmp
+5	que	que	CCONJ	C-	_	4	cc	_	_
+6	viri	vir	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+7	nunc	nunc	ADV	Df	_	9	advmod:tmod	_	AdvType=Tim
+8	gloria	gloria	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+9	claret	clareo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 86435
+# text = Ne c vero audiendi qui graviter inimicis irascendum putabunt id que magnanimi et fortis viri esse censebunt
+# source = De officiis, Book 1, section 88
+1	Ne	ne	ADV	Df	_	4	advmod	_	Polarity=Neg
+2	c	que	CCONJ	C-	_	4	cc	_	_
+3	vero	vero	ADV	Df	_	4	discourse	_	_
+4	audiendi	audio	VERB	V-	Case=Nom|Gender=Masc|Mood=Gdv|Number=Plur|Voice=Pass	0	root	_	Aspect=Prosp|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+5	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel
+6	graviter	graviter	ADV	Df	_	8	advmod	_	_
+7	inimicis	inimicus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	8	obl:arg	_	Case=Dat|Gender=Masc|Number=Plur
+8	irascendum	irasco	VERB	V-	Case=Acc|Gender=Neut|Mood=Gdv|Number=Sing|Voice=Pass	9	ccomp	_	Aspect=Prosp|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+9	putabunt	puto	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|Voice=Act	4	csubj	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+10	id	is	PRON	Pp	Case=Acc|Gender=Neut|Number=Sing|Person=3	15	nsubj	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+11	que	que	CCONJ	C-	_	17	cc	_	_
+12	magnanimi	magnanimus	ADJ	A-	Case=Gen|Gender=Masc|Number=Sing	15	amod	_	Case=Gen|Gender=Masc|Number=Sing
+13	et	et	CCONJ	C-	_	14	cc	_	_
+14	fortis	fortis	ADJ	A-	Case=Gen|Gender=Masc|Number=Sing	12	conj	_	Case=Gen|Gender=Masc|Number=Sing
+15	viri	vir	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	17	ccomp	_	Case=Gen|Gender=Masc|Number=Sing
+16	esse	sum	AUX	V-	Mood=Inf|Tense=Pres|Voice=Act	15	cop	_	Aspect=Imp|VerbForm=Inf
+17	censebunt	censeo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|Voice=Act	9	conj	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+
+# sent_id = 86473
+# text = Est enim quiddam id que intellegitur in omni virtute quod deceat
+# source = De officiis, Book 1, section 95
+1	Est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+2	enim	enim	PART	Df	_	1	discourse	_	_
+3	quiddam	quidam	DET	Px	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind
+4	id	is	PRON	Pp	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nsubj:pass	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+5	que	que	CCONJ	C-	_	6	cc	_	_
+6	intellegitur	intellego	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	1	conj	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+7	in	in	ADP	R-	_	9	case	_	AdpType=Prep
+8	omni	omnis	DET	Px	Case=Abl|Gender=Fem|Number=Sing	9	det	_	Case=Abl|Gender=Fem|Number=Sing|PronType=Tot
+9	virtute	virtus	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	6	obl	_	Case=Abl|Gender=Fem|Number=Sing
+10	quod	qui	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel
+11	deceat	decet	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	acl:relcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 86489
+# text = Sed poëtae quid quemque deceat ex persona iudicabunt
+# source = De officiis, Book 1, section 97
+1	Sed	sed	CCONJ	C-	_	8	cc	_	_
+2	poëtae	poeta	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	Case=Nom|Gender=Masc|Number=Plur
+3	quid	quis	PRON	Pi	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int
+4	quemque	quisque	DET	Px	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind
+5	deceat	decet	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	8	ccomp	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+6	ex	ex	ADP	R-	_	7	case	_	AdpType=Prep
+7	persona	persona	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	8	obl	_	Case=Abl|Gender=Fem|Number=Sing
+8	iudicabunt	iudico	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+
+# sent_id = 86686
+# text = ne que enim isdem de rebus ne c omni tempore ne c similiter delectamur
+# source = De officiis, Book 1, section 135
+1	ne	ne	ADV	Df	_	14	advmod	_	Polarity=Neg
+2	que	que	CCONJ	C-	_	14	cc	_	_
+3	enim	enim	PART	Df	_	14	discourse	_	_
+4	isdem	idem	DET	Pd	Case=Abl|Gender=Fem|Number=Plur	6	det	_	Case=Abl|Gender=Fem|Number=Plur|PronType=Dem
+5	de	de	ADP	R-	_	6	case	_	AdpType=Prep
+6	rebus	res	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	14	obl	_	Case=Abl|Gender=Fem|Number=Plur
+7	ne	ne	ADV	Df	_	10	advmod	_	Polarity=Neg
+8	c	que	CCONJ	C-	_	10	cc	_	_
+9	omni	omnis	DET	Px	Case=Abl|Gender=Neut|Number=Sing	10	det	_	Case=Abl|Gender=Neut|Number=Sing|PronType=Tot
+10	tempore	tempus	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	14	obl	_	Case=Abl|Gender=Neut|Number=Sing
+11	ne	ne	ADV	Df	_	13	advmod	_	Polarity=Neg
+12	c	que	CCONJ	C-	_	13	cc	_	_
+13	similiter	similiter	ADV	Df	_	10	conj	_	_
+14	delectamur	delecto	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Pass	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+
+# sent_id = 88129
+# text = dubitatio cogitationem significat iniuriae
+# source = De officiis, Book 1, section 30
+1	dubitatio	dubitatio	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+2	cogitationem	cogitatio	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	Case=Acc|Gender=Fem|Number=Sing
+3	significat	significo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+4	iniuriae	iniuria	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+
+# sent_id = 88143
+# text = iidem gloriae iacturam ne minimam quidem facere vellent ne re publica quidem postulante ut Callicratidas qui cum Lacedaemoniorum dux fuisset Peloponnesiaco bello multa que fecisset egregie vertit ad extremum omnia cum consilio non paruit eorum qui classem ab Arginusis removendam ne c cum Atheniensibus dimicandum putabant
+# source = De officiis, Book 1, section 84
+1	iidem	idem	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem
+2	gloriae	gloria	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+3	iacturam	iactura	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	Case=Acc|Gender=Fem|Number=Sing
+4	ne	ne	ADV	Df	_	5	advmod	_	Polarity=Neg
+5	minimam	minimus	ADJ	A-	Case=Acc|Gender=Fem|Number=Sing	3	amod	_	Case=Acc|Gender=Fem|Number=Sing
+6	quidem	quidem	PART	Df	_	5	discourse	_	_
+7	facere	facio	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	8	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+8	vellent	vello	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Imp|Voice=Act	0	root	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+9	ne	ne	ADV	Df	_	10	advmod	_	Polarity=Neg
+10	re	res	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	13	nsubj	_	Case=Abl|Gender=Fem|Number=Sing
+11	publica	publicus	ADJ	A-	Case=Abl|Gender=Fem|Number=Sing	10	amod	_	Case=Abl|Gender=Fem|Number=Sing
+12	quidem	quidem	PART	Df	_	10	discourse	_	_
+13	postulante	postulo	VERB	V-	Case=Abl|Gender=Fem|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	8	advcl:abs	_	Aspect=Imp|Case=Abl|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act
+14	ut	ut	ADV	Dq	_	1	appos	_	PronType=Rel
+15	Callicratidas	Callicratidas	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	14	appos	_	Case=Nom|Gender=Masc|Number=Sing
+16	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+17	cum	cum	SCONJ	G-	_	19	mark	_	_
+18	Lacedaemoniorum	Lacedaemonius	ADJ	A-	Case=Gen|Gender=Masc|Number=Plur	19	advcl:pred	_	Case=Gen|Gender=Masc|Number=Plur
+19	dux	dux	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	27	advcl	_	Case=Nom|Gender=Masc|Number=Sing
+20	fuisset	sum	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Plup|Voice=Act	19	cop	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin
+21	Peloponnesiaco	Peloponnesiacus	ADJ	A-	Case=Abl|Gender=Neut|Number=Sing	22	amod	_	Case=Abl|Gender=Neut|Number=Sing
+22	bello	bellum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	19	obl	_	Case=Abl|Gender=Neut|Number=Sing
+23	multa	multus	DET	A-	Case=Acc|Gender=Neut|Number=Plur	25	obj	_	Case=Acc|Gender=Neut|Number=Plur|NumType=Card|PronType=Ind
+24	que	que	CCONJ	C-	_	25	cc	_	_
+25	fecisset	facio	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Plup|Voice=Act	19	conj	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act
+26	egregie	egregie	ADV	Df	_	25	advmod	_	_
+27	vertit	verto	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	15	acl:relcl	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+28	ad	ad	ADP	R-	_	29	case	_	AdpType=Prep
+29	extremum	extremum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	27	obl	_	Case=Acc|Gender=Neut|Number=Sing
+30	omnia	omnis	DET	Px	Case=Acc|Gender=Neut|Number=Plur	27	obj	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot
+31	cum	cum	SCONJ	G-	_	34	mark	_	_
+32	consilio	consilium	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	34	obl:arg	_	Case=Dat|Gender=Neut|Number=Sing
+33	non	non	PART	Df	_	34	advmod:neg	_	Polarity=Neg
+34	paruit	pareo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	27	advcl	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+35	eorum	is	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3	32	nmod	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+36	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur	46	nsubj	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel
+37	classem	classis	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	40	nsubj	_	Case=Acc|Gender=Fem|Number=Sing
+38	ab	ab	ADP	R-	_	39	case	_	AdpType=Prep
+39	Arginusis	Arginusae	PROPN	Ne	Case=Abl|Gender=Fem|Number=Plur	40	obl	_	Case=Abl|Gender=Fem|Number=Plur
+40	removendam	removeo	VERB	V-	Case=Acc|Gender=Fem|Mood=Gdv|Number=Sing|Voice=Pass	46	ccomp	_	Aspect=Prosp|Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+41	ne	ne	ADV	Df	_	45	advmod	_	Polarity=Neg
+42	c	que	CCONJ	C-	_	45	cc	_	_
+43	cum	cum	ADP	R-	_	44	case	_	AdpType=Prep
+44	Atheniensibus	Atheniensis	ADJ	A-	Case=Abl|Gender=Masc|Number=Plur	45	obl	_	Case=Abl|Gender=Masc|Number=Plur
+45	dimicandum	dimico	VERB	V-	Case=Acc|Gender=Neut|Mood=Gdv|Number=Sing|Voice=Pass	40	conj	_	Aspect=Prosp|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+46	putabant	puto	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Imp|Voice=Act	35	acl:relcl	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+
+# sent_id = 225183
+# text = Cedant arma togae
+# source = De officiis, Book 1, section 77
+1	Cedant	cedo	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+2	arma	arma	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	1	nsubj	_	Case=Nom|Gender=Neut|Number=Plur
+3	togae	toga	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	1	obl:arg	_	Case=Dat|Gender=Fem|Number=Sing
+

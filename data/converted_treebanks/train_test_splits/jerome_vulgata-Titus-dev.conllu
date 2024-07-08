@@ -1,0 +1,10 @@
+# sent_id = 31024
+# text = saluta qui nos amant in fide
+# source = Jerome's Vulgate, Titus 3
+1	saluta	saluto	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+2	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel
+3	nos	nos	PRON	Pp	Case=Acc|Number=Plur|Person=1	4	obj	_	Case=Acc|Number=Plur|Person=1|PronType=Prs
+4	amant	amo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	1	ccomp	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+5	in	in	ADP	R-	_	6	case	_	AdpType=Prep
+6	fide	fides	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	4	obl	_	Case=Abl|Gender=Fem|Number=Sing
+

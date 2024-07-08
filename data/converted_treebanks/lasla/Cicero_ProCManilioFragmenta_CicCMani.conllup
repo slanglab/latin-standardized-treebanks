@@ -1,0 +1,11 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC LILA:FLCAT LILA:SENTID LILA:LINE
+# sent_id = CicCMani-D-62-1
+# text = hic ego non solum confiteor uerum etiam profiteor
+1	hic	hic	ADV	M	_	_	_	_	Degree=Pos
+2	ego	ego	PRON	E	Case=Nom|Number=Sing|Person=1	_	_	_	Case=Nom|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs
+3	non	non	PART	P	_	_	_	_	Polarity=Neg
+4	solum	solum	ADV	M	_	_	_	_	Degree=Pos
+5	confiteor	confiteor	VERB	B2	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+6	uerum	uerum	CCONJ	S	_	_	_	_	_
+7	etiam	etiam	ADV	M	_	_	_	_	Degree=Pos
+8	profiteor	profiteor	VERB	B2	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass

@@ -1,0 +1,446 @@
+# sent_id = train-s2095
+# text = + Ego Ilmerandu, rogatus ab suprascripti dispensatori, me teste subscripsi.
+# reference = document_id='74:14'-span='69'
+1	+	+	PUNCT	SYM	_	2	punct	_	_
+2	Ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Number=Sing|Person=1	12	nsubj	_	Case=Nom|Number=Sing|Person=1|PronType=Prs
+3	Ilmerandu	Ilmerandus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	2	appos	_	Case=Acc|Gender=Masc|Number=Sing
+4	,	,	PUNCT	Punc	_	5	punct	_	_
+5	rogatus	rogo	VERB	t|t|-|s|r|p|p|m|n|-	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	3	acl	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+6	ab	ab	ADP	r|r|-|-|-|-|-|-|-|-	_	8	case	_	_
+7	suprascripti	suprascriptus	DET	a|a|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	8	det	_	Case=Abl|Gender=Masc|Number=Plur|PronType=Dem
+8	dispensatori	dispensator	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	5	obl:arg	_	Case=Acc|Gender=Masc|Number=Plur
+9	,	,	PUNCT	Punc	_	2	punct	_	_
+10	me	ego	PRON	p|p|1|s|-|-|-|m|b|-	Case=Abl|Number=Sing|Person=1	11	nsubj	_	Case=Abl|Number=Sing|Person=1|PronType=Prs
+11	teste	testis	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	12	advcl:abs	_	Case=Abl|Gender=Masc|Number=Sing
+12	subscripsi	subscribo	VERB	v|v|1|s|r|i|a|-|-|-	Mood=Ind|Number=Sing|Person=1|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+13	.	.	PUNCT	Punc	_	12	punct	_	_
+
+# sent_id = train-s2112
+# text = signum + manus Ilzifridi, filio bone memorie Sichiprandi, testis.
+# reference = document_id='74:17'-span='86'
+1	signum	signum	NOUN	n|n|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing	0	root	_	Case=Nom|Gender=Neut|Number=Sing
+2	+	+	PUNCT	SYM	_	3	punct	_	_
+3	manus	manus	NOUN	n|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+4	Ilzifridi	Iltifridus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+5	,	,	PUNCT	Punc	_	6	punct	_	_
+6	filio	filius	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	4	appos	_	Case=Acc|Gender=Masc|Number=Sing
+7	bone	bonus	ADJ	a|a|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	8	amod	_	Case=Gen|Gender=Fem|Number=Sing
+8	memorie	memoria	NOUN	n|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+9	Sichiprandi	Sichiprandus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+10	,	,	PUNCT	Punc	_	11	punct	_	_
+11	testis	testis	NOUN	n|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+12	.	.	PUNCT	Punc	_	1	punct	_	_
+
+# sent_id = train-s2180
+# text = + Ego Daiprandu, rogatus ad Agimundu, me teste subscripsi.
+# reference = document_id='74:21'-span='156'
+1	+	+	PUNCT	SYM	_	2	punct	_	_
+2	Ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Number=Sing|Person=1	11	nsubj	_	Case=Nom|Number=Sing|Person=1|PronType=Prs
+3	Daiprandu	Daiprandus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	2	appos	_	Case=Acc|Gender=Masc|Number=Sing
+4	,	,	PUNCT	Punc	_	5	punct	_	_
+5	rogatus	rogo	VERB	t|t|-|s|r|p|p|m|n|-	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	3	acl	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+6	ad	ab	ADP	r|r|-|-|-|-|-|-|-|-	_	7	case	_	_
+7	Agimundu	Agimundus	PROPN	Propn|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	5	obl:arg	_	Case=Abl|Gender=Masc|Number=Sing
+8	,	,	PUNCT	Punc	_	2	punct	_	_
+9	me	ego	PRON	p|p|1|s|-|-|-|m|b|-	Case=Abl|Number=Sing|Person=1	10	nsubj	_	Case=Abl|Number=Sing|Person=1|PronType=Prs
+10	teste	testis	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	11	advcl:abs	_	Case=Abl|Gender=Masc|Number=Sing
+11	subscripsi	subscribo	VERB	v|v|1|s|r|i|a|-|-|-	Mood=Ind|Number=Sing|Person=1|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+12	.	.	PUNCT	Punc	_	11	punct	_	_
+
+# sent_id = train-s2229
+# text = unde duas dotalis cartulas uno tenore Gundelprandum notarium scribere rogavi et subter manu mea scripsi et testibus obtuli rovorandam;
+# reference = document_id='74:27'-span='8'
+1	unde	unde	ADV	d|d|-|-|-|-|-|-|-|-	_	10	advmod:lmod	_	AdvType=Loc|PronType=Rel
+2	duas	duo	NUM	a|a|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	4	nummod	_	Case=Acc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card
+3	dotalis	dotale	NOUN	n|n|-|s|-|-|-|n|g|-	Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	Case=Gen|Gender=Neut|Number=Sing
+4	cartulas	chartula	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	9	obj	_	Case=Acc|Gender=Fem|Number=Plur
+5	uno	unus	NUM	a|a|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	6	nummod	_	Case=Abl|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card
+6	tenore	tenor	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	9	obl	_	Case=Abl|Gender=Masc|Number=Sing
+7	Gundelprandum	Gundelprandus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	9	nsubj	_	Case=Acc|Gender=Masc|Number=Sing
+8	notarium	notarius	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	7	appos	_	Case=Acc|Gender=Masc|Number=Sing
+9	scribere	scribo	VERB	v|v|-|-|p|n|a|-|-|-	Mood=Inf|Tense=Pres|Voice=Act	10	ccomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+10	rogavi	rogo	VERB	v|v|1|s|r|i|a|-|-|-	Mood=Ind|Number=Sing|Person=1|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+11	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	15	cc	_	_
+12	subter	subter	ADV	d|d|-|-|-|-|-|-|-|-	_	15	advmod	_	_
+13	manu	manus	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	15	obl	_	Case=Abl|Gender=Fem|Number=Sing
+14	mea	meus	DET	a|a|1|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	13	det	_	Case=Abl|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs
+15	scripsi	scribo	VERB	v|v|1|s|r|i|a|-|-|-	Mood=Ind|Number=Sing|Person=1|Tense=Perf|Voice=Act	10	conj	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+16	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	18	cc	_	_
+17	testibus	testis	NOUN	n|n|-|p|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Plur	18	obl:arg	_	Case=Dat|Gender=Masc|Number=Plur
+18	obtuli	offero	VERB	v|v|1|s|r|i|a|-|-|-	Mood=Ind|Number=Sing|Person=1|Tense=Perf|Voice=Act	10	conj	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+19	rovorandam	roboro	VERB	t|t|-|s|p|g|p|f|a|-	Case=Acc|Gender=Fem|Mood=Gdv|Number=Sing|Voice=Pass	18	advcl	_	Aspect=Prosp|Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+20	;	;	PUNCT	Punc	_	10	punct	_	_
+
+# sent_id = train-s2289
+# text = + Ego Gundelprandus notarius, rogatus a suprascripti germani, me teste subscripsi.
+# reference = document_id='74:32'-span='68'
+1	+	+	PUNCT	SYM	_	2	punct	_	_
+2	Ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Number=Sing|Person=1	13	nsubj	_	Case=Nom|Number=Sing|Person=1|PronType=Prs
+3	Gundelprandus	Gundelprandus	PROPN	Propn|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	Case=Nom|Gender=Masc|Number=Sing
+4	notarius	notarius	NOUN	n|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	Case=Nom|Gender=Masc|Number=Sing
+5	,	,	PUNCT	Punc	_	6	punct	_	_
+6	rogatus	rogo	VERB	t|t|-|s|r|p|p|m|n|-	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	3	acl	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+7	a	ab	ADP	r|r|-|-|-|-|-|-|-|-	_	9	case	_	_
+8	suprascripti	suprascriptus	DET	a|a|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	9	det	_	Case=Abl|Gender=Masc|Number=Plur|PronType=Dem
+9	germani	germanus	NOUN	n|n|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	6	obl:arg	_	Case=Abl|Gender=Masc|Number=Plur
+10	,	,	PUNCT	Punc	_	2	punct	_	_
+11	me	ego	PRON	p|p|1|s|-|-|-|m|b|-	Case=Abl|Number=Sing|Person=1	12	nsubj	_	Case=Abl|Number=Sing|Person=1|PronType=Prs
+12	teste	testis	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	13	advcl:abs	_	Case=Abl|Gender=Masc|Number=Sing
+13	subscripsi	subscribo	VERB	v|v|1|s|r|i|a|-|-|-	Mood=Ind|Number=Sing|Person=1|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+14	.	.	PUNCT	Punc	_	13	punct	_	_
+
+# sent_id = train-s2317
+# text = actum Luca.
+# reference = document_id='74:37'-span='97'
+1	actum	ago	VERB	t|t|-|s|r|p|p|n|n|-	Case=Nom|Gender=Neut|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	0	root	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+2	Luca	Luca	PROPN	Propn|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	1	obl	_	Case=Abl|Gender=Fem|Number=Sing
+3	.	.	PUNCT	Punc	_	1	punct	_	_
+
+# sent_id = train-s2356
+# text = + Ego Iohannis clericus, rogatus a Adalpertus, me teste subscripsi.
+# reference = document_id='74:43'-span='137'
+1	+	+	PUNCT	SYM	_	2	punct	_	_
+2	Ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Number=Sing|Person=1	12	nsubj	_	Case=Nom|Number=Sing|Person=1|PronType=Prs
+3	Iohannis	Johannes	PROPN	Propn|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	Case=Nom|Gender=Masc|Number=Sing
+4	clericus	clericus	NOUN	n|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	Case=Nom|Gender=Masc|Number=Sing
+5	,	,	PUNCT	Punc	_	6	punct	_	_
+6	rogatus	rogo	VERB	t|t|-|s|r|p|p|m|n|-	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	3	acl	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+7	a	ab	ADP	r|r|-|-|-|-|-|-|-|-	_	8	case	_	_
+8	Adalpertus	Adalpertus	PROPN	Propn|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	6	obl:arg	_	Case=Nom|Gender=Masc|Number=Sing
+9	,	,	PUNCT	Punc	_	2	punct	_	_
+10	me	ego	PRON	p|p|1|s|-|-|-|m|b|-	Case=Abl|Number=Sing|Person=1	11	nsubj	_	Case=Abl|Number=Sing|Person=1|PronType=Prs
+11	teste	testis	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	12	advcl:abs	_	Case=Abl|Gender=Masc|Number=Sing
+12	subscripsi	subscribo	VERB	v|v|1|s|r|i|a|-|-|-	Mood=Ind|Number=Sing|Person=1|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+13	.	.	PUNCT	Punc	_	12	punct	_	_
+
+# sent_id = train-s2360
+# text = + In nomine Patris et Filii et Spiritus sancti regnante domno nostro Hludovuicus serenissimus augustus a Deo coronatus magnus et pacificus imperator anno sexto, duodecimo die intrante mense octubris, indictione tertia decima.
+# reference = document_id='74:44'-span='141'
+1	+	+	PUNCT	SYM	_	10	punct	_	_
+2	In	in	ADP	r|r|-|-|-|-|-|-|-|-	_	3	case	_	_
+3	nomine	nomen	NOUN	n|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	10	obl	_	Case=Abl|Gender=Neut|Number=Sing
+4	Patris	pater	NOUN	n|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+5	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	6	cc	_	_
+6	Filii	filius	NOUN	n|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	4	conj	_	Case=Gen|Gender=Masc|Number=Sing
+7	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	8	cc	_	_
+8	Spiritus	spiritus	NOUN	n|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	4	conj	_	Case=Gen|Gender=Masc|Number=Sing
+9	sancti	sanctus	ADJ	a|a|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	8	amod	_	Case=Gen|Gender=Masc|Number=Sing
+10	regnante	regno	VERB	t|t|-|s|p|p|a|m|b|-	Case=Abl|Gender=Masc|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Case=Abl|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act
+11	domno	domnus	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	10	nsubj	_	Case=Abl|Gender=Masc|Number=Sing
+12	nostro	noster	DET	a|a|1|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	11	det	_	Case=Abl|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs
+13	Hludovuicus	Hludowicus	PROPN	Propn|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	11	flat	_	Case=Nom|Gender=Masc|Number=Sing
+14	serenissimus	serenus	ADJ	a|a|-|s|-|-|-|m|n|s	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	15	amod	_	Case=Nom|Degree=Abs|Gender=Masc|Number=Sing
+15	augustus	augustus	NOUN	n|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	11	appos	_	Case=Nom|Gender=Masc|Number=Sing
+16	a	ab	ADP	r|r|-|-|-|-|-|-|-|-	_	17	case	_	_
+17	Deo	Deus	PROPN	Propn|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	18	obl:arg	_	Case=Abl|Gender=Masc|Number=Sing
+18	coronatus	corono	VERB	t|t|-|s|r|p|p|m|n|-	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	22	acl	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+19	magnus	magnus	ADJ	a|a|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	22	amod	_	Case=Nom|Gender=Masc|Number=Sing
+20	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	21	cc	_	_
+21	pacificus	pacificus	ADJ	a|a|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	19	conj	_	Case=Nom|Gender=Masc|Number=Sing
+22	imperator	imperator	NOUN	n|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	11	appos	_	Case=Nom|Gender=Masc|Number=Sing
+23	anno	annus	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	10	obl	_	Case=Abl|Gender=Masc|Number=Sing
+24	sexto	sextus	ADJ	a|a|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	23	amod	_	Case=Abl|Gender=Masc|Number=Sing|NumType=Ord
+25	,	,	PUNCT	Punc	_	27	punct	_	_
+26	duodecimo	duodecimus	ADJ	a|a|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	27	amod	_	Case=Abl|Gender=Masc|Number=Sing|NumType=Ord
+27	die	dies	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	10	obl	_	Case=Abl|Gender=Masc|Number=Sing
+28	intrante	intro	VERB	t|t|-|s|p|p|a|m|b|-	Case=Abl|Gender=Masc|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	27	advcl:abs	_	Aspect=Imp|Case=Abl|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act
+29	mense	mensis	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	28	nsubj	_	Case=Abl|Gender=Masc|Number=Sing
+30	octubris	october	NOUN	n|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	29	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+31	,	,	PUNCT	Punc	_	32	punct	_	_
+32	indictione	indictio	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	10	obl	_	Case=Abl|Gender=Fem|Number=Sing
+33	tertia	tertius	ADJ	a|a|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	32	amod	_	Case=Abl|Gender=Fem|Number=Sing|NumType=Ord
+34	decima	decimus	ADJ	a|a|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	33	flat	_	Case=Abl|Gender=Fem|Number=Sing|NumType=Ord
+35	.	.	PUNCT	Punc	_	10	punct	_	_
+
+# sent_id = train-s2363
+# text = ipso suprascripto orto, sicut circumdatum est per designatas locas, cum omnibus arboribus suis, sicut mihi per memorata cartulam ex conparationem obvenit da ipso Gumpulu, sicut mihi pertinere videtur, una cum ipsa cartula venditionis que in me exinde emissam est tibi vindo in integrum.
+# reference = document_id='74:44'-span='144'
+1	ipso	ipse	DET	p|p|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	3	det	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem
+2	suprascripto	suprascriptus	DET	a|a|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	3	det	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem
+3	orto	hortus	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	46	obj	_	Case=Acc|Gender=Masc|Number=Sing
+4	,	,	PUNCT	Punc	_	6	punct	_	_
+5	sicut	sicut	SCONJ	c|c|-|-|-|-|-|-|-|-	_	6	mark	_	_
+6	circumdatum	circumdo	VERB	t|t|-|s|r|p|p|m|a|-	Case=Acc|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	3	acl	_	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+7	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	aux:pass	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+8	per	per	ADP	r|r|-|-|-|-|-|-|-|-	_	10	case	_	_
+9	designatas	designo	VERB	t|t|-|p|r|p|p|n|a|-	Case=Acc|Gender=Neut|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	10	acl	_	Aspect=Perf|Case=Acc|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+10	locas	locum	NOUN	n|n|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur	6	obl	_	Case=Acc|Gender=Neut|Number=Plur
+11	,	,	PUNCT	Punc	_	14	punct	_	_
+12	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	14	case	_	_
+13	omnibus	omnis	DET	a|a|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	14	det	_	Case=Abl|Gender=Masc|Number=Plur|PronType=Tot
+14	arboribus	arbor	NOUN	n|n|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	3	nmod	_	Case=Abl|Gender=Masc|Number=Plur
+15	suis	suus	DET	a|a|3|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	14	det	_	Case=Abl|Gender=Masc|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes
+16	,	,	PUNCT	Punc	_	24	punct	_	_
+17	sicut	sicut	SCONJ	c|c|-|-|-|-|-|-|-|-	_	24	mark	_	_
+18	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Number=Sing|Person=1	24	obl:arg	_	Case=Dat|Number=Sing|Person=1|PronType=Prs
+19	per	per	ADP	r|r|-|-|-|-|-|-|-|-	_	21	case	_	_
+20	memorata	memoro	VERB	t|t|-|s|r|p|p|f|a|-	Case=Acc|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	21	acl	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+21	cartulam	chartula	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	24	obl	_	Case=Acc|Gender=Fem|Number=Sing
+22	ex	ex	ADP	r|r|-|-|-|-|-|-|-|-	_	23	case	_	_
+23	conparationem	comparatio	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	24	obl	_	Case=Abl|Gender=Fem|Number=Sing
+24	obvenit	obuenio	VERB	v|v|3|s|r|i|a|-|-|-	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	3	acl	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+25	da	da	ADP	r|r|-|-|-|-|-|-|-|-	_	27	case	_	_
+26	ipso	ipse	DET	p|p|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	27	det	_	Case=Abl|Gender=Masc|Number=Sing|PronType=Dem
+27	Gumpulu	Gumpulus	PROPN	Propn|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	24	obl	_	Case=Abl|Gender=Masc|Number=Sing
+28	,	,	PUNCT	Punc	_	32	punct	_	_
+29	sicut	sicut	SCONJ	c|c|-|-|-|-|-|-|-|-	_	32	mark	_	_
+30	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Number=Sing|Person=1	31	obl:arg	_	Case=Dat|Number=Sing|Person=1|PronType=Prs
+31	pertinere	pertineo	VERB	v|v|-|-|p|n|a|-|-|-	Mood=Inf|Tense=Pres|Voice=Act	32	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+32	videtur	uideo	VERB	v|v|3|s|p|i|p|-|-|-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	3	acl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+33	,	,	PUNCT	Punc	_	37	punct	_	_
+34	una	una	ADV	d|d|-|-|-|-|-|-|-|-	_	37	case	_	_
+35	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	34	fixed	_	_
+36	ipsa	ipse	DET	p|p|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	37	det	_	Case=Abl|Gender=Fem|Number=Sing|PronType=Dem
+37	cartula	chartula	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	3	nmod	_	Case=Abl|Gender=Fem|Number=Sing
+38	venditionis	uenditio	NOUN	n|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	37	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+39	que	qui	PRON	p|p|-|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing	43	nsubj:pass	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel
+40	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	41	case	_	_
+41	me	ego	PRON	p|p|1|s|-|-|-|m|b|-	Case=Abl|Number=Sing|Person=1	43	obl:arg	_	Case=Abl|Number=Sing|Person=1|PronType=Prs
+42	exinde	exinde	ADV	d|d|-|-|-|-|-|-|-|-	_	43	advmod	_	_
+43	emissam	emitto	VERB	t|t|-|s|r|p|p|f|n|-	Case=Nom|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	37	acl:relcl	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+44	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	43	aux:pass	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+45	tibi	tu	PRON	p|p|2|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=2	46	obl:arg	_	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs
+46	vindo	uendo	VERB	v|v|1|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+47	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	48	case	_	_
+48	integrum	integer	ADJ	a|a|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	46	obl	_	Case=Acc|Gender=Neut|Number=Sing
+49	.	.	PUNCT	Punc	_	46	punct	_	_
+
+# sent_id = train-s2390
+# text = ego Alpertus clericus rogatus a Sisimundo me teste subscripsi.
+# reference = document_id='74:45'-span='172'
+1	ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Number=Sing|Person=1	9	nsubj	_	Case=Nom|Number=Sing|Person=1|PronType=Prs
+2	Alpertus	Alpertus	PROPN	Propn|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	Case=Nom|Gender=Masc|Number=Sing
+3	clericus	clericus	NOUN	n|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	Case=Nom|Gender=Masc|Number=Sing
+4	rogatus	rogo	VERB	t|t|-|s|r|p|p|m|n|-	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	2	acl	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+5	a	ab	ADP	r|r|-|-|-|-|-|-|-|-	_	6	case	_	_
+6	Sisimundo	Sisimundus	PROPN	Propn|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	4	obl:arg	_	Case=Abl|Gender=Masc|Number=Sing
+7	me	ego	PRON	p|p|1|s|-|-|-|m|b|-	Case=Abl|Number=Sing|Person=1	8	nsubj	_	Case=Abl|Number=Sing|Person=1|PronType=Prs
+8	teste	testis	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	9	advcl:abs	_	Case=Abl|Gender=Masc|Number=Sing
+9	subscripsi	subscribo	VERB	v|v|1|s|r|i|a|-|-|-	Mood=Ind|Number=Sing|Person=1|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+10	.	.	PUNCT	Punc	_	9	punct	_	_
+
+# sent_id = train-s2040
+# text = manifestum est mihi Iohannes ecclericus, filio bone memorie Rachinaldi, quia, una cum licentia viri beatissimi domni Iacobi gratia Dei episcopi, te Aunipertum presbiterum, filium quondam Aunifridi, rectorem et gubernatorem ordinare videor in ecclesia beati sancti Reguli sita in loco Vualdo, ut tu in ipsa ecclesia resedere et avitare debeas, officium Dei et luminaria adque missarum sollemnia recto moderamine facere debeas et omne res sive casas cum rebus suis in colibet locum ad ipsam Dei ecclesiam pertenentes, moviles vel inmovile seo semoventes, omnia in tua sit potestate regendum, gubernandum adque in omnibus meliorandum.
+# reference = document_id='74:6'-span='12'
+1	manifestum	manifestus	ADJ	a|a|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing	0	root	_	Case=Nom|Gender=Neut|Number=Sing
+2	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Number=Sing|Person=1	1	obl:arg	_	Case=Dat|Number=Sing|Person=1|PronType=Prs
+4	Iohannes	Johannes	PROPN	Propn|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	Case=Nom|Gender=Masc|Number=Sing
+5	ecclericus	clericus	NOUN	n|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	Case=Nom|Gender=Masc|Number=Sing
+6	,	,	PUNCT	Punc	_	7	punct	_	_
+7	filio	filius	NOUN	n|n|-|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	Case=Dat|Gender=Masc|Number=Sing
+8	bone	bonus	ADJ	a|a|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	9	amod	_	Case=Gen|Gender=Fem|Number=Sing
+9	memorie	memoria	NOUN	n|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+10	Rachinaldi	Rachinaldus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+11	,	,	PUNCT	Punc	_	12	punct	_	_
+12	quia	quia	SCONJ	c|c|-|-|-|-|-|-|-|-	_	37	mark	_	_
+13	,	,	PUNCT	Punc	_	12	punct	_	_
+14	una	una	ADV	d|d|-|-|-|-|-|-|-|-	_	16	case	_	_
+15	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	14	fixed	_	_
+16	licentia	licentia	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	37	obl	_	Case=Abl|Gender=Fem|Number=Sing
+17	viri	uir	NOUN	n|n|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	16	nmod	_	Case=Abl|Gender=Masc|Number=Plur
+18	beatissimi	beatus	ADJ	a|a|-|s|-|-|-|m|g|s	Case=Gen|Degree=Sup|Gender=Masc|Number=Sing	17	nmod	_	Case=Gen|Degree=Abs|Gender=Masc|Number=Sing
+19	domni	domnus	NOUN	n|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	17	flat	_	Case=Gen|Gender=Masc|Number=Sing
+20	Iacobi	Iacobus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	17	flat	_	Case=Gen|Gender=Masc|Number=Sing
+21	gratia	gratia	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	23	nmod	_	Case=Abl|Gender=Fem|Number=Sing
+22	Dei	Deus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+23	episcopi	episcopus	NOUN	n|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+24	,	,	PUNCT	Punc	_	16	punct	_	_
+25	te	tu	PRON	p|p|2|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|Person=2	36	obj	_	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs
+26	Aunipertum	Aunipertus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	25	appos	_	Case=Acc|Gender=Masc|Number=Sing
+27	presbiterum	presbyter	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	26	appos	_	Case=Acc|Gender=Masc|Number=Sing
+28	,	,	PUNCT	Punc	_	29	punct	_	_
+29	filium	filius	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	26	appos	_	Case=Acc|Gender=Masc|Number=Sing
+30	quondam	quondam	ADJ	a|a|-|-|-|-|-|-|-|-	_	31	amod	_	_
+31	Aunifridi	Aunefridus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	29	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+32	,	,	PUNCT	Punc	_	25	punct	_	_
+33	rectorem	rector	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	36	xcomp	_	Case=Acc|Gender=Masc|Number=Sing
+34	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	35	cc	_	_
+35	gubernatorem	gubernator	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	33	conj	_	Case=Acc|Gender=Masc|Number=Sing
+36	ordinare	ordino	VERB	v|v|-|-|p|n|a|-|-|-	Mood=Inf|Tense=Pres|Voice=Act	37	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+37	videor	uideo	VERB	v|v|1|s|p|i|p|-|-|-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Pass	1	csubj	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+38	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	39	case	_	_
+39	ecclesia	ecclesia	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	36	obl	_	Case=Abl|Gender=Fem|Number=Sing
+40	beati	beatus	ADJ	a|a|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	42	amod	_	Case=Gen|Gender=Masc|Number=Sing
+41	sancti	sanctus	ADJ	a|a|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	42	amod	_	Case=Gen|Gender=Masc|Number=Sing
+42	Reguli	Regulus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	39	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+43	sita	sino	VERB	t|t|-|s|r|p|p|f|b|-	Case=Abl|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	39	acl	_	Aspect=Perf|Case=Abl|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+44	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	45	case	_	_
+45	loco	locus	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	43	obl	_	Case=Abl|Gender=Masc|Number=Sing
+46	Vualdo	Waldus	PROPN	Propn|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	45	flat	_	Case=Abl|Gender=Masc|Number=Sing
+47	,	,	PUNCT	Punc	_	39	punct	_	_
+48	ut	ut	SCONJ	c|c|-|-|-|-|-|-|-|-	_	56	mark	_	_
+49	tu	tu	PRON	p|p|2|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=2	56	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs
+50	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	52	case	_	_
+51	ipsa	ipse	DET	p|p|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	52	det	_	Case=Abl|Gender=Fem|Number=Sing|PronType=Dem
+52	ecclesia	ecclesia	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	53	obl	_	Case=Abl|Gender=Fem|Number=Sing
+53	resedere	resideo	VERB	v|v|-|-|p|n|a|-|-|-	Mood=Inf|Tense=Pres|Voice=Act	56	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+54	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	55	cc	_	_
+55	avitare	habito	VERB	v|v|-|-|p|n|a|-|-|-	Mood=Inf|Tense=Pres|Voice=Act	53	conj	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+56	debeas	debeo	VERB	v|v|2|s|p|s|a|-|-|-	Mood=Sub|Number=Sing|Person=2|Tense=Pres|Voice=Act	36	advcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act
+57	,	,	PUNCT	Punc	_	68	punct	_	_
+58	officium	officium	NOUN	n|n|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	67	obj	_	Case=Acc|Gender=Neut|Number=Sing
+59	Dei	Deus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	58	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+60	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	61	cc	_	_
+61	luminaria	luminare	NOUN	n|n|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur	58	conj	_	Case=Acc|Gender=Neut|Number=Plur
+62	adque	atque	CCONJ	c|c|-|-|-|-|-|-|-|-	_	63	cc	_	_
+63	missarum	missa	NOUN	n|n|-|p|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Plur	58	conj	_	Case=Gen|Gender=Fem|Number=Plur
+64	sollemnia	sollemne	NOUN	n|n|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur	63	nmod	_	Case=Acc|Gender=Neut|Number=Plur
+65	recto	rectus	ADJ	a|a|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	66	amod	_	Case=Abl|Gender=Neut|Number=Sing
+66	moderamine	moderamen	NOUN	n|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	67	obl	_	Case=Abl|Gender=Neut|Number=Sing
+67	facere	facio	VERB	v|v|-|-|p|n|a|-|-|-	Mood=Inf|Tense=Pres|Voice=Act	68	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+68	debeas	debeo	VERB	v|v|2|s|p|s|a|-|-|-	Mood=Sub|Number=Sing|Person=2|Tense=Pres|Voice=Act	56	conj	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act
+69	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	96	cc	_	_
+70	omne	omnis	DET	a|a|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	71	det	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Tot
+71	res	res	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	96	nsubj	_	Case=Acc|Gender=Fem|Number=Plur
+72	sive	siue	CCONJ	c|c|-|-|-|-|-|-|-|-	_	73	cc	_	_
+73	casas	casa	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	71	conj	_	Case=Acc|Gender=Fem|Number=Plur
+74	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	75	case	_	_
+75	rebus	res	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	73	nmod	_	Case=Abl|Gender=Fem|Number=Plur
+76	suis	suus	DET	a|a|3|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	75	det	_	Case=Abl|Gender=Fem|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes
+77	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	79	case	_	_
+78	colibet	quilibet	DET	p|p|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	79	det	_	Case=Abl|Gender=Masc|Number=Sing|PronType=Ind
+79	locum	locus	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	84	obl	_	Case=Abl|Gender=Masc|Number=Sing
+80	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	83	case	_	_
+81	ipsam	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	83	det	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem
+82	Dei	Deus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	83	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+83	ecclesiam	ecclesia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	84	obl	_	Case=Acc|Gender=Fem|Number=Sing
+84	pertenentes	pertineo	VERB	t|t|-|p|p|p|a|f|a|-	Case=Acc|Gender=Fem|Mood=Part|Number=Plur|Tense=Pres|Voice=Act	75	acl	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act
+85	,	,	PUNCT	Punc	_	86	punct	_	_
+86	moviles	mobilis	ADJ	a|a|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	75	nmod	_	Case=Acc|Gender=Fem|Number=Plur
+87	vel	uel	CCONJ	c|c|-|-|-|-|-|-|-|-	_	88	cc	_	_
+88	inmovile	immobilis	ADJ	a|a|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	86	conj	_	Case=Acc|Gender=Fem|Number=Plur
+89	seo	seu	CCONJ	c|c|-|-|-|-|-|-|-|-	_	90	cc	_	_
+90	semoventes	semouens	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	86	conj	_	Case=Acc|Gender=Masc|Number=Plur
+91	,	,	PUNCT	Punc	_	92	punct	_	_
+92	omnia	omnis	DET	a|a|-|p|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Plur	71	conj	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Tot
+93	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	96	case	_	_
+94	tua	tuus	DET	a|a|2|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	96	det	_	Case=Abl|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs
+95	sit	sum	AUX	v|v|3|s|p|s|a|-|-|-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	96	cop	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+96	potestate	potestas	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	56	conj	_	Case=Abl|Gender=Fem|Number=Sing
+97	regendum	rego	VERB	t|t|-|s|p|d|p|n|a|-	Case=Acc|Mood=Ger|Voice=Act	96	acl	_	Aspect=Prosp|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+98	,	,	PUNCT	Punc	_	99	punct	_	_
+99	gubernandum	guberno	VERB	t|t|-|s|p|d|p|n|a|-	Case=Acc|Mood=Ger|Voice=Act	97	conj	_	Aspect=Prosp|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+100	adque	atque	CCONJ	c|c|-|-|-|-|-|-|-|-	_	103	cc	_	_
+101	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	102	case	_	_
+102	omnibus	omnis	DET	a|a|-|p|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Plur	103	obl	_	Case=Abl|Gender=Neut|Number=Plur|PronType=Tot
+103	meliorandum	melioro	VERB	t|t|-|s|p|d|p|n|a|-	Case=Acc|Mood=Ger|Voice=Act	97	conj	_	Aspect=Prosp|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+104	.	.	PUNCT	Punc	_	1	punct	_	_
+
+# sent_id = train-s2061
+# text = simul et dare videor in eadem ecclesia decem modiorum de terra mea illa ubi dicitur ad Merao prope Silice, seo et terra et vinea mea cum oliveto in Cagiaccle, et una casa mea massaricia in loco Bacclano, qui regitur per Veneriusulo, una cum omni re ad eam pertenente, simul et terra et vinea mea sive oliveto, silvis, virgareis omnia quantum abere visu sum in loco Vetusiano, et una casa mea in Turre cum omni rem ad eam pertenente, ubi residere videtur Ermiteulo massario meo, et alia casa mea in Mariniano, ubi resede Ostrulo, una cum omni rem ad eam pertinente.
+# reference = document_id='74:7'-span='33'
+1	simul	simul	ADV	d|d|-|-|-|-|-|-|-|-	_	4	advmod	_	_
+2	et	et	ADV	d|d|-|-|-|-|-|-|-|-	_	4	advmod:emph	_	_
+3	dare	do	VERB	v|v|-|-|p|n|a|-|-|-	Mood=Inf|Tense=Pres|Voice=Act	4	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+4	videor	uideo	VERB	v|v|1|s|p|i|p|-|-|-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Pass	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+5	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	7	case	_	_
+6	eadem	idem	DET	p|p|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	7	det	_	Case=Abl|Gender=Fem|Number=Sing|PronType=Dem
+7	ecclesia	ecclesia	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	3	obl:arg	_	Case=Abl|Gender=Fem|Number=Sing
+8	decem	decem	NUM	m|m|-|-|-|-|-|-|-|-	_	9	nummod	_	NumForm=Word|NumType=Card
+9	modiorum	modius	NOUN	n|n|-|p|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Plur	3	obl:arg	_	Case=Gen|Gender=Masc|Number=Plur
+10	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	11	case	_	_
+11	terra	terra	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	9	nmod	_	Case=Abl|Gender=Fem|Number=Sing
+12	mea	meus	DET	a|a|1|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	11	det	_	Case=Abl|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs
+13	illa	ille	DET	p|p|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	11	det	_	Case=Abl|Gender=Fem|Number=Sing|PronType=Dem
+14	ubi	ubi	ADV	d|d|-|-|-|-|-|-|-|-	_	15	advmod:lmod	_	AdvType=Loc|PronType=Rel
+15	dicitur	dico	VERB	v|v|3|s|p|i|p|-|-|-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	11	acl:relcl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+16	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	17	case	_	_
+17	Merao	Meraum	PROPN	Propn|n|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	15	xcomp	_	Case=Acc|Gender=Neut|Number=Sing
+18	prope	prope	ADP	r|r|-|-|-|-|-|-|-|-	_	19	case	_	_
+19	Silice	Silex	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	11	nmod	_	Case=Acc|Gender=Masc|Number=Sing
+20	,	,	PUNCT	Punc	_	23	punct	_	_
+21	seo	seu	CCONJ	c|c|-|-|-|-|-|-|-|-	_	23	cc	_	_
+22	et	et	ADV	d|d|-|-|-|-|-|-|-|-	_	21	fixed	_	_
+23	terra	terra	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	9	conj	_	Case=Acc|Gender=Fem|Number=Sing
+24	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	25	cc	_	_
+25	vinea	uinea	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	23	conj	_	Case=Acc|Gender=Fem|Number=Sing
+26	mea	meus	DET	a|a|1|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	23	det	_	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs
+27	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	28	case	_	_
+28	oliveto	oliuetum	NOUN	n|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	23	nmod	_	Case=Abl|Gender=Neut|Number=Sing
+29	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	30	case	_	_
+30	Cagiaccle	Gahagiacula	PROPN	Propn|n|-|p|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Plur	23	nmod	_	Case=Nom|Gender=Fem|Number=Plur
+31	,	,	PUNCT	Punc	_	34	punct	_	_
+32	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	34	cc	_	_
+33	una	unus	NUM	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	34	nummod	_	Case=Acc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card
+34	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	9	conj	_	Case=Acc|Gender=Fem|Number=Sing
+35	mea	meus	DET	a|a|1|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	34	det	_	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs
+36	massaricia	massaricius	ADJ	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	34	amod	_	Case=Acc|Gender=Fem|Number=Sing
+37	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	38	case	_	_
+38	loco	locus	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	34	nmod	_	Case=Abl|Gender=Masc|Number=Sing
+39	Bacclano	Bacclanum	PROPN	Propn|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	38	flat	_	Case=Abl|Gender=Neut|Number=Sing
+40	,	,	PUNCT	Punc	_	42	punct	_	_
+41	qui	qui	PRON	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	42	nsubj:pass	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+42	regitur	rego	VERB	v|v|3|s|p|i|p|-|-|-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	34	acl:relcl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+43	per	per	ADP	r|r|-|-|-|-|-|-|-|-	_	44	case	_	_
+44	Veneriusulo	Veneriusulus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	42	obl	_	Case=Acc|Gender=Masc|Number=Sing
+45	,	,	PUNCT	Punc	_	49	punct	_	_
+46	una	una	ADV	d|d|-|-|-|-|-|-|-|-	_	49	case	_	_
+47	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	46	fixed	_	_
+48	omni	omnis	DET	a|a|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	49	det	_	Case=Abl|Gender=Fem|Number=Sing|PronType=Tot
+49	re	res	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	34	nmod	_	Case=Abl|Gender=Fem|Number=Sing
+50	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	51	case	_	_
+51	eam	is	PRON	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Person=3	52	obl	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+52	pertenente	pertineo	VERB	t|t|-|s|p|p|a|f|b|-	Case=Abl|Gender=Fem|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	49	acl	_	Aspect=Imp|Case=Abl|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act
+53	,	,	PUNCT	Punc	_	54	punct	_	_
+54	simul	simul	ADV	d|d|-|-|-|-|-|-|-|-	_	66	cc	_	_
+55	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	54	fixed	_	_
+56	terra	terra	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	9	nmod	_	Case=Acc|Gender=Fem|Number=Sing
+57	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	58	cc	_	_
+58	vinea	uinea	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	56	conj	_	Case=Acc|Gender=Fem|Number=Sing
+59	mea	meus	DET	a|a|1|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	56	det	_	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs
+60	sive	siue	CCONJ	c|c|-|-|-|-|-|-|-|-	_	61	cc	_	_
+61	oliveto	oliuetum	NOUN	n|n|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	56	conj	_	Case=Acc|Gender=Neut|Number=Sing
+62	,	,	PUNCT	Punc	_	63	punct	_	_
+63	silvis	silua	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	61	conj	_	Case=Abl|Gender=Fem|Number=Plur
+64	,	,	PUNCT	Punc	_	65	punct	_	_
+65	virgareis	uirgareum	NOUN	n|n|-|p|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Plur	61	conj	_	Case=Abl|Gender=Neut|Number=Plur
+66	omnia	omnis	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur	9	conj	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot
+67	quantum	quantum	ADV	d|d|-|-|-|-|-|-|-|-	_	68	advmod	_	PronType=Rel
+68	abere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Mood=Inf|Tense=Pres|Voice=Act	69	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+69	visu	uideo	VERB	t|t|-|s|r|p|p|m|a|-	Case=Acc|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	66	acl:relcl	_	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+70	sum	sum	AUX	v|v|1|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	69	aux:pass	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+71	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	72	case	_	_
+72	loco	locus	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	68	obl	_	Case=Abl|Gender=Masc|Number=Sing
+73	Vetusiano	Vetusianum	PROPN	Propn|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	72	flat	_	Case=Abl|Gender=Neut|Number=Sing
+74	,	,	PUNCT	Punc	_	77	punct	_	_
+75	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	77	cc	_	_
+76	una	unus	NUM	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	77	nummod	_	Case=Acc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card
+77	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	9	conj	_	Case=Acc|Gender=Fem|Number=Sing
+78	mea	meus	DET	a|a|1|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	77	det	_	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs
+79	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	80	case	_	_
+80	Turre	Turris	PROPN	Propn|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	77	nmod	_	Case=Abl|Gender=Fem|Number=Sing
+81	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	83	case	_	_
+82	omni	omnis	DET	a|a|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	83	det	_	Case=Abl|Gender=Fem|Number=Sing|PronType=Tot
+83	rem	res	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	77	nmod	_	Case=Abl|Gender=Fem|Number=Sing
+84	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	85	case	_	_
+85	eam	is	PRON	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Person=3	86	obl	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+86	pertenente	pertineo	VERB	t|t|-|s|p|p|a|f|b|-	Case=Abl|Gender=Fem|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	83	acl	_	Aspect=Imp|Case=Abl|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act
+87	,	,	PUNCT	Punc	_	90	punct	_	_
+88	ubi	ubi	ADV	d|d|-|-|-|-|-|-|-|-	_	89	advmod:lmod	_	AdvType=Loc|PronType=Rel
+89	residere	resideo	VERB	v|v|-|-|p|n|a|-|-|-	Mood=Inf|Tense=Pres|Voice=Act	90	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+90	videtur	uideo	VERB	v|v|3|s|p|i|p|-|-|-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	77	acl:relcl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+91	Ermiteulo	Ermiteulus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	90	nsubj:pass	_	Case=Acc|Gender=Masc|Number=Sing
+92	massario	massarius	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	91	appos	_	Case=Acc|Gender=Masc|Number=Sing
+93	meo	meus	DET	a|a|1|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	92	det	_	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs
+94	,	,	PUNCT	Punc	_	97	punct	_	_
+95	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	97	cc	_	_
+96	alia	alius	DET	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	97	det	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Con
+97	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	9	conj	_	Case=Acc|Gender=Fem|Number=Sing
+98	mea	meus	DET	a|a|1|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	97	det	_	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs
+99	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	100	case	_	_
+100	Mariniano	Marinianum	PROPN	Propn|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	97	nmod	_	Case=Abl|Gender=Neut|Number=Sing
+101	,	,	PUNCT	Punc	_	103	punct	_	_
+102	ubi	ubi	ADV	d|d|-|-|-|-|-|-|-|-	_	103	advmod:lmod	_	AdvType=Loc|PronType=Rel
+103	resede	resideo	VERB	v|v|3|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	97	acl:relcl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+104	Ostrulo	Austrulus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	103	nsubj	_	Case=Acc|Gender=Masc|Number=Sing
+105	,	,	PUNCT	Punc	_	109	punct	_	_
+106	una	una	ADV	d|d|-|-|-|-|-|-|-|-	_	109	case	_	_
+107	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	106	fixed	_	_
+108	omni	omnis	DET	a|a|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	109	det	_	Case=Abl|Gender=Fem|Number=Sing|PronType=Tot
+109	rem	res	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	97	nmod	_	Case=Abl|Gender=Fem|Number=Sing
+110	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	111	case	_	_
+111	eam	is	PRON	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Person=3	112	obl	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+112	pertinente	pertineo	VERB	t|t|-|s|p|p|a|f|b|-	Case=Abl|Gender=Fem|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	109	acl	_	Aspect=Imp|Case=Abl|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act
+113	.	.	PUNCT	Punc	_	4	punct	_	_
+

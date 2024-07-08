@@ -1,0 +1,331 @@
+# sent_id = 33478
+# text = fui in spiritu in dominica die et audivi post me vocem magnam tamquam tubae dicentis
+# source = Jerome's Vulgate, Revelation 1
+1	fui	sum	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Perf|Voice=Act	3	cop	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+2	in	in	ADP	R-	_	3	case	_	AdpType=Prep
+3	spiritu	spiritus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	0	root	_	Case=Abl|Gender=Masc|Number=Sing
+4	in	in	ADP	R-	_	6	case	_	AdpType=Prep
+5	dominica	dominicus	ADJ	A-	Case=Abl|Gender=Fem|Number=Sing	6	amod	_	Case=Abl|Gender=Fem|Number=Sing
+6	die	dies	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	3	obl	_	Case=Abl|Gender=Fem|Number=Sing
+7	et	et	CCONJ	C-	_	8	cc	_	_
+8	audivi	audio	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Perf|Voice=Act	3	conj	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+9	post	post	ADP	R-	_	10	case	_	AdpType=Prep
+10	me	ego	PRON	Pp	Case=Acc|Number=Sing|Person=1	8	obl	_	Case=Acc|Number=Sing|Person=1|PronType=Prs
+11	vocem	vox	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	Case=Acc|Gender=Fem|Number=Sing
+12	magnam	magnus	ADJ	A-	Case=Acc|Gender=Fem|Number=Sing	11	amod	_	Case=Acc|Gender=Fem|Number=Sing
+13	tamquam	tamquam	SCONJ	Df	_	14	mark	_	_
+14	tubae	tuba	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	11	advcl:cmp	_	Case=Gen|Gender=Fem|Number=Sing
+15	dicentis	dico	VERB	V-	Case=Gen|Gender=Fem|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	14	acl	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act
+
+# sent_id = 33520
+# text = qui vicerit non laedetur a morte secunda
+# source = Jerome's Vulgate, Revelation 2
+1	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+2	vicerit	vinco	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=FutP|Voice=Act	4	nsubj:pass	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+3	non	non	PART	Df	_	4	advmod:neg	_	Polarity=Neg
+4	laedetur	laedo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Pass	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass
+5	a	ab	ADP	R-	_	6	case	_	AdpType=Prep
+6	morte	mors	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	4	obl:agent	_	Case=Abl|Gender=Fem|Number=Sing
+7	secunda	secundus	ADJ	Mo	Case=Abl|Gender=Fem|Number=Sing	6	amod	_	Case=Abl|Gender=Fem|Number=Sing|NumType=Ord
+
+# sent_id = 33554
+# text = esto vigilans et confirma cetera quae moritura erant
+# source = Jerome's Vulgate, Revelation 3
+1	esto	sum	AUX	V-	Mood=Imp|Number=Sing|Person=2|Tense=Fut|Voice=Act	2	aux	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin
+2	vigilans	vigilo	VERB	V-	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act
+3	et	et	CCONJ	C-	_	4	cc	_	_
+4	confirma	confirmo	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	2	conj	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+5	cetera	ceterus	DET	A-	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Con
+6	quae	qui	PRON	Pr	Case=Nom|Gender=Neut|Number=Plur	7	nsubj	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel
+7	moritura	morior	VERB	V-	Case=Nom|Gender=Neut|Mood=Part|Number=Plur|Tense=Fut|Voice=Act	5	acl:relcl	_	Aspect=Prosp|Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act
+8	erant	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Imp|Voice=Act	7	aux	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+
+# sent_id = 33578
+# text = haec dicit Amen testis fidelis et verus qui est principium creaturae Dei
+# source = Jerome's Vulgate, Revelation 3
+1	haec	hic	DET	Pd	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem
+2	dicit	dico	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+3	Amen	amen	PART	I-	_	2	nsubj	_	_
+4	testis	testis	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	Case=Nom|Gender=Masc|Number=Sing
+5	fidelis	fidelis	ADJ	A-	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	Case=Nom|Gender=Masc|Number=Sing
+6	et	et	CCONJ	C-	_	7	cc	_	_
+7	verus	verus	ADJ	A-	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	Case=Nom|Gender=Masc|Number=Sing
+8	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+9	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	10	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+10	principium	principium	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	4	acl:relcl	_	Case=Nom|Gender=Neut|Number=Sing
+11	creaturae	creatura	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+12	Dei	deus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+
+# sent_id = 33586
+# text = et nescis quia tu es miser et miserabilis et pauper et caecus et nudus
+# source = Jerome's Vulgate, Revelation 3
+1	et	et	CCONJ	C-	_	2	cc	_	_
+2	nescis	nescio	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+3	quia	quia	SCONJ	G-	_	6	mark	_	_
+4	tu	tu	PRON	Pp	Case=Nom|Number=Sing|Person=2	6	nsubj	_	Case=Nom|Number=Sing|Person=2|PronType=Prs
+5	es	sum	AUX	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	6	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+6	miser	miser	ADJ	A-	Case=Nom|Gender=Masc|Number=Sing	2	ccomp	_	Case=Nom|Gender=Masc|Number=Sing
+7	et	et	CCONJ	C-	_	8	cc	_	_
+8	miserabilis	miserabilis	ADJ	A-	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	Case=Nom|Gender=Masc|Number=Sing
+9	et	et	CCONJ	C-	_	10	cc	_	_
+10	pauper	pauper	ADJ	A-	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	Case=Nom|Gender=Masc|Number=Sing
+11	et	et	CCONJ	C-	_	12	cc	_	_
+12	caecus	caecus	ADJ	A-	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	Case=Nom|Gender=Masc|Number=Sing
+13	et	et	CCONJ	C-	_	14	cc	_	_
+14	nudus	nudus	ADJ	A-	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	Case=Nom|Gender=Masc|Number=Sing
+
+# sent_id = 33598
+# text = statim fui in spiritu
+# source = Jerome's Vulgate, Revelation 4
+1	statim	statim	ADV	Df	_	4	advmod	_	_
+2	fui	sum	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Perf|Voice=Act	4	cop	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+3	in	in	ADP	R-	_	4	case	_	AdpType=Prep
+4	spiritu	spiritus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	0	root	_	Case=Abl|Gender=Masc|Number=Sing
+
+# sent_id = 33641
+# text = et quattuor animalia dicebant
+# source = Jerome's Vulgate, Revelation 5
+1	et	et	CCONJ	C-	_	4	cc	_	_
+2	quattuor	quattuor	NUM	Ma	_	3	nummod	_	NumForm=Word|NumType=Card
+3	animalia	animal	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	Case=Nom|Gender=Neut|Number=Plur
+4	dicebant	dico	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Imp|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+
+# sent_id = 33674
+# text = et reges terrae et principes et tribuni et divites et fortes et omnis servus et liber absconderunt se in speluncis et petris montium
+# source = Jerome's Vulgate, Revelation 6
+1	et	et	CCONJ	C-	_	17	cc	_	_
+2	reges	rex	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	17	nsubj	_	Case=Nom|Gender=Masc|Number=Plur
+3	terrae	terra	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+4	et	et	CCONJ	C-	_	5	cc	_	_
+5	principes	princeps	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	Case=Nom|Gender=Masc|Number=Plur
+6	et	et	CCONJ	C-	_	7	cc	_	_
+7	tribuni	tribunus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	Case=Nom|Gender=Masc|Number=Plur
+8	et	et	CCONJ	C-	_	9	cc	_	_
+9	divites	dives	ADJ	A-	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	Case=Nom|Gender=Masc|Number=Plur
+10	et	et	CCONJ	C-	_	11	cc	_	_
+11	fortes	fortis	ADJ	A-	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	Case=Nom|Gender=Masc|Number=Plur
+12	et	et	CCONJ	C-	_	14	cc	_	_
+13	omnis	omnis	DET	Px	Case=Nom|Gender=Fem|Number=Sing	14	det	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot
+14	servus	servus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	Case=Nom|Gender=Masc|Number=Sing
+15	et	et	CCONJ	C-	_	16	cc	_	_
+16	liber	liber	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	14	conj	_	Case=Nom|Gender=Masc|Number=Sing
+17	absconderunt	abscondo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+18	se	sui	PRON	Pk	Case=Acc|Number=Sing|Person=3	17	obj	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes
+19	in	in	ADP	R-	_	20	case	_	AdpType=Prep
+20	speluncis	spelunca	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	17	obl	_	Case=Abl|Gender=Fem|Number=Plur
+21	et	et	CCONJ	C-	_	22	cc	_	_
+22	petris	petra	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	20	conj	_	Case=Abl|Gender=Fem|Number=Plur
+23	montium	mons	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	22	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+
+# sent_id = 33694
+# text = ex tribu Ioseph duodecim milia
+# source = Jerome's Vulgate, Revelation 7
+1	ex	ex	ADP	R-	_	2	case	_	AdpType=Prep
+2	tribu	tribus	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	0	root	_	Case=Abl|Gender=Fem|Number=Sing
+3	Ioseph	Ioseph	PROPN	Ne	_	2	nmod	_	_
+4	duodecim	duodecim	NUM	Ma	_	5	nummod	_	NumForm=Word|NumType=Card
+5	milia	mille	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	Case=Nom|Gender=Neut|Number=Plur|NumForm=Word|NumType=Card
+
+# sent_id = 33702
+# text = amen
+# source = Jerome's Vulgate, Revelation 7
+1	amen	amen	PART	I-	_	0	root	_	_
+
+# sent_id = 33704
+# text = amen
+# source = Jerome's Vulgate, Revelation 7
+1	amen	amen	PART	I-	_	0	root	_	_
+
+# sent_id = 33760
+# text = solve quattuor angelos qui alligati sunt in flumine magno Eufrate
+# source = Jerome's Vulgate, Revelation 9
+1	solve	solvo	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+2	quattuor	quattuor	NUM	Ma	_	3	nummod	_	NumForm=Word|NumType=Card
+3	angelos	angelus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	obj	_	Case=Acc|Gender=Masc|Number=Plur
+4	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur	5	nsubj:pass	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel
+5	alligati	alligo	VERB	V-	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	3	acl:relcl	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+6	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	5	aux:pass	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+7	in	in	ADP	R-	_	8	case	_	AdpType=Prep
+8	flumine	flumen	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	5	obl	_	Case=Abl|Gender=Neut|Number=Sing
+9	magno	magnus	ADJ	A-	Case=Abl|Gender=Neut|Number=Sing	8	amod	_	Case=Abl|Gender=Neut|Number=Sing
+10	Eufrate	Eufrates	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	8	flat	_	Case=Abl|Gender=Masc|Number=Sing
+
+# sent_id = 33773
+# text = et posuit pedem suum dextrum supra mare sinistrum autem super terram
+# source = Jerome's Vulgate, Revelation 10
+1	et	et	CCONJ	C-	_	2	cc	_	_
+2	posuit	pono	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+3	pedem	pes	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	Case=Acc|Gender=Masc|Number=Sing
+4	suum	suus	DET	Pt	Case=Acc|Gender=Masc|Number=Sing	3	det	_	Case=Acc|Gender=Masc|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes
+5	dextrum	dexter	ADJ	A-	Case=Acc|Gender=Masc|Number=Sing	3	amod	_	Case=Acc|Gender=Masc|Number=Sing
+6	supra	supra	ADP	R-	_	7	case	_	AdpType=Prep
+7	mare	mare	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	Case=Acc|Gender=Neut|Number=Sing
+8	sinistrum	sinister	ADJ	A-	Case=Acc|Gender=Neut|Number=Sing	2	conj	_	Case=Acc|Gender=Neut|Number=Sing
+9	autem	autem	PART	Df	_	8	discourse	_	_
+10	super	super	ADP	R-	_	11	case	_	AdpType=Prep
+11	terram	terra	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	orphan	_	Case=Acc|Gender=Fem|Number=Sing
+
+# sent_id = 33774
+# text = et clamavit voce magna quemadmodum cum leo rugit
+# source = Jerome's Vulgate, Revelation 10
+1	et	et	CCONJ	C-	_	2	cc	_	_
+2	clamavit	clamo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+3	voce	vox	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	2	obl	_	Case=Abl|Gender=Fem|Number=Sing
+4	magna	magnus	ADJ	A-	Case=Abl|Gender=Fem|Number=Sing	3	amod	_	Case=Abl|Gender=Fem|Number=Sing
+5	quemadmodum	quemadmodum	SCONJ	Dq	_	8	mark	_	PronType=Rel
+6	cum	cum	SCONJ	G-	_	8	mark	_	_
+7	leo	leo	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+8	rugit	rugio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	2	advcl:cmp	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 33813
+# text = et steterunt super pedes suos et timor magnus cecidit super eos qui viderunt eos
+# source = Jerome's Vulgate, Revelation 11
+1	et	et	CCONJ	C-	_	2	cc	_	_
+2	steterunt	sto	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+3	super	super	ADP	R-	_	4	case	_	AdpType=Prep
+4	pedes	pes	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	obl	_	Case=Acc|Gender=Masc|Number=Plur
+5	suos	suus	DET	Pt	Case=Acc|Gender=Masc|Number=Plur	4	det	_	Case=Acc|Gender=Masc|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes
+6	et	et	CCONJ	C-	_	9	cc	_	_
+7	timor	timor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+8	magnus	magnus	ADJ	A-	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	Case=Nom|Gender=Masc|Number=Sing
+9	cecidit	caedo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	2	conj	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+10	super	super	ADP	R-	_	11	case	_	AdpType=Prep
+11	eos	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3	9	obl	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+12	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel
+13	viderunt	video	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	11	acl:relcl	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+14	eos	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3	13	obj	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+
+# sent_id = 33981
+# text = et blasphemaverunt homines Deum propter plagam grandinis quoniam magna facta est vehementer
+# source = Jerome's Vulgate, Revelation 16
+1	et	et	CCONJ	C-	_	2	cc	_	_
+2	blasphemaverunt	blasphemo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+3	homines	homo	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	Case=Nom|Gender=Masc|Number=Plur
+4	Deum	deus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	Case=Acc|Gender=Masc|Number=Sing
+5	propter	propter	ADP	R-	_	6	case	_	AdpType=Prep
+6	plagam	plaga	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	Case=Acc|Gender=Fem|Number=Sing
+7	grandinis	grando	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+8	quoniam	quoniam	SCONJ	G-	_	10	mark	_	_
+9	magna	magnus	ADJ	A-	Case=Nom|Gender=Fem|Number=Sing	10	xcomp	_	Case=Nom|Gender=Fem|Number=Sing
+10	facta	facio	VERB	V-	Case=Nom|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	2	advcl	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+11	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	10	aux:pass	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+12	vehementer	vehementer	ADV	Df	_	10	advmod	_	_
+
+# sent_id = 34008
+# text = hii cum agno pugnabunt
+# source = Jerome's Vulgate, Revelation 17
+1	hii	hic	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem
+2	cum	cum	ADP	R-	_	3	case	_	AdpType=Prep
+3	agno	agnus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	Case=Abl|Gender=Masc|Number=Sing
+4	pugnabunt	pugno	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+
+# sent_id = 34047
+# text = vae vae civitas illa magna quae amicta erat byssino et purpura et cocco et deaurata est auro et lapide pretioso et margaritis quoniam una hora destitutae sunt tantae divitiae et omnis gubernator et omnis qui in locum navigat et nautae et qui maria operantur longe steterunt et clamaverunt videntes locum incendii eius dicentes
+# source = Jerome's Vulgate, Revelation 18
+1	vae	vae	PART	I-	_	26	discourse	_	_
+2	vae	vae	PART	I-	_	26	discourse	_	_
+3	civitas	civitas	NOUN	Nb	Case=Voc|Gender=Fem|Number=Sing	26	vocative	_	Case=Voc|Gender=Fem|Number=Sing
+4	illa	ille	DET	Pd	Case=Voc|Gender=Fem|Number=Sing	3	det	_	Case=Voc|Gender=Fem|Number=Sing|PronType=Dem
+5	magna	magnus	ADJ	A-	Case=Voc|Gender=Fem|Number=Sing	3	amod	_	Case=Voc|Gender=Fem|Number=Sing
+6	quae	qui	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing	7	nsubj:pass	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel
+7	amicta	amicio	VERB	V-	Case=Nom|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	3	acl:relcl	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+8	erat	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Voice=Act	7	aux:pass	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+9	byssino	byssinum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	7	obl	_	Case=Abl|Gender=Neut|Number=Sing
+10	et	et	CCONJ	C-	_	11	cc	_	_
+11	purpura	purpura	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	9	conj	_	Case=Abl|Gender=Fem|Number=Sing
+12	et	et	CCONJ	C-	_	13	cc	_	_
+13	cocco	coccum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	9	conj	_	Case=Abl|Gender=Neut|Number=Sing
+14	et	et	CCONJ	C-	_	15	cc	_	_
+15	deaurata	deauro	VERB	V-	Case=Nom|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	7	conj	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+16	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	15	aux:pass	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+17	auro	aurum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	15	obl	_	Case=Abl|Gender=Neut|Number=Sing
+18	et	et	CCONJ	C-	_	19	cc	_	_
+19	lapide	lapis	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	17	conj	_	Case=Abl|Gender=Masc|Number=Sing
+20	pretioso	pretiosus	ADJ	A-	Case=Abl|Gender=Masc|Number=Sing	19	amod	_	Case=Abl|Gender=Masc|Number=Sing
+21	et	et	CCONJ	C-	_	22	cc	_	_
+22	margaritis	margarita	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	17	conj	_	Case=Abl|Gender=Fem|Number=Plur
+23	quoniam	quoniam	SCONJ	G-	_	26	mark	_	_
+24	una	unus	NUM	Ma	Case=Abl|Gender=Fem|Number=Sing	25	nummod	_	Case=Abl|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card
+25	hora	hora	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	26	obl	_	Case=Abl|Gender=Fem|Number=Sing
+26	destitutae	destituo	VERB	V-	Case=Nom|Gender=Fem|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	0	root	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+27	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	26	aux:pass	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+28	tantae	tantus	DET	Pd	Case=Nom|Gender=Fem|Number=Plur	29	det	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem
+29	divitiae	divitiae	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	26	nsubj:pass	_	Case=Nom|Gender=Fem|Number=Plur
+30	et	et	CCONJ	C-	_	46	cc	_	_
+31	omnis	omnis	DET	A-	Case=Nom|Gender=Masc|Number=Sing	32	det	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot
+32	gubernator	gubernator	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	46	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+33	et	et	CCONJ	C-	_	34	cc	_	_
+34	omnis	omnis	DET	A-	Case=Nom|Gender=Masc|Number=Sing	32	conj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot
+35	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing	38	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+36	in	in	ADP	R-	_	37	case	_	AdpType=Prep
+37	locum	locus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	38	obl	_	Case=Acc|Gender=Masc|Number=Sing
+38	navigat	navigo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	34	acl:relcl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+39	et	et	CCONJ	C-	_	40	cc	_	_
+40	nautae	nauta	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	32	conj	_	Case=Nom|Gender=Masc|Number=Plur
+41	et	et	CCONJ	C-	_	44	cc	_	_
+42	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur	44	nsubj	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel
+43	maria	mare	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	44	obj	_	Case=Acc|Gender=Neut|Number=Plur
+44	operantur	operor	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass	32	conj	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+45	longe	longe	ADV	Df	_	46	advmod	_	_
+46	steterunt	sto	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	26	conj	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+47	et	et	CCONJ	C-	_	48	cc	_	_
+48	clamaverunt	clamo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	26	conj	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+49	videntes	video	VERB	V-	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Pres|Voice=Act	48	advcl	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act
+50	locum	locus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	49	obj	_	Case=Acc|Gender=Masc|Number=Sing
+51	incendii	incendium	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	50	nmod	_	Case=Gen|Gender=Neut|Number=Sing
+52	eius	is	PRON	Pp	Case=Gen|Gender=Fem|Number=Sing|Person=3	51	det	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+53	dicentes	dico	VERB	V-	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Pres|Voice=Act	48	advcl	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act
+
+# sent_id = 34060
+# text = et lux lucernae non lucebit tibi amplius
+# source = Jerome's Vulgate, Revelation 18
+1	et	et	CCONJ	C-	_	5	cc	_	_
+2	lux	lux	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+3	lucernae	lucerna	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+4	non	non	PART	Df	_	5	advmod:neg	_	Polarity=Neg
+5	lucebit	luceo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+6	tibi	tu	PRON	Pp	Case=Dat|Number=Sing|Person=2	5	obl:arg	_	Case=Dat|Number=Sing|Person=2|PronType=Prs
+7	amplius	ample	ADV	Df	Degree=Cmp	5	advmod	_	Degree=Cmp
+
+# sent_id = 34085
+# text = byssinum enim iustificationes sunt sanctorum
+# source = Jerome's Vulgate, Revelation 19
+1	byssinum	byssinum	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	Case=Nom|Gender=Neut|Number=Sing
+2	enim	enim	PART	Df	_	3	discourse	_	_
+3	iustificationes	iustificatio	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	0	root	_	Case=Nom|Gender=Fem|Number=Plur
+4	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	3	cop	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+5	sanctorum	sanctus	ADJ	A-	Case=Gen|Gender=Masc|Number=Plur	3	advcl:pred	_	Case=Gen|Gender=Masc|Number=Plur
+
+# sent_id = 34180
+# text = et duodecim portae duodecim margaritae sunt per singulas
+# source = Jerome's Vulgate, Revelation 21
+1	et	et	CCONJ	C-	_	5	cc	_	_
+2	duodecim	duodecim	NUM	Ma	_	3	nummod	_	NumForm=Word|NumType=Card
+3	portae	porta	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	Case=Nom|Gender=Fem|Number=Plur
+4	duodecim	duodecim	NUM	Ma	_	5	nummod	_	NumForm=Word|NumType=Card
+5	margaritae	margarita	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	0	root	_	Case=Nom|Gender=Fem|Number=Plur
+6	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	5	cop	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+7	per	per	ADP	R-	_	8	case	_	AdpType=Prep
+8	singulas	singulus	ADJ	A-	Case=Acc|Gender=Fem|Number=Plur	5	obl	_	Case=Acc|Gender=Fem|Number=Plur
+
+# sent_id = 34187
+# text = et reges terrae adferent gloriam suam et honorem in illam
+# source = Jerome's Vulgate, Revelation 21
+1	et	et	CCONJ	C-	_	4	cc	_	_
+2	reges	rex	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	Case=Nom|Gender=Masc|Number=Plur
+3	terrae	terra	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+4	adferent	affero	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+5	gloriam	gloria	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	Case=Acc|Gender=Fem|Number=Sing
+6	suam	suus	DET	Pt	Case=Acc|Gender=Fem|Number=Sing	5	det	_	Case=Acc|Gender=Fem|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes
+7	et	et	CCONJ	C-	_	8	cc	_	_
+8	honorem	honor	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	conj	_	Case=Acc|Gender=Masc|Number=Sing
+9	in	in	ADP	R-	_	10	case	_	AdpType=Prep
+10	illam	ille	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem
+
+# sent_id = 34200
+# text = et dixit mihi
+# source = Jerome's Vulgate, Revelation 22
+1	et	et	CCONJ	C-	_	2	cc	_	_
+2	dixit	dico	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+3	mihi	ego	PRON	Pp	Case=Dat|Number=Sing|Person=1	2	obl:arg	_	Case=Dat|Number=Sing|Person=1|PronType=Prs
+

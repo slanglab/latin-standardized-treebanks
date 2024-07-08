@@ -1,0 +1,39 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC LILA:FLCAT LILA:SENTID LILA:LINE
+# sent_id = CicPVati-D-73-1
+# text = ubi nominabit Phaedriam tu Pamphilam continuo si quando illa dicet Phaedriam intro mittamus comisatum Pamphilam cantatum prouocemus si laudabit haec illius formam tu huius contra
+1	ubi	ubi	SCONJ	T	_	_	_	_	_
+2	nominabit	nomino	VERB	B1	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+3	Phaedriam	phaedria	PROPN	A1	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurA|Number=Sing
+4	tu	tu	PRON	E	Case=Nom|Number=Sing|Person=2	_	_	_	Case=Nom|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs
+5	Pamphilam	pamphila	PROPN	A1	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing
+6	continuo	continuo	ADV	M	_	_	_	_	Degree=Pos
+7	si	si	SCONJ	T	_	_	_	_	_
+8	quando	quando	ADV	M	_	_	_	_	Degree=Pos
+9	illa	ille	DET	I	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem
+10	dicet	dico	VERB	B3	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+11	Phaedriam	phaedria	PROPN	A1	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurA|Number=Sing
+12	intro	intro	ADV	M	_	_	_	_	Degree=Pos
+13	mittamus	mitto	VERB	B3	Mood=Sub|Number=Plur|Person=1|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+14	comisatum	comissor	VERB	B1	Case=Acc|Mood=Sup|Voice=Act	_	_	_	Aspect=Prosp|Case=Acc|InflClass=LatA|InflClass[nominal]=IndEurU|VerbForm=Sup
+15	Pamphilam	pamphila	PROPN	A1	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing
+16	cantatum	canto	VERB	B1	Case=Acc|Mood=Sup|Voice=Act	_	_	_	Aspect=Prosp|Case=Acc|InflClass=LatA|InflClass[nominal]=IndEurU|VerbForm=Sup
+17	prouocemus	prouoco	VERB	B1	Mood=Sub|Number=Plur|Person=1|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatA|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+18	si	si	SCONJ	T	_	_	_	_	_
+19	laudabit	laudo	VERB	B1	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+20	haec	hic	DET	I	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem
+21	illius	ille	DET	I	Case=Gen|Gender=Fem,Masc,Neut|Number=Sing	_	_	_	Case=Gen|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Dem
+22	formam	forma	NOUN	A1	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing
+23	tu	tu	PRON	E	Case=Nom|Number=Sing|Person=2	_	_	_	Case=Nom|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs
+24	huius	hic	DET	I	Case=Gen|Gender=Fem,Masc,Neut|Number=Sing	_	_	_	Case=Gen|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Dem
+25	contra	contra	ADV	M	_	_	_	_	Degree=Pos
+
+# sent_id = CicPVati-D-73-2
+# text = denique par pro pari referto quod eam mordeat
+1	denique	denique	ADV	M	_	_	_	_	Degree=Pos
+2	par	par	NOUN	A3	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurI|Number=Sing
+3	pro	pro	ADP	R	_	_	_	_	AdpType=Prep
+4	pari	par	NOUN	A3	Case=Abl|Gender=Masc|Number=Sing	_	_	_	Case=Abl|Gender=Masc|InflClass=IndEurI|Number=Sing
+5	referto	refero	VERB	B6	Mood=Imp|Number=Sing|Person=2|Tense=Fut|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act
+6	quod	quod	SCONJ	T	_	_	_	_	_
+7	eam	is	DET	I	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Prs
+8	mordeat	mordeo	VERB	B2	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act

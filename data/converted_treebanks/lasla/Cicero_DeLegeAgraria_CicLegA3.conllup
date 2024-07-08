@@ -1,0 +1,1466 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC LILA:FLCAT LILA:SENTID LILA:LINE
+# sent_id = CicLegA3-D-18-1
+# text = commodius fecissent tribuni plebis Quirites si quae apud uos de me deferunt ea coram potius me praesente dixissent nam et aequitatem uestrae disceptationis et consuetudinem superiorum et ius suae potestatis retinuissent
+1	commodius	commode	ADV	M	Degree=Cmp	_	_	_	Degree=Cmp
+2	fecissent	facio	VERB	B5	Mood=Sub|Number=Plur|Person=3|Tense=Plup|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatI2|Mood=Sub|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act
+3	tribuni	tribunus	NOUN	A2	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur
+4	plebis	plebs	NOUN	A3	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurI|Number=Sing
+5	Quirites	quirites	PROPN	A3	Case=Voc|Gender=Masc|Number=Plur	_	_	_	Case=Voc|Gender=Masc|InflClass=IndEurX|Number=Plur
+6	si	si	SCONJ	T	_	_	_	_	_
+7	quae	qui	PRON	J	Case=Acc|Gender=Neut|Number=Plur	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Rel
+8	apud	apud	ADP	R	_	_	_	_	AdpType=Prep
+9	uos	uos	PRON	E	Case=Acc|Number=Plur|Person=2	_	_	_	Case=Acc|InflClass=LatAnom|Number=Plur|Person=2|PronType=Prs
+10	de	de	ADP	R	_	_	_	_	AdpType=Prep
+11	me	ego	PRON	E	Case=Abl|Number=Sing|Person=1	_	_	_	Case=Abl|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs
+12	deferunt	defero	VERB	B6	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+13	ea	is	DET	I	Case=Acc|Gender=Neut|Number=Plur	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Prs
+14	coram	coram	ADV	M	_	_	_	_	Degree=Pos
+15	potius	potius	ADV	M	Degree=Cmp	_	_	_	Degree=Cmp
+16	me	ego	PRON	E	Case=Abl|Number=Sing|Person=1	_	_	_	Case=Abl|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs
+17	praesente	praesum	VERB	B6	Case=Abl|Gender=Fem,Masc,Neut|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|Case=Abl|Degree=Pos|Gender=Fem,Masc,Neut|InflClass=LatAnom|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act
+18	dixissent	dico	VERB	B3	Mood=Sub|Number=Plur|Person=3|Tense=Plup|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatX|Mood=Sub|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act
+19	nam	nam	PART	S	_	_	_	_	_
+20	et	et	CCONJ	S	_	_	_	_	_
+21	aequitatem	aequitas	NOUN	A3	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing
+22	uestrae	uester	DET	F	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs
+23	disceptationis	disceptatio	NOUN	A3	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing
+24	et	et	CCONJ	S	_	_	_	_	_
+25	consuetudinem	consuetudo	NOUN	A3	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing
+26	superiorum	superus	ADJ	C1	Case=Gen|Degree=Cmp|Gender=Fem,Masc,Neut|Number=Plur	_	_	_	Case=Gen|Degree=Cmp|Gender=Fem,Masc,Neut|InflClass=IndEurX|Number=Plur
+27	et	et	CCONJ	S	_	_	_	_	_
+28	ius	ius	NOUN	A3	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=IndEurI|Number=Sing
+29	suae	suus	DET	H	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes
+30	potestatis	potestas	NOUN	A3	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing
+31	retinuissent	retineo	VERB	B2	Mood=Sub|Number=Plur|Person=3|Tense=Plup|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatE|Mood=Sub|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act
+
+# sent_id = CicLegA3-D-18-2
+# text = sed quoniam adhuc praesens certamen contentionemque fugerunt nunc si uidetur eis in meam contionem prodeant et quo prouocati a me uenire noluerunt reuocati saltem reuertantur
+1	sed	sed	CCONJ	S	_	_	_	_	_
+2	quoniam	quoniam	SCONJ	T	_	_	_	_	_
+3	adhuc	adhuc	ADV	M	_	_	_	_	Degree=Pos
+4	praesens	praesens	ADJ	C5	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Sing
+5	certamen	certamen	NOUN	A3	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=IndEurX|Number=Sing
+6	contentionem	contentio	NOUN	A3	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing
+7	que	que	CCONJ	S	_	_	_	_	_
+8	fugerunt	fugio	VERB	B5	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatI2|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+9	nunc	nunc	ADV	M	_	_	_	_	Degree=Pos
+10	si	si	SCONJ	T	_	_	_	_	_
+11	uidetur	uideo	VERB	B2	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+12	eis	is	DET	I	Case=Dat|Gender=Fem,Masc,Neut|Number=Plur	_	_	_	Case=Dat|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Plur|PronType=Prs
+13	in	in	ADP	R	_	_	_	_	AdpType=Prep
+14	meam	meus	DET	F	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs
+15	contionem	contio	NOUN	A3	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing
+16	prodeant	prodeo	VERB	B6	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+17	et	et	CCONJ	S	_	_	_	_	_
+18	quo	quo	SCONJ	T	_	_	_	_	_
+19	prouocati	prouoco	VERB	B1	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass
+20	a	ab	ADP	R	_	_	_	_	AdpType=Prep
+21	me	ego	PRON	E	Case=Abl|Number=Sing|Person=1	_	_	_	Case=Abl|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs
+22	uenire	uenio	VERB	B4	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatI|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act
+23	noluerunt	nolo	VERB	B6	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+24	reuocati	reuoco	VERB	B1	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass
+25	saltem	saltem	ADV	M	_	_	_	_	Degree=Pos
+26	reuertantur	reuertor	VERB	B3	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+
+# sent_id = CicLegA3-D-18-3
+# text = uideo quosdam Quirites strepitu significare nescio quid et non eosdem uoltus quos proxima mea contione praebuerunt in hanc contionem mihi rettulisse
+1	uideo	uideo	VERB	B2	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+2	quosdam	quidam	DET	L	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Ind
+3	Quirites	quirites	PROPN	A3	Case=Voc|Gender=Masc|Number=Plur	_	_	_	Case=Voc|Gender=Masc|InflClass=IndEurX|Number=Plur
+4	strepitu	strepitus	NOUN	A4	Case=Abl|Gender=Masc|Number=Sing	_	_	_	Case=Abl|Gender=Masc|InflClass=IndEurU|Number=Sing
+5	significare	significo	VERB	B1	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatA|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act
+6	nescio	nescio	VERB	B4	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatI|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+7	quid	quis	PRON	L	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Ind
+8	et	et	CCONJ	S	_	_	_	_	_
+9	non	non	PART	P	_	_	_	_	Polarity=Neg
+10	eosdem	idem	DET	I	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Dem
+11	uoltus	uultus	NOUN	A4	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurU|Number=Plur
+12	quos	qui	PRON	J	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Rel
+13	proxima	propior	ADJ	C	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing
+14	mea	meus	DET	F	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs
+15	contione	contio	NOUN	A3	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing
+16	praebuerunt	praebeo	VERB	B2	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatE|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+17	in	in	ADP	R	_	_	_	_	AdpType=Prep
+18	hanc	hic	DET	I	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem
+19	contionem	contio	NOUN	A3	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing
+20	mihi	ego	PRON	E	Case=Dat|Number=Sing|Person=1	_	_	_	Case=Dat|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs
+21	rettulisse	refero	VERB	B6	Mood=Inf|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatAnom|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act
+
+# sent_id = CicLegA3-D-18-4
+# text = qua re a uobis qui nihil de me credidistis ut eam uoluntatem quam semper habuistis erga me retineatis peto a uobis autem quos leuiter immutatos esse sentio paruam exigui temporis usuram bonae de me opinionis postulo ut eam si quae dixero uobis probabo perpetuo retineatis sin aliter hoc ipso in loco depositam atque abiectam relinquatis
+1	qua	qui	PRON	J	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Degree=Pos|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel
+2	re	res	NOUN	A5	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurE|Number=Sing
+3	a	ab	ADP	R	_	_	_	_	AdpType=Prep
+4	uobis	uos	PRON	E	Case=Abl|Number=Plur|Person=2	_	_	_	Case=Abl|InflClass=LatAnom|Number=Plur|Person=2|PronType=Prs
+5	qui	qui	PRON	J	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Rel
+6	nihil	nihil	PRON	L	_	_	_	_	InflClass=Ind|PronType=Neg
+7	de	de	ADP	R	_	_	_	_	AdpType=Prep
+8	me	ego	PRON	E	Case=Abl|Number=Sing|Person=1	_	_	_	Case=Abl|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs
+9	credidistis	credo	VERB	B3	Mood=Ind|Number=Plur|Person=2|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatX|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+10	ut	ut	SCONJ	T	_	_	_	_	_
+11	eam	is	DET	I	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Prs
+12	uoluntatem	uoluntas	NOUN	A3	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing
+13	quam	qui	PRON	J	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel
+14	semper	semper	ADV	M	_	_	_	_	Degree=Pos
+15	habuistis	habeo	VERB	B2	Mood=Ind|Number=Plur|Person=2|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatE|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+16	erga	erga	ADP	R	_	_	_	_	AdpType=Prep
+17	me	ego	PRON	E	Case=Acc|Number=Sing|Person=1	_	_	_	Case=Acc|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs
+18	retineatis	retineo	VERB	B2	Mood=Sub|Number=Plur|Person=2|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+19	peto	peto	VERB	B3	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+20	a	ab	ADP	R	_	_	_	_	AdpType=Prep
+21	uobis	uos	PRON	E	Case=Abl|Number=Plur|Person=2	_	_	_	Case=Abl|InflClass=LatAnom|Number=Plur|Person=2|PronType=Prs
+22	autem	autem	CCONJ	S	_	_	_	_	_
+23	quos	qui	PRON	J	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Rel
+24	leuiter	leuiter	ADV	M	_	_	_	_	Degree=Pos
+25	immutatos	immuto	VERB	Y1	Case=Acc|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Masc|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass
+26	esse	sum	AUX	Z1	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|VerbForm=Inf
+27	sentio	sentio	VERB	B4	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatI|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+28	paruam	paruus	ADJ	C1	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing
+29	exigui	exiguus	ADJ	C1	Case=Gen|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Gen|Degree=Pos|Gender=Masc,Neut|InflClass=IndEurO|Number=Sing
+30	temporis	tempus	NOUN	A3	Case=Gen|Gender=Neut|Number=Sing	_	_	_	Case=Gen|Gender=Neut|InflClass=IndEurX|Number=Sing
+31	usuram	usura	NOUN	A1	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing
+32	bonae	bonus	ADJ	C1	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing
+33	de	de	ADP	R	_	_	_	_	AdpType=Prep
+34	me	ego	PRON	E	Case=Abl|Number=Sing|Person=1	_	_	_	Case=Abl|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs
+35	opinionis	opinio	NOUN	A3	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing
+36	postulo	postulo	VERB	B1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+37	ut	ut	SCONJ	T	_	_	_	_	_
+38	eam	is	DET	I	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Prs
+39	si	si	SCONJ	T	_	_	_	_	_
+40	quae	qui	PRON	J	Case=Acc|Gender=Neut|Number=Plur	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Rel
+41	dixero	dico	VERB	B3	Mood=Ind|Number=Sing|Person=1|Tense=FutP|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act
+42	uobis	uos	PRON	E	Case=Dat|Number=Plur|Person=2	_	_	_	Case=Dat|InflClass=LatAnom|Number=Plur|Person=2|PronType=Prs
+43	probabo	probo	VERB	B1	Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act
+44	perpetuo	perpetuo	ADV	M	_	_	_	_	Degree=Pos
+45	retineatis	retineo	VERB	B2	Mood=Sub|Number=Plur|Person=2|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+46	sin	sin	SCONJ	T	_	_	_	_	Polarity=Neg
+47	aliter	aliter	ADV	M	_	_	_	_	Degree=Pos
+48	hoc	hic	DET	I	Case=Abl|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Abl|Gender=Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Dem
+49	ipso	ipse	DET	I	Case=Abl|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Abl|Gender=Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Emp
+50	in	in	ADP	R	_	_	_	_	AdpType=Prep
+51	loco	locus	NOUN	A2	Case=Abl|Gender=Masc|Number=Sing	_	_	_	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing
+52	depositam	depono	VERB	B3	Case=Acc|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass
+53	atque	atque	CCONJ	S	_	_	_	_	_
+54	abiectam	abicio	VERB	B5	Case=Acc|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|InflClass=LatI2|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass
+55	relinquatis	relinquo	VERB	B3	Mood=Sub|Number=Plur|Person=2|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = CicLegA3-D-18-5
+# text = completi sunt animi auresque uestrae Quirites me gratificantem Septimiis Turraniis ceterisque Sullanarum adsignationum possessoribus agrariae legi et commodis uestris obsistere
+1	completi	compleo	VERB	Y2	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatE|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass
+2	sunt	sum	AUX	Z2	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+3	animi	animus	NOUN	A2	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur
+4	aures	auris	NOUN	A3	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Plur
+5	que	que	CCONJ	S	_	_	_	_	_
+6	uestrae	uester	DET	F	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Plur|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs
+7	Quirites	quirites	PROPN	A3	Case=Voc|Gender=Masc|Number=Plur	_	_	_	Case=Voc|Gender=Masc|InflClass=IndEurX|Number=Plur
+8	me	ego	PRON	E	Case=Acc|Number=Sing|Person=1	_	_	_	Case=Acc|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs
+9	gratificantem	gratificor	VERB	B1	Case=Acc|Gender=Fem,Masc|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|Case=Acc|Degree=Pos|Gender=Fem,Masc|InflClass=LatA|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act
+10	Septimiis	septimius	PROPN	A2	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Plur
+11	Turraniis	turranius	PROPN	A2	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Plur
+12	ceteris	ceterus	DET	C1	Case=Dat|Gender=Fem,Masc,Neut|Number=Plur	_	_	_	Case=Dat|Degree=Pos|Gender=Fem,Masc,Neut|InflClass=IndEurA,IndEurO|Number=Plur|PronType=Con
+13	que	que	CCONJ	S	_	_	_	_	_
+14	Sullanarum	syllanus	ADJ	C1	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Case=Gen|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Plur
+15	adsignationum	assignatio	NOUN	A3	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Plur
+16	possessoribus	possessor	NOUN	A3	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Case=Dat|Gender=Masc|InflClass=IndEurX|Number=Plur
+17	agrariae	agrarius	ADJ	C1	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Case=Dat|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing
+18	legi	lex	NOUN	A3	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Case=Dat|Gender=Fem|InflClass=IndEurX|Number=Sing
+19	et	et	CCONJ	S	_	_	_	_	_
+20	commodis	commodum	NOUN	A2	Case=Dat|Gender=Neut|Number=Plur	_	_	_	Case=Dat|Gender=Neut|InflClass=IndEurO|Number=Plur
+21	uestris	uester	DET	F	Case=Dat|Gender=Fem,Masc,Neut|Number=Plur	_	_	_	Case=Dat|Gender=Fem,Masc,Neut|InflClass=IndEurA,IndEurO|Number=Plur|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs
+22	obsistere	obsisto	VERB	B3	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act
+
+# sent_id = CicLegA3-D-18-6
+# text = hoc si qui crediderunt illud prius crediderint necesse est hac lege agraria quae promulgata est adimi Sullanos agros uobisque diuidi aut denique minui priuatorum possessiones ut in eas uos deducamini
+1	hoc	hic	DET	I	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem
+2	si	si	SCONJ	T	_	_	_	_	_
+3	qui	quis	PRON	L	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Ind
+4	crediderunt	credo	VERB	B3	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatX|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+5	illud	ille	DET	I	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem
+6	prius	prius	ADV	D5	Degree=Cmp	_	_	_	Degree=Cmp|NumType=Ord
+7	crediderint	credo	VERB	B3	Mood=Sub|Number=Plur|Person=3|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatX|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+8	necesse	necesse	ADJ	C6	_	_	_	_	Degree=Pos|InflClass=Ind
+9	est	sum	AUX	B6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+10	hac	hic	DET	I	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem
+11	lege	lex	NOUN	A3	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing
+12	agraria	agrarius	ADJ	C1	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing
+13	quae	qui	PRON	J	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel
+14	promulgata	promulgo	VERB	Y1	Case=Nom|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatA|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass
+15	est	sum	AUX	Z1	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+16	adimi	adimo	VERB	B3	Mood=Inf|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatX|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Pass
+17	Sullanos	syllanus	ADJ	C1	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur
+18	agros	ager	NOUN	A2	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur
+19	uobis	uos	PRON	E	Case=Dat|Number=Plur|Person=2	_	_	_	Case=Dat|InflClass=LatAnom|Number=Plur|Person=2|PronType=Prs
+20	que	que	CCONJ	S	_	_	_	_	_
+21	diuidi	diuido	VERB	B3	Mood=Inf|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatX|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Pass
+22	aut	aut	CCONJ	S	_	_	_	_	_
+23	denique	denique	ADV	M	_	_	_	_	Degree=Pos
+24	minui	minuo	VERB	B3	Mood=Inf|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatX|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Pass
+25	priuatorum	priuatus	ADJ	C1	Case=Gen|Gender=Masc,Neut|Number=Plur	_	_	_	Case=Gen|Degree=Pos|Gender=Masc,Neut|InflClass=IndEurO|Number=Plur
+26	possessiones	possessio	NOUN	A3	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Plur
+27	ut	ut	SCONJ	T	_	_	_	_	_
+28	in	in	ADP	R	_	_	_	_	AdpType=Prep
+29	eas	is	DET	I	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Plur|PronType=Prs
+30	uos	uos	PRON	E	Case=Nom|Number=Plur|Person=2	_	_	_	Case=Nom|InflClass=LatAnom|Number=Plur|Person=2|PronType=Prs
+31	deducamini	deduco	VERB	B3	Mood=Sub|Number=Plur|Person=2|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass
+
+# sent_id = CicLegA3-D-18-7
+# text = si ostendo non modo non adimi cuiquam glebam de Sullanis agris sed etiam genus id agrorum certo capite legis impudentissime confirmari atque sanciri si doceo agris eis qui a Sulla sunt dati sic diligenter Rullum sua lege consulere ut facile appareat eam legem non a uestrorum commodorum patrono sed a Ualgi genero esse conscriptam num quid est causae Quirites quin illa criminatione qua in me absentem usus est non solum meam sed etiam uestram diligentiam prudentiamque despexerit
+1	si	si	SCONJ	T	_	_	_	_	_
+2	ostendo	ostendo	VERB	B3	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+3	non	non	PART	P	_	_	_	_	Polarity=Neg
+4	modo	modo	ADV	M	_	_	_	_	Degree=Pos
+5	non	non	PART	P	_	_	_	_	Polarity=Neg
+6	adimi	adimo	VERB	B3	Mood=Inf|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatX|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Pass
+7	cuiquam	quisquam	PRON	L	Case=Dat|Gender=Fem,Masc,Neut|Number=Sing	_	_	_	Case=Dat|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Ind
+8	glebam	gleba	NOUN	A1	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing
+9	de	de	ADP	R	_	_	_	_	AdpType=Prep
+10	Sullanis	syllanus	ADJ	C1	Case=Abl|Gender=Fem,Masc,Neut|Number=Plur	_	_	_	Case=Abl|Degree=Pos|Gender=Fem,Masc,Neut|InflClass=IndEurA,IndEurO|Number=Plur
+11	agris	ager	NOUN	A2	Case=Abl|Gender=Masc|Number=Plur	_	_	_	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Plur
+12	sed	sed	CCONJ	S	_	_	_	_	_
+13	etiam	etiam	ADV	M	_	_	_	_	Degree=Pos
+14	genus	genus	NOUN	A3	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=IndEurX|Number=Sing
+15	id	is	DET	I	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Prs
+16	agrorum	ager	NOUN	A2	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Plur
+17	certo	certus	ADJ	C1	Case=Abl|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Abl|Degree=Pos|Gender=Masc,Neut|InflClass=IndEurO|Number=Sing
+18	capite	caput	NOUN	A3	Case=Abl|Gender=Neut|Number=Sing	_	_	_	Case=Abl|Gender=Neut|InflClass=IndEurX|Number=Sing
+19	legis	lex	NOUN	A3	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing
+20	impudentissime	impudenter	ADV	M	Degree=Sup	_	_	_	Degree=Abs
+21	confirmari	confirmo	VERB	B1	Mood=Inf|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatA|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Pass
+22	atque	atque	CCONJ	S	_	_	_	_	_
+23	sanciri	sancio	VERB	B4	Mood=Inf|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatI|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Pass
+24	si	si	SCONJ	T	_	_	_	_	_
+25	doceo	doceo	VERB	B2	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+26	agris	ager	NOUN	A2	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Plur
+27	eis	is	DET	I	Case=Dat|Gender=Fem,Masc,Neut|Number=Plur	_	_	_	Case=Dat|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Plur|PronType=Prs
+28	qui	qui	PRON	J	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Rel
+29	a	ab	ADP	R	_	_	_	_	AdpType=Prep
+30	Sulla	sylla	PROPN	A1	Case=Abl|Gender=Masc|Number=Sing	_	_	_	Case=Abl|Gender=Masc|InflClass=IndEurA|Number=Sing
+31	sunt	sum	AUX	Z1	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+32	dati	do	VERB	Y1	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass
+33	sic	sic	ADV	M	_	_	_	_	Degree=Pos
+34	diligenter	diligenter	ADV	M	_	_	_	_	Degree=Pos
+35	Rullum	rullus	PROPN	A2	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing
+36	sua	suus	DET	H	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes
+37	lege	lex	NOUN	A3	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing
+38	consulere	consulo	VERB	B3	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act
+39	ut	ut	SCONJ	T	_	_	_	_	_
+40	facile	facile	ADV	M	_	_	_	_	Degree=Pos
+41	appareat	appareo	VERB	B2	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+42	eam	is	DET	I	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Prs
+43	legem	lex	NOUN	A3	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing
+44	non	non	PART	P	_	_	_	_	Polarity=Neg
+45	a	ab	ADP	R	_	_	_	_	AdpType=Prep
+46	uestrorum	uester	DET	F	Case=Gen|Gender=Masc,Neut|Number=Plur	_	_	_	Case=Gen|Gender=Masc,Neut|InflClass=IndEurO|Number=Plur|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs
+47	commodorum	commodum	NOUN	A2	Case=Gen|Gender=Neut|Number=Plur	_	_	_	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Plur
+48	patrono	patronus	NOUN	A2	Case=Abl|Gender=Masc|Number=Sing	_	_	_	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing
+49	sed	sed	CCONJ	S	_	_	_	_	_
+50	a	ab	ADP	R	_	_	_	_	AdpType=Prep
+51	Ualgi	ualgius	PROPN	A2	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing
+52	genero	gener	NOUN	A2	Case=Abl|Gender=Masc|Number=Sing	_	_	_	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing
+53	esse	sum	AUX	Z3	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|VerbForm=Inf
+54	conscriptam	conscribo	VERB	Y3	Case=Acc|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass
+55	num	num	PART	O	_	_	_	_	Degree=Pos|PartType=Int|Polarity=Neg
+56	quid	quis	PRON	K	Case=Nom|Number=Sing	_	_	_	Case=Nom|InflClass=LatPron|Number=Sing|PronType=Int
+57	est	sum	AUX	B6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+58	causae	causa	NOUN	A1	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing
+59	Quirites	quirites	PROPN	A3	Case=Voc|Gender=Masc|Number=Plur	_	_	_	Case=Voc|Gender=Masc|InflClass=IndEurX|Number=Plur
+60	quin	quin	SCONJ	T	_	_	_	_	Polarity=Neg
+61	illa	ille	DET	I	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem
+62	criminatione	criminatio	NOUN	A3	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing
+63	qua	qui	PRON	J	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel
+64	in	in	ADP	R	_	_	_	_	AdpType=Prep
+65	me	ego	PRON	E	Case=Acc|Number=Sing|Person=1	_	_	_	Case=Acc|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs
+66	absentem	absum	VERB	B6	Case=Acc|Gender=Fem,Masc|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|Case=Acc|Degree=Pos|Gender=Fem,Masc|InflClass=LatAnom|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act
+67	usus	utor	VERB	Y3	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass
+68	est	sum	AUX	Z3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+69	non	non	PART	P	_	_	_	_	Polarity=Neg
+70	solum	solum	ADV	M	_	_	_	_	Degree=Pos
+71	meam	meus	DET	F	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs
+72	sed	sed	CCONJ	S	_	_	_	_	_
+73	etiam	etiam	ADV	M	_	_	_	_	Degree=Pos
+74	uestram	uester	DET	F	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs
+75	diligentiam	diligentia	NOUN	A1	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing
+76	prudentiam	prudentia	NOUN	A1	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing
+77	que	que	CCONJ	S	_	_	_	_	_
+78	despexerit	despicio	VERB	B5	Mood=Sub|Number=Sing|Person=3|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatI2|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+
+# sent_id = CicLegA3-D-18-8
+# text = caput est legis XL de quo ego consulto Quirites neque apud uos ante feci mentionem ne aut refricare obductam iam rei publicae cicatricem uiderer aut aliquid alienissimo tempore nouae dissensionis commouere neque uero nunc ideo disputabo quod hunc statum rei publicae non magno opere defendendum putem praesertim qui oti et concordiae patronum me in hunc annum populo Romano professus sim sed ut doceam Rullum posthac in eis saltem tacere rebus in quibus de se et de suis factis taceri uelit
+1	caput	caput	NOUN	A3	Case=Nom|Gender=Neut|Number=Sing	_	_	_	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing
+2	est	sum	AUX	B6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	legis	lex	NOUN	A3	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing
+4	XL	xl	NUM	D2	Number=Plur	_	_	_	Degree=Pos|InflClass=Ind|NumForm=Roman|NumType=Card|Number=Plural
+5	de	de	ADP	R	_	_	_	_	AdpType=Prep
+6	quo	qui	PRON	J	Case=Abl|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Abl|Gender=Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Rel
+7	ego	ego	PRON	E	Case=Nom|Number=Sing|Person=1	_	_	_	Case=Nom|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs
+8	consulto	consulto	ADV	M	_	_	_	_	Degree=Pos
+9	Quirites	quirites	PROPN	A3	Case=Voc|Gender=Masc|Number=Plur	_	_	_	Case=Voc|Gender=Masc|InflClass=IndEurX|Number=Plur
+10	neque	neque	CCONJ	S	_	_	_	_	Polarity=Neg
+11	apud	apud	ADP	R	_	_	_	_	AdpType=Prep
+12	uos	uos	PRON	E	Case=Acc|Number=Plur|Person=2	_	_	_	Case=Acc|InflClass=LatAnom|Number=Plur|Person=2|PronType=Prs
+13	ante	ante	ADV	M	_	_	_	_	Degree=Pos
+14	feci	facio	VERB	B5	Mood=Ind|Number=Sing|Person=1|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatI2|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+15	mentionem	mentio	NOUN	A3	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing
+16	ne	ne	SCONJ	T	_	_	_	_	Polarity=Neg
+17	aut	aut	CCONJ	S	_	_	_	_	_
+18	refricare	refrico	VERB	B1	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatA|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act
+19	obductam	obduco	VERB	B3	Case=Acc|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass
+20	iam	iam	ADV	M	_	_	_	_	Degree=Pos
+21	rei	res	NOUN	A5	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurE|Number=Sing
+22	publicae	publicus	ADJ	C1	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing
+23	cicatricem	cicatrix	NOUN	A3	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing
+24	uiderer	uideo	VERB	B2	Mood=Sub|Number=Sing|Person=1|Tense=Imp|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass
+25	aut	aut	CCONJ	S	_	_	_	_	_
+26	aliquid	aliquis	PRON	L	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Ind
+27	alienissimo	alienus	ADJ	C1	Case=Abl|Degree=Sup|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Abl|Degree=Abs|Gender=Masc,Neut|InflClass=IndEurO|Number=Sing
+28	tempore	tempus	NOUN	A3	Case=Abl|Gender=Neut|Number=Sing	_	_	_	Case=Abl|Gender=Neut|InflClass=IndEurX|Number=Sing
+29	nouae	nouus	ADJ	C1	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing
+30	dissensionis	dissensio	NOUN	A3	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing
+31	commouere	commoueo	VERB	B2	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act
+32	neque	neque	CCONJ	S	_	_	_	_	Polarity=Neg
+33	uero	uero	ADV	M	_	_	_	_	Degree=Pos
+34	nunc	nunc	ADV	M	_	_	_	_	Degree=Pos
+35	ideo	ideo	ADV	M	_	_	_	_	Degree=Pos
+36	disputabo	disputo	VERB	B1	Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act
+37	quod	quod	SCONJ	T	_	_	_	_	_
+38	hunc	hic	DET	I	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem
+39	statum	status	NOUN	A4	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurU|Number=Sing
+40	rei	res	NOUN	A5	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurE|Number=Sing
+41	publicae	publicus	ADJ	C1	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing
+42	non	non	PART	P	_	_	_	_	Polarity=Neg
+43	magno	magnus	ADJ	C1	Case=Abl|Gender=Neut|Number=Sing	_	_	_	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing
+44	opere	opus	NOUN	A3	Case=Abl|Gender=Neut|Number=Sing	_	_	_	Case=Abl|Gender=Neut|InflClass=IndEurX|Number=Sing
+45	defendendum	defendo	VERB	B3	Case=Acc|Gender=Masc,Neut|Mood=Gdv|Number=Sing|Voice=Pass	_	_	_	Aspect=Prosp|Case=Acc|Degree=Pos|Gender=Masc,Neut|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Gdv|Voice=Pass
+46	putem	puto	VERB	B1	Mood=Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatA|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+47	praesertim	praesertim	ADV	M	_	_	_	_	Degree=Pos
+48	qui	qui	PRON	J	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel
+49	oti	otium	NOUN	A2	Case=Gen|Gender=Neut|Number=Sing	_	_	_	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing
+50	et	et	CCONJ	S	_	_	_	_	_
+51	concordiae	concordia	NOUN	A1	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing
+52	patronum	patronus	NOUN	A2	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing
+53	me	ego	PRON	E	Case=Acc|Number=Sing|Person=1	_	_	_	Case=Acc|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs
+54	in	in	ADP	R	_	_	_	_	AdpType=Prep
+55	hunc	hic	DET	I	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem
+56	annum	annus	NOUN	A2	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing
+57	populo	populus	NOUN	A2	Case=Dat|Gender=Fem,Masc|Number=Sing	_	_	_	Case=Dat|Gender=Fem,Masc|InflClass=IndEurO|Number=Sing
+58	Romano	romanus	ADJ	C1	Case=Dat|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Dat|Degree=Pos|Gender=Masc,Neut|InflClass=IndEurO|Number=Sing
+59	professus	profiteor	VERB	Y2	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatE|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass
+60	sim	sum	AUX	Z2	Mood=Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+61	sed	sed	CCONJ	S	_	_	_	_	_
+62	ut	ut	SCONJ	T	_	_	_	_	_
+63	doceam	doceo	VERB	B2	Mood=Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+64	Rullum	rullus	PROPN	A2	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing
+65	posthac	posthac	ADV	M	_	_	_	_	Degree=Pos
+66	in	in	ADP	R	_	_	_	_	AdpType=Prep
+67	eis	is	DET	I	Case=Abl|Gender=Fem,Masc,Neut|Number=Plur	_	_	_	Case=Abl|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Plur|PronType=Prs
+68	saltem	saltem	ADV	M	_	_	_	_	Degree=Pos
+69	tacere	taceo	VERB	B2	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act
+70	rebus	res	NOUN	A5	Case=Abl|Gender=Fem|Number=Plur	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurE|Number=Plur
+71	in	in	ADP	R	_	_	_	_	AdpType=Prep
+72	quibus	qui	PRON	J	Case=Abl|Gender=Fem,Masc,Neut|Number=Plur	_	_	_	Case=Abl|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Plur|PronType=Rel
+73	de	de	ADP	R	_	_	_	_	AdpType=Prep
+74	se	sui	PRON	G	Case=Abl|Number=Sing|Person=3	_	_	_	Case=Abl|InflClass=LatAnom|Number=Sing|Person=3|PronType=Prs|Reflex=Yes
+75	et	et	CCONJ	S	_	_	_	_	_
+76	de	de	ADP	R	_	_	_	_	AdpType=Prep
+77	suis	suus	DET	H	Case=Abl|Gender=Fem,Masc,Neut|Number=Plur	_	_	_	Case=Abl|Gender=Fem,Masc,Neut|InflClass=IndEurA,IndEurO|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes
+78	factis	factum	NOUN	A2	Case=Abl|Gender=Neut|Number=Plur	_	_	_	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Plur
+79	taceri	taceo	VERB	B2	Mood=Inf|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatE|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Pass
+80	uelit	uolo	VERB	B6	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = CicLegA3-D-18-9
+# text = omnium legum iniquissimam dissimillimamque legis esse arbitror eam quam L. Flaccus interrex de Sulla tulit ut omnia quaecumque ille fecisset essent rata
+1	omnium	omnis	DET	L	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur	_	_	_	Case=Gen|Gender=Fem,Masc,Neut|InflClass=IndEurI|Number=Plur|PronType=Tot
+2	legum	lex	NOUN	A3	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Plur
+3	iniquissimam	iniquus	ADJ	C1	Case=Acc|Degree=Sup|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Degree=Abs|Gender=Fem|InflClass=IndEurA|Number=Sing
+4	dissimillimam	dissimilis	ADJ	C4	Case=Acc|Degree=Sup|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Degree=Abs|Gender=Fem|InflClass=IndEurA|Number=Sing
+5	que	que	CCONJ	S	_	_	_	_	_
+6	legis	lex	NOUN	A3	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing
+7	esse	sum	AUX	B6	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|VerbForm=Inf
+8	arbitror	arbitror	VERB	B1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+9	eam	is	DET	I	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Prs
+10	quam	qui	PRON	J	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel
+11	L.	lucius	PROPN	A2	_	_	_	_	Abbr=Yes|InflClass=Ind
+12	Flaccus	flaccus	PROPN	A2	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing
+13	interrex	interrex	NOUN	A3	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing
+14	de	de	ADP	R	_	_	_	_	AdpType=Prep
+15	Sulla	sylla	PROPN	A1	Case=Abl|Gender=Masc|Number=Sing	_	_	_	Case=Abl|Gender=Masc|InflClass=IndEurA|Number=Sing
+16	tulit	fero	VERB	B6	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+17	ut	ut	SCONJ	T	_	_	_	_	_
+18	omnia	omnis	DET	L	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Plur|PronType=Tot
+19	quaecumque	quicumque	DET	J	Case=Acc|Gender=Neut|Number=Plur	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Rel
+20	ille	ille	DET	I	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem
+21	fecisset	facio	VERB	B5	Mood=Sub|Number=Sing|Person=3|Tense=Plup|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatI2|Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act
+22	essent	sum	AUX	B6	Mood=Sub|Number=Plur|Person=3|Tense=Imp|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+23	rata	ratus	ADJ	C1	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur
+
+# sent_id = CicLegA3-D-18-10
+# text = nam cum ceteris in ciuitatibus tyrannis institutis leges omnes exstinguantur atque tollantur hic rei publicae tyrannum lege constituit
+1	nam	nam	PART	S	_	_	_	_	_
+2	cum	cum	SCONJ	T	_	_	_	_	_
+3	ceteris	ceterus	DET	C1	Case=Abl|Gender=Fem,Masc,Neut|Number=Plur	_	_	_	Case=Abl|Degree=Pos|Gender=Fem,Masc,Neut|InflClass=IndEurA,IndEurO|Number=Plur|PronType=Con
+4	in	in	ADP	R	_	_	_	_	AdpType=Prep
+5	ciuitatibus	ciuitas	NOUN	A3	Case=Abl|Gender=Fem|Number=Plur	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Plur
+6	tyrannis	tyrannus	NOUN	A2	Case=Abl|Gender=Masc|Number=Plur	_	_	_	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Plur
+7	institutis	instituo	VERB	B3	Case=Abl|Gender=Fem,Masc,Neut|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Abl|Degree=Pos|Gender=Fem,Masc,Neut|InflClass=LatX|InflClass[nominal]=IndEurA,IndEurO|Number=Plur|VerbForm=Part|Voice=Pass
+8	leges	lex	NOUN	A3	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Plur
+9	omnes	omnis	DET	L	Case=Nom|Gender=Fem,Masc|Number=Plur	_	_	_	Case=Nom|Gender=Fem,Masc|InflClass=IndEurI|Number=Plur|PronType=Tot
+10	exstinguantur	exstinguo	VERB	B3	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+11	atque	atque	CCONJ	S	_	_	_	_	_
+12	tollantur	tollo	VERB	B3	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+13	hic	hic	DET	I	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem
+14	rei	res	NOUN	A5	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Case=Dat|Gender=Fem|InflClass=IndEurE|Number=Sing
+15	publicae	publicus	ADJ	C1	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Case=Dat|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing
+16	tyrannum	tyrannus	NOUN	A2	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing
+17	lege	lex	NOUN	A3	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing
+18	constituit	constituo	VERB	B3	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+
+# sent_id = CicLegA3-D-18-11
+# text = est inuidiosa lex sicuti dixi uerum tamen habet excusationem non enim uidetur hominis lex esse sed temporis
+1	est	sum	AUX	B6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+2	inuidiosa	inuidiosus	ADJ	C1	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing
+3	lex	lex	NOUN	A3	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing
+4	sicuti	sicut	SCONJ	N	_	_	_	_	PronType=Rel
+5	dixi	dico	VERB	B3	Mood=Ind|Number=Sing|Person=1|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+6	uerum	uerum	ADV	M	_	_	_	_	Degree=Pos
+7	tamen	tamen	ADV	M	_	_	_	_	Degree=Pos
+8	habet	habeo	VERB	B2	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+9	excusationem	excusatio	NOUN	A3	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing
+10	non	non	PART	P	_	_	_	_	Polarity=Neg
+11	enim	enim	PART	S	_	_	_	_	_
+12	uidetur	uideo	VERB	B2	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+13	hominis	homo	NOUN	A3	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Case=Gen|Gender=Masc|InflClass=IndEurX|Number=Sing
+14	lex	lex	NOUN	A3	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing
+15	esse	sum	AUX	B6	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|VerbForm=Inf
+16	sed	sed	CCONJ	S	_	_	_	_	_
+17	temporis	tempus	NOUN	A3	Case=Gen|Gender=Neut|Number=Sing	_	_	_	Case=Gen|Gender=Neut|InflClass=IndEurX|Number=Sing
+
+# sent_id = CicLegA3-D-18-12
+# text = quid si est haec multo impudentior
+1	quid	quis	PRON	K	Case=Nom|Gender=Neut|Number=Sing	_	_	_	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Int
+2	si	si	SCONJ	T	_	_	_	_	_
+3	est	sum	AUX	B6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+4	haec	hic	DET	I	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem
+5	multo	multo	ADV	M	_	_	_	_	Degree=Pos
+6	impudentior	impudens	ADJ	C5	Case=Nom|Degree=Cmp|Gender=Fem,Masc|Number=Sing	_	_	_	Case=Nom|Degree=Cmp|Gender=Fem,Masc|InflClass=IndEurX|Number=Sing
+
+# sent_id = CicLegA3-D-18-13
+# text = nam Ualeria lege Corneliisque legibus eripitur ciui ciui datur coniungitur impudens gratificatio cum acerba iniuria sed tamen imbibit illis legibus spem non nullam cui ademptum est aliquem scrupulum cui datum est
+1	nam	nam	PART	S	_	_	_	_	_
+2	Ualeria	ualerius	ADJ	C1	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing
+3	lege	lex	NOUN	A3	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing
+4	Corneliis	cornelius	ADJ	C1	Case=Abl|Gender=Fem,Masc,Neut|Number=Plur	_	_	_	Case=Abl|Degree=Pos|Gender=Fem,Masc,Neut|InflClass=IndEurA,IndEurO|Number=Plur
+5	que	que	CCONJ	S	_	_	_	_	_
+6	legibus	lex	NOUN	A3	Case=Abl|Gender=Fem|Number=Plur	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Plur
+7	eripitur	eripio	VERB	B5	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatI2|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+8	ciui	ciuis	NOUN	A3	Case=Dat|Gender=Fem,Masc|Number=Sing	_	_	_	Case=Dat|Gender=Fem,Masc|InflClass=IndEurI|Number=Sing
+9	ciui	ciuis	NOUN	A3	Case=Dat|Gender=Fem,Masc|Number=Sing	_	_	_	Case=Dat|Gender=Fem,Masc|InflClass=IndEurI|Number=Sing
+10	datur	do	VERB	B1	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+11	coniungitur	coniungo	VERB	B3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+12	impudens	impudens	ADJ	C5	Case=Nom|Gender=Fem,Masc,Neut|Number=Sing	_	_	_	Case=Nom|Degree=Pos|Gender=Fem,Masc,Neut|InflClass=IndEurI|Number=Sing
+13	gratificatio	gratificatio	NOUN	A3	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing
+14	cum	cum	ADP	R	_	_	_	_	AdpType=Prep
+15	acerba	acerbus	ADJ	C1	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing
+16	iniuria	iniuria	NOUN	A1	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing
+17	sed	sed	CCONJ	S	_	_	_	_	_
+18	tamen	tamen	ADV	M	_	_	_	_	Degree=Pos
+19	imbibit	imbibo	VERB	B3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+20	illis	ille	DET	I	Case=Abl|Gender=Fem,Masc,Neut|Number=Plur	_	_	_	Case=Abl|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Plur|PronType=Dem
+21	legibus	lex	NOUN	A3	Case=Abl|Gender=Fem|Number=Plur	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Plur
+22	spem	spes	NOUN	A5	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurE|Number=Sing
+23	non	non	PART	P	_	_	_	_	Degree=Pos|Polarity=Neg
+24	nullam	nullus	DET	L	Case=Acc|Number=Sing	_	_	_	Case=Acc|InflClass=LatPron|Number=Sing|PronType=Neg
+25	cui	qui	PRON	J	Case=Dat|Gender=Fem,Masc,Neut|Number=Sing	_	_	_	Case=Dat|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Rel
+26	ademptum	adimo	VERB	Y3	Case=Nom|Gender=Neut|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass
+27	est	sum	AUX	Z3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+28	aliquem	aliquis	PRON	L	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Ind
+29	scrupulum	scrupulus	NOUN	A2	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing
+30	cui	qui	PRON	J	Case=Dat|Gender=Fem,Masc,Neut|Number=Sing	_	_	_	Case=Dat|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Rel
+31	datum	do	VERB	Y1	Case=Nom|Gender=Neut|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass
+32	est	sum	AUX	Z1	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+# sent_id = CicLegA3-D-18-14
+# text = Rulli cautio est haec qui post C. Marium Cn. Papirium consules
+1	Rulli	rullus	PROPN	A2	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing
+2	cautio	cautio	NOUN	A3	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing
+3	est	sum	AUX	B6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+4	haec	hic	DET	I	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem
+5	qui	qui	PRON	J	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Rel
+6	post	post	ADP	R	_	_	_	_	AdpType=Prep
+7	C.	gaius	PROPN	A2	_	_	_	_	Abbr=Yes|InflClass=Ind
+8	Marium	marius	PROPN	A2	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing
+9	Cn.	gnaeus	PROPN	A2	_	_	_	_	Abbr=Yes|InflClass=Ind
+10	Papirium	papirius	PROPN	A2	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing
+11	consules	consul	NOUN	A3	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Plur
+
+# sent_id = CicLegA3-D-18-15
+# text = quam procul a suspicione fugit quod eos consules qui aduersarii Sullae maxime fuerunt potissimum nominauit
+1	quam	quam	ADV	O	_	_	_	_	PronType=Int
+2	procul	procul	ADV	M	_	_	_	_	Degree=Pos
+3	a	ab	ADP	R	_	_	_	_	AdpType=Prep
+4	suspicione	suspicio	NOUN	A3	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing
+5	fugit	fugio	VERB	B5	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatI2|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+6	quod	quod	SCONJ	T	_	_	_	_	_
+7	eos	is	DET	I	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Prs
+8	consules	consul	NOUN	A3	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Plur
+9	qui	qui	PRON	J	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Rel
+10	aduersarii	aduersarius	NOUN	A2	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur
+11	Sullae	sylla	PROPN	A1	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Case=Gen|Gender=Masc|InflClass=IndEurA|Number=Sing
+12	maxime	magis	ADV	M	Degree=Sup	_	_	_	Degree=Abs
+13	fuerunt	sum	AUX	B6	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+14	potissimum	potius	ADV	M	Degree=Sup	_	_	_	Degree=Abs
+15	nominauit	nomino	VERB	B1	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+
+# sent_id = CicLegA3-D-18-16
+# text = si enim Sullam dictatorem nominasset perspicuum fore et inuidiosum arbitratus est
+1	si	si	SCONJ	T	_	_	_	_	_
+2	enim	enim	PART	S	_	_	_	_	_
+3	Sullam	sylla	PROPN	A1	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurA|Number=Sing
+4	dictatorem	dictator	NOUN	A3	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Sing
+5	nominasset	nomino	VERB	B1	Mood=Sub|Number=Sing|Person=3|Tense=Plup|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatA|Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act
+6	perspicuum	perspicuus	ADJ	C1	Case=Acc|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Acc|Degree=Pos|Gender=Masc,Neut|InflClass=IndEurO|Number=Sing
+7	fore	sum	AUX	B6	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|VerbForm=Inf
+8	et	et	CCONJ	S	_	_	_	_	_
+9	inuidiosum	inuidiosus	ADJ	C1	Case=Acc|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Acc|Degree=Pos|Gender=Masc,Neut|InflClass=IndEurO|Number=Sing
+10	arbitratus	arbitror	VERB	Y1	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass
+11	est	sum	AUX	Z1	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+# sent_id = CicLegA3-D-18-17
+# text = sed quem uestrum tam tardo ingenio fore putauit cui post eos consules Sullam dictatorem fuisse in mentem uenire non posset
+1	sed	sed	CCONJ	S	_	_	_	_	_
+2	quem	quis	PRON	K	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Int
+3	uestrum	uos	PRON	E	Case=Gen|Number=Plur|Person=2	_	_	_	Case=Gen|InflClass=LatAnom|Number=Plur|Person=2|PronType=Prs
+4	tam	tam	ADV	M	_	_	_	_	Degree=Pos
+5	tardo	tardus	ADJ	C1	Case=Abl|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Abl|Degree=Pos|Gender=Masc,Neut|InflClass=IndEurO|Number=Sing
+6	ingenio	ingenium	NOUN	A2	Case=Abl|Gender=Neut|Number=Sing	_	_	_	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing
+7	fore	sum	AUX	B6	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|VerbForm=Inf
+8	putauit	puto	VERB	B1	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+9	cui	qui	PRON	J	Case=Dat|Gender=Fem,Masc,Neut|Number=Sing	_	_	_	Case=Dat|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Rel
+10	post	post	ADP	R	_	_	_	_	AdpType=Prep
+11	eos	is	DET	I	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Prs
+12	consules	consul	NOUN	A3	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Plur
+13	Sullam	sylla	PROPN	A1	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurA|Number=Sing
+14	dictatorem	dictator	NOUN	A3	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Sing
+15	fuisse	sum	AUX	B6	Mood=Inf|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatAnom|InflClass[nominal]=Ind|VerbForm=Inf
+16	in	in	ADP	R	_	_	_	_	AdpType=Prep
+17	mentem	mens	NOUN	A3	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurI|Number=Sing
+18	uenire	uenio	VERB	B4	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatI|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act
+19	non	non	PART	P	_	_	_	_	Polarity=Neg
+20	posset	possum	VERB	B6	Mood=Sub|Number=Sing|Person=3|Tense=Imp|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+
+# sent_id = CicLegA3-D-18-18
+# text = quid ergo ait Marianus tribunus plebis qui nos Sullanos in inuidiam rapit
+1	quid	quis	PRON	K	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Int
+2	ergo	ergo	CCONJ	S	_	_	_	_	_
+3	ait	aio	VERB	B6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+4	Marianus	marianus	ADJ	C1	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing
+5	tribunus	tribunus	NOUN	A2	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing
+6	plebis	plebs	NOUN	A3	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurI|Number=Sing
+7	qui	qui	PRON	J	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel
+8	nos	nos	PRON	E	Case=Acc|Number=Plur|Person=1	_	_	_	Case=Acc|InflClass=LatAnom|Number=Plur|Person=1|PronType=Prs
+9	Sullanos	syllanus	ADJ	C1	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur
+10	in	in	ADP	R	_	_	_	_	AdpType=Prep
+11	inuidiam	inuidia	NOUN	A1	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing
+12	rapit	rapio	VERB	B5	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatI2|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = CicLegA3-D-18-19
+# text = qui post Marium et Carbonem consules agri aedificia lacus stagna loca possessiones caelum et mare praetermisit cetera complexus est publice data adsignata uendita concessa sunt a quo Rulle
+1	qui	qui	PRON	J	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Rel
+2	post	post	ADP	R	_	_	_	_	AdpType=Prep
+3	Marium	marius	PROPN	A2	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing
+4	et	et	CCONJ	S	_	_	_	_	_
+5	Carbonem	carbo	PROPN	A3	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Sing
+6	consules	consul	NOUN	A3	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Plur
+7	agri	ager	NOUN	A2	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur
+8	aedificia	aedificium	NOUN	A2	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur
+9	lacus	lacus	NOUN	A4	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurU|Number=Plur
+10	stagna	stagnum	NOUN	A2	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur
+11	loca	locus	NOUN	A2	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur
+12	possessiones	possessio	NOUN	A3	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Plur
+13	caelum	caelum	NOUN	A2	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing
+14	et	et	CCONJ	S	_	_	_	_	_
+15	mare	mare	NOUN	A3	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=IndEurI|Number=Sing
+16	praetermisit	praetermitto	VERB	B3	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+17	cetera	cetera	NOUN	A2	Case=Acc|Gender=Neut|Number=Plur	_	_	_	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur
+18	complexus	complector	VERB	Y3	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass
+19	est	sum	AUX	Z3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+20	publice	publice	ADV	M	_	_	_	_	Degree=Pos
+21	data	do	VERB	Y1	Case=Nom|Gender=Neut|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass
+22	adsignata	assigno	VERB	Y1	Case=Nom|Gender=Neut|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass
+23	uendita	uendo	VERB	Y3	Case=Nom|Gender=Neut|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass
+24	concessa	concedo	VERB	Y3	Case=Nom|Gender=Neut|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass
+25	sunt	sum	AUX	Z3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+26	a	ab	ADP	R	_	_	_	_	AdpType=Prep
+27	quo	quis	PRON	K	Case=Abl|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Abl|Gender=Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Int
+28	Rulle	rullus	PROPN	A2	Case=Voc|Gender=Masc|Number=Sing	_	_	_	Case=Voc|Gender=Masc|InflClass=IndEurO|Number=Sing
+
+# sent_id = CicLegA3-D-18-20
+# text = post Marium et Carbonem consules quis adsignauit quis dedit quis concessit praeter Sullam
+1	post	post	ADP	R	_	_	_	_	AdpType=Prep
+2	Marium	marius	PROPN	A2	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing
+3	et	et	CCONJ	S	_	_	_	_	_
+4	Carbonem	carbo	PROPN	A3	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Sing
+5	consules	consul	NOUN	A3	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Plur
+6	quis	quis	PRON	K	Case=Nom|Gender=Fem,Masc|Number=Sing	_	_	_	Case=Nom|Gender=Fem,Masc|InflClass=LatPron|Number=Sing|PronType=Int
+7	adsignauit	assigno	VERB	B1	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+8	quis	quis	PRON	K	Case=Nom|Gender=Fem,Masc|Number=Sing	_	_	_	Case=Nom|Gender=Fem,Masc|InflClass=LatPron|Number=Sing|PronType=Int
+9	dedit	do	VERB	B1	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+10	quis	quis	PRON	K	Case=Nom|Gender=Fem,Masc|Number=Sing	_	_	_	Case=Nom|Gender=Fem,Masc|InflClass=LatPron|Number=Sing|PronType=Int
+11	concessit	concedo	VERB	B3	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+12	praeter	praeter	ADP	R	_	_	_	_	AdpType=Prep
+13	Sullam	sylla	PROPN	A1	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurA|Number=Sing
+
+# sent_id = CicLegA3-D-18-21
+# text = ea omnia eo iure sint quo iure
+1	ea	is	DET	I	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Prs
+2	omnia	omnis	DET	L	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Plur|PronType=Tot
+3	eo	is	DET	I	Case=Abl|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Abl|Gender=Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Prs
+4	iure	ius	NOUN	A3	Case=Abl|Gender=Neut|Number=Sing	_	_	_	Case=Abl|Gender=Neut|InflClass=IndEurI|Number=Sing
+5	sint	sum	AUX	B6	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+6	quo	quis	PRON	K	Case=Abl|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Abl|Gender=Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Int
+7	iure	ius	NOUN	A3	Case=Abl|Gender=Neut|Number=Sing	_	_	_	Case=Abl|Gender=Neut|InflClass=IndEurI|Number=Sing
+
+# sent_id = CicLegA3-D-18-22
+# text = labefactat uidelicet nescio quid
+1	labefactat	labefacto	VERB	B1	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+2	uidelicet	uidelicet	CCONJ	M	_	_	_	_	Degree=Pos
+3	nescio	nescio	VERB	B4	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatI|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+4	quid	quis	PRON	L	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Ind
+
+# sent_id = CicLegA3-D-18-23
+# text = nimium acer nimium uehemens tribunus plebis Sullana rescindit ut quae optimo iure priuata sunt
+1	nimium	nimium	ADV	M	_	_	_	_	Degree=Pos
+2	acer	acer	ADJ	C3	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurI|Number=Sing
+3	nimium	nimium	ADV	M	_	_	_	_	Degree=Pos
+4	uehemens	uehemens	ADJ	C5	Case=Nom|Gender=Fem,Masc,Neut|Number=Sing	_	_	_	Case=Nom|Degree=Pos|Gender=Fem,Masc,Neut|InflClass=IndEurI|Number=Sing
+5	tribunus	tribunus	NOUN	A2	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing
+6	plebis	plebs	NOUN	A3	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurI|Number=Sing
+7	Sullana	syllanus	ADJ	C1	Case=Acc|Gender=Neut|Number=Plur	_	_	_	Case=Acc|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur
+8	rescindit	rescindo	VERB	B3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+9	ut	ut	SCONJ	N	_	_	_	_	PronType=Rel
+10	quae	qui	PRON	J	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Rel
+11	optimo	bonus	ADJ	C1	Case=Abl|Degree=Sup|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Abl|Degree=Abs|Gender=Masc,Neut|InflClass=IndEurO|Number=Sing
+12	iure	ius	NOUN	A3	Case=Abl|Gender=Neut|Number=Sing	_	_	_	Case=Abl|Gender=Neut|InflClass=IndEurI|Number=Sing
+13	priuata	priuatus	ADJ	C1	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur
+14	sunt	sum	AUX	B6	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+
+# sent_id = CicLegA3-D-18-24
+# text = etiamne meliore quam paterna et auita
+1	etiam	etiam	ADV	M	_	_	_	_	Degree=Pos
+2	ne	ne	PART	O	_	_	_	_	PartType=Int
+3	meliore	bonus	ADJ	C1	Case=Abl|Degree=Cmp|Gender=Fem,Masc,Neut|Number=Sing	_	_	_	Case=Abl|Degree=Cmp|Gender=Fem,Masc,Neut|InflClass=IndEurX|Number=Sing
+4	quam	quam	SCONJ	N	_	_	_	_	PronType=Rel
+5	paterna	paternus	ADJ	C1	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur
+6	et	et	CCONJ	S	_	_	_	_	_
+7	auita	auitus	ADJ	C1	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur
+
+# sent_id = CicLegA3-D-18-25
+# text = meliore
+1	meliore	bonus	ADJ	C1	Case=Abl|Degree=Cmp|Gender=Fem,Masc,Neut|Number=Sing	_	_	_	Case=Abl|Degree=Cmp|Gender=Fem,Masc,Neut|InflClass=IndEurX|Number=Sing
+
+# sent_id = CicLegA3-D-18-26
+# text = at hoc Ualeria lex non dicit Corneliae leges non sanciunt Sulla ipse non postulat
+1	at	at	CCONJ	S	_	_	_	_	_
+2	hoc	hic	DET	I	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem
+3	Ualeria	ualerius	ADJ	C1	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing
+4	lex	lex	NOUN	A3	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing
+5	non	non	PART	P	_	_	_	_	Polarity=Neg
+6	dicit	dico	VERB	B3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+7	Corneliae	cornelius	ADJ	C1	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Plur
+8	leges	lex	NOUN	A3	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Plur
+9	non	non	PART	P	_	_	_	_	Polarity=Neg
+10	sanciunt	sancio	VERB	B4	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatI|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+11	Sulla	sylla	PROPN	A1	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurA|Number=Sing
+12	ipse	ipse	DET	I	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Emp
+13	non	non	PART	P	_	_	_	_	Polarity=Neg
+14	postulat	postulo	VERB	B1	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = CicLegA3-D-18-27
+# text = si isti agri partem aliquam iuris aliquam similitudinem propriae possessionis aliquam spem diuturnitatis attingunt nemo est tam impudens istorum quin agi secum praeclare arbitretur
+1	si	si	SCONJ	T	_	_	_	_	_
+2	isti	iste	DET	I	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Dem
+3	agri	ager	NOUN	A2	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur
+4	partem	pars	NOUN	A3	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurI|Number=Sing
+5	aliquam	aliquis	PRON	L	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Ind
+6	iuris	ius	NOUN	A3	Case=Gen|Gender=Neut|Number=Sing	_	_	_	Case=Gen|Gender=Neut|InflClass=IndEurI|Number=Sing
+7	aliquam	aliquis	PRON	L	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Ind
+8	similitudinem	similitudo	NOUN	A3	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing
+9	propriae	proprius	ADJ	C1	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing
+10	possessionis	possessio	NOUN	A3	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing
+11	aliquam	aliquis	PRON	L	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Ind
+12	spem	spes	NOUN	A5	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurE|Number=Sing
+13	diuturnitatis	diuturnitas	NOUN	A3	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing
+14	attingunt	attingo	VERB	B3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+15	nemo	nemo	PRON	L	Case=Nom|Number=Sing	_	_	_	Case=Nom|InflClass=IndEurX|Number=Sing|PronType=Neg
+16	est	sum	AUX	B6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+17	tam	tam	ADV	M	_	_	_	_	Degree=Pos
+18	impudens	impudens	ADJ	C5	Case=Nom|Gender=Fem,Masc,Neut|Number=Sing	_	_	_	Case=Nom|Degree=Pos|Gender=Fem,Masc,Neut|InflClass=IndEurI|Number=Sing
+19	istorum	iste	DET	I	Case=Gen|Gender=Masc,Neut|Number=Plur	_	_	_	Case=Gen|Gender=Masc,Neut|InflClass=LatPron|Number=Plur|PronType=Dem
+20	quin	quin	SCONJ	T	_	_	_	_	Polarity=Neg
+21	agi	ago	VERB	B3	Mood=Inf|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatX|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Pass
+22	se	sui	PRON	G	Case=Abl|Number=Sing|Person=3	_	_	_	Case=Abl|InflClass=LatAnom|Number=Sing|Person=3|PronType=Prs|Reflex=Yes
+23	cum	cum	ADP	R	_	_	_	_	AdpType=Prep
+24	praeclare	praeclare	ADV	M	_	_	_	_	Degree=Pos
+25	arbitretur	arbitror	VERB	B1	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatA|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+
+# sent_id = CicLegA3-D-18-28
+# text = tu uero Rulle quid quaeris
+1	tu	tu	PRON	E	Case=Nom|Number=Sing|Person=2	_	_	_	Case=Nom|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs
+2	uero	uero	CCONJ	S	_	_	_	_	_
+3	Rulle	rullus	PROPN	A2	Case=Voc|Gender=Masc|Number=Sing	_	_	_	Case=Voc|Gender=Masc|InflClass=IndEurO|Number=Sing
+4	quid	quis	PRON	K	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Int
+5	quaeris	quaero	VERB	B3	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = CicLegA3-D-18-29
+# text = quod habent ut habeant
+1	quod	qui	PRON	J	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel
+2	habent	habeo	VERB	B2	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+3	ut	ut	SCONJ	T	_	_	_	_	_
+4	habeant	habeo	VERB	B2	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = CicLegA3-D-18-30
+# text = quis uetat
+1	quis	quis	PRON	K	Case=Nom|Gender=Fem,Masc|Number=Sing	_	_	_	Case=Nom|Gender=Fem,Masc|InflClass=LatPron|Number=Sing|PronType=Int
+2	uetat	ueto	VERB	B1	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = CicLegA3-D-18-31
+# text = ut priuatum sit
+1	ut	ut	SCONJ	T	_	_	_	_	_
+2	priuatum	priuatus	ADJ	C1	Case=Nom|Gender=Neut|Number=Sing	_	_	_	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing
+3	sit	sum	AUX	B6	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+# sent_id = CicLegA3-D-18-32
+# text = ita latum est
+1	ita	ita	ADV	M	_	_	_	_	Degree=Pos
+2	latum	fero	VERB	Y6	Case=Nom|Gender=Neut|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatAnom|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass
+3	est	sum	AUX	Z6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+# sent_id = CicLegA3-D-18-33
+# text = ut meliore iure tui soceri fundus Hirpinus sit siue ager Hirpinus totum enim possidet quam meus paternus auitusque fundus Arpinas
+1	ut	ut	SCONJ	T	_	_	_	_	_
+2	meliore	bonus	ADJ	C1	Case=Abl|Degree=Cmp|Gender=Fem,Masc,Neut|Number=Sing	_	_	_	Case=Abl|Degree=Cmp|Gender=Fem,Masc,Neut|InflClass=IndEurX|Number=Sing
+3	iure	ius	NOUN	A3	Case=Abl|Gender=Neut|Number=Sing	_	_	_	Case=Abl|Gender=Neut|InflClass=IndEurI|Number=Sing
+4	tui	tuus	DET	F	Case=Gen|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Gen|Gender=Masc,Neut|InflClass=IndEurO|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs
+5	soceri	socer	NOUN	A2	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing
+6	fundus	fundus	NOUN	A2	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing
+7	Hirpinus	hirpinus	ADJ	C1	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing
+8	sit	sum	AUX	B6	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+9	siue	siue	CCONJ	S	_	_	_	_	_
+10	ager	ager	NOUN	A2	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing
+11	Hirpinus	hirpinus	ADJ	C1	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing
+12	totum	totus	DET	L	Case=Acc|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Acc|Gender=Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Tot
+13	enim	enim	PART	S	_	_	_	_	_
+14	possidet	possideo	VERB	B2	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+15	quam	quam	SCONJ	N	_	_	_	_	PronType=Rel
+16	meus	meus	DET	F	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs
+17	paternus	paternus	ADJ	C1	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing
+18	auitus	auitus	ADJ	C1	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing
+19	que	que	CCONJ	S	_	_	_	_	_
+20	fundus	fundus	NOUN	A2	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing
+21	Arpinas	arpinas	ADJ	C5	Case=Nom|Gender=Fem,Masc,Neut|Number=Sing	_	_	_	Case=Nom|Degree=Pos|Gender=Fem,Masc,Neut|InflClass=IndEurI|Number=Sing
+
+# sent_id = CicLegA3-D-18-34
+# text = id enim caues
+1	id	is	DET	I	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Prs
+2	enim	enim	PART	S	_	_	_	_	_
+3	caues	caueo	VERB	B2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = CicLegA3-D-18-35
+# text = optimo enim iure ea sunt profecto praedia quae optima condicione sunt
+1	optimo	bonus	ADJ	C1	Case=Abl|Degree=Sup|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Abl|Degree=Abs|Gender=Masc,Neut|InflClass=IndEurO|Number=Sing
+2	enim	enim	PART	S	_	_	_	_	_
+3	iure	ius	NOUN	A3	Case=Abl|Gender=Neut|Number=Sing	_	_	_	Case=Abl|Gender=Neut|InflClass=IndEurI|Number=Sing
+4	ea	is	DET	I	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Prs
+5	sunt	sum	AUX	B6	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+6	profecto	profecto	ADV	M	_	_	_	_	Degree=Pos
+7	praedia	praedium	NOUN	A2	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur
+8	quae	qui	PRON	J	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Rel
+9	optima	bonus	ADJ	C1	Case=Abl|Degree=Sup|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Degree=Abs|Gender=Fem|InflClass=IndEurA|Number=Sing
+10	condicione	condicio	NOUN	A3	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing
+11	sunt	sum	AUX	B6	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+
+# sent_id = CicLegA3-D-18-36
+# text = libera meliore iure sunt quam serua capite hoc omnia quae seruiebant non seruient
+1	libera	liber	ADJ	C1	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur
+2	meliore	bonus	ADJ	C1	Case=Abl|Degree=Cmp|Gender=Fem,Masc,Neut|Number=Sing	_	_	_	Case=Abl|Degree=Cmp|Gender=Fem,Masc,Neut|InflClass=IndEurX|Number=Sing
+3	iure	ius	NOUN	A3	Case=Abl|Gender=Neut|Number=Sing	_	_	_	Case=Abl|Gender=Neut|InflClass=IndEurI|Number=Sing
+4	sunt	sum	AUX	B6	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+5	quam	quam	SCONJ	N	_	_	_	_	PronType=Rel
+6	serua	seruus	ADJ	C1	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur
+7	capite	caput	NOUN	A3	Case=Abl|Gender=Neut|Number=Sing	_	_	_	Case=Abl|Gender=Neut|InflClass=IndEurX|Number=Sing
+8	hoc	hic	DET	I	Case=Abl|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Abl|Gender=Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Dem
+9	omnia	omnis	DET	L	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Plur|PronType=Tot
+10	quae	qui	PRON	J	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Rel
+11	seruiebant	seruio	VERB	B4	Mood=Ind|Number=Plur|Person=3|Tense=Imp|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatI|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+12	non	non	PART	P	_	_	_	_	Polarity=Neg
+13	seruient	seruio	VERB	B4	Mood=Ind|Number=Plur|Person=3|Tense=Fut|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatI|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+
+# sent_id = CicLegA3-D-18-37
+# text = soluta meliore in causa sunt quam obligata eodem capite subsignata omnia si modo Sullana sunt liberantur
+1	soluta	solutus	ADJ	C1	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur
+2	meliore	bonus	ADJ	C1	Case=Abl|Degree=Cmp|Gender=Fem,Masc,Neut|Number=Sing	_	_	_	Case=Abl|Degree=Cmp|Gender=Fem,Masc,Neut|InflClass=IndEurX|Number=Sing
+3	in	in	ADP	R	_	_	_	_	AdpType=Prep
+4	causa	causa	NOUN	A1	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing
+5	sunt	sum	AUX	B6	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+6	quam	quam	SCONJ	N	_	_	_	_	PronType=Rel
+7	obligata	obligatus	ADJ	C1	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur
+8	eodem	idem	DET	I	Case=Abl|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Abl|Gender=Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Dem
+9	capite	caput	NOUN	A3	Case=Abl|Gender=Neut|Number=Sing	_	_	_	Case=Abl|Gender=Neut|InflClass=IndEurX|Number=Sing
+10	subsignata	subsigno	VERB	B1	Case=Nom|Gender=Neut|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass
+11	omnia	omnis	DET	L	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Plur|PronType=Tot
+12	si	si	SCONJ	T	_	_	_	_	_
+13	modo	modo	ADV	M	_	_	_	_	Degree=Pos
+14	Sullana	syllanus	ADJ	C1	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur
+15	sunt	sum	AUX	B6	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+16	liberantur	libero	VERB	B1	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+
+# sent_id = CicLegA3-D-18-38
+# text = immunia commodiore condicione sunt quam illa quae pensitant ego Tusculanis pro aqua Crabra uectigal pendam quia mancipio fundum accepi si a Sulla mihi datus esset Rulli lege non penderem
+1	immunia	immunis	ADJ	C4	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Plur
+2	commodiore	commodus	ADJ	C1	Case=Abl|Degree=Cmp|Gender=Fem,Masc,Neut|Number=Sing	_	_	_	Case=Abl|Degree=Cmp|Gender=Fem,Masc,Neut|InflClass=IndEurX|Number=Sing
+3	condicione	condicio	NOUN	A3	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing
+4	sunt	sum	AUX	B6	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+5	quam	quam	SCONJ	N	_	_	_	_	PronType=Rel
+6	illa	ille	DET	I	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Dem
+7	quae	qui	PRON	J	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Rel
+8	pensitant	pensito	VERB	B1	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+9	ego	ego	PRON	E	Case=Nom|Number=Sing|Person=1	_	_	_	Case=Nom|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs
+10	Tusculanis	tusculani	PROPN	A2	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Plur
+11	pro	pro	ADP	R	_	_	_	_	AdpType=Prep
+12	aqua	aqua	NOUN	A1	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing
+13	Crabra	crabra	PROPN	A1	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing
+14	uectigal	uectigal	NOUN	A3	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=IndEurI|Number=Sing
+15	pendam	pendo	VERB	B3	Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act
+16	quia	quia	SCONJ	T	_	_	_	_	_
+17	mancipio	mancipium	NOUN	A2	Case=Abl|Gender=Neut|Number=Sing	_	_	_	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing
+18	fundum	fundus	NOUN	A2	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing
+19	accepi	accipio	VERB	B5	Mood=Ind|Number=Sing|Person=1|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatI2|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+20	si	si	SCONJ	T	_	_	_	_	_
+21	a	ab	ADP	R	_	_	_	_	AdpType=Prep
+22	Sulla	sylla	PROPN	A1	Case=Abl|Gender=Masc|Number=Sing	_	_	_	Case=Abl|Gender=Masc|InflClass=IndEurA|Number=Sing
+23	mihi	ego	PRON	E	Case=Dat|Number=Sing|Person=1	_	_	_	Case=Dat|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs
+24	datus	do	VERB	Y1	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass
+25	esset	sum	AUX	Z1	Mood=Sub|Number=Sing|Person=3|Tense=Imp|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+26	Rulli	rullus	PROPN	A2	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing
+27	lege	lex	NOUN	A3	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing
+28	non	non	PART	P	_	_	_	_	Polarity=Neg
+29	penderem	pendo	VERB	B3	Mood=Sub|Number=Sing|Person=1|Tense=Imp|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+
+# sent_id = CicLegA3-D-18-39
+# text = uideo uos Quirites sicuti res ipsa cogit commoueri uel legis uel orationis impudentia legis quae ius melius Sullanis praediis constituat quam paternis orationis quae eius modi in causa insimulare quemquam audeat rationes Sullae nimium uehementer defendere
+1	uideo	uideo	VERB	B2	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+2	uos	uos	PRON	E	Case=Acc|Number=Plur|Person=2	_	_	_	Case=Acc|InflClass=LatAnom|Number=Plur|Person=2|PronType=Prs
+3	Quirites	quirites	PROPN	A3	Case=Voc|Gender=Masc|Number=Plur	_	_	_	Case=Voc|Gender=Masc|InflClass=IndEurX|Number=Plur
+4	sicuti	sicut	SCONJ	N	_	_	_	_	PronType=Rel
+5	res	res	NOUN	A5	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Case=Nom|Gender=Fem|InflClass=IndEurE|Number=Sing
+6	ipsa	ipse	DET	I	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Emp
+7	cogit	cogo	VERB	B3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+8	commoueri	commoueo	VERB	B2	Mood=Inf|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatE|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Pass
+9	uel	uel	CCONJ	S	_	_	_	_	_
+10	legis	lex	NOUN	A3	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing
+11	uel	uel	CCONJ	S	_	_	_	_	_
+12	orationis	oratio	NOUN	A3	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing
+13	impudentia	impudentia	NOUN	A1	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing
+14	legis	lex	NOUN	A3	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing
+15	quae	qui	PRON	J	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel
+16	ius	ius	NOUN	A3	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=IndEurI|Number=Sing
+17	melius	bonus	ADJ	C1	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Degree=Cmp|Gender=Neut|InflClass=IndEurX|Number=Sing
+18	Sullanis	syllanus	ADJ	C1	Case=Dat|Gender=Fem,Masc,Neut|Number=Plur	_	_	_	Case=Dat|Degree=Pos|Gender=Fem,Masc,Neut|InflClass=IndEurA,IndEurO|Number=Plur
+19	praediis	praedium	NOUN	A2	Case=Dat|Gender=Neut|Number=Plur	_	_	_	Case=Dat|Gender=Neut|InflClass=IndEurO|Number=Plur
+20	constituat	constituo	VERB	B3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+21	quam	quam	SCONJ	N	_	_	_	_	PronType=Rel
+22	paternis	paternus	ADJ	C1	Case=Dat|Gender=Fem,Masc,Neut|Number=Plur	_	_	_	Case=Dat|Degree=Pos|Gender=Fem,Masc,Neut|InflClass=IndEurA,IndEurO|Number=Plur
+23	orationis	oratio	NOUN	A3	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing
+24	quae	qui	PRON	J	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel
+25	eius	is	DET	I	Case=Gen|Gender=Fem,Masc,Neut|Number=Sing	_	_	_	Case=Gen|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Prs
+26	modi	modus	NOUN	A2	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing
+27	in	in	ADP	R	_	_	_	_	AdpType=Prep
+28	causa	causa	NOUN	A1	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing
+29	insimulare	insimulo	VERB	B1	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatA|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act
+30	quemquam	quisquam	PRON	L	Case=Acc|Gender=Fem,Masc|Number=Sing	_	_	_	Case=Acc|Gender=Fem,Masc|InflClass=LatPron|Number=Sing|PronType=Ind
+31	audeat	audeo	VERB	B2	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+32	rationes	ratio	NOUN	A3	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Plur
+33	Sullae	sylla	PROPN	A1	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Case=Gen|Gender=Masc|InflClass=IndEurA|Number=Sing
+34	nimium	nimium	ADV	M	_	_	_	_	Degree=Pos
+35	uehementer	uehementer	ADV	M	_	_	_	_	Degree=Pos
+36	defendere	defendo	VERB	B3	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act
+
+# sent_id = CicLegA3-D-18-40
+# text = at si illa solum sanciret quae a Sulla essent data tacerem modo ipse se Sullanum esse confiteretur
+1	at	at	CCONJ	S	_	_	_	_	_
+2	si	si	SCONJ	T	_	_	_	_	_
+3	illa	ille	DET	I	Case=Acc|Gender=Neut|Number=Plur	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Dem
+4	solum	solum	ADV	M	_	_	_	_	Degree=Pos
+5	sanciret	sancio	VERB	B4	Mood=Sub|Number=Sing|Person=3|Tense=Imp|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatI|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+6	quae	qui	PRON	J	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Rel
+7	a	ab	ADP	R	_	_	_	_	AdpType=Prep
+8	Sulla	sylla	PROPN	A1	Case=Abl|Gender=Masc|Number=Sing	_	_	_	Case=Abl|Gender=Masc|InflClass=IndEurA|Number=Sing
+9	essent	sum	AUX	Z1	Mood=Sub|Number=Plur|Person=3|Tense=Imp|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+10	data	do	VERB	Y1	Case=Nom|Gender=Neut|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass
+11	tacerem	taceo	VERB	B2	Mood=Sub|Number=Sing|Person=1|Tense=Imp|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+12	modo	modo	ADV	T	_	_	_	_	_
+13	ipse	ipse	DET	I	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Emp
+14	se	sui	PRON	G	Case=Acc|Number=Sing|Person=3	_	_	_	Case=Acc|InflClass=LatAnom|Number=Sing|Person=3|PronType=Prs|Reflex=Yes
+15	Sullanum	syllanus	ADJ	C1	Case=Acc|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Acc|Degree=Pos|Gender=Masc,Neut|InflClass=IndEurO|Number=Sing
+16	esse	sum	AUX	B6	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|VerbForm=Inf
+17	confiteretur	confiteor	VERB	B2	Mood=Sub|Number=Sing|Person=3|Tense=Imp|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+
+# sent_id = CicLegA3-D-18-41
+# text = sed non modo illis cauet uerum etiam aliud quoddam genus donationis inducit et is qui a me Sullanas possessiones defendi criminatur non eas solum sancit uerum ipse nouas adsignationes instituit et repentinus Sulla nobis exoritur
+1	sed	sed	CCONJ	S	_	_	_	_	_
+2	non	non	PART	P	_	_	_	_	Polarity=Neg
+3	modo	modo	ADV	M	_	_	_	_	Degree=Pos
+4	illis	ille	DET	I	Case=Dat|Gender=Fem,Masc,Neut|Number=Plur	_	_	_	Case=Dat|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Plur|PronType=Dem
+5	cauet	caueo	VERB	B2	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+6	uerum	uerum	CCONJ	S	_	_	_	_	_
+7	etiam	etiam	ADV	M	_	_	_	_	Degree=Pos
+8	aliud	alius	DET	L	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Con
+9	quoddam	quidam	DET	L	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Ind
+10	genus	genus	NOUN	A3	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=IndEurX|Number=Sing
+11	donationis	donatio	NOUN	A3	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing
+12	inducit	induco	VERB	B3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+13	et	et	CCONJ	S	_	_	_	_	_
+14	is	is	DET	I	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Prs
+15	qui	qui	PRON	J	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel
+16	a	ab	ADP	R	_	_	_	_	AdpType=Prep
+17	me	ego	PRON	E	Case=Abl|Number=Sing|Person=1	_	_	_	Case=Abl|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs
+18	Sullanas	syllanus	ADJ	C1	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Plur
+19	possessiones	possessio	NOUN	A3	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Plur
+20	defendi	defendo	VERB	B3	Mood=Inf|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatX|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Pass
+21	criminatur	criminor	VERB	B1	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+22	non	non	PART	P	_	_	_	_	Polarity=Neg
+23	eas	is	DET	I	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Plur|PronType=Prs
+24	solum	solum	ADV	M	_	_	_	_	Degree=Pos
+25	sancit	sancio	VERB	B4	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatI|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+26	uerum	uerum	CCONJ	S	_	_	_	_	_
+27	ipse	ipse	DET	I	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Emp
+28	nouas	nouus	ADJ	C1	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Plur
+29	adsignationes	assignatio	NOUN	A3	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Plur
+30	instituit	instituo	VERB	B3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+31	et	et	CCONJ	S	_	_	_	_	_
+32	repentinus	repentinus	ADJ	C1	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing
+33	Sulla	sylla	PROPN	A1	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurA|Number=Sing
+34	nobis	nos	PRON	E	Case=Dat|Number=Plur|Person=1	_	_	_	Case=Dat|InflClass=LatAnom|Number=Plur|Person=1|PronType=Prs
+35	exoritur	exorior	VERB	B4	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatI|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+
+# sent_id = CicLegA3-D-18-42
+# text = nam attendite quantas concessiones agrorum hic noster obiurgator uno uerbo facere conetur quae data donata concessa uendita
+1	nam	nam	PART	S	_	_	_	_	_
+2	attendite	attendo	VERB	B3	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+3	quantas	quantus	DET	K	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurA|NumType=Card|Number=Plur|PronType=Int
+4	concessiones	concessio	NOUN	A3	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Plur
+5	agrorum	ager	NOUN	A2	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Plur
+6	hic	hic	DET	I	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem
+7	noster	noster	DET	F	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs
+8	obiurgator	obiurgator	NOUN	A3	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing
+9	uno	unus	DET	D1	Case=Abl|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Abl|Gender=Masc,Neut|InflClass=LatPron|NumType=Card|Number=Sing|PronType=Ind
+10	uerbo	uerbum	NOUN	A2	Case=Abl|Gender=Neut|Number=Sing	_	_	_	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing
+11	facere	facio	VERB	B5	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatI2|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act
+12	conetur	conor	VERB	B1	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatA|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+13	quae	qui	PRON	J	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Rel
+14	data	do	VERB	Y1	Case=Nom|Gender=Neut|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass
+15	donata	dono	VERB	Y1	Case=Nom|Gender=Neut|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass
+16	concessa	concedo	VERB	Y3	Case=Nom|Gender=Neut|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass
+17	uendita	uendo	VERB	Y3	Case=Nom|Gender=Neut|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass
+
+# sent_id = CicLegA3-D-18-43
+# text = patior audio
+1	patior	patior	VERB	B5	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatI2|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+2	audio	audio	VERB	B4	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatI|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = CicLegA3-D-18-44
+# text = quid deinde
+1	quid	quis	PRON	K	Case=Nom|Gender=Neut|Number=Sing	_	_	_	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Int
+2	deinde	deinde	ADV	M	_	_	_	_	Degree=Pos
+
+# sent_id = CicLegA3-D-18-45
+# text = possessa
+1	possessa	possideo	VERB	Y2	Case=Nom|Gender=Neut|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatE|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass
+
+# sent_id = CicLegA3-D-18-46
+# text = hoc tribunus plebis promulgare ausus est ut quod quisque post Marium et Carbonem consules possideret id eo iure teneret quo quod optimo priuatum est
+1	hoc	hic	DET	I	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem
+2	tribunus	tribunus	NOUN	A2	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing
+3	plebis	plebs	NOUN	A3	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurI|Number=Sing
+4	promulgare	promulgo	VERB	B1	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatA|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act
+5	ausus	audeo	VERB	Y2	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatE|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass
+6	est	sum	AUX	Z2	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+7	ut	ut	SCONJ	T	_	_	_	_	_
+8	quod	qui	PRON	J	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel
+9	quisque	quisque	DET	L	Case=Nom|Gender=Fem,Masc|Number=Sing	_	_	_	Case=Nom|Gender=Fem,Masc|InflClass=LatPron|Number=Sing|PronType=Tot
+10	post	post	ADP	R	_	_	_	_	AdpType=Prep
+11	Marium	marius	PROPN	A2	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing
+12	et	et	CCONJ	S	_	_	_	_	_
+13	Carbonem	carbo	PROPN	A3	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Sing
+14	consules	consul	NOUN	A3	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Plur
+15	possideret	possideo	VERB	B2	Mood=Sub|Number=Sing|Person=3|Tense=Imp|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+16	id	is	DET	I	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Prs
+17	eo	is	DET	I	Case=Abl|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Abl|Gender=Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Prs
+18	iure	ius	NOUN	A3	Case=Abl|Gender=Neut|Number=Sing	_	_	_	Case=Abl|Gender=Neut|InflClass=IndEurI|Number=Sing
+19	teneret	teneo	VERB	B2	Mood=Sub|Number=Sing|Person=3|Tense=Imp|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+20	quo	qui	PRON	J	Case=Abl|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Abl|Gender=Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Rel
+21	quod	qui	PRON	J	Case=Nom|Gender=Neut|Number=Sing	_	_	_	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel
+22	optimo	bonus	ADJ	C1	Case=Abl|Degree=Sup|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Abl|Degree=Abs|Gender=Masc,Neut|InflClass=IndEurO|Number=Sing
+23	priuatum	priuatus	ADJ	C1	Case=Nom|Gender=Neut|Number=Sing	_	_	_	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing
+24	est	sum	AUX	B6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+# sent_id = CicLegA3-D-18-47
+# text = etiamne si ui deiecit etiamne si clam si precario uenit in possessionem
+1	etiam	etiam	ADV	M	_	_	_	_	Degree=Pos
+2	ne	ne	PART	O	_	_	_	_	PartType=Int
+3	si	si	SCONJ	T	_	_	_	_	_
+4	ui	uis	NOUN	A3	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurI|Number=Sing
+5	deiecit	deicio	VERB	B5	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatI2|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+6	etiam	etiam	ADV	M	_	_	_	_	Degree=Pos
+7	ne	ne	PART	O	_	_	_	_	PartType=Int
+8	si	si	SCONJ	T	_	_	_	_	_
+9	clam	clam	ADV	M	_	_	_	_	Degree=Pos
+10	si	si	SCONJ	T	_	_	_	_	_
+11	precario	precario	ADV	M	_	_	_	_	Degree=Pos
+12	uenit	uenio	VERB	B4	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatI|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+13	in	in	ADP	R	_	_	_	_	AdpType=Prep
+14	possessionem	possessio	NOUN	A3	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing
+
+# sent_id = CicLegA3-D-18-48
+# text = ergo hac lege ius ciuile causae possessionum praetorum interdicta tollentur
+1	ergo	ergo	CCONJ	S	_	_	_	_	_
+2	hac	hic	DET	I	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem
+3	lege	lex	NOUN	A3	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing
+4	ius	ius	NOUN	A3	Case=Nom|Gender=Neut|Number=Sing	_	_	_	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Sing
+5	ciuile	ciuilis	ADJ	C4	Case=Nom|Gender=Neut|Number=Sing	_	_	_	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Sing
+6	causae	causa	NOUN	A1	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Plur
+7	possessionum	possessio	NOUN	A3	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Plur
+8	praetorum	praetor	NOUN	A3	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Case=Gen|Gender=Masc|InflClass=IndEurX|Number=Plur
+9	interdicta	interdictum	NOUN	A2	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur
+10	tollentur	tollo	VERB	B3	Mood=Ind|Number=Plur|Person=3|Tense=Fut|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass
+
+# sent_id = CicLegA3-D-18-49
+# text = non mediocris res neque paruum sub hoc uerbo furtum Quirites latet
+1	non	non	PART	P	_	_	_	_	Polarity=Neg
+2	mediocris	mediocris	ADJ	C4	Case=Nom|Gender=Fem,Masc|Number=Sing	_	_	_	Case=Nom|Degree=Pos|Gender=Fem,Masc|InflClass=IndEurI|Number=Sing
+3	res	res	NOUN	A5	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Case=Nom|Gender=Fem|InflClass=IndEurE|Number=Sing
+4	neque	neque	CCONJ	S	_	_	_	_	Polarity=Neg
+5	paruum	paruus	ADJ	C1	Case=Nom|Gender=Neut|Number=Sing	_	_	_	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing
+6	sub	sub	ADP	R	_	_	_	_	AdpType=Prep
+7	hoc	hic	DET	I	Case=Abl|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Abl|Gender=Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Dem
+8	uerbo	uerbum	NOUN	A2	Case=Abl|Gender=Neut|Number=Sing	_	_	_	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing
+9	furtum	furtum	NOUN	A2	Case=Nom|Gender=Neut|Number=Sing	_	_	_	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing
+10	Quirites	quirites	PROPN	A3	Case=Voc|Gender=Masc|Number=Plur	_	_	_	Case=Voc|Gender=Masc|InflClass=IndEurX|Number=Plur
+11	latet	lateo	VERB	B2	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = CicLegA3-D-18-50
+# text = sunt enim multi agri lege Cornelia publicati nec cuiquam adsignati neque uenditi qui a paucis hominibus impudentissime possidentur
+1	sunt	sum	AUX	B6	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+2	enim	enim	PART	S	_	_	_	_	_
+3	multi	multus	DET	C1	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|NumType=Card|Number=Plur|PronType=Ind
+4	agri	ager	NOUN	A2	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur
+5	lege	lex	NOUN	A3	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing
+6	Cornelia	cornelius	ADJ	C1	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing
+7	publicati	publico	VERB	B1	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass
+8	nec	nec	CCONJ	S	_	_	_	_	Polarity=Neg
+9	cuiquam	quisquam	PRON	L	Case=Dat|Gender=Fem,Masc,Neut|Number=Sing	_	_	_	Case=Dat|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Ind
+10	adsignati	assigno	VERB	B1	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass
+11	neque	neque	CCONJ	S	_	_	_	_	Polarity=Neg
+12	uenditi	uendo	VERB	B3	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass
+13	qui	qui	PRON	J	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Rel
+14	a	ab	ADP	R	_	_	_	_	AdpType=Prep
+15	paucis	paucus	DET	C1	Case=Abl|Gender=Fem,Masc,Neut|Number=Plur	_	_	_	Case=Abl|Degree=Pos|Gender=Fem,Masc,Neut|InflClass=IndEurA,IndEurO|NumType=Card|Number=Plur|PronType=Ind
+16	hominibus	homo	NOUN	A3	Case=Abl|Gender=Masc|Number=Plur	_	_	_	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Plur
+17	impudentissime	impudenter	ADV	M	Degree=Sup	_	_	_	Degree=Abs
+18	possidentur	possideo	VERB	B2	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+
+# sent_id = CicLegA3-D-18-51
+# text = his cauet hos defendit hos priuatos facit hos inquam agros quos Sulla nemini dedit Rullus non uobis adsignare uolt sed eis condonare qui possident
+1	his	hic	DET	I	Case=Dat|Gender=Fem,Masc,Neut|Number=Plur	_	_	_	Case=Dat|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Plur|PronType=Dem
+2	cauet	caueo	VERB	B2	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+3	hos	hic	DET	I	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Dem
+4	defendit	defendo	VERB	B3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+5	hos	hic	DET	I	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Dem
+6	priuatos	priuatus	ADJ	C1	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur
+7	facit	facio	VERB	B5	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatI2|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+8	hos	hic	DET	I	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Dem
+9	inquam	inquio	VERB	B6	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+10	agros	ager	NOUN	A2	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur
+11	quos	qui	PRON	J	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Rel
+12	Sulla	sylla	PROPN	A1	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurA|Number=Sing
+13	nemini	nemo	PRON	L	Case=Dat|Number=Sing	_	_	_	Case=Dat|InflClass=IndEurX|Number=Sing|PronType=Neg
+14	dedit	do	VERB	B1	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+15	Rullus	rullus	PROPN	A2	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing
+16	non	non	PART	P	_	_	_	_	Polarity=Neg
+17	uobis	uos	PRON	E	Case=Dat|Number=Plur|Person=2	_	_	_	Case=Dat|InflClass=LatAnom|Number=Plur|Person=2|PronType=Prs
+18	adsignare	assigno	VERB	B1	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatA|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act
+19	uolt	uolo	VERB	B6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+20	sed	sed	CCONJ	S	_	_	_	_	_
+21	eis	is	DET	I	Case=Dat|Gender=Fem,Masc,Neut|Number=Plur	_	_	_	Case=Dat|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Plur|PronType=Prs
+22	condonare	condono	VERB	B1	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatA|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act
+23	qui	qui	PRON	J	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Rel
+24	possident	possideo	VERB	B2	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = CicLegA3-D-18-52
+# text = causam quaero cur ea quae maiores uobis in Italia Sicilia Africa duabus Hispaniis Macedonia Asia reliquerunt uenire patiamini cum ea quae uestra sunt condonari possessoribus eadem lege uideatis
+1	causam	causa	NOUN	A1	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing
+2	quaero	quaero	VERB	B3	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+3	cur	cur	ADV	O	_	_	_	_	PronType=Int
+4	ea	is	DET	I	Case=Acc|Gender=Neut|Number=Plur	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Prs
+5	quae	qui	PRON	J	Case=Acc|Gender=Neut|Number=Plur	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Rel
+6	maiores	maiores	NOUN	A3	Case=Nom|Gender=Fem,Masc|Number=Plur	_	_	_	Case=Nom|Gender=Fem,Masc|InflClass=IndEurX|Number=Plur
+7	uobis	uos	PRON	E	Case=Dat|Number=Plur|Person=2	_	_	_	Case=Dat|InflClass=LatAnom|Number=Plur|Person=2|PronType=Prs
+8	in	in	ADP	R	_	_	_	_	AdpType=Prep
+9	Italia	italia	PROPN	A1	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing
+10	Sicilia	sicilia	PROPN	A1	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing
+11	Africa	africa	PROPN	A1	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing
+12	duabus	duo	NUM	D1	Case=Abl|Gender=Fem|Number=Plur	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurA|NumType=Card|Number=Plur
+13	Hispaniis	hispania	PROPN	A1	Case=Abl|Gender=Fem|Number=Plur	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Plur
+14	Macedonia	macedonia	PROPN	A1	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing
+15	Asia	asia	PROPN	A1	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing
+16	reliquerunt	relinquo	VERB	B3	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatX|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+17	uenire	ueneo	VERB	B6	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act
+18	patiamini	patior	VERB	B5	Mood=Sub|Number=Plur|Person=2|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatI2|Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass
+19	cum	cum	SCONJ	T	_	_	_	_	_
+20	ea	is	DET	I	Case=Acc|Gender=Neut|Number=Plur	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Prs
+21	quae	qui	PRON	J	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Rel
+22	uestra	uester	DET	F	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs
+23	sunt	sum	AUX	B6	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+24	condonari	condono	VERB	B1	Mood=Inf|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatA|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Pass
+25	possessoribus	possessor	NOUN	A3	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Case=Dat|Gender=Masc|InflClass=IndEurX|Number=Plur
+26	eadem	idem	DET	I	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem
+27	lege	lex	NOUN	A3	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing
+28	uideatis	uideo	VERB	B2	Mood=Sub|Number=Plur|Person=2|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = CicLegA3-D-18-53
+# text = iam totam legem intellegetis cum ad paucorum dominationem scripta sit tum ad Sullanae adsignationis rationes esse accommodatissimam
+1	iam	iam	ADV	M	_	_	_	_	Degree=Pos
+2	totam	totus	DET	L	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Tot
+3	legem	lex	NOUN	A3	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing
+4	intellegetis	intelligo	VERB	B3	Mood=Ind|Number=Plur|Person=2|Tense=Fut|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act
+5	cum	cum	SCONJ	T	_	_	_	_	_
+6	ad	ad	ADP	R	_	_	_	_	AdpType=Prep
+7	paucorum	pauci	NOUN	A2	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Plur
+8	dominationem	dominatio	NOUN	A3	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing
+9	scripta	scribo	VERB	Y3	Case=Nom|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass
+10	sit	sum	AUX	Z3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+11	tum	tum	ADV	M	_	_	_	_	Degree=Pos
+12	ad	ad	ADP	R	_	_	_	_	AdpType=Prep
+13	Sullanae	syllanus	ADJ	C1	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing
+14	adsignationis	assignatio	NOUN	A3	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing
+15	rationes	ratio	NOUN	A3	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Plur
+16	esse	sum	AUX	B6	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|VerbForm=Inf
+17	accommodatissimam	accommodatus	ADJ	C1	Case=Acc|Degree=Sup|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Degree=Abs|Gender=Fem|InflClass=IndEurA|Number=Sing
+
+# sent_id = CicLegA3-D-18-54
+# text = nam socer huius uir multum bonus est neque ego nunc de illius bonitate sed de generi impudentia disputo
+1	nam	nam	PART	S	_	_	_	_	_
+2	socer	socer	NOUN	A2	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing
+3	huius	hic	DET	I	Case=Gen|Gender=Fem,Masc,Neut|Number=Sing	_	_	_	Case=Gen|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Dem
+4	uir	uir	NOUN	A2	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing
+5	multum	multum	ADV	M	_	_	_	_	Degree=Pos
+6	bonus	bonus	ADJ	C1	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing
+7	est	sum	AUX	B6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+8	neque	neque	CCONJ	S	_	_	_	_	Polarity=Neg
+9	ego	ego	PRON	E	Case=Nom|Number=Sing|Person=1	_	_	_	Case=Nom|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs
+10	nunc	nunc	ADV	M	_	_	_	_	Degree=Pos
+11	de	de	ADP	R	_	_	_	_	AdpType=Prep
+12	illius	ille	DET	I	Case=Gen|Gender=Fem,Masc,Neut|Number=Sing	_	_	_	Case=Gen|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Dem
+13	bonitate	bonitas	NOUN	A3	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing
+14	sed	sed	CCONJ	S	_	_	_	_	_
+15	de	de	ADP	R	_	_	_	_	AdpType=Prep
+16	generi	gener	NOUN	A2	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing
+17	impudentia	impudentia	NOUN	A1	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing
+18	disputo	disputo	VERB	B1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = CicLegA3-D-18-55
+# text = ille enim quod habet retinere uolt neque se Sullanum esse dissimulat hic ut ipse habeat quod non habet quae dubia sunt per uos sancire uolt et cum plus appetat quam ipse Sulla quibus rebus resisto Sullanas res defendere me criminatur
+1	ille	ille	DET	I	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem
+2	enim	enim	PART	S	_	_	_	_	_
+3	quod	qui	PRON	J	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel
+4	habet	habeo	VERB	B2	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+5	retinere	retineo	VERB	B2	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act
+6	uolt	uolo	VERB	B6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+7	neque	neque	CCONJ	S	_	_	_	_	Polarity=Neg
+8	se	sui	PRON	G	Case=Acc|Number=Sing|Person=3	_	_	_	Case=Acc|InflClass=LatAnom|Number=Sing|Person=3|PronType=Prs|Reflex=Yes
+9	Sullanum	syllanus	ADJ	C1	Case=Acc|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Acc|Degree=Pos|Gender=Masc,Neut|InflClass=IndEurO|Number=Sing
+10	esse	sum	AUX	B6	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|VerbForm=Inf
+11	dissimulat	dissimulo	VERB	B1	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+12	hic	hic	DET	I	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem
+13	ut	ut	SCONJ	T	_	_	_	_	_
+14	ipse	ipse	DET	I	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Emp
+15	habeat	habeo	VERB	B2	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+16	quod	qui	PRON	J	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel
+17	non	non	PART	P	_	_	_	_	Polarity=Neg
+18	habet	habeo	VERB	B2	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+19	quae	qui	PRON	J	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Rel
+20	dubia	dubius	ADJ	C1	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur
+21	sunt	sum	AUX	B6	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+22	per	per	ADP	R	_	_	_	_	AdpType=Prep
+23	uos	uos	PRON	E	Case=Acc|Number=Plur|Person=2	_	_	_	Case=Acc|InflClass=LatAnom|Number=Plur|Person=2|PronType=Prs
+24	sancire	sancio	VERB	B4	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatI|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act
+25	uolt	uolo	VERB	B6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+26	et	et	CCONJ	S	_	_	_	_	_
+27	cum	cum	SCONJ	T	_	_	_	_	_
+28	plus	multus	DET	C1	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Degree=Cmp|Gender=Neut|InflClass=IndEurX|NumType=Card|Number=Sing|PronType=Ind
+29	appetat	appeto	VERB	B3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+30	quam	quam	SCONJ	N	_	_	_	_	PronType=Rel
+31	ipse	ipse	DET	I	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Emp
+32	Sulla	sylla	PROPN	A1	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurA|Number=Sing
+33	quibus	qui	PRON	J	Case=Dat|Gender=Fem,Masc,Neut|Number=Plur	_	_	_	Case=Dat|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Plur|PronType=Rel
+34	rebus	res	NOUN	A5	Case=Dat|Gender=Fem|Number=Plur	_	_	_	Case=Dat|Gender=Fem|InflClass=IndEurE|Number=Plur
+35	resisto	resisto	VERB	B3	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+36	Sullanas	syllanus	ADJ	C1	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Plur
+37	res	res	NOUN	A5	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurE|Number=Plur
+38	defendere	defendo	VERB	B3	Mood=Inf|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act
+39	me	ego	PRON	E	Case=Acc|Number=Sing|Person=1	_	_	_	Case=Acc|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs
+40	criminatur	criminor	VERB	B1	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+
+# sent_id = CicLegA3-D-18-56
+# text = habet agros non nullos inquit socer meus desertos atque longinquos uendet eos mea lege quanti uolet
+1	habet	habeo	VERB	B2	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+2	agros	ager	NOUN	A2	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur
+3	non	non	PART	P	_	_	_	_	Degree=Pos|Polarity=Neg
+4	nullos	nullus	DET	L	Case=Acc|Number=Plur	_	_	_	Case=Acc|InflClass=LatPron|Number=Plur|PronType=Neg
+5	inquit	inquio	VERB	B6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+6	socer	socer	NOUN	A2	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing
+7	meus	meus	DET	F	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs
+8	desertos	desertus	ADJ	C1	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur
+9	atque	atque	CCONJ	S	_	_	_	_	_
+10	longinquos	longinquus	ADJ	C1	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur
+11	uendet	uendo	VERB	B3	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+12	eos	is	DET	I	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Prs
+13	mea	meus	DET	F	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs
+14	lege	lex	NOUN	A3	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing
+15	quanti	quantum	PRON	J	Case=Gen|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Gen|Gender=Masc,Neut|InflClass=IndEurO|NumType=Card|Number=Sing|PronType=Rel
+16	uolet	uolo	VERB	B6	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+
+# sent_id = CicLegA3-D-18-57
+# text = habet incertos ac nullo iure possessos confirmabuntur optimo iure
+1	habet	habeo	VERB	B2	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+2	incertos	incertus	ADJ	C1	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur
+3	ac	ac	CCONJ	S	_	_	_	_	_
+4	nullo	nullus	DET	L	Case=Abl|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Abl|Gender=Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Neg
+5	iure	ius	NOUN	A3	Case=Abl|Gender=Neut|Number=Sing	_	_	_	Case=Abl|Gender=Neut|InflClass=IndEurI|Number=Sing
+6	possessos	possideo	VERB	B2	Case=Acc|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Masc|InflClass=LatE|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass
+7	confirmabuntur	confirmo	VERB	B1	Mood=Ind|Number=Plur|Person=3|Tense=Fut|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass
+8	optimo	bonus	ADJ	C1	Case=Abl|Degree=Sup|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Abl|Degree=Abs|Gender=Masc,Neut|InflClass=IndEurO|Number=Sing
+9	iure	ius	NOUN	A3	Case=Abl|Gender=Neut|Number=Sing	_	_	_	Case=Abl|Gender=Neut|InflClass=IndEurI|Number=Sing
+
+# sent_id = CicLegA3-D-18-58
+# text = habet publicos reddam priuatos
+1	habet	habeo	VERB	B2	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+2	publicos	publicus	ADJ	C1	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur
+3	reddam	reddo	VERB	B3	Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act
+4	priuatos	priuatus	ADJ	C1	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur
+
+# sent_id = CicLegA3-D-18-59
+# text = denique eos fundos quos in agro Casinati optimos fructuosissimosque continuauit cum usque eo uicinos proscriberet quoad angulos conformando ex multis praediis unam fundi regionem normamque perfecerit quos nunc cum aliquo metu tenet sine ulla cura possidebit
+1	denique	denique	ADV	M	_	_	_	_	Degree=Pos
+2	eos	is	DET	I	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Prs
+3	fundos	fundus	NOUN	A2	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur
+4	quos	qui	PRON	J	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Rel
+5	in	in	ADP	R	_	_	_	_	AdpType=Prep
+6	agro	ager	NOUN	A2	Case=Abl|Gender=Masc|Number=Sing	_	_	_	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing
+7	Casinati	casinas	ADJ	C5	Case=Abl|Gender=Fem,Masc,Neut|Number=Sing	_	_	_	Case=Abl|Degree=Pos|Gender=Fem,Masc,Neut|InflClass=IndEurI|Number=Sing
+8	optimos	bonus	ADJ	C1	Case=Acc|Degree=Sup|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Degree=Abs|Gender=Masc|InflClass=IndEurO|Number=Plur
+9	fructuosissimos	fructuosus	ADJ	C1	Case=Acc|Degree=Sup|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Degree=Abs|Gender=Masc|InflClass=IndEurO|Number=Plur
+10	que	que	CCONJ	S	_	_	_	_	_
+11	continuauit	continuo	VERB	B1	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+12	cum	cum	SCONJ	T	_	_	_	_	_
+13	usque	usque	ADV	M	_	_	_	_	Degree=Pos
+14	eo	eo	ADV	M	_	_	_	_	Degree=Pos
+15	uicinos	uicinus	NOUN	A2	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur
+16	proscriberet	proscribo	VERB	B3	Mood=Sub|Number=Sing|Person=3|Tense=Imp|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+17	quoad	quoad	SCONJ	N	_	_	_	_	PronType=Rel
+18	angulos	angulus	NOUN	A2	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur
+19	conformando	conformo	VERB	B1	Case=Abl|Mood=Ger|Voice=Act	_	_	_	Aspect=Prosp|Case=Abl|Degree=Pos|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Ger|Voice=Pass
+20	ex	ex	ADP	R	_	_	_	_	AdpType=Prep
+21	multis	multus	DET	C1	Case=Abl|Gender=Fem,Masc,Neut|Number=Plur	_	_	_	Case=Abl|Degree=Pos|Gender=Fem,Masc,Neut|InflClass=IndEurA,IndEurO|NumType=Card|Number=Plur|PronType=Ind
+22	praediis	praedium	NOUN	A2	Case=Abl|Gender=Neut|Number=Plur	_	_	_	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Plur
+23	unam	unus	DET	D1	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=LatPron|NumType=Card|Number=Sing|PronType=Ind
+24	fundi	fundus	NOUN	A2	Case=Gen|Gender=Masc|Number=Sing	_	_	_	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing
+25	regionem	regio	NOUN	A3	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing
+26	normam	norma	NOUN	A1	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing
+27	que	que	CCONJ	S	_	_	_	_	_
+28	perfecerit	perficio	VERB	B5	Mood=Sub|Number=Sing|Person=3|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatI2|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+29	quos	qui	PRON	J	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Rel
+30	nunc	nunc	ADV	M	_	_	_	_	Degree=Pos
+31	cum	cum	ADP	R	_	_	_	_	AdpType=Prep
+32	aliquo	aliquis	PRON	L	Case=Abl|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Abl|Gender=Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Ind
+33	metu	metus	NOUN	A4	Case=Abl|Gender=Masc|Number=Sing	_	_	_	Case=Abl|Gender=Masc|InflClass=IndEurU|Number=Sing
+34	tenet	teneo	VERB	B2	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+35	sine	sine	ADP	R	_	_	_	_	AdpType=Prep
+36	ulla	ullus	DET	L	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Ind
+37	cura	cura	NOUN	A1	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing
+38	possidebit	possideo	VERB	B2	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+
+# sent_id = CicLegA3-D-18-60
+# text = et quoniam qua de causa et quorum causa ille hoc promulgarit ostendi doceat ipse nunc ego quem possessorem defendam cum agrariae legi resisto
+1	et	et	CCONJ	S	_	_	_	_	_
+2	quoniam	quoniam	SCONJ	T	_	_	_	_	_
+3	qua	quis	PRON	K	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Int
+4	de	de	ADP	R	_	_	_	_	AdpType=Prep
+5	causa	causa	NOUN	A1	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing
+6	et	et	CCONJ	S	_	_	_	_	_
+7	quorum	quis	PRON	K	Case=Gen|Gender=Masc,Neut|Number=Plur	_	_	_	Case=Gen|Gender=Masc,Neut|InflClass=LatPron|Number=Plur|PronType=Int
+8	causa	causa	NOUN	A1	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing
+9	ille	ille	DET	I	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem
+10	hoc	hic	DET	I	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem
+11	promulgarit	promulgo	VERB	B1	Mood=Sub|Number=Sing|Person=3|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatA|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+12	ostendi	ostendo	VERB	B3	Mood=Ind|Number=Sing|Person=1|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+13	doceat	doceo	VERB	B2	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+14	ipse	ipse	DET	I	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Emp
+15	nunc	nunc	ADV	M	_	_	_	_	Degree=Pos
+16	ego	ego	PRON	E	Case=Nom|Number=Sing|Person=1	_	_	_	Case=Nom|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs
+17	quem	quis	PRON	K	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Int
+18	possessorem	possessor	NOUN	A3	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Sing
+19	defendam	defendo	VERB	B3	Mood=Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+20	cum	cum	SCONJ	T	_	_	_	_	_
+21	agrariae	agrarius	ADJ	C1	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Case=Dat|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing
+22	legi	lex	NOUN	A3	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Case=Dat|Gender=Fem|InflClass=IndEurX|Number=Sing
+23	resisto	resisto	VERB	B3	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = CicLegA3-D-18-61
+# text = siluam Scantiam uendis populus Romanus possidet defendo
+1	siluam	silua	NOUN	A1	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing
+2	Scantiam	scantius	ADJ	C1	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing
+3	uendis	uendo	VERB	B3	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+4	populus	populus	NOUN	A2	Case=Nom|Gender=Fem,Masc|Number=Sing	_	_	_	Case=Nom|Gender=Fem,Masc|InflClass=IndEurO|Number=Sing
+5	Romanus	romanus	ADJ	C1	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing
+6	possidet	possideo	VERB	B2	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+7	defendo	defendo	VERB	B3	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = CicLegA3-D-18-62
+# text = Campanum agrum diuidis uos estis in possessione non cedo
+1	Campanum	campanus	ADJ	C1	Case=Acc|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Acc|Degree=Pos|Gender=Masc,Neut|InflClass=IndEurO|Number=Sing
+2	agrum	ager	NOUN	A2	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing
+3	diuidis	diuido	VERB	B3	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+4	uos	uos	PRON	E	Case=Nom|Number=Plur|Person=2	_	_	_	Case=Nom|InflClass=LatAnom|Number=Plur|Person=2|PronType=Prs
+5	estis	sum	AUX	B6	Mood=Ind|Number=Plur|Person=2|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin
+6	in	in	ADP	R	_	_	_	_	AdpType=Prep
+7	possessione	possessio	NOUN	A3	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing
+8	non	non	PART	P	_	_	_	_	Polarity=Neg
+9	cedo	cedo	VERB	B3	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = CicLegA3-D-18-63
+# text = deinde Italiae Siciliae ceterarumque prouinciarum possessiones uenalis ac proscriptas hac lege uideo uestra sunt praedia uestrae possessiones resistam atque repugnabo neque patiar a quoquam populum Romanum de suis possessionibus me consule demoueri praesertim Quirites cum uobis nihil quaeratur
+1	deinde	deinde	ADV	M	_	_	_	_	Degree=Pos
+2	Italiae	italia	PROPN	A1	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing
+3	Siciliae	sicilia	PROPN	A1	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing
+4	ceterarum	ceterus	DET	C1	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Case=Gen|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Plur|PronType=Con
+5	que	que	CCONJ	S	_	_	_	_	_
+6	prouinciarum	prouincia	NOUN	A1	Case=Gen|Gender=Fem|Number=Plur	_	_	_	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Plur
+7	possessiones	possessio	NOUN	A3	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Plur
+8	uenalis	uenalis	ADJ	C4	Case=Acc|Gender=Fem,Masc|Number=Plur	_	_	_	Case=Acc|Degree=Pos|Gender=Fem,Masc|InflClass=IndEurI|Number=Plur
+9	ac	ac	CCONJ	S	_	_	_	_	_
+10	proscriptas	proscribo	VERB	B3	Case=Acc|Gender=Fem|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	_	_	_	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurA|Number=Plur|VerbForm=Part|Voice=Pass
+11	hac	hic	DET	I	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem
+12	lege	lex	NOUN	A3	Case=Abl|Gender=Fem|Number=Sing	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing
+13	uideo	uideo	VERB	B2	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+14	uestra	uester	DET	F	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs
+15	sunt	sum	AUX	B6	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+16	praedia	praedium	NOUN	A2	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur
+17	uestrae	uester	DET	F	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Plur|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs
+18	possessiones	possessio	NOUN	A3	Case=Nom|Gender=Fem|Number=Plur	_	_	_	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Plur
+19	resistam	resisto	VERB	B3	Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act
+20	atque	atque	CCONJ	S	_	_	_	_	_
+21	repugnabo	repugno	VERB	B1	Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act
+22	neque	neque	CCONJ	S	_	_	_	_	Polarity=Neg
+23	patiar	patior	VERB	B5	Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatI2|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Pass
+24	a	ab	ADP	R	_	_	_	_	AdpType=Prep
+25	quoquam	quisquam	PRON	L	Case=Abl|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Abl|Gender=Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Ind
+26	populum	populus	NOUN	A2	Case=Acc|Gender=Fem,Masc|Number=Sing	_	_	_	Case=Acc|Gender=Fem,Masc|InflClass=IndEurO|Number=Sing
+27	Romanum	romanus	ADJ	C1	Case=Acc|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Acc|Degree=Pos|Gender=Masc,Neut|InflClass=IndEurO|Number=Sing
+28	de	de	ADP	R	_	_	_	_	AdpType=Prep
+29	suis	suus	DET	H	Case=Abl|Gender=Fem,Masc,Neut|Number=Plur	_	_	_	Case=Abl|Gender=Fem,Masc,Neut|InflClass=IndEurA,IndEurO|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes
+30	possessionibus	possessio	NOUN	A3	Case=Abl|Gender=Fem|Number=Plur	_	_	_	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Plur
+31	me	ego	PRON	E	Case=Abl|Number=Sing|Person=1	_	_	_	Case=Abl|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs
+32	consule	consul	NOUN	A3	Case=Abl|Gender=Masc|Number=Sing	_	_	_	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Sing
+33	demoueri	demoueo	VERB	B2	Mood=Inf|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatE|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Pass
+34	praesertim	praesertim	ADV	M	_	_	_	_	Degree=Pos
+35	Quirites	quirites	PROPN	A3	Case=Voc|Gender=Masc|Number=Plur	_	_	_	Case=Voc|Gender=Masc|InflClass=IndEurX|Number=Plur
+36	cum	cum	SCONJ	T	_	_	_	_	_
+37	uobis	uos	PRON	E	Case=Dat|Number=Plur|Person=2	_	_	_	Case=Dat|InflClass=LatAnom|Number=Plur|Person=2|PronType=Prs
+38	nihil	nihil	PRON	L	_	_	_	_	InflClass=Ind|PronType=Neg
+39	quaeratur	quaero	VERB	B3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+
+# sent_id = CicLegA3-D-18-64
+# text = hoc enim uos in errore uersari diutius non oportet
+1	hoc	hic	DET	I	Case=Abl|Gender=Masc,Neut|Number=Sing	_	_	_	Case=Abl|Gender=Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Dem
+2	enim	enim	PART	S	_	_	_	_	_
+3	uos	uos	PRON	E	Case=Acc|Number=Plur|Person=2	_	_	_	Case=Acc|InflClass=LatAnom|Number=Plur|Person=2|PronType=Prs
+4	in	in	ADP	R	_	_	_	_	AdpType=Prep
+5	errore	error	NOUN	A3	Case=Abl|Gender=Masc|Number=Sing	_	_	_	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Sing
+6	uersari	uersor	VERB	B1	Mood=Inf|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatA|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Pass
+7	diutius	diu	ADV	M	Degree=Cmp	_	_	_	Degree=Cmp
+8	non	non	PART	P	_	_	_	_	Polarity=Neg
+9	oportet	oportet	VERB	B2	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = CicLegA3-D-18-65
+# text = num quis uestrum ad uim ad facinus ad caedem accommodatus est
+1	num	num	PART	O	_	_	_	_	Degree=Pos|PartType=Int|Polarity=Neg
+2	quis	quis	PRON	K	Case=Nom|Number=Sing	_	_	_	Case=Nom|InflClass=LatPron|Number=Sing|PronType=Int
+3	uestrum	uos	PRON	E	Case=Gen|Number=Plur|Person=2	_	_	_	Case=Gen|InflClass=LatAnom|Number=Plur|Person=2|PronType=Prs
+4	ad	ad	ADP	R	_	_	_	_	AdpType=Prep
+5	uim	uis	NOUN	A3	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurI|Number=Sing
+6	ad	ad	ADP	R	_	_	_	_	AdpType=Prep
+7	facinus	facinus	NOUN	A3	Case=Acc|Gender=Neut|Number=Sing	_	_	_	Case=Acc|Gender=Neut|InflClass=IndEurX|Number=Sing
+8	ad	ad	ADP	R	_	_	_	_	AdpType=Prep
+9	caedem	caedes	NOUN	A3	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing
+10	accommodatus	accommodatus	ADJ	C1	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing
+11	est	sum	AUX	B6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+# sent_id = CicLegA3-D-18-66
+# text = nemo
+1	nemo	nemo	PRON	L	Case=Nom|Number=Sing	_	_	_	Case=Nom|InflClass=IndEurX|Number=Sing|PronType=Neg
+
+# sent_id = CicLegA3-D-18-67
+# text = atqui ei generi hominum mihi credite Campanus ager et praeclara illa Capua seruatur exercitus contra uos contra libertatem uestram contra Cn. Pompeium constituitur contra hanc urbem Capua contra uos manus hominum audacissimorum contra Cn. Pompeium X duces comparantur
+1	atqui	atqui	CCONJ	S	_	_	_	_	_
+2	ei	is	DET	I	Case=Dat|Gender=Fem,Masc,Neut|Number=Sing	_	_	_	Case=Dat|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Prs
+3	generi	genus	NOUN	A3	Case=Dat|Gender=Neut|Number=Sing	_	_	_	Case=Dat|Gender=Neut|InflClass=IndEurX|Number=Sing
+4	hominum	homo	NOUN	A3	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Case=Gen|Gender=Masc|InflClass=IndEurX|Number=Plur
+5	mihi	ego	PRON	E	Case=Dat|Number=Sing|Person=1	_	_	_	Case=Dat|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs
+6	credite	credo	VERB	B3	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+7	Campanus	campanus	ADJ	C1	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing
+8	ager	ager	NOUN	A2	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing
+9	et	et	CCONJ	S	_	_	_	_	_
+10	praeclara	praeclarus	ADJ	C1	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing
+11	illa	ille	DET	I	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem
+12	Capua	capua	PROPN	A1	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing
+13	seruatur	seruo	VERB	B1	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+14	exercitus	exercitus	NOUN	A4	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Case=Nom|Gender=Masc|InflClass=IndEurU|Number=Sing
+15	contra	contra	ADP	R	_	_	_	_	AdpType=Prep
+16	uos	uos	PRON	E	Case=Acc|Number=Plur|Person=2	_	_	_	Case=Acc|InflClass=LatAnom|Number=Plur|Person=2|PronType=Prs
+17	contra	contra	ADP	R	_	_	_	_	AdpType=Prep
+18	libertatem	libertas	NOUN	A3	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing
+19	uestram	uester	DET	F	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs
+20	contra	contra	ADP	R	_	_	_	_	AdpType=Prep
+21	Cn.	gnaeus	PROPN	A2	_	_	_	_	Abbr=Yes|InflClass=Ind
+22	Pompeium	pompeius	PROPN	A2	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing
+23	constituitur	constituo	VERB	B3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+24	contra	contra	ADP	R	_	_	_	_	AdpType=Prep
+25	hanc	hic	DET	I	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem
+26	urbem	urbs	NOUN	A3	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurI|Number=Sing
+27	Capua	capua	PROPN	A1	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing
+28	contra	contra	ADP	R	_	_	_	_	AdpType=Prep
+29	uos	uos	PRON	E	Case=Acc|Number=Plur|Person=2	_	_	_	Case=Acc|InflClass=LatAnom|Number=Plur|Person=2|PronType=Prs
+30	manus	manus	NOUN	A4	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Case=Nom|Gender=Fem|InflClass=IndEurU|Number=Sing
+31	hominum	homo	NOUN	A3	Case=Gen|Gender=Masc|Number=Plur	_	_	_	Case=Gen|Gender=Masc|InflClass=IndEurX|Number=Plur
+32	audacissimorum	audax	ADJ	C5	Case=Gen|Degree=Sup|Gender=Masc,Neut|Number=Plur	_	_	_	Case=Gen|Degree=Abs|Gender=Masc,Neut|InflClass=IndEurO|Number=Plur
+33	contra	contra	ADP	R	_	_	_	_	AdpType=Prep
+34	Cn.	gnaeus	PROPN	A2	_	_	_	_	Abbr=Yes|InflClass=Ind
+35	Pompeium	pompeius	PROPN	A2	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing
+36	X	x	NUM	D1	Number=Plur	_	_	_	InflClass=Ind|NumForm=Roman|NumType=Card|Number=Plural
+37	duces	dux	NOUN	A3	Case=Nom|Gender=Fem,Masc|Number=Plur	_	_	_	Case=Nom|Gender=Fem,Masc|InflClass=IndEurX|Number=Plur
+38	comparantur	comparo	VERB	B1	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass	_	_	_	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+
+# sent_id = CicLegA3-D-18-68
+# text = ueniant et coram quoniam me in uestram contionem uobis flagitantibus euocauerunt disserant
+1	ueniant	uenio	VERB	B4	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatI|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+2	et	et	CCONJ	S	_	_	_	_	_
+3	coram	coram	ADV	M	_	_	_	_	Degree=Pos
+4	quoniam	quoniam	SCONJ	T	_	_	_	_	_
+5	me	ego	PRON	E	Case=Acc|Number=Sing|Person=1	_	_	_	Case=Acc|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs
+6	in	in	ADP	R	_	_	_	_	AdpType=Prep
+7	uestram	uester	DET	F	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs
+8	contionem	contio	NOUN	A3	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing
+9	uobis	uos	PRON	E	Case=Abl|Number=Plur|Person=2	_	_	_	Case=Abl|InflClass=LatAnom|Number=Plur|Person=2|PronType=Prs
+10	flagitantibus	flagito	VERB	B1	Case=Abl|Gender=Fem,Masc,Neut|Mood=Part|Number=Plur|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|Case=Abl|Degree=Pos|Gender=Fem,Masc,Neut|InflClass=LatA|InflClass[nominal]=IndEurI|Number=Plur|VerbForm=Part|Voice=Act
+11	euocauerunt	euoco	VERB	B1	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	_	_	_	Aspect=Perf|InflClass=LatA|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+12	disserant	dissero	VERB	B3	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act

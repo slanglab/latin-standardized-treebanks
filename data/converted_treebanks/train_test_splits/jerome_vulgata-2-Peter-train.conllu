@@ -1,0 +1,36 @@
+# sent_id = 32433
+# text = fuerunt vero et pseudoprophetae in populo sicut et in vobis erunt magistri mendaces qui introducent sectas perditionis
+# source = Jerome's Vulgate, 2 Peter 2
+1	fuerunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	6	cop	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+2	vero	vero	ADV	Df	_	6	discourse	_	_
+3	et	et	ADV	Df	_	4	advmod:emph	_	_
+4	pseudoprophetae	pseudopropheta	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nsubj	_	Case=Gen|Gender=Masc|Number=Sing
+5	in	in	ADP	R-	_	6	case	_	AdpType=Prep
+6	populo	populus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	0	root	_	Case=Abl|Gender=Masc|Number=Sing
+7	sicut	sicut	SCONJ	Dq	_	11	mark	_	PronType=Rel
+8	et	et	ADV	Df	_	10	advmod:emph	_	_
+9	in	in	ADP	R-	_	10	case	_	AdpType=Prep
+10	vobis	vos	PRON	Pp	Case=Abl|Number=Plur|Person=2	11	obl	_	Case=Abl|Number=Plur|Person=2|PronType=Prs
+11	erunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|Voice=Act	6	advcl:cmp	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin
+12	magistri	magister	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	Case=Nom|Gender=Masc|Number=Plur
+13	mendaces	mendax	ADJ	A-	Case=Nom|Gender=Masc|Number=Plur	12	amod	_	Case=Nom|Gender=Masc|Number=Plur
+14	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur	15	nsubj	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel
+15	introducent	introduco	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|Voice=Act	12	acl:relcl	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+16	sectas	secta	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	15	obj	_	Case=Acc|Gender=Fem|Number=Plur
+17	perditionis	perditio	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+
+# sent_id = 50116
+# text = ex quo enim patres dormierunt omnia sic perseverant ab initio creaturae
+# source = Jerome's Vulgate, 2 Peter 3
+1	ex	ex	SCONJ	G-	_	5	mark	_	_
+2	quo	qui	PRON	Pr	Case=Abl|Gender=Neut|Number=Sing	1	fixed	_	Case=Abl|Gender=Neut|Number=Sing|PronType=Rel
+3	enim	enim	PART	Df	_	8	discourse	_	_
+4	patres	pater	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	Case=Nom|Gender=Masc|Number=Plur
+5	dormierunt	dormio	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	8	advcl	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+6	omnia	omnis	DET	Px	Case=Nom|Gender=Neut|Number=Plur	8	obj	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Tot
+7	sic	sic	ADV	Df	_	8	advmod	_	_
+8	perseverant	persevero	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+9	ab	ab	ADP	R-	_	10	case	_	AdpType=Prep
+10	initio	initium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	8	obl	_	Case=Abl|Gender=Neut|Number=Sing
+11	creaturae	creatura	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+

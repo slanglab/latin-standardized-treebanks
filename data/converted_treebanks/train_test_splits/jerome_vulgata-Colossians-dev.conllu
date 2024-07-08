@@ -1,0 +1,22 @@
+# sent_id = 30191
+# text = nemo ergo vos iudicet in cibo aut in potu aut in parte diei festi aut neomeniae aut sabbatorum
+# source = Jerome's Vulgate, Colossians 2
+1	nemo	nemo	PRON	Px	Case=Nom	4	nsubj	_	Case=Nom|Polarity=Neg|PronType=Ind
+2	ergo	ergo	ADV	Df	_	4	discourse	_	_
+3	vos	vos	PRON	Pp	Case=Acc|Number=Plur|Person=2	4	obj	_	Case=Acc|Number=Plur|Person=2|PronType=Prs
+4	iudicet	iudico	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+5	in	in	ADP	R-	_	6	case	_	AdpType=Prep
+6	cibo	cibus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	Case=Abl|Gender=Masc|Number=Sing
+7	aut	aut	CCONJ	C-	_	9	cc	_	_
+8	in	in	ADP	R-	_	9	case	_	AdpType=Prep
+9	potu	potus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	6	conj	_	Case=Abl|Gender=Masc|Number=Sing
+10	aut	aut	CCONJ	C-	_	12	cc	_	_
+11	in	in	ADP	R-	_	12	case	_	AdpType=Prep
+12	parte	pars	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	6	conj	_	Case=Abl|Gender=Fem|Number=Sing
+13	diei	dies	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+14	festi	festus	ADJ	A-	Case=Gen|Gender=Masc|Number=Sing	13	amod	_	Case=Gen|Gender=Masc|Number=Sing
+15	aut	aut	CCONJ	C-	_	16	cc	_	_
+16	neomeniae	neomenia	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	13	conj	_	Case=Gen|Gender=Fem|Number=Sing
+17	aut	aut	CCONJ	C-	_	18	cc	_	_
+18	sabbatorum	sabbatum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	13	conj	_	Case=Gen|Gender=Neut|Number=Plur
+

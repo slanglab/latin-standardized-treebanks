@@ -1,0 +1,131 @@
+# sent_id = 78532
+# text = qua re non οἴχεται tua industria quod vereris sed praeclare ponitur si quidem id egisti ut ego delectarer
+# source = Epistulae ad Atticum, Book 6, letter 1
+1	qua	quare	ADV	Dq	_	4	advmod	_	PronType=Rel
+2	re	re	ADV	Dq	_	1	fixed	_	PronType=Rel
+3	non	non	PART	Df	_	4	advmod:neg	_	Polarity=Neg
+4	οἴχεται	greek.expression	X	F-	_	0	root	_	Foreign=Yes
+5	tua	tuus	DET	A-	Case=Nom|Gender=Fem|Number=Sing	6	det	_	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs
+6	industria	industria	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+7	quod	qui	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel
+8	vereris	vereor	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Pass	4	advcl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass
+9	sed	sed	CCONJ	C-	_	11	cc	_	_
+10	praeclare	praeclare	ADV	Df	_	11	advmod	_	_
+11	ponitur	pono	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	4	conj	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+12	si	si	SCONJ	G-	_	15	mark	_	_
+13	quidem	quidem	PART	Df	_	15	discourse	_	_
+14	id	is	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing|Person=3	15	obj	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+15	egisti	ago	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Perf|Voice=Act	11	advcl	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+16	ut	ut	SCONJ	G-	_	18	mark	_	_
+17	ego	ego	PRON	Pp	Case=Nom|Number=Sing|Person=1	18	nsubj:pass	_	Case=Nom|Number=Sing|Person=1|PronType=Prs
+18	delectarer	delecto	VERB	V-	Mood=Sub|Number=Sing|Person=1|Tense=Imp|Voice=Pass	15	advcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass
+
+# sent_id = 78584
+# text = veniam illi quidem mihi dederunt sed quid iis fiet si huc Paulus venerit
+# source = Epistulae ad Atticum, Book 6, letter 1
+1	veniam	venia	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	Case=Acc|Gender=Fem|Number=Sing
+2	illi	ille	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem
+3	quidem	quidem	PART	Df	_	5	discourse	_	_
+4	mihi	ego	PRON	Pp	Case=Dat|Number=Sing|Person=1	5	obl:arg	_	Case=Dat|Number=Sing|Person=1|PronType=Prs
+5	dederunt	do	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+6	sed	sed	CCONJ	C-	_	9	cc	_	_
+7	quid	quis	PRON	Pi	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int
+8	iis	is	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3	9	obl:arg	_	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+9	fiet	fio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	5	conj	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+10	si	si	SCONJ	G-	_	13	mark	_	_
+11	huc	huc	ADV	Df	_	13	advmod:lmod	_	AdvType=Loc
+12	Paulus	Paulus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+13	venerit	venio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=FutP|Voice=Act	9	advcl	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+
+# sent_id = 78590
+# text = quam id rectum sit tu iudicabis
+# source = Epistulae ad Atticum, Book 6, letter 1
+1	quam	quam	ADV	Du	_	3	advmod	_	PronType=Int
+2	id	is	PRON	Pp	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nsubj	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+3	rectum	rectus	ADJ	A-	Case=Nom|Gender=Neut|Number=Sing	6	ccomp	_	Case=Nom|Gender=Neut|Number=Sing
+4	sit	sum	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	cop	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+5	tu	tu	PRON	Pp	Case=Nom|Number=Sing|Person=2	6	nsubj	_	Case=Nom|Number=Sing|Person=2|PronType=Prs
+6	iudicabis	iudico	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Fut|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act
+
+# sent_id = 78599
+# text = nec vero pauci sunt auctores Gnaium Flavium scribam fastos protulisse actiones que composuisse ne me hoc vel potius Africanum is enim loquitur commentum putes
+# source = Epistulae ad Atticum, Book 6, letter 1
+1	nec	neque	ADV	Df	_	3	advmod	_	_
+2	vero	vero	ADV	Df	_	4	discourse	_	_
+3	pauci	paucus	DET	A-	Case=Nom|Gender=Masc|Number=Plur	5	det	_	Case=Nom|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind
+4	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+5	auctores	auctor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	Case=Nom|Gender=Masc|Number=Plur
+6	Gnaium	Gnaeus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	10	nsubj	_	Case=Acc|Gender=Masc|Number=Sing
+7	Flavium	Flavius	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	6	flat:name	_	Case=Acc|Gender=Masc|Number=Sing
+8	scribam	scriba	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	appos	_	Case=Acc|Gender=Masc|Number=Sing
+9	fastos	fasti	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	10	obj	_	Case=Acc|Gender=Masc|Number=Plur
+10	protulisse	profero	VERB	V-	Mood=Inf|Tense=Perf|Voice=Act	5	ccomp	_	Aspect=Perf|VerbForm=Inf|Voice=Act
+11	actiones	actio	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	13	obj	_	Case=Acc|Gender=Fem|Number=Plur
+12	que	que	CCONJ	C-	_	13	cc	_	_
+13	composuisse	compono	VERB	V-	Mood=Inf|Tense=Perf|Voice=Act	10	conj	_	Aspect=Perf|VerbForm=Inf|Voice=Act
+14	ne	ne	SCONJ	G-	_	24	mark	_	_
+15	me	ego	PRON	Pp	Case=Acc|Number=Sing|Person=1	23	nsubj	_	Case=Acc|Number=Sing|Person=1|PronType=Prs
+16	hoc	hic	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	23	obj	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem
+17	vel	vel	CCONJ	C-	_	19	cc	_	_
+18	potius	potius	ADV	Df	_	19	advmod	_	_
+19	Africanum	Africanus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	15	conj	_	Case=Acc|Gender=Masc|Number=Sing
+20	is	is	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3	22	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+21	enim	enim	PART	Df	_	22	discourse	_	_
+22	loquitur	loquor	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	4	parataxis	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+23	commentum	comminiscor	VERB	V-	Case=Acc|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	24	ccomp	_	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+24	putes	puto	VERB	V-	Mood=Sub|Number=Sing|Person=2|Tense=Pres|Voice=Act	4	advcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 78668
+# text = itaque et Graeci solvunt tolerabili faenore et publicanis res est gratissima si illa iam habent pleno modio verborum honorem invitationem crebram
+# source = Epistulae ad Atticum, Book 6, letter 1
+1	itaque	itaque	PART	Df	_	4	discourse	_	_
+2	et	et	CCONJ	C-	_	4	cc	_	_
+3	Graeci	Graeci	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	Case=Nom|Gender=Masc|Number=Plur
+4	solvunt	solvo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+5	tolerabili	tolerabilis	ADJ	A-	Case=Abl|Gender=Neut|Number=Sing	6	amod	_	Case=Abl|Gender=Neut|Number=Sing
+6	faenore	faenus	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	4	obl	_	Case=Abl|Gender=Neut|Number=Sing
+7	et	et	CCONJ	C-	_	11	cc	_	_
+8	publicanis	publicanus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	11	obl	_	Case=Abl|Gender=Masc|Number=Plur
+9	res	res	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+10	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	11	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+11	gratissima	gratus	ADJ	A-	Case=Nom|Degree=Sup|Gender=Fem|Number=Sing	4	conj	_	Case=Nom|Degree=Abs|Gender=Fem|Number=Sing
+12	si	si	SCONJ	G-	_	15	mark	_	_
+13	illa	ille	DET	Pd	Case=Acc|Gender=Neut|Number=Plur	15	obj	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem
+14	iam	iam	ADV	Df	_	15	advmod:tmod	_	AdvType=Tim
+15	habent	habeo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	11	advcl	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+16	pleno	plenus	ADJ	A-	Case=Abl|Gender=Masc|Number=Sing	17	amod	_	Case=Abl|Gender=Masc|Number=Sing
+17	modio	modius	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	15	obl	_	Case=Abl|Gender=Masc|Number=Sing
+18	verborum	verbum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	19	nmod	_	Case=Gen|Gender=Neut|Number=Plur
+19	honorem	honor	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	20	obj	_	Case=Acc|Gender=Masc|Number=Sing
+20	invitationem	invitatio	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	13	appos	_	Case=Acc|Gender=Fem|Number=Sing
+21	crebram	creber	ADJ	A-	Case=Acc|Gender=Fem|Number=Sing	20	amod	_	Case=Acc|Gender=Fem|Number=Sing
+
+# sent_id = 78689
+# text = at mi ab eo nihil adhuc
+# source = Epistulae ad Atticum, Book 6, letter 1
+1	at	at	ADV	Df	_	0	root	_	_
+2	mi	ego	PRON	Pp	Case=Dat|Number=Sing|Person=1	1	obl	_	Case=Dat|Number=Sing|Person=1|PronType=Prs
+3	ab	ab	ADP	R-	_	4	case	_	AdpType=Prep
+4	eo	is	PRON	Pp	Case=Abl|Gender=Masc|Number=Sing|Person=3	1	obl	_	Case=Abl|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+5	nihil	nihil	PRON	Px	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	Case=Nom|Gender=Neut|Number=Sing|Polarity=Neg|PronType=Ind
+6	adhuc	adhuc	ADV	Df	_	1	advmod	_	_
+
+# sent_id = 78690
+# text = reliqua mea Camillus scribit se accepisse
+# source = Epistulae ad Atticum, Book 6, letter 1
+1	reliqua	reliquus	DET	A-	Case=Acc|Gender=Neut|Number=Plur	6	obj	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Ind
+2	mea	meus	DET	Ps	Case=Acc|Gender=Neut|Number=Plur	1	det	_	Case=Acc|Gender=Neut|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs
+3	Camillus	Camillus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+4	scribit	scribo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+5	se	sui	PRON	Pk	Case=Acc|Number=Sing|Person=3	6	nsubj	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes
+6	accepisse	accipio	VERB	V-	Mood=Inf|Tense=Perf|Voice=Act	4	ccomp	_	Aspect=Perf|VerbForm=Inf|Voice=Act
+
+# sent_id = 85884
+# text = ne ad Catonem quidem provocabo
+# source = Epistulae ad Atticum, Book 6, letter 1
+1	ne	ne	ADV	Df	_	3	advmod	_	Polarity=Neg
+2	ad	ad	ADP	R-	_	3	case	_	AdpType=Prep
+3	Catonem	Cato	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	5	obl	_	Case=Acc|Gender=Masc|Number=Sing
+4	quidem	quidem	PART	Df	_	3	discourse	_	_
+5	provocabo	provoco	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act
+

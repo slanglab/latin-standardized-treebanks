@@ -1,0 +1,291 @@
+# sent_id = 77946
+# text = ut veni in Arpinas cum ad me frater venisset in primis nobis sermo is que multus de te fuit
+# source = Epistulae ad Atticum, Book 5, letter 1
+1	ut	ut	SCONJ	G-	_	2	mark	_	_
+2	veni	venio	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+3	in	in	ADP	R-	_	4	case	_	AdpType=Prep
+4	Arpinas	Arpinus	ADJ	A-	Case=Acc|Gender=Fem|Number=Plur	2	obl	_	Case=Acc|Gender=Fem|Number=Plur
+5	cum	cum	SCONJ	G-	_	9	mark	_	_
+6	ad	ad	ADP	R-	_	7	case	_	AdpType=Prep
+7	me	ego	PRON	Pp	Case=Acc|Number=Sing|Person=1	9	obl	_	Case=Acc|Number=Sing|Person=1|PronType=Prs
+8	frater	frater	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+9	venisset	venio	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Plup|Voice=Act	2	advcl	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act
+10	in	in	ADP	R-	_	11	case	_	AdpType=Prep
+11	primis	primus	ADJ	Mo	Case=Abl|Gender=Neut|Number=Plur	2	obl	_	Case=Abl|Gender=Neut|Number=Plur|NumType=Ord
+12	nobis	nos	PRON	Pp	Case=Dat|Number=Plur|Person=1	2	obl:arg	_	Case=Dat|Number=Plur|Person=1|PronType=Prs
+13	sermo	sermo	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+14	is	is	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3	18	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+15	que	que	CCONJ	C-	_	18	cc	_	_
+16	multus	multus	DET	A-	Case=Nom|Gender=Masc|Number=Sing	14	det	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card|PronType=Ind
+17	de	de	ADP	R-	_	18	case	_	AdpType=Prep
+18	te	tu	PRON	Pp	Case=Abl|Number=Sing|Person=2	2	conj	_	Case=Abl|Number=Sing|Person=2|PronType=Prs
+19	fuit	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	18	cop	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+
+# sent_id = 78010
+# text = ac binas quidem tuas Beneventi accepi quarum alteras Funisulanus multo mane mihi dedit alteras scriba Tullius
+# source = Epistulae ad Atticum, Book 5, letter 4
+1	ac	atque	CCONJ	C-	_	6	cc	_	_
+2	binas	bini	ADJ	A-	Case=Acc|Gender=Fem|Number=Plur	4	amod	_	Case=Acc|Gender=Fem|Number=Plur
+3	quidem	quidem	PART	Df	_	6	discourse	_	_
+4	tuas	tuus	DET	Ps	Case=Acc|Gender=Fem|Number=Plur	6	obj	_	Case=Acc|Gender=Fem|Number=Plur|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs
+5	Beneventi	Beneventum	PROPN	Ne	Case=Gen|Gender=Neut|Number=Sing	6	obl	_	Case=Gen|Gender=Neut|Number=Sing
+6	accepi	accipio	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+7	quarum	qui	PRON	Pr	Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	Case=Gen|Gender=Fem|Number=Plur|PronType=Rel
+8	alteras	alter	DET	A-	Case=Acc|Gender=Fem|Number=Plur	13	obj	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Con
+9	Funisulanus	Funisulanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+10	multo	multo	ADV	Df	_	11	advmod	_	_
+11	mane	mane	ADV	Df	_	13	advmod	_	_
+12	mihi	ego	PRON	Pp	Case=Dat|Number=Sing|Person=1	13	obl:arg	_	Case=Dat|Number=Sing|Person=1|PronType=Prs
+13	dedit	do	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	4	acl:relcl	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+14	alteras	alter	DET	A-	Case=Acc|Gender=Fem|Number=Plur	15	orphan	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Con
+15	scriba	scriba	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	13	conj	_	Case=Nom|Gender=Masc|Number=Sing
+16	Tullius	Tullius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	15	flat	_	Case=Nom|Gender=Masc|Number=Sing
+
+# sent_id = 78015
+# text = equidem sum facilis sed tu aberis et me absente res haerebit
+# source = Epistulae ad Atticum, Book 5, letter 4
+1	equidem	equidem	PART	Df	_	3	discourse	_	_
+2	sum	sum	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	3	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+3	facilis	facilis	ADJ	A-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Case=Nom|Gender=Masc|Number=Sing
+4	sed	sed	CCONJ	C-	_	6	cc	_	_
+5	tu	tu	PRON	Pp	Case=Nom|Number=Sing|Person=2	6	nsubj	_	Case=Nom|Number=Sing|Person=2|PronType=Prs
+6	aberis	absum	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Fut|Voice=Act	3	conj	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act
+7	et	et	CCONJ	C-	_	11	cc	_	_
+8	me	ego	PRON	Pp	Case=Abl|Number=Sing|Person=1	9	nsubj	_	Case=Abl|Number=Sing|Person=1|PronType=Prs
+9	absente	absens	ADJ	A-	Case=Abl|Gender=Masc|Number=Sing	11	advcl:abs	_	Case=Abl|Gender=Masc|Number=Sing
+10	res	res	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+11	haerebit	haereo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	6	conj	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+
+# sent_id = 78016
+# text = habebis mei rationem
+# source = Epistulae ad Atticum, Book 5, letter 4
+1	habebis	habeo	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Fut|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act
+2	mei	ego	PRON	Pp	Case=Gen|Number=Sing|Person=1	3	nmod	_	Case=Gen|Number=Sing|Person=1|PronType=Prs
+3	rationem	ratio	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	Case=Acc|Gender=Fem|Number=Sing
+
+# sent_id = 78049
+# text = sequantur igitur nos tuae litterae quibus non modo res omnis sed etiam rumores cognoscamus
+# source = Epistulae ad Atticum, Book 5, letter 5
+1	sequantur	sequor	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Pass	0	root	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+2	igitur	igitur	PART	Df	_	1	discourse	_	_
+3	nos	nos	PRON	Pp	Case=Acc|Number=Plur|Person=1	1	obj	_	Case=Acc|Number=Plur|Person=1|PronType=Prs
+4	tuae	tuus	DET	Ps	Case=Nom|Gender=Fem|Number=Plur	5	det	_	Case=Nom|Gender=Fem|Number=Plur|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs
+5	litterae	littera	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	Case=Nom|Gender=Fem|Number=Plur
+6	quibus	qui	PRON	Pr	Case=Abl|Gender=Fem|Number=Plur	14	obl	_	Case=Abl|Gender=Fem|Number=Plur|PronType=Rel
+7	non	non	PART	Df	_	8	advmod:neg	_	Polarity=Neg
+8	modo	modo	ADV	Df	_	9	advmod	_	_
+9	res	res	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	14	obj	_	Case=Acc|Gender=Fem|Number=Plur
+10	omnis	omnis	DET	Px	Case=Acc|Gender=Fem|Number=Plur	9	det	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Tot
+11	sed	sed	CCONJ	C-	_	13	cc	_	_
+12	etiam	etiam	ADV	Df	_	13	advmod:emph	_	_
+13	rumores	rumor	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	9	conj	_	Case=Acc|Gender=Masc|Number=Plur
+14	cognoscamus	cognosco	VERB	V-	Mood=Sub|Number=Plur|Person=1|Tense=Pres|Voice=Act	5	acl:relcl	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 78083
+# text = statues ut ex fide fama re que mea videbitur
+# source = Epistulae ad Atticum, Book 5, letter 8
+1	statues	statuo	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Fut|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act
+2	ut	ut	SCONJ	Dq	_	9	mark	_	PronType=Rel
+3	ex	ex	ADP	R-	_	4	case	_	AdpType=Prep
+4	fide	fides	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	9	obl	_	Case=Abl|Gender=Fem|Number=Sing
+5	fama	fama	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	4	conj	_	Case=Abl|Gender=Fem|Number=Sing
+6	re	res	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	4	conj	_	Case=Abl|Gender=Fem|Number=Sing
+7	que	que	CCONJ	C-	_	6	cc	_	_
+8	mea	meus	DET	Ps	Case=Abl|Gender=Fem|Number=Sing	4	det	_	Case=Abl|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs
+9	videbitur	video	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Pass	1	advcl:cmp	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass
+
+# sent_id = 78109
+# text = o rem minime aptam meis moribus
+# source = Epistulae ad Atticum, Book 5, letter 10
+1	o	o	PART	I-	_	0	root	_	_
+2	rem	res	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	vocative	_	Case=Acc|Gender=Fem|Number=Sing
+3	minime	parum	ADV	Df	Degree=Sup	4	advmod	_	Degree=Abs
+4	aptam	aptus	ADJ	A-	Case=Acc|Gender=Fem|Number=Sing	2	amod	_	Case=Acc|Gender=Fem|Number=Sing
+5	meis	meus	DET	Ps	Case=Dat|Gender=Masc|Number=Plur	6	det	_	Case=Dat|Gender=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs
+6	moribus	mos	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	4	obl:arg	_	Case=Dat|Gender=Masc|Number=Plur
+
+# sent_id = 78169
+# text = sexto die Delum Athenis venimus
+# source = Epistulae ad Atticum, Book 5, letter 12
+1	sexto	sextus	ADJ	Mo	Case=Abl|Gender=Masc|Number=Sing	2	amod	_	Case=Abl|Gender=Masc|Number=Sing|NumType=Ord
+2	die	dies	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	5	obl	_	Case=Abl|Gender=Masc|Number=Sing
+3	Delum	Delus	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	5	obl:arg	_	Case=Acc|Gender=Fem|Number=Sing
+4	Athenis	Athenae	PROPN	Ne	Case=Abl|Gender=Fem|Number=Plur	5	obl:arg	_	Case=Abl|Gender=Fem|Number=Plur
+5	venimus	venio	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+
+# sent_id = 78205
+# text = dederam Epheso pridie
+# source = Epistulae ad Atticum, Book 5, letter 14
+1	dederam	do	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Plup|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pqp|VerbForm=Fin|Voice=Act
+2	Epheso	Ephesus	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	1	obl	_	Case=Abl|Gender=Fem|Number=Sing
+3	pridie	pridie	ADV	Df	_	1	advmod	_	_
+
+# sent_id = 78227
+# text = quaeris quid hic agam
+# source = Epistulae ad Atticum, Book 5, letter 15
+1	quaeris	quaero	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+2	quid	quis	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int
+3	hic	hic	ADV	Df	_	4	advmod:lmod	_	AdvType=Loc
+4	agam	ago	VERB	V-	Mood=Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	1	ccomp	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 78248
+# text = itaque incredibilem in modum concursus fiunt ex agris ex vicis ex domibus omnibus
+# source = Epistulae ad Atticum, Book 5, letter 16
+1	itaque	itaque	PART	Df	_	6	discourse	_	_
+2	incredibilem	incredibilis	ADJ	A-	Case=Acc|Gender=Masc|Number=Sing	4	amod	_	Case=Acc|Gender=Masc|Number=Sing
+3	in	in	ADP	R-	_	4	case	_	AdpType=Prep
+4	modum	modus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	Case=Acc|Gender=Masc|Number=Sing
+5	concursus	concursus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	Case=Nom|Gender=Masc|Number=Plur
+6	fiunt	fio	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+7	ex	ex	ADP	R-	_	8	case	_	AdpType=Prep
+8	agris	ager	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	6	obl	_	Case=Abl|Gender=Masc|Number=Plur
+9	ex	ex	ADP	R-	_	10	case	_	AdpType=Prep
+10	vicis	vicus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	8	conj	_	Case=Abl|Gender=Masc|Number=Plur
+11	ex	ex	ADP	R-	_	12	case	_	AdpType=Prep
+12	domibus	domus	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	8	conj	_	Case=Abl|Gender=Fem|Number=Plur
+13	omnibus	omnis	DET	Px	Case=Abl|Gender=Fem|Number=Plur	12	det	_	Case=Abl|Gender=Fem|Number=Plur|PronType=Tot
+
+# sent_id = 78264
+# text = perscribam ad te paucis diebus omnia
+# source = Epistulae ad Atticum, Book 5, letter 17
+1	perscribam	perscribo	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act
+2	ad	ad	ADP	R-	_	3	case	_	AdpType=Prep
+3	te	tu	PRON	Pp	Case=Acc|Number=Sing|Person=2	1	obl	_	Case=Acc|Number=Sing|Person=2|PronType=Prs
+4	paucis	paucus	DET	A-	Case=Abl|Gender=Masc|Number=Plur	5	det	_	Case=Abl|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind
+5	diebus	dies	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	1	obl	_	Case=Abl|Gender=Masc|Number=Plur
+6	omnia	omnis	DET	Px	Case=Acc|Gender=Neut|Number=Plur	1	obj	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot
+
+# sent_id = 78283
+# text = sed si ve Romae es si ve in Epiro Parthi Euphraten transierunt duce Pacoro Orodis regis Parthorum filio cum cunctis fere copiis
+# source = Epistulae ad Atticum, Book 5, letter 18
+1	sed	sed	CCONJ	C-	_	12	cc	_	_
+2	si	si	SCONJ	G-	_	4	mark	_	_
+3	ve	ve	CCONJ	C-	_	4	cc	_	_
+4	Romae	Roma	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	12	advcl	_	Case=Gen|Gender=Fem|Number=Sing
+5	es	sum	AUX	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	4	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+6	si	si	SCONJ	G-	_	9	mark	_	_
+7	ve	ve	CCONJ	C-	_	9	cc	_	_
+8	in	in	ADP	R-	_	9	case	_	AdpType=Prep
+9	Epiro	Epirus	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	4	conj	_	Case=Abl|Gender=Fem|Number=Sing
+10	Parthi	Parthus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	Case=Nom|Gender=Masc|Number=Plur
+11	Euphraten	Euphrates	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	Case=Acc|Gender=Fem|Number=Sing
+12	transierunt	transeo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+13	duce	dux	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	12	advcl:abs	_	Case=Abl|Gender=Masc|Number=Sing
+14	Pacoro	Pacorus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	13	nsubj	_	Case=Abl|Gender=Masc|Number=Sing
+15	Orodis	Orodes	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+16	regis	rex	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	15	appos	_	Case=Gen|Gender=Masc|Number=Sing
+17	Parthorum	Parthus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+18	filio	filius	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	14	appos	_	Case=Abl|Gender=Masc|Number=Sing
+19	cum	cum	ADP	R-	_	22	case	_	AdpType=Prep
+20	cunctis	cunctus	DET	A-	Case=Abl|Gender=Fem|Number=Plur	22	det	_	Case=Abl|Gender=Fem|Number=Plur|PronType=Tot
+21	fere	fere	ADV	Df	_	20	advmod	_	_
+22	copiis	copia	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	12	obl	_	Case=Abl|Gender=Fem|Number=Plur
+
+# sent_id = 78321
+# text = non credo
+# source = Epistulae ad Atticum, Book 5, letter 19
+1	non	non	PART	Df	_	2	advmod:neg	_	Polarity=Neg
+2	credo	credo	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 78349
+# text = castella munitissima nocturno Pomptini adventu nostro matutino cepimus
+# source = Epistulae ad Atticum, Book 5, letter 20
+1	castella	castellum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	8	obj	_	Case=Acc|Gender=Neut|Number=Plur
+2	munitissima	munitus	ADJ	A-	Case=Acc|Degree=Sup|Gender=Neut|Number=Plur	1	amod	_	Case=Acc|Degree=Abs|Gender=Neut|Number=Plur
+3	nocturno	nocturnus	ADJ	A-	Case=Abl|Gender=Masc|Number=Sing	5	amod	_	Case=Abl|Gender=Masc|Number=Sing
+4	Pomptini	Pomptinus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+5	adventu	adventus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	8	obl	_	Case=Abl|Gender=Masc|Number=Sing
+6	nostro	noster	DET	Ps	Case=Abl|Gender=Masc|Number=Sing	7	det	_	Case=Abl|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs
+7	matutino	matutinus	ADJ	A-	Case=Abl|Gender=Masc|Number=Sing	5	conj	_	Case=Abl|Gender=Masc|Number=Sing
+8	cepimus	coepi	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+
+# sent_id = 78441
+# text = ipse in Asiam profectus sum Tarso Nonis Ianuariis non me hercule dici potest qua admiratione Ciliciae civitatum maxime que Tarsensium
+# source = Epistulae ad Atticum, Book 5, letter 21
+1	ipse	ipse	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem
+2	in	in	ADP	R-	_	3	case	_	AdpType=Prep
+3	Asiam	Asia	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	Case=Acc|Gender=Fem|Number=Sing
+4	profectus	proficiscor	VERB	V-	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	0	root	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+5	sum	sum	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	4	aux:pass	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+6	Tarso	Tarsus	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	4	obl:arg	_	Case=Abl|Gender=Fem|Number=Sing
+7	Nonis	nonae	NOUN	Df	Case=Abl|Gender=Fem|Number=Plur	4	nmod	_	Case=Abl|Gender=Fem|Number=Plur
+8	Ianuariis	ianuarius	ADJ	Df	Case=Abl|Gender=Fem|Number=Plur	7	amod	_	Case=Abl|Gender=Fem|Number=Plur
+9	non	non	PART	Df	_	13	advmod:neg	_	Polarity=Neg
+10	me	mehercule	PART	I-	_	4	discourse	_	_
+11	hercule	hercule	PART	I-	_	10	fixed	_	_
+12	dici	dico	VERB	V-	Mood=Inf|Tense=Pres|Voice=Pass	13	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+13	potest	possum	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	advcl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+14	qua	qui	PRON	Pi	Case=Abl|Gender=Fem|Number=Sing	15	det	_	Case=Abl|Gender=Fem|Number=Sing|PronType=Int
+15	admiratione	admiratio	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	12	obl	_	Case=Abl|Gender=Fem|Number=Sing
+16	Ciliciae	Cilicia	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+17	civitatum	civitas	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	Case=Gen|Gender=Fem|Number=Plur
+18	maxime	magis	ADV	Df	Degree=Sup	20	advmod	_	Degree=Abs
+19	que	que	CCONJ	C-	_	20	cc	_	_
+20	Tarsensium	Tarsensis	ADJ	A-	Case=Gen|Gender=Fem|Number=Plur	16	conj	_	Case=Gen|Gender=Fem|Number=Plur
+
+# sent_id = 78442
+# text = postea vero quam Taurum transgressus sum mirifica exspectatio Asiae nostrarum dioecesium quae sex mensibus imperi mei nullas meas acceperat litteras numquam hospitem viderat
+# source = Epistulae ad Atticum, Book 5, letter 21
+1	postea	postea	ADV	Df	_	0	root	_	_
+2	vero	vero	ADV	Df	_	1	discourse	_	_
+3	quam	quam	ADV	Df	_	1	advmod	_	_
+4	Taurum	Taurus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	Case=Acc|Gender=Masc|Number=Sing
+5	transgressus	transgredior	VERB	V-	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	3	ccomp	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+6	sum	sum	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	5	aux:pass	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+7	mirifica	mirificus	ADJ	A-	Case=Nom|Gender=Fem|Number=Sing	8	amod	_	Case=Nom|Gender=Fem|Number=Sing
+8	exspectatio	exspectatio	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+9	Asiae	Asia	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+10	nostrarum	noster	DET	Ps	Case=Gen|Gender=Fem|Number=Plur	11	det	_	Case=Gen|Gender=Fem|Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs
+11	dioecesium	diocesis	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	Case=Gen|Gender=Fem|Number=Plur
+12	quae	qui	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel
+13	sex	sex	NUM	Ma	_	14	nummod	_	NumForm=Word|NumType=Card
+14	mensibus	mensis	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	19	obl	_	Case=Abl|Gender=Masc|Number=Plur
+15	imperi	imperium	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	Case=Gen|Gender=Neut|Number=Sing
+16	mei	meus	DET	Ps	Case=Gen|Gender=Neut|Number=Sing	15	det	_	Case=Gen|Gender=Neut|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs
+17	nullas	nullus	DET	Px	Case=Acc|Gender=Fem|Number=Plur	20	det	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Ind
+18	meas	meus	DET	Ps	Case=Acc|Gender=Fem|Number=Plur	20	det	_	Case=Acc|Gender=Fem|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs
+19	acceperat	accipio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Plup|Voice=Act	9	acl:relcl	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act
+20	litteras	littera	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	19	obj	_	Case=Acc|Gender=Fem|Number=Plur
+21	numquam	numquam	ADV	Df	_	23	advmod	_	_
+22	hospitem	hospes	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	23	obj	_	Case=Acc|Gender=Masc|Number=Sing
+23	viderat	video	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Plup|Voice=Act	19	conj	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act
+
+# sent_id = 78494
+# text = voco illos ad me remoto Scaptio
+# source = Epistulae ad Atticum, Book 5, letter 21
+1	voco	voco	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+2	illos	ille	DET	Pd	Case=Acc|Gender=Masc|Number=Plur	1	obj	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Dem
+3	ad	ad	ADP	R-	_	4	case	_	AdpType=Prep
+4	me	ego	PRON	Pp	Case=Acc|Number=Sing|Person=1	1	obl	_	Case=Acc|Number=Sing|Person=1|PronType=Prs
+5	remoto	removeo	VERB	V-	Case=Abl|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	1	advcl:abs	_	Aspect=Perf|Case=Abl|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+6	Scaptio	Scaptius	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	5	nsubj:pass	_	Case=Abl|Gender=Masc|Number=Sing
+
+# sent_id = 85683
+# text = itaque me ipsum commoverat
+# source = Epistulae ad Atticum, Book 5, letter 1
+1	itaque	itaque	PART	Df	_	4	discourse	_	_
+2	me	ego	PRON	Pp	Case=Acc|Number=Sing|Person=1	4	obj	_	Case=Acc|Number=Sing|Person=1|PronType=Prs
+3	ipsum	ipse	DET	Pd	Case=Acc|Gender=Masc|Number=Sing	2	det	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem
+4	commoverat	commoveo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Plup|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act
+
+# sent_id = 85714
+# text = cotidie enim magis suspicor te in Epirum iam profectum
+# source = Epistulae ad Atticum, Book 5, letter 6
+1	cotidie	cottidie	ADV	Df	_	4	advmod	_	_
+2	enim	enim	PART	Df	_	4	discourse	_	_
+3	magis	magis	ADV	Df	Degree=Cmp	4	advmod	_	Degree=Cmp
+4	suspicor	suspicor	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Pass	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+5	te	tu	PRON	Pp	Case=Acc|Number=Sing|Person=2	9	nsubj	_	Case=Acc|Number=Sing|Person=2|PronType=Prs
+6	in	in	ADP	R-	_	7	case	_	AdpType=Prep
+7	Epirum	Epirus	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	Case=Acc|Gender=Fem|Number=Sing
+8	iam	iam	ADV	Df	_	9	advmod:tmod	_	AdvType=Tim
+9	profectum	proficiscor	VERB	V-	Case=Acc|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	4	ccomp	_	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+
+# sent_id = 85814
+# text = ipse me Laodiceam recipiebam
+# source = Epistulae ad Atticum, Book 5, letter 20
+1	ipse	ipse	DET	Pp	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem
+2	me	ego	PRON	Pp	Case=Acc|Number=Sing|Person=1	4	obj	_	Case=Acc|Number=Sing|Person=1|PronType=Prs
+3	Laodiceam	Laodicea	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	4	obl:arg	_	Case=Acc|Gender=Fem|Number=Sing
+4	recipiebam	recipio	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Imp|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+

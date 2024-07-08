@@ -1,0 +1,49 @@
+# sent_id = 32247
+# text = qui aliquando non populus
+# source = Jerome's Vulgate, 1 Peter 2
+1	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel
+2	aliquando	aliquando	ADV	Df	_	4	advmod	_	_
+3	non	non	PART	Df	_	4	advmod:neg	_	Polarity=Neg
+4	populus	populus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Case=Nom|Gender=Masc|Number=Sing
+
+# sent_id = 32273
+# text = similiter mulieres subditae suis viris
+# source = Jerome's Vulgate, 1 Peter 3
+1	similiter	similiter	ADV	Df	_	3	advmod	_	_
+2	mulieres	mulier	NOUN	Nb	Case=Voc|Gender=Fem|Number=Plur	3	vocative	_	Case=Voc|Gender=Fem|Number=Plur
+3	subditae	subditus	ADJ	A-	Case=Nom|Gender=Fem|Number=Plur	0	root	_	Case=Nom|Gender=Fem|Number=Plur
+4	suis	suus	DET	Pt	Case=Dat|Gender=Masc|Number=Plur	5	det	_	Case=Dat|Gender=Masc|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes
+5	viris	vir	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	3	obl:arg	_	Case=Dat|Gender=Masc|Number=Plur
+
+# sent_id = 32299
+# text = in quo et his qui in carcere erant spiritibus veniens praedicavit
+# source = Jerome's Vulgate, 1 Peter 3
+1	in	in	ADP	R-	_	2	case	_	AdpType=Prep
+2	quo	qui	PRON	Pr	Case=Abl|Gender=Masc|Number=Sing	11	obl	_	Case=Abl|Gender=Masc|Number=Sing|PronType=Rel
+3	et	et	CCONJ	C-	_	9	cc	_	_
+4	his	hic	DET	Pd	Case=Dat|Gender=Masc|Number=Plur	9	det	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Dem
+5	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+6	in	in	ADP	R-	_	7	case	_	AdpType=Prep
+7	carcere	carcer	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	9	acl:relcl	_	Case=Abl|Gender=Masc|Number=Sing
+8	erant	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Imp|Voice=Act	7	cop	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+9	spiritibus	spiritus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	11	obl:arg	_	Case=Dat|Gender=Masc|Number=Plur
+10	veniens	venio	VERB	V-	Case=Voc|Gender=Masc|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	11	advcl	_	Aspect=Imp|Case=Voc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act
+11	praedicavit	praedico	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+
+# sent_id = 32342
+# text = similiter adulescentes subditi estote senioribus
+# source = Jerome's Vulgate, 1 Peter 5
+1	similiter	similiter	ADV	Df	_	3	advmod	_	_
+2	adulescentes	adulescens	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	3	vocative	_	Case=Voc|Gender=Masc|Number=Plur
+3	subditi	subditus	ADJ	A-	Case=Nom|Gender=Masc|Number=Plur	0	root	_	Case=Nom|Gender=Masc|Number=Plur
+4	estote	sum	AUX	V-	Mood=Imp|Number=Plur|Person=2|Tense=Fut|Voice=Act	3	cop	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin
+5	senioribus	senex	ADJ	A-	Case=Dat|Degree=Cmp|Gender=Masc|Number=Plur	3	obl:arg	_	Case=Dat|Degree=Cmp|Gender=Masc|Number=Plur
+
+# sent_id = 74796
+# text = nunc autem populus Dei
+# source = Jerome's Vulgate, 1 Peter 2
+1	nunc	nunc	ADV	Df	_	3	advmod:tmod	_	AdvType=Tim
+2	autem	autem	PART	Df	_	3	discourse	_	_
+3	populus	populus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Case=Nom|Gender=Masc|Number=Sing
+4	Dei	deus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+

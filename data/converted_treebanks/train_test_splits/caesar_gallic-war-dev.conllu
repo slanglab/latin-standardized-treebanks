@@ -1,0 +1,731 @@
+# sent_id = 52576
+# text = Moribus suis Orgetoricem ex vinculis causam dicere coegerunt
+# source = Commentarii belli Gallici, Caes., Gall. 1.4
+1	Moribus	mos	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	8	obl	_	Case=Abl|Gender=Masc|Number=Plur
+2	suis	suus	DET	Pt	Case=Abl|Gender=Masc|Number=Plur	1	det	_	Case=Abl|Gender=Masc|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes
+3	Orgetoricem	Orgetorix	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	Case=Acc|Gender=Masc|Number=Sing
+4	ex	ex	ADP	R-	_	5	case	_	AdpType=Prep
+5	vinculis	vinculum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	7	obl	_	Case=Abl|Gender=Neut|Number=Plur
+6	causam	causa	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	Case=Acc|Gender=Fem|Number=Sing
+7	dicere	dico	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	8	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+8	coegerunt	cogo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+
+# sent_id = 52671
+# text = reperit esse vera
+# source = Commentarii belli Gallici, Caes., Gall. 1.18
+1	reperit	reperio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+2	esse	sum	AUX	V-	Mood=Inf|Tense=Pres|Voice=Act	3	cop	_	Aspect=Imp|VerbForm=Inf
+3	vera	verus	ADJ	A-	Case=Acc|Gender=Neut|Number=Plur	1	ccomp	_	Case=Acc|Gender=Neut|Number=Plur
+
+# sent_id = 52695
+# text = quae in eo reprehendat ostendit
+# source = Commentarii belli Gallici, Caes., Gall. 1.20
+1	quae	quis	PRON	Pi	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Int
+2	in	in	ADP	R-	_	3	case	_	AdpType=Prep
+3	eo	is	PRON	Pp	Case=Abl|Gender=Masc|Number=Sing|Person=3	4	obl	_	Case=Abl|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+4	reprehendat	repr(eh)endo	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	5	ccomp	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+5	ostendit	ostendo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 52703
+# text = quid sui consilii sit ostendit
+# source = Commentarii belli Gallici, Caes., Gall. 1.21
+1	quid	quis	PRON	Pi	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int
+2	sui	suus	DET	Pt	Case=Gen|Gender=Neut|Number=Sing	5	ccomp	_	Case=Gen|Gender=Neut|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes
+3	consilii	consilium	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	Case=Gen|Gender=Neut|Number=Sing
+4	sit	sum	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	2	cop	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+5	ostendit	ostendo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 52715
+# text = Postquam id animum advertit copias suas Caesar in proximum collem subduxit equitatum que qui sustineret hostium petum misit
+# source = Commentarii belli Gallici, Caes., Gall. 1.24
+1	Postquam	postquam	SCONJ	G-	_	4	mark	_	_
+2	id	is	PRON	Pp	Case=Acc|Gender=Neut|Number=Sing|Person=3	4	obj	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+3	animum	animus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obl:arg	_	Case=Acc|Gender=Masc|Number=Sing
+4	advertit	averto	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	11	advcl	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+5	copias	copia	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	11	obj	_	Case=Acc|Gender=Fem|Number=Plur
+6	suas	suus	DET	Pt	Case=Acc|Gender=Fem|Number=Plur	5	det	_	Case=Acc|Gender=Fem|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes
+7	Caesar	Caesar	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+8	in	in	ADP	R-	_	10	case	_	AdpType=Prep
+9	proximum	proximum	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	10	nmod	_	Case=Acc|Gender=Masc|Number=Sing
+10	collem	collis	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	11	obl	_	Case=Acc|Gender=Masc|Number=Sing
+11	subduxit	subduco	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+12	equitatum	equitatus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	18	obj	_	Case=Acc|Gender=Masc|Number=Sing
+13	que	que	CCONJ	C-	_	18	cc	_	_
+14	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+15	sustineret	sustineo	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Imp|Voice=Act	12	acl:relcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+16	hostium	hostis	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+17	petum	impetus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	15	obj	_	Case=Acc|Gender=Masc|Number=Sing
+18	misit	mitto	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	11	conj	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+
+# sent_id = 52717
+# text = in summo iugo duas legiones quas in Gallia citeriore proxime conscripserat et omnia auxilia conlocavit ita ut supra se totum montem hominibus compleret
+# source = Commentarii belli Gallici, Caes., Gall. 1.24
+1	in	in	ADP	R-	_	3	case	_	AdpType=Prep
+2	summo	summus	ADJ	A-	Case=Abl|Gender=Neut|Number=Sing	3	amod	_	Case=Abl|Gender=Neut|Number=Sing
+3	iugo	iugum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	15	obl	_	Case=Abl|Gender=Neut|Number=Sing
+4	duas	duo	NUM	Ma	Case=Acc|Gender=Fem|Number=Plur	5	nummod	_	Case=Acc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card
+5	legiones	legio	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	15	obj	_	Case=Acc|Gender=Fem|Number=Plur
+6	quas	qui	PRON	Pr	Case=Acc|Gender=Fem|Number=Plur	11	obj	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Rel
+7	in	in	ADP	R-	_	8	case	_	AdpType=Prep
+8	Gallia	Gallia	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	11	obl	_	Case=Abl|Gender=Fem|Number=Sing
+9	citeriore	citerior	ADJ	A-	Case=Abl|Degree=Cmp|Gender=Fem|Number=Sing	8	amod	_	Case=Abl|Degree=Cmp|Gender=Fem|Number=Sing
+10	proxime	prope	ADV	Df	Degree=Sup	11	advmod	_	Degree=Abs
+11	conscripserat	conscribo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Plup|Voice=Act	5	acl:relcl	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act
+12	et	et	CCONJ	C-	_	14	cc	_	_
+13	omnia	omnis	DET	Px	Case=Acc|Gender=Neut|Number=Plur	14	det	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot
+14	auxilia	auxilium	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	5	conj	_	Case=Acc|Gender=Neut|Number=Plur
+15	conlocavit	colloco	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+16	ita	ita	ADV	Df	_	15	advmod	_	_
+17	ut	ut	SCONJ	G-	_	23	mark	_	_
+18	supra	supra	ADP	R-	_	19	case	_	AdpType=Prep
+19	se	sui	PRON	Pk	Case=Acc|Number=Sing|Person=3	21	det	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes
+20	totum	totus	DET	A-	Case=Nom|Gender=Masc|Number=Sing	21	det	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot
+21	montem	mons	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	23	obj	_	Case=Acc|Gender=Masc|Number=Sing
+22	hominibus	homo	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	23	obl:arg	_	Case=Abl|Gender=Masc|Number=Plur
+23	compleret	compleo	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Imp|Voice=Act	16	advcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+
+# sent_id = 52736
+# text = Caesar ad Lingonas litteras nuntios que misit ne eos frumento ne ve alia re iuvarent
+# source = Commentarii belli Gallici, Caes., Gall. 1.26
+1	Caesar	Caesar	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+2	ad	ad	ADP	R-	_	3	case	_	AdpType=Prep
+3	Lingonas	Lingones	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	7	obl	_	Case=Acc|Gender=Masc|Number=Plur
+4	litteras	littera	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	7	obj	_	Case=Acc|Gender=Fem|Number=Plur
+5	nuntios	nuntius	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	4	conj	_	Case=Acc|Gender=Masc|Number=Plur
+6	que	que	CCONJ	C-	_	5	cc	_	_
+7	misit	mitto	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+8	ne	ne	SCONJ	G-	_	9	mark	_	_
+9	eos	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3	7	ccomp	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+10	frumento	frumentum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	9	orphan	_	Case=Abl|Gender=Neut|Number=Sing
+11	ne	ne	SCONJ	G-	_	15	mark	_	_
+12	ve	ve	CCONJ	C-	_	15	cc	_	_
+13	alia	alius	DET	Px	Case=Abl|Gender=Fem|Number=Sing	14	det	_	Case=Abl|Gender=Fem|Number=Sing|PronType=Con
+14	re	res	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	15	obl:arg	_	Case=Abl|Gender=Fem|Number=Sing
+15	iuvarent	iuvo	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Imp|Voice=Act	9	conj	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+
+# sent_id = 52743
+# text = reductos in hostium numero habuit
+# source = Commentarii belli Gallici, Caes., Gall. 1.28
+1	reductos	reduco	VERB	V-	Case=Acc|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	5	advcl	_	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+2	in	in	ADP	R-	_	4	case	_	AdpType=Prep
+3	hostium	hostis	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+4	numero	numerus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	5	obl	_	Case=Abl|Gender=Masc|Number=Sing
+5	habuit	habeo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+
+# sent_id = 52766
+# text = Cum his Haeduos eorum que clientes semel atque iterum armis contendisse
+# source = Commentarii belli Gallici, Caes., Gall. 1.31
+1	Cum	cum	ADP	R-	_	2	case	_	AdpType=Prep
+2	his	hic	DET	Pd	Case=Abl|Gender=Masc|Number=Plur	11	obl	_	Case=Abl|Gender=Masc|Number=Plur|PronType=Dem
+3	Haeduos	Aedui	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	11	nsubj	_	Case=Acc|Gender=Masc|Number=Plur
+4	eorum	is	DET	Pd	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Dem
+5	que	que	CCONJ	C-	_	6	cc	_	_
+6	clientes	cliens	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	3	conj	_	Case=Acc|Gender=Masc|Number=Plur
+7	semel	semel	ADV	Df	_	11	advmod	_	_
+8	atque	atque	CCONJ	C-	_	9	cc	_	_
+9	iterum	iterum	ADV	Df	_	7	conj	_	_
+10	armis	arma	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	11	obl:arg	_	Case=Abl|Gender=Neut|Number=Plur
+11	contendisse	contendo	VERB	V-	Mood=Inf|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|VerbForm=Inf|Voice=Act
+
+# sent_id = 52948
+# text = reliquos omnes consecuti equites nostri interfecerunt
+# source = Commentarii belli Gallici, Caes., Gall. 1.53
+1	reliquos	reliquus	DET	A-	Case=Acc|Gender=Masc|Number=Plur	3	obj	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Ind
+2	omnes	omnis	DET	Px	Case=Acc|Gender=Masc|Number=Plur	1	det	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Tot
+3	consecuti	consequor	VERB	V-	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	6	advcl	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+4	equites	eques	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	Case=Nom|Gender=Masc|Number=Plur
+5	nostri	noster	DET	Ps	Case=Nom|Gender=Masc|Number=Plur	4	det	_	Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs
+6	interfecerunt	interficio	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+
+# sent_id = 52994
+# text = castra in altitudinem pedum duodecim vallo fossa que duodeviginti pedum muniri iubet
+# source = Commentarii belli Gallici, Caes., Gall. 2.5
+1	castra	castra	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	11	nsubj:pass	_	Case=Acc|Gender=Neut|Number=Plur
+2	in	in	ADP	R-	_	3	case	_	AdpType=Prep
+3	altitudinem	altitudo	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	Case=Acc|Gender=Fem|Number=Sing
+4	pedum	pes	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+5	duodecim	duodecim	NUM	Ma	_	6	nummod	_	NumForm=Word|NumType=Card
+6	vallo	vallum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	11	nmod	_	Case=Abl|Gender=Neut|Number=Sing
+7	fossa	fossa	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	6	conj	_	Case=Abl|Gender=Fem|Number=Sing
+8	que	que	CCONJ	C-	_	7	cc	_	_
+9	duodeviginti	duodeviginti	NUM	Ma	_	7	nummod	_	NumForm=Word|NumType=Card
+10	pedum	pes	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+11	muniri	munio	VERB	V-	Mood=Inf|Tense=Pres|Voice=Pass	12	ccomp	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+12	iubet	iubeo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 53004
+# text = Itaque paulisper apud oppidum morati agros que Remorum depopulati omnibus vicis aedificiis que quo adire potuerant incensis ad castra Caesaris omnibus copiis contenderunt et a milibus passuum minus duobus castra posuerunt
+# source = Commentarii belli Gallici, Caes., Gall. 2.7
+1	Itaque	itaque	PART	Df	_	23	discourse	_	_
+2	paulisper	paul(l)isper	ADV	Df	_	5	advmod	_	_
+3	apud	apud	ADP	R-	_	4	case	_	AdpType=Prep
+4	oppidum	oppidum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	Case=Acc|Gender=Neut|Number=Sing
+5	morati	moror	VERB	V-	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	23	advcl	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+6	agros	ager	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	9	obj	_	Case=Acc|Gender=Masc|Number=Plur
+7	que	que	CCONJ	C-	_	9	cc	_	_
+8	Remorum	Remi	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+9	depopulati	depopulor	VERB	V-	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	5	conj	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+10	omnibus	omnis	DET	Px	Case=Abl|Gender=Masc|Number=Plur	11	det	_	Case=Abl|Gender=Masc|Number=Plur|PronType=Tot
+11	vicis	vicus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	17	nsubj:pass	_	Case=Abl|Gender=Masc|Number=Plur
+12	aedificiis	aedificium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	11	conj	_	Case=Abl|Gender=Neut|Number=Plur
+13	que	que	CCONJ	C-	_	12	cc	_	_
+14	quo	quo	ADV	Dq	_	15	advmod:lmod	_	AdvType=Loc|PronType=Rel
+15	adire	adeo	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	16	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+16	potuerant	possum	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Plup|Voice=Act	11	acl	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act
+17	incensis	incendo	VERB	V-	Case=Abl|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	23	advcl:abs	_	Aspect=Perf|Case=Abl|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+18	ad	ad	ADP	R-	_	19	case	_	AdpType=Prep
+19	castra	castra	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	23	obl	_	Case=Acc|Gender=Neut|Number=Plur
+20	Caesaris	Caesar	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+21	omnibus	omnis	DET	Px	Case=Abl|Gender=Fem|Number=Plur	22	det	_	Case=Abl|Gender=Fem|Number=Plur|PronType=Tot
+22	copiis	copia	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	23	obl	_	Case=Abl|Gender=Fem|Number=Plur
+23	contenderunt	contendo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+24	et	et	CCONJ	C-	_	31	cc	_	_
+25	a	ab	ADP	R-	_	28	case	_	AdpType=Prep
+26	milibus	mille	NUM	Ma	Case=Abl|Gender=Neut|Number=Plur	28	obl:arg	_	Case=Abl|Gender=Neut|Number=Plur|NumForm=Word|NumType=Card
+27	passuum	passus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	26	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+28	minus	parum	ADV	Df	Degree=Cmp	31	advmod	_	Degree=Cmp
+29	duobus	duo	NUM	Ma	Case=Abl|Gender=Neut|Number=Plur	26	nummod	_	Case=Abl|Gender=Neut|Number=Plur|NumForm=Word|NumType=Card
+30	castra	castra	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	31	obj	_	Case=Acc|Gender=Neut|Number=Plur
+31	posuerunt	pono	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	23	conj	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+
+# sent_id = 53048
+# text = His traditis omnibus que armis ex oppido conlatis ab eo loco in fines Ambianorum pervenit
+# source = Commentarii belli Gallici, Caes., Gall. 2.15
+1	His	hic	DET	Pd	Case=Abl|Gender=Masc|Number=Plur	2	nsubj:pass	_	Case=Abl|Gender=Masc|Number=Plur|PronType=Dem
+2	traditis	trado	VERB	V-	Case=Abl|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	15	advcl:abs	_	Aspect=Perf|Case=Abl|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+3	omnibus	omnis	DET	Px	Case=Abl|Gender=Masc|Number=Plur	1	det	_	Case=Abl|Gender=Masc|Number=Plur|PronType=Tot
+4	que	que	CCONJ	C-	_	8	cc	_	_
+5	armis	arma	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	8	nsubj:pass	_	Case=Abl|Gender=Neut|Number=Plur
+6	ex	ex	ADP	R-	_	7	case	_	AdpType=Prep
+7	oppido	oppidum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	5	nmod	_	Case=Abl|Gender=Neut|Number=Sing
+8	conlatis	confero	VERB	V-	Case=Abl|Gender=Neut|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	2	conj	_	Aspect=Perf|Case=Abl|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+9	ab	ab	ADP	R-	_	11	case	_	AdpType=Prep
+10	eo	is	DET	Pd	Case=Abl|Gender=Masc|Number=Sing	11	det	_	Case=Abl|Gender=Masc|Number=Sing|PronType=Dem
+11	loco	locus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	15	obl	_	Case=Abl|Gender=Masc|Number=Sing
+12	in	in	ADP	R-	_	13	case	_	AdpType=Prep
+13	fines	finis	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	15	obl	_	Case=Acc|Gender=Masc|Number=Plur
+14	Ambianorum	Ambiani	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+15	pervenit	pervenio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 53074
+# text = post eas totius exercitus impedimenta conlocarat
+# source = Commentarii belli Gallici, Caes., Gall. 2.19
+1	post	post	ADP	R-	_	2	case	_	AdpType=Prep
+2	eas	is	PRON	Pp	Case=Acc|Gender=Fem|Number=Plur|Person=3	6	obl	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs
+3	totius	totus	DET	A-	Case=Gen|Gender=Masc|Number=Sing	4	det	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Tot
+4	exercitus	exercitus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+5	impedimenta	impedimentum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	6	obj	_	Case=Acc|Gender=Neut|Number=Plur
+6	conlocarat	colloco	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Plup|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act
+
+# sent_id = 53082
+# text = signum tuba dandum
+# source = Commentarii belli Gallici, Caes., Gall. 2.20
+1	signum	signum	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	Case=Nom|Gender=Neut|Number=Sing
+2	tuba	tuba	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	3	obl	_	Case=Abl|Gender=Fem|Number=Sing
+3	dandum	do	VERB	V-	Case=Nom|Gender=Neut|Mood=Gdv|Number=Sing|Voice=Pass	0	root	_	Aspect=Prosp|Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+
+# sent_id = 53129
+# text = Ubi vineis actis aggere extructo turrim procul constitui viderunt primum inridere ex muro atque increpitare vocibus quod tanta machinatio a tanto spatio institueretur
+# source = Commentarii belli Gallici, Caes., Gall. 2.30
+1	Ubi	ubi	ADV	Dq	_	9	advmod	_	PronType=Rel
+2	vineis	vinea	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	3	nsubj:pass	_	Case=Abl|Gender=Fem|Number=Plur
+3	actis	ago	VERB	V-	Case=Abl|Gender=Fem|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	9	advcl:abs	_	Aspect=Perf|Case=Abl|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+4	aggere	agger	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	5	nsubj:pass	_	Case=Abl|Gender=Masc|Number=Sing
+5	extructo	extruo	VERB	V-	Case=Abl|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	9	advcl:abs	_	Aspect=Perf|Case=Abl|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+6	turrim	turris	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	nsubj:pass	_	Case=Acc|Gender=Fem|Number=Sing
+7	procul	procul	ADV	Df	_	8	advmod:lmod	_	AdvType=Loc
+8	constitui	constituo	VERB	V-	Mood=Inf|Tense=Pres|Voice=Pass	9	ccomp	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+9	viderunt	video	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	11	advcl	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+10	primum	primum	ADV	Df	_	11	advmod	_	_
+11	inridere	irrideo	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+12	ex	ex	ADP	R-	_	13	case	_	AdpType=Prep
+13	muro	murus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	11	obl	_	Case=Abl|Gender=Masc|Number=Sing
+14	atque	atque	CCONJ	C-	_	15	cc	_	_
+15	increpitare	increpito	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	11	conj	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+16	vocibus	vox	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	15	obl	_	Case=Abl|Gender=Fem|Number=Plur
+17	quod	quod	SCONJ	G-	_	23	mark	_	PronType=Rel
+18	tanta	tantus	DET	A-	Case=Nom|Gender=Fem|Number=Sing	19	det	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem
+19	machinatio	machinatio	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	23	nsubj:pass	_	Case=Nom|Gender=Fem|Number=Sing
+20	a	ab	ADP	R-	_	22	case	_	AdpType=Prep
+21	tanto	tantus	DET	Pd	Case=Abl|Gender=Neut|Number=Sing	22	det	_	Case=Abl|Gender=Neut|Number=Sing|PronType=Dem
+22	spatio	spatium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	23	obl	_	Case=Abl|Gender=Neut|Number=Sing
+23	institueretur	instituo	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Imp|Voice=Pass	15	ccomp	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+
+# sent_id = 53146
+# text = Eodem tempore a Publio Crasso quem cum legione una miserat ad Venetos Venellos Osismos Coriosolitas Esuvios Aulercos Redones quae sunt maritimae civitates Oceanum que attingunt certior factus est omnes eas civitates in dicionem potestatem que populi Romani esse redactas
+# source = Commentarii belli Gallici, Caes., Gall. 2.34
+1	Eodem	idem	DET	Pd	Case=Abl|Gender=Neut|Number=Sing	2	det	_	Case=Abl|Gender=Neut|Number=Sing|PronType=Dem
+2	tempore	tempus	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	27	obl	_	Case=Abl|Gender=Neut|Number=Sing
+3	a	ab	ADP	R-	_	4	case	_	AdpType=Prep
+4	Publio	Publius	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	27	obl:agent	_	Case=Abl|Gender=Masc|Number=Sing
+5	Crasso	Crassus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	4	flat:name	_	Case=Abl|Gender=Masc|Number=Sing
+6	quem	qui	PRON	Pr	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel
+7	cum	cum	ADP	R-	_	8	case	_	AdpType=Prep
+8	legione	legio	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	10	obl	_	Case=Abl|Gender=Fem|Number=Sing
+9	una	unus	NUM	Ma	Case=Abl|Gender=Fem|Number=Sing	8	nummod	_	Case=Abl|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card
+10	miserat	mitto	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Plup|Voice=Act	4	acl:relcl	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act
+11	ad	ad	ADP	R-	_	12	case	_	AdpType=Prep
+12	Venetos	Veneti	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	10	obl	_	Case=Acc|Gender=Masc|Number=Plur
+13	Venellos	Venelli	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	12	conj	_	Case=Acc|Gender=Masc|Number=Plur
+14	Osismos	Osismi	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	12	conj	_	Case=Acc|Gender=Masc|Number=Plur
+15	Coriosolitas	Coriosolitae	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	12	conj	_	Case=Acc|Gender=Masc|Number=Plur
+16	Esuvios	Esuvii	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	12	conj	_	Case=Acc|Gender=Masc|Number=Plur
+17	Aulercos	Aulerci	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	12	conj	_	Case=Acc|Gender=Masc|Number=Plur
+18	Redones	Redones	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	12	conj	_	Case=Acc|Gender=Masc|Number=Plur
+19	quae	qui	PRON	Pr	Case=Nom|Gender=Fem|Number=Plur	22	nsubj	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel
+20	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	22	cop	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+21	maritimae	maritimus	ADJ	A-	Case=Nom|Gender=Fem|Number=Plur	22	amod	_	Case=Nom|Gender=Fem|Number=Plur
+22	civitates	civitas	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	12	acl:relcl	_	Case=Nom|Gender=Fem|Number=Plur
+23	Oceanum	Oceanus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	25	obj	_	Case=Acc|Gender=Masc|Number=Sing
+24	que	que	CCONJ	C-	_	25	cc	_	_
+25	attingunt	attingo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	22	conj	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+26	certior	certus	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	27	xcomp	_	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing
+27	factus	facio	VERB	V-	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	0	root	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+28	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	27	aux:pass	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+29	omnes	omnis	DET	Px	Case=Acc|Gender=Fem|Number=Plur	31	det	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Tot
+30	eas	is	DET	Pd	Case=Acc|Gender=Fem|Number=Plur	31	det	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem
+31	civitates	civitas	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	39	nsubj:pass	_	Case=Acc|Gender=Fem|Number=Plur
+32	in	in	ADP	R-	_	33	case	_	AdpType=Prep
+33	dicionem	dicio	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	39	obl	_	Case=Acc|Gender=Fem|Number=Sing
+34	potestatem	potestas	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	33	conj	_	Case=Acc|Gender=Fem|Number=Sing
+35	que	que	CCONJ	C-	_	34	cc	_	_
+36	populi	populus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	33	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+37	Romani	Romanus	ADJ	A-	Case=Gen|Gender=Masc|Number=Sing	36	amod	_	Case=Gen|Gender=Masc|Number=Sing
+38	esse	sum	AUX	V-	Mood=Inf|Tense=Pres|Voice=Act	39	aux:pass	_	Aspect=Imp|VerbForm=Inf
+39	redactas	redigo	VERB	V-	Case=Acc|Gender=Fem|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	26	ccomp	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+
+# sent_id = 53209
+# text = ancorae pro funibus ferreis catenis revinctae
+# source = Commentarii belli Gallici, Caes., Gall. 3.13
+1	ancorae	ancora	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	6	nsubj:pass	_	Case=Nom|Gender=Fem|Number=Plur
+2	pro	pro	ADP	R-	_	3	case	_	AdpType=Prep
+3	funibus	funis	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	6	obl	_	Case=Abl|Gender=Masc|Number=Plur
+4	ferreis	ferreus	ADJ	A-	Case=Abl|Gender=Fem|Number=Plur	5	amod	_	Case=Abl|Gender=Fem|Number=Plur
+5	catenis	catena	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	6	obl	_	Case=Abl|Gender=Fem|Number=Plur
+6	revinctae	revincio	VERB	V-	Case=Nom|Gender=Fem|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	0	root	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+
+# sent_id = 53237
+# text = atque his paucis diebus Aulerci Eburovices Lexovii que senatu suo interfecto quod auctores belli esse nolebant portas clauserunt se que cum Viridovice coniunxerunt
+# source = Commentarii belli Gallici, Caes., Gall. 3.15
+1	atque	atque	CCONJ	C-	_	18	cc	_	_
+2	his	hic	DET	Pd	Case=Abl|Gender=Fem|Number=Plur	4	det	_	Case=Abl|Gender=Fem|Number=Plur|PronType=Dem
+3	paucis	paucus	DET	A-	Case=Abl|Gender=Fem|Number=Plur	4	det	_	Case=Abl|Gender=Fem|Number=Plur|NumType=Card|PronType=Ind
+4	diebus	dies	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	18	obl	_	Case=Abl|Gender=Fem|Number=Plur
+5	Aulerci	Aulerci	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	18	nsubj	_	Case=Nom|Gender=Masc|Number=Plur
+6	Eburovices	Eburovices	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	5	conj	_	Case=Nom|Gender=Masc|Number=Plur
+7	Lexovii	Lexovii	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	5	conj	_	Case=Nom|Gender=Masc|Number=Plur
+8	que	que	CCONJ	C-	_	7	cc	_	_
+9	senatu	senatus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	11	nsubj:pass	_	Case=Abl|Gender=Masc|Number=Sing
+10	suo	suus	DET	Pt	Case=Abl|Gender=Masc|Number=Sing	9	det	_	Case=Abl|Gender=Masc|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes
+11	interfecto	interficio	VERB	V-	Case=Abl|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	18	advcl:abs	_	Aspect=Perf|Case=Abl|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+12	quod	quod	SCONJ	G-	_	16	mark	_	PronType=Rel
+13	auctores	auctor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	16	xcomp	_	Case=Nom|Gender=Masc|Number=Plur
+14	belli	bellum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	Case=Gen|Gender=Neut|Number=Sing
+15	esse	sum	AUX	V-	Mood=Inf|Tense=Pres|Voice=Act	13	cop	_	Aspect=Imp|VerbForm=Inf
+16	nolebant	nolo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Imp|Voice=Act	11	advcl	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+17	portas	porta	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	18	obj	_	Case=Acc|Gender=Fem|Number=Plur
+18	clauserunt	claudo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+19	se	sui	PRON	Pk	Case=Acc|Number=Sing|Person=3	23	obj	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes
+20	que	que	CCONJ	C-	_	23	cc	_	_
+21	cum	cum	ADP	R-	_	22	case	_	AdpType=Prep
+22	Viridovice	Viridovix	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	23	obl	_	Case=Abl|Gender=Masc|Number=Sing
+23	coniunxerunt	coniungo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	18	conj	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+
+# sent_id = 53337
+# text = vel sibi agros attribuant vel patiantur eos tenere quos armis possederint
+# source = Commentarii belli Gallici, Caes., Gall. 4.7
+1	vel	vel	CCONJ	C-	_	4	cc	_	_
+2	sibi	sui	PRON	Pk	Case=Dat|Number=Plur|Person=3	4	obl:arg	_	Case=Dat|Number=Plur|Person=3|PronType=Prs|Reflex=Yes
+3	agros	ager	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	4	obj	_	Case=Acc|Gender=Masc|Number=Plur
+4	attribuant	attribuo	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+5	vel	vel	CCONJ	C-	_	6	cc	_	_
+6	patiantur	patior	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Pass	4	conj	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+7	eos	is	PRON	Pd	Case=Acc|Gender=Masc|Number=Plur|Person=3	8	obj	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+8	tenere	teneo	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	6	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+9	quos	qui	PRON	Pr	Case=Acc|Gender=Masc|Number=Plur	11	obj	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel
+10	armis	arma	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	11	obl	_	Case=Abl|Gender=Neut|Number=Plur
+11	possederint	possideo	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Plup|Voice=Act	7	acl:relcl	_	Aspect=Perf|Mood=Sub|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act
+
+# sent_id = 53404
+# text = hic Romanorum adventum expectare atque ibi decertare constituisse
+# source = Commentarii belli Gallici, Caes., Gall. 4.19
+1	hic	hic	ADV	Df	_	4	advmod:lmod	_	AdvType=Loc
+2	Romanorum	Romanus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+3	adventum	adventus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	Case=Acc|Gender=Masc|Number=Sing
+4	expectare	exspecto	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	8	ccomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+5	atque	atque	CCONJ	C-	_	7	cc	_	_
+6	ibi	ibi	ADV	Df	_	7	advmod:lmod	_	AdvType=Loc
+7	decertare	decerto	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	4	conj	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+8	constituisse	constituo	VERB	V-	Mood=Inf|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|VerbForm=Inf|Voice=Act
+
+# sent_id = 53448
+# text = Hostes proelio superati simul atque se ex fuga receperunt statim ad Caesarem legatos de pace miserunt
+# source = Commentarii belli Gallici, Caes., Gall. 4.27
+1	Hostes	hostis	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	Case=Nom|Gender=Masc|Number=Plur
+2	proelio	proelium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	3	obl	_	Case=Abl|Gender=Neut|Number=Sing
+3	superati	supero	VERB	V-	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	16	advcl	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+4	simul	simul	SCONJ	G-	_	9	mark	_	_
+5	atque	atque	CCONJ	Df	_	4	fixed	_	_
+6	se	sui	PRON	Pk	Case=Acc|Number=Plur|Person=3	9	obj	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes
+7	ex	ex	ADP	R-	_	8	case	_	AdpType=Prep
+8	fuga	fuga	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	9	obl	_	Case=Abl|Gender=Fem|Number=Sing
+9	receperunt	recipio	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	16	advcl	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+10	statim	statim	ADV	Df	_	16	advmod	_	_
+11	ad	ad	ADP	R-	_	12	case	_	AdpType=Prep
+12	Caesarem	Caesar	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	16	obl	_	Case=Acc|Gender=Masc|Number=Sing
+13	legatos	legatus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	16	obj	_	Case=Acc|Gender=Masc|Number=Plur
+14	de	de	ADP	R-	_	15	case	_	AdpType=Prep
+15	pace	pax	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	13	nmod	_	Case=Abl|Gender=Fem|Number=Sing
+16	miserunt	mitto	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+
+# sent_id = 53516
+# text = Collaudatis militibus atque eis qui negotio praefuerant quid fieri velit ostendit atque omnes ad portum Itium convenire iubet quo ex portu commodissimum in Britanniam traiectum esse cognoverat circiter milium passuum triginta transmissum a continenti
+# source = Commentarii belli Gallici, Caes., Gall. 5.2
+1	Collaudatis	collaudo	VERB	V-	Case=Abl|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	11	advcl:abs	_	Aspect=Perf|Case=Abl|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+2	militibus	miles	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	1	nsubj:pass	_	Case=Abl|Gender=Masc|Number=Plur
+3	atque	atque	CCONJ	C-	_	4	cc	_	_
+4	eis	is	PRON	Pp	Case=Abl|Gender=Masc|Number=Plur|Person=3	2	conj	_	Case=Abl|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+5	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel
+6	negotio	negotium	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	7	obl:arg	_	Case=Dat|Gender=Neut|Number=Sing
+7	praefuerant	praesum	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Plup|Voice=Act	4	acl:relcl	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act
+8	quid	quis	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing	9	nsubj:pass	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int
+9	fieri	fio	VERB	V-	Mood=Inf|Tense=Pres|Voice=Pass	10	ccomp	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+10	velit	volo	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	11	ccomp	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+11	ostendit	ostendo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+12	atque	atque	CCONJ	C-	_	18	cc	_	_
+13	omnes	omnis	DET	Px	Case=Acc|Gender=Masc|Number=Plur	17	nsubj	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Tot
+14	ad	ad	ADP	R-	_	15	case	_	AdpType=Prep
+15	portum	portus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	17	obl	_	Case=Acc|Gender=Masc|Number=Sing
+16	Itium	Itius	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	15	flat	_	Case=Acc|Gender=Masc|Number=Sing
+17	convenire	convenio	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	18	ccomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+18	iubet	iubeo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	11	conj	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+19	quo	qui	PRON	Pr	Case=Abl|Gender=Masc|Number=Sing	21	det	_	Case=Abl|Gender=Masc|Number=Sing|PronType=Rel
+20	ex	ex	ADP	R-	_	21	case	_	AdpType=Prep
+21	portu	portus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	22	obl	_	Case=Abl|Gender=Masc|Number=Sing
+22	commodissimum	commodus	ADJ	A-	Case=Acc|Degree=Sup|Gender=Masc|Number=Sing	27	ccomp	_	Case=Acc|Degree=Abs|Gender=Masc|Number=Sing
+23	in	in	ADP	R-	_	24	case	_	AdpType=Prep
+24	Britanniam	Britannia	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	25	nmod	_	Case=Acc|Gender=Fem|Number=Sing
+25	traiectum	traiectus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	22	nsubj	_	Case=Acc|Gender=Masc|Number=Sing
+26	esse	sum	AUX	V-	Mood=Inf|Tense=Pres|Voice=Act	22	cop	_	Aspect=Imp|VerbForm=Inf
+27	cognoverat	cognosco	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Plup|Voice=Act	15	acl	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act
+28	circiter	circiter	ADV	Df	_	29	advmod	_	_
+29	milium	mille	NUM	Ma	Case=Gen|Gender=Neut|Number=Plur	32	nummod	_	Case=Gen|Gender=Neut|Number=Plur|NumForm=Word|NumType=Card
+30	passuum	passus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	29	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+31	triginta	triginta	NUM	Ma	_	29	nummod	_	NumForm=Word|NumType=Card
+32	transmissum	transmissus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	25	appos	_	Case=Acc|Gender=Masc|Number=Sing
+33	a	ab	ADP	R-	_	34	case	_	AdpType=Prep
+34	continenti	continens	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	29	nmod	_	Case=Abl|Gender=Fem|Number=Sing
+
+# sent_id = 54057
+# text = Nunc quod in eadem inopia egestate patientia qua ante Germani permanent eodem victu et cultu corporis utuntur
+# source = Commentarii belli Gallici, Caes., Gall. 6.24
+1	Nunc	nunc	ADV	Df	_	17	advmod	_	_
+2	quod	quod	SCONJ	G-	_	11	mark	_	PronType=Rel
+3	in	in	ADP	R-	_	5	case	_	AdpType=Prep
+4	eadem	idem	DET	Pd	Case=Abl|Gender=Fem|Number=Sing	5	det	_	Case=Abl|Gender=Fem|Number=Sing|PronType=Dem
+5	inopia	inopia	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	11	obl	_	Case=Abl|Gender=Fem|Number=Sing
+6	egestate	egestas	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	5	conj	_	Case=Abl|Gender=Fem|Number=Sing
+7	patientia	patientia	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	5	conj	_	Case=Abl|Gender=Fem|Number=Sing
+8	qua	qui	PRON	Pr	Case=Abl|Gender=Fem|Number=Sing	10	orphan	_	Case=Abl|Gender=Fem|Number=Sing|PronType=Rel
+9	ante	ante	ADV	Df	_	10	orphan	_	_
+10	Germani	Germani	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	5	acl:relcl	_	Case=Nom|Gender=Masc|Number=Plur
+11	permanent	permaneo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	17	advcl	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+12	eodem	idem	DET	Pd	Case=Abl|Gender=Masc|Number=Sing	13	det	_	Case=Abl|Gender=Masc|Number=Sing|PronType=Dem
+13	victu	victus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	17	obl:arg	_	Case=Abl|Gender=Masc|Number=Sing
+14	et	et	CCONJ	C-	_	15	cc	_	_
+15	cultu	cultus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	13	conj	_	Case=Abl|Gender=Masc|Number=Sing
+16	corporis	corpus	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	Case=Gen|Gender=Neut|Number=Sing
+17	utuntur	utor	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+
+# sent_id = 54081
+# text = sed ne omnino metum reditus sui barbaris tolleret atque ut eorum auxilia tardaret reducto exercitu partem ultimam pontis quae ripas Ubiorum contingebat in longitudinem pedum ducentorum rescindit atque in extremo ponte turrim tabulatorum quattuor constituit praesidium que cohortium duodecim pontis tuendi causa ponit magnis que eum locum munitionibus firmat
+# source = Commentarii belli Gallici, Caes., Gall. 6.29
+1	sed	sed	CCONJ	C-	_	27	cc	_	_
+2	ne	ne	SCONJ	G-	_	8	mark	_	_
+3	omnino	omnino	ADV	Df	_	8	advmod	_	_
+4	metum	metus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	Case=Acc|Gender=Masc|Number=Sing
+5	reditus	reditus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+6	sui	suus	DET	Pt	Case=Gen|Gender=Masc|Number=Sing	5	det	_	Case=Gen|Gender=Masc|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes
+7	barbaris	barbarum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	8	obl:arg	_	Case=Abl|Gender=Neut|Number=Plur
+8	tolleret	tollo	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Imp|Voice=Act	27	advcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+9	atque	atque	CCONJ	C-	_	13	cc	_	_
+10	ut	ut	SCONJ	G-	_	13	mark	_	_
+11	eorum	is	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3	12	nmod	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+12	auxilia	auxilium	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	13	obj	_	Case=Acc|Gender=Neut|Number=Plur
+13	tardaret	tardo	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Imp|Voice=Act	8	conj	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+14	reducto	reduco	VERB	V-	Case=Abl|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	27	advcl:abs	_	Aspect=Perf|Case=Abl|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+15	exercitu	exercitus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	14	nsubj:pass	_	Case=Abl|Gender=Masc|Number=Sing
+16	partem	pars	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	27	obj	_	Case=Acc|Gender=Fem|Number=Sing
+17	ultimam	ultimus	ADJ	A-	Case=Acc|Gender=Fem|Number=Sing	16	amod	_	Case=Acc|Gender=Fem|Number=Sing
+18	pontis	pons	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+19	quae	qui	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing	22	nsubj	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel
+20	ripas	ripa	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	22	obj	_	Case=Acc|Gender=Fem|Number=Plur
+21	Ubiorum	Ubii	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+22	contingebat	contingo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Voice=Act	16	acl:relcl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+23	in	in	ADP	R-	_	24	case	_	AdpType=Prep
+24	longitudinem	longitudo	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	27	obl	_	Case=Acc|Gender=Fem|Number=Sing
+25	pedum	pes	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	24	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+26	ducentorum	ducenti	NUM	Ma	Case=Gen|Gender=Masc|Number=Plur	25	nummod	_	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card
+27	rescindit	rescindo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+28	atque	atque	CCONJ	C-	_	35	cc	_	_
+29	in	in	ADP	R-	_	31	case	_	AdpType=Prep
+30	extremo	extremus	ADJ	A-	Case=Abl|Gender=Masc|Number=Sing	31	amod	_	Case=Abl|Gender=Masc|Number=Sing
+31	ponte	pons	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	35	obl	_	Case=Abl|Gender=Masc|Number=Sing
+32	turrim	turris	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	35	obj	_	Case=Acc|Gender=Fem|Number=Sing
+33	tabulatorum	tabulatum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	32	nmod	_	Case=Gen|Gender=Neut|Number=Plur
+34	quattuor	quattuor	NUM	Ma	_	33	nummod	_	NumForm=Word|NumType=Card
+35	constituit	constituo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	27	conj	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+36	praesidium	praesidium	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	43	obj	_	Case=Acc|Gender=Neut|Number=Sing
+37	que	que	CCONJ	C-	_	43	cc	_	_
+38	cohortium	cohors	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	36	nmod	_	Case=Gen|Gender=Fem|Number=Plur
+39	duodecim	duodecim	NUM	Ma	_	38	nummod	_	NumForm=Word|NumType=Card
+40	pontis	pons	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	41	nsubj	_	Case=Gen|Gender=Masc|Number=Sing
+41	tuendi	tueor	VERB	V-	Case=Gen|Gender=Masc|Mood=Gdv|Number=Sing|Voice=Pass	42	acl	_	Aspect=Prosp|Case=Gen|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+42	causa	causa	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	43	obl	_	Case=Abl|Gender=Fem|Number=Sing
+43	ponit	pono	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	27	conj	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+44	magnis	magnus	ADJ	A-	Case=Abl|Gender=Fem|Number=Plur	48	amod	_	Case=Abl|Gender=Fem|Number=Plur
+45	que	que	CCONJ	C-	_	49	cc	_	_
+46	eum	is	DET	Pd	Case=Acc|Gender=Masc|Number=Sing	47	det	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem
+47	locum	locus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	49	obj	_	Case=Acc|Gender=Masc|Number=Sing
+48	munitionibus	munitio	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	49	obl	_	Case=Abl|Gender=Fem|Number=Plur
+49	firmat	firmo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	27	conj	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 54106
+# text = Ei legioni castris que Quintum Tullium Ciceronem praeficit ducentos que equites attribuit
+# source = Commentarii belli Gallici, Caes., Gall. 6.32
+1	Ei	is	DET	Pd	Case=Dat|Gender=Fem|Number=Sing	2	det	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem
+2	legioni	legio	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	8	obl:arg	_	Case=Dat|Gender=Fem|Number=Sing
+3	castris	castra	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	2	conj	_	Case=Dat|Gender=Neut|Number=Plur
+4	que	que	CCONJ	C-	_	3	cc	_	_
+5	Quintum	Quintus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	Case=Acc|Gender=Masc|Number=Sing
+6	Tullium	Tullius	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	5	flat:name	_	Case=Acc|Gender=Masc|Number=Sing
+7	Ciceronem	Cicero	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	5	flat:name	_	Case=Acc|Gender=Masc|Number=Sing
+8	praeficit	praeficio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+9	ducentos	ducenti	NUM	Ma	Case=Acc|Gender=Masc|Number=Plur	11	nummod	_	Case=Acc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card
+10	que	que	CCONJ	C-	_	12	cc	_	_
+11	equites	eques	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	12	obj	_	Case=Acc|Gender=Masc|Number=Plur
+12	attribuit	attribuo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	8	conj	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+
+# sent_id = 54107
+# text = Partito exercitu Titum Labienum cum legionibus tribus ad Oceanum versus in eas partes quae Menapios attingunt proficisci iubet
+# source = Commentarii belli Gallici, Caes., Gall. 6.33
+1	Partito	partio	VERB	V-	Case=Abl|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	18	advcl:abs	_	Aspect=Perf|Case=Abl|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+2	exercitu	exercitus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	1	nsubj:pass	_	Case=Abl|Gender=Masc|Number=Sing
+3	Titum	Titus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	17	nsubj	_	Case=Acc|Gender=Masc|Number=Sing
+4	Labienum	Labienus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	3	flat:name	_	Case=Acc|Gender=Masc|Number=Sing
+5	cum	cum	ADP	R-	_	6	case	_	AdpType=Prep
+6	legionibus	legio	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	17	obl	_	Case=Abl|Gender=Fem|Number=Plur
+7	tribus	tres	NUM	Ma	Case=Abl|Gender=Fem|Number=Plur	6	nummod	_	Case=Abl|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card
+8	ad	ad	ADP	R-	_	9	case	_	AdpType=Prep
+9	Oceanum	Oceanus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	17	obl	_	Case=Acc|Gender=Masc|Number=Sing
+10	versus	versus	ADV	Df	_	9	advmod	_	_
+11	in	in	ADP	R-	_	13	case	_	AdpType=Prep
+12	eas	is	PRON	Pp	Case=Acc|Gender=Fem|Number=Plur|Person=3	13	det	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs
+13	partes	pars	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	9	appos	_	Case=Acc|Gender=Fem|Number=Plur
+14	quae	qui	PRON	Pr	Case=Nom|Gender=Fem|Number=Plur	16	nsubj	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel
+15	Menapios	Menapii	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	16	obj	_	Case=Acc|Gender=Masc|Number=Plur
+16	attingunt	attingo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	13	acl:relcl	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+17	proficisci	proficiscor	VERB	V-	Mood=Inf|Tense=Pres|Voice=Pass	18	ccomp	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+18	iubet	iubeo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 54135
+# text = Tribus horis Atuatucam venire potestis
+# source = Commentarii belli Gallici, Caes., Gall. 6.35
+1	Tribus	tres	NUM	Ma	Case=Abl|Gender=Fem|Number=Plur	2	nummod	_	Case=Abl|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card
+2	horis	hora	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	4	obl	_	Case=Abl|Gender=Fem|Number=Plur
+3	Atuatucam	Aduatuca	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	4	obl:arg	_	Case=Acc|Gender=Fem|Number=Sing
+4	venire	venio	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	5	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+5	potestis	possum	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 54148
+# text = Alius castra iam capta pronuntiat
+# source = Commentarii belli Gallici, Caes., Gall. 6.37
+1	Alius	alius	DET	Px	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Con
+2	castra	castra	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	4	nsubj:pass	_	Case=Acc|Gender=Neut|Number=Plur
+3	iam	iam	ADV	Df	_	4	advmod:tmod	_	AdvType=Tim
+4	capta	capio	VERB	V-	Case=Acc|Gender=Neut|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	5	ccomp	_	Aspect=Perf|Case=Acc|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+5	pronuntiat	pronuntio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 63458
+# text = castella communit quo facilius si se invito transire conentur prohibere possit
+# source = Commentarii belli Gallici, Caes., Gall. 1.8
+1	castella	castellum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	Case=Acc|Gender=Neut|Number=Plur
+2	communit	communio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+3	quo	quo	SCONJ	G-	_	11	mark	_	_
+4	facilius	facile	ADV	Df	Degree=Cmp	11	advmod	_	Degree=Cmp
+5	si	si	SCONJ	G-	_	9	mark	_	_
+6	se	sui	PRON	Pk	Case=Abl|Number=Sing|Person=3	7	nsubj	_	Case=Abl|Number=Sing|Person=3|PronType=Prs|Reflex=Yes
+7	invito	invitus	ADJ	A-	Case=Abl|Gender=Masc|Number=Sing	9	advcl:abs	_	Case=Abl|Gender=Masc|Number=Sing
+8	transire	transeo	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	9	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+9	conentur	conor	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Pass	11	advcl	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+10	prohibere	prohibeo	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	11	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+11	possit	possum	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	2	advcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 63537
+# text = illi domi remanent
+# source = Commentarii belli Gallici, Caes., Gall. 4.1
+1	illi	ille	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem
+2	domi	domi	ADV	Df	_	3	advmod	_	_
+3	remanent	remaneo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 63594
+# text = conferri comportari adesse dicere
+# source = Commentarii belli Gallici, Caes., Gall. 1.16
+1	conferri	confero	VERB	V-	Mood=Inf|Tense=Pres|Voice=Pass	4	ccomp	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+2	comportari	comporto	VERB	V-	Mood=Inf|Tense=Pres|Voice=Pass	1	conj	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+3	adesse	adsum	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	1	conj	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+4	dicere	dico	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+
+# sent_id = 63847
+# text = nam his utrisque persuaserant uti eandem belli fortunam experirentur
+# source = Commentarii belli Gallici, Caes., Gall. 2.16
+1	nam	nam	PART	Df	_	4	discourse	_	_
+2	his	hic	DET	Pd	Case=Dat|Gender=Masc|Number=Plur	4	obl:arg	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Dem
+3	utrisque	uterque	DET	Px	Case=Dat|Gender=Masc|Number=Plur	2	det	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Con
+4	persuaserant	persuadeo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Plup|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act
+5	uti	ut	SCONJ	G-	_	9	mark	_	_
+6	eandem	idem	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	8	det	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem
+7	belli	bellum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	Case=Gen|Gender=Neut|Number=Sing
+8	fortunam	fortuna	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	Case=Acc|Gender=Fem|Number=Sing
+9	experirentur	experior	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Imp|Voice=Pass	4	ccomp	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+
+# sent_id = 64165
+# text = itaque esse civitatem in sua potestate sese que si Caesar permitteret ad eum in castra venturum suas civitatis que fortunas eius fidei permissurum
+# source = Commentarii belli Gallici, Caes., Gall. 5.3
+1	itaque	itaque	PART	Df	_	6	discourse	_	_
+2	esse	sum	AUX	V-	Mood=Inf|Tense=Pres|Voice=Act	6	cop	_	Aspect=Imp|VerbForm=Inf
+3	civitatem	civitas	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	nsubj	_	Case=Acc|Gender=Fem|Number=Sing
+4	in	in	ADP	R-	_	6	case	_	AdpType=Prep
+5	sua	suus	DET	Pt	Case=Abl|Gender=Fem|Number=Sing	6	det	_	Case=Abl|Gender=Fem|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes
+6	potestate	potestas	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	0	root	_	Case=Abl|Gender=Fem|Number=Sing
+7	sese	sui	PRON	Pk	Case=Acc|Number=Sing|Person=3	16	nsubj	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes
+8	que	que	CCONJ	C-	_	16	cc	_	_
+9	si	si	SCONJ	G-	_	11	mark	_	_
+10	Caesar	Caesar	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+11	permitteret	permitto	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Imp|Voice=Act	16	advcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+12	ad	ad	ADP	R-	_	13	case	_	AdpType=Prep
+13	eum	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3	16	obl	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+14	in	in	ADP	R-	_	15	case	_	AdpType=Prep
+15	castra	castra	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	13	appos	_	Case=Acc|Gender=Neut|Number=Plur
+16	venturum	venio	VERB	V-	Case=Acc|Gender=Masc|Mood=Part|Number=Sing|Tense=Fut|Voice=Act	6	conj	_	Aspect=Prosp|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act
+17	suas	suus	DET	Pt	Case=Acc|Gender=Fem|Number=Plur	20	det	_	Case=Acc|Gender=Fem|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes
+18	civitatis	civitas	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	17	conj	_	Case=Gen|Gender=Fem|Number=Sing
+19	que	que	CCONJ	C-	_	18	cc	_	_
+20	fortunas	fortuna	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	23	obj	_	Case=Acc|Gender=Fem|Number=Sing
+21	eius	is	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3	22	nmod	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+22	fidei	fides	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	23	obl:arg	_	Case=Dat|Gender=Fem|Number=Sing
+23	permissurum	permitto	VERB	V-	Case=Acc|Gender=Masc|Mood=Part|Number=Sing|Tense=Fut|Voice=Act	16	conj	_	Aspect=Prosp|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act
+
+# sent_id = 64277
+# text = omnes Galliae civitates ad se oppugnandum venisse ac contra se castra habuisse
+# source = Commentarii belli Gallici, Caes., Gall. 1.44
+1	omnes	omnis	DET	Px	Case=Acc|Gender=Fem|Number=Plur	3	det	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Tot
+2	Galliae	Gallia	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+3	civitates	civitas	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	7	nsubj	_	Case=Acc|Gender=Fem|Number=Plur
+4	ad	ad	ADP	R-	_	6	mark	_	AdpType=Prep
+5	se	sui	PRON	Pk	Case=Acc|Number=Sing|Person=3	6	nsubj:pass	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes
+6	oppugnandum	oppugno	VERB	V-	Case=Acc|Gender=Masc|Mood=Gdv|Number=Sing|Voice=Pass	7	advcl	_	Aspect=Prosp|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+7	venisse	venio	VERB	V-	Mood=Inf|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|VerbForm=Inf|Voice=Act
+8	ac	atque	CCONJ	C-	_	12	cc	_	_
+9	contra	contra	ADP	R-	_	10	case	_	AdpType=Prep
+10	se	sui	PRON	Pk	Case=Acc|Number=Sing|Person=3	12	obl	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes
+11	castra	castra	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	12	obj	_	Case=Acc|Gender=Neut|Number=Plur
+12	habuisse	habeo	VERB	V-	Mood=Inf|Tense=Perf|Voice=Act	7	conj	_	Aspect=Perf|VerbForm=Inf|Voice=Act
+
+# sent_id = 74604
+# text = equestri proelio cotidie contendit
+# source = Commentarii belli Gallici, Caes., Gall. 1.48
+1	equestri	equester	ADJ	A-	Case=Abl|Gender=Neut|Number=Sing	2	amod	_	Case=Abl|Gender=Neut|Number=Sing
+2	proelio	proelium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	4	obl:arg	_	Case=Abl|Gender=Neut|Number=Sing
+3	cotidie	cottidie	ADV	Df	_	4	advmod	_	_
+4	contendit	contendo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+
+# sent_id = 74617
+# text = alarios omnes in conspectu hostium pro castris minoribus constituit quod minus multitudine militum legionariorum pro hostium numero valebat ut ad speciem alariis uteretur
+# source = Commentarii belli Gallici, Caes., Gall. 1.51
+1	alarios	alarius	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	9	obj	_	Case=Acc|Gender=Masc|Number=Plur
+2	omnes	omnis	DET	Px	Case=Acc|Gender=Masc|Number=Plur	1	det	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Tot
+3	in	in	ADP	R-	_	4	case	_	AdpType=Prep
+4	conspectu	conspectus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	9	obl	_	Case=Abl|Gender=Masc|Number=Sing
+5	hostium	hostis	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+6	pro	pro	ADP	R-	_	7	case	_	AdpType=Prep
+7	castris	castra	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	4	appos	_	Case=Abl|Gender=Neut|Number=Plur
+8	minoribus	parvus	ADJ	A-	Case=Abl|Degree=Cmp|Gender=Neut|Number=Plur	7	amod	_	Case=Abl|Degree=Cmp|Gender=Neut|Number=Plur
+9	constituit	constituo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+10	quod	quod	SCONJ	G-	_	18	mark	_	PronType=Rel
+11	minus	parum	ADV	Df	Degree=Cmp	18	advmod	_	Degree=Cmp
+12	multitudine	multitudo	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	18	obl	_	Case=Abl|Gender=Fem|Number=Sing
+13	militum	miles	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+14	legionariorum	legionarius	ADJ	A-	Case=Gen|Gender=Masc|Number=Plur	13	amod	_	Case=Gen|Gender=Masc|Number=Plur
+15	pro	pro	ADP	R-	_	17	case	_	AdpType=Prep
+16	hostium	hostis	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+17	numero	numerus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	18	obl	_	Case=Abl|Gender=Masc|Number=Sing
+18	valebat	valeo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Voice=Act	9	advcl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+19	ut	ut	SCONJ	G-	_	23	mark	_	_
+20	ad	ad	ADP	R-	_	21	case	_	AdpType=Prep
+21	speciem	species	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	23	obl	_	Case=Acc|Gender=Fem|Number=Sing
+22	alariis	alarius	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	23	obl:arg	_	Case=Abl|Gender=Masc|Number=Plur
+23	uteretur	utor	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Imp|Voice=Pass	9	advcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+
+# sent_id = 74640
+# text = castris idoneum locum deligit
+# source = Commentarii belli Gallici, Caes., Gall. 6.10
+1	castris	castra	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	2	obl:arg	_	Case=Dat|Gender=Neut|Number=Plur
+2	idoneum	idoneus	ADJ	A-	Case=Acc|Gender=Masc|Number=Sing	3	amod	_	Case=Acc|Gender=Masc|Number=Sing
+3	locum	locus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	Case=Acc|Gender=Masc|Number=Sing
+4	deligit	deligo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 74722
+# text = hunc viarum atque itinerum ducem
+# source = Commentarii belli Gallici, Caes., Gall. 6.17
+1	hunc	hic	DET	Pd	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem
+2	viarum	via	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	Case=Gen|Gender=Fem|Number=Plur
+3	atque	atque	CCONJ	C-	_	4	cc	_	_
+4	itinerum	iter	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	2	conj	_	Case=Gen|Gender=Neut|Number=Plur
+5	ducem	dux	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	0	root	_	Case=Acc|Gender=Masc|Number=Sing
+
+# sent_id = 74727
+# text = reliquos ne fama quidem acceperunt
+# source = Commentarii belli Gallici, Caes., Gall. 6.21
+1	reliquos	reliquus	DET	A-	Case=Acc|Gender=Masc|Number=Plur	5	obj	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Ind
+2	ne	ne	ADV	Df	_	3	advmod	_	Polarity=Neg
+3	fama	fama	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	5	obl	_	Case=Abl|Gender=Fem|Number=Sing
+4	quidem	quidem	PART	Df	_	3	discourse	_	_
+5	acceperunt	accipio	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+
+# sent_id = 74729
+# text = hoc staturam ali hoc vires nervos que confirmari putant
+# source = Commentarii belli Gallici, Caes., Gall. 6.21
+1	hoc	hic	DET	Pd	Case=Abl|Gender=Neut|Number=Sing	3	obl	_	Case=Abl|Gender=Neut|Number=Sing|PronType=Dem
+2	staturam	statura	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	nsubj:pass	_	Case=Acc|Gender=Fem|Number=Sing
+3	ali	alo	VERB	V-	Mood=Inf|Tense=Pres|Voice=Pass	9	ccomp	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+4	hoc	hic	DET	Pd	Case=Abl|Gender=Neut|Number=Sing	8	obl	_	Case=Abl|Gender=Neut|Number=Sing|PronType=Dem
+5	vires	vis	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	8	nsubj:pass	_	Case=Acc|Gender=Fem|Number=Plur
+6	nervos	nervus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	5	conj	_	Case=Acc|Gender=Masc|Number=Plur
+7	que	que	CCONJ	C-	_	6	cc	_	_
+8	confirmari	confirmo	VERB	V-	Mood=Inf|Tense=Pres|Voice=Pass	3	conj	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+9	putant	puto	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 74747
+# text = eadem forma magnitudo que cornuum
+# source = Commentarii belli Gallici, Caes., Gall. 6.26
+1	eadem	idem	DET	Pd	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem
+2	forma	forma	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+3	magnitudo	magnitudo	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	Case=Nom|Gender=Fem|Number=Sing
+4	que	que	CCONJ	C-	_	3	cc	_	_
+5	cornuum	cornu	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	2	nmod	_	Case=Gen|Gender=Neut|Number=Plur
+
+# sent_id = 75761
+# text = redisse primo legiones credunt quas longius discessisse ex captivis cognoverant
+# source = Commentarii belli Gallici, Caes., Gall. 6.39
+1	redisse	redeo	VERB	V-	Mood=Inf|Tense=Perf|Voice=Act	4	ccomp	_	Aspect=Perf|VerbForm=Inf|Voice=Act
+2	primo	primo	ADV	Df	_	4	advmod	_	_
+3	legiones	legio	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	1	nsubj	_	Case=Acc|Gender=Fem|Number=Plur
+4	credunt	credo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+5	quas	qui	PRON	Pr	Case=Acc|Gender=Fem|Number=Plur	7	nsubj	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Rel
+6	longius	longe	ADV	Df	Degree=Cmp	7	advmod	_	Degree=Cmp
+7	discessisse	discedo	VERB	V-	Mood=Inf|Tense=Perf|Voice=Act	10	ccomp	_	Aspect=Perf|VerbForm=Inf|Voice=Act
+8	ex	ex	ADP	R-	_	9	case	_	AdpType=Prep
+9	captivis	captivus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	10	obl	_	Case=Abl|Gender=Masc|Number=Plur
+10	cognoverant	cognosco	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Plup|Voice=Act	3	acl:relcl	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act
+

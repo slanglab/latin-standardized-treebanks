@@ -1,0 +1,80 @@
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@52
+# text = interdum leviter mecum deserta querebar externo longas saepe in amore moras:
+1	interdum	interdum	ADV	d--------	_	6	advmod	_	_
+2	leviter	levis	ADV	d--------	_	6	advmod	_	_
+3	me	ego	PRON	p-s---fb-	Case=Abl|Number=Sing|Person=1	6	obl	_	Case=Abl|Number=Sing|Person=1|PronType=Prs
+4	cum	cum	ADP	_	_	3	case	_	AdpType=Post
+5	deserta	desero	VERB	v-srppfn-	Case=Nom|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	6	advcl	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+6	querebar	queror	VERB	v1siid---	Mood=Ind|Number=Sing|Person=1|Tense=Imp|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+7	externo	externus	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	11	amod	_	Case=Abl|Gender=Masc|Number=Sing
+8	longas	longus	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	12	amod	_	Case=Acc|Gender=Fem|Number=Plur
+9	saepe	saepe	ADV	d--------	_	12	advmod:tmod	_	AdvType=Tim
+10	in	in	ADP	r--------	_	11	case	_	_
+11	amore	amor	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	12	nmod	_	Case=Abl|Gender=Masc|Number=Sing
+12	moras	mora	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	6	obj	_	Case=Acc|Gender=Fem|Number=Plur
+13	:	:	PUNCT	u--------	_	6	punct	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@58
+# text = Cynthia non illas nomen habere sinat:
+1	Cynthia	Cynthia	PROPN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+2	non	non	PART	d--------	_	6	advmod:neg	_	_
+3	illas	ille	DET	p-p---fa-	Case=Acc|Gender=Fem|Number=Plur	5	nsubj	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem
+4	nomen	nomen	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Case=Acc|Gender=Neut|Number=Sing
+5	habere	habeo	VERB	v--pna---	Mood=Inf|Tense=Pres|Voice=Act	6	ccomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+6	sinat	sino	VERB	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+7	:	:	PUNCT	u--------	_	6	punct	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@66
+# text = nec tibi me post haec committet Cynthia nec te quaeret;
+1	ne	ne	ADV	d--------	_	7	advmod	_	_
+2	c	que	CCONJ	c--------	_	7	cc	_	_
+3	tibi	tu	PRON	p-s---md-	Case=Dat|Number=Sing|Person=2	7	obl:arg	_	Case=Dat|Number=Sing|Person=2|PronType=Prs
+4	me	ego	PRON	p-s---ma-	Case=Acc|Number=Sing|Person=1	7	obj	_	Case=Acc|Number=Sing|Person=1|PronType=Prs
+5	post	post	ADP	r--------	_	6	case	_	_
+6	haec	hic	DET	p-p---na-	Case=Acc|Gender=Neut|Number=Plur	7	obl	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem
+7	committet	committo	VERB	v3sfia---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+8	Cynthia	Cynthia	PROPN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+9	ne	ne	ADV	d--------	_	12	advmod	_	_
+10	c	que	CCONJ	c--------	_	12	cc	_	_
+11	te	tu	PRON	p-s---ma-	Case=Acc|Number=Sing|Person=2	12	obj	_	Case=Acc|Number=Sing|Person=2|PronType=Prs
+12	quaeret	quaero	VERB	v3sfia---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	7	conj	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+13	;	;	PUNCT	u--------	_	7	punct	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@199
+# text = olim gratus eram:
+1	olim	olim	ADV	d--------	_	2	advmod:tmod	_	AdvType=Tim
+2	gratus	gratus	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Case=Nom|Gender=Masc|Number=Sing
+3	eram	sum	AUX	v1siia---	Mood=Ind|Number=Sing|Person=1|Tense=Imp|Voice=Act	2	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+4	:	:	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@202
+# text = non me deus obruit?
+1	non	non	PART	d--------	_	4	advmod:neg	_	_
+2	me	ego	PRON	p-s---ma-	Case=Acc|Number=Sing|Person=1	4	obj	_	Case=Acc|Number=Sing|Person=1|PronType=Prs
+3	deus	deus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+4	obruit	obruo	VERB	v3sria---	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+5	?	?	PUNCT	u--------	_	4	punct	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@245
+# text = quid relevant variis serica textilibus?
+1	quid	quis	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int
+2	relevant	relevo	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+3	variis	varius	ADJ	a-p---nb-	Case=Abl|Gender=Neut|Number=Plur	5	amod	_	Case=Abl|Gender=Neut|Number=Plur
+4	serica	sericum	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	Case=Nom|Gender=Neut|Number=Plur
+5	textilibus	textilis	ADJ	a-p---nb-	Case=Abl|Gender=Neut|Number=Plur	4	amod	_	Case=Abl|Gender=Neut|Number=Plur
+6	?	?	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@267
+# text = cuius inaurati celebrarunt limina currus, captorum lacrimis umida supplicibus.
+1	cuius	qui	PRON	p-s---fg-	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel
+2	inaurati	inauro	VERB	v-prppmn-	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	5	nmod	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+3	celebrarunt	celebro	VERB	v3pria---	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+4	limina	limen	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	3	obj	_	Case=Acc|Gender=Neut|Number=Plur
+5	currus	currus	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	Case=Nom|Gender=Masc|Number=Plur
+6	,	,	PUNCT	u--------	_	9	punct	_	_
+7	captorum	capio	VERB	v-prppmg-	Case=Gen|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	8	nmod	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+8	lacrimis	lacrima	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	9	obl	_	Case=Abl|Gender=Fem|Number=Plur
+9	umida	umidus	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	4	amod	_	Case=Acc|Gender=Neut|Number=Plur
+10	supplicibus	supplex	ADJ	a-p---fb-	Case=Abl|Gender=Fem|Number=Plur	8	amod	_	Case=Abl|Gender=Fem|Number=Plur
+11	.	.	PUNCT	u--------	_	3	punct	_	_
+

@@ -1,0 +1,38 @@
+# sent_id = 30359
+# text = nos autem fratres desolati a vobis ad tempus horae aspectu non corde abundantius festinavimus faciem vestram videre cum multo desiderio
+# source = Jerome's Vulgate, 1 Thessalonians 2
+1	nos	nos	PRON	Pp	Case=Nom|Number=Plur|Person=1	14	nsubj	_	Case=Nom|Number=Plur|Person=1|PronType=Prs
+2	autem	autem	PART	Df	_	14	discourse	_	_
+3	fratres	frater	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	14	vocative	_	Case=Voc|Gender=Masc|Number=Plur
+4	desolati	desolo	VERB	V-	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	14	advcl	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+5	a	ab	ADP	R-	_	6	case	_	AdpType=Prep
+6	vobis	vos	PRON	Pp	Case=Abl|Number=Plur|Person=2	4	obl	_	Case=Abl|Number=Plur|Person=2|PronType=Prs
+7	ad	ad	ADP	R-	_	8	case	_	AdpType=Prep
+8	tempus	tempus	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	Case=Acc|Gender=Neut|Number=Sing
+9	horae	hora	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+10	aspectu	aspectus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	14	obl	_	Case=Abl|Gender=Masc|Number=Sing
+11	non	non	PART	Df	_	12	advmod:neg	_	Polarity=Neg
+12	corde	cor	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	10	conj	_	Case=Abl|Gender=Neut|Number=Sing
+13	abundantius	abundanter	ADV	Df	Degree=Cmp	14	advmod	_	Degree=Cmp
+14	festinavimus	festino	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+15	faciem	facies	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	17	obj	_	Case=Acc|Gender=Fem|Number=Sing
+16	vestram	vester	DET	Ps	Case=Acc|Gender=Fem|Number=Sing	15	det	_	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs
+17	videre	video	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	14	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+18	cum	cum	ADP	R-	_	20	case	_	AdpType=Prep
+19	multo	multus	DET	A-	Case=Abl|Gender=Neut|Number=Sing	20	det	_	Case=Abl|Gender=Neut|Number=Sing|NumType=Card|PronType=Ind
+20	desiderio	desiderium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	14	obl	_	Case=Abl|Gender=Neut|Number=Sing
+
+# sent_id = 30435
+# text = qui etiam faciet
+# source = Jerome's Vulgate, 1 Thessalonians 5
+1	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+2	etiam	etiam	ADV	Df	_	3	advmod:emph	_	_
+3	faciet	facio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+
+# sent_id = 49952
+# text = rogamus autem vos
+# source = Jerome's Vulgate, 1 Thessalonians 5
+1	rogamus	rogo	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+2	autem	autem	PART	Df	_	1	discourse	_	_
+3	vos	vos	PRON	Pp	Case=Acc|Number=Plur|Person=2	1	obj	_	Case=Acc|Number=Plur|Person=2|PronType=Prs
+

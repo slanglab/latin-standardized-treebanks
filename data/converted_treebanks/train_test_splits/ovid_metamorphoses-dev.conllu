@@ -1,0 +1,87 @@
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@24
+# text = Confremuere omnes studiisque ardentibus ausum talia deposcunt.
+1	Confremuere	confremo	VERB	v3pria---	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+2	omnes	omnes	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	Case=Nom|Gender=Masc|Number=Plur
+3	studiis	studium	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	8	obl	_	Case=Abl|Gender=Neut|Number=Plur
+4	que	que	CCONJ	c--------	_	3	cc	_	_
+5	ardentibus	ardeo	VERB	v-pppanb-	Case=Abl|Gender=Neut|Mood=Part|Number=Plur|Tense=Pres|Voice=Act	3	nmod	_	Aspect=Imp|Case=Abl|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act
+6	ausum	audeo	VERB	v-srppma-	Case=Acc|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	8	xcomp	_	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+7	talia	talis	DET	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	6	obj	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem
+8	deposcunt	deposco	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	1	conj	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+9	.	.	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@49
+# text = Occidit una domus.
+1	Occidit	occido	VERB	v3sria---	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+2	una	unus	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	Case=Nom|Gender=Fem|Number=Sing
+3	domus	domus	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+4	.	.	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@105
+# text = possedit cetera pontus.
+1	possedit	possedo	VERB	v3sria---	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+2	cetera	ceterum	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	1	obj	_	Case=Acc|Gender=Neut|Number=Plur
+3	pontus	pontus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+4	.	.	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@145
+# text = Illa quidem nollet, sed te quoque, maxime Python, tum genuit, populisque novis, incognite serpens, terror eras:
+1	Illa	ille	DET	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem
+2	quidem	quidem	PART	d--------	_	3	discourse	_	_
+3	nollet	nolo	VERB	v3sisa---	Mood=Sub|Number=Sing|Person=3|Tense=Imp|Voice=Act	0	root	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+4	,	,	PUNCT	u--------	_	13	punct	_	_
+5	sed	sed	CCONJ	c--------	_	13	cc	_	_
+6	te	tu	PRON	p-s---ma-	Case=Acc|Number=Sing|Person=2	13	obj	_	Case=Acc|Number=Sing|Person=2|PronType=Prs
+7	quoque	quoque	ADV	d--------	_	6	advmod	_	_
+8	,	,	PUNCT	u--------	_	10	punct	_	_
+9	maxime	magnus	ADJ	a-s---mv-	Case=Voc|Gender=Masc|Number=Sing	10	amod	_	Case=Voc|Gender=Masc|Number=Sing
+10	Python	Python	PROPN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	13	vocative	_	Case=Voc|Gender=Masc|Number=Sing
+11	,	,	PUNCT	u--------	_	10	punct	_	_
+12	tum	tum	ADV	d--------	_	13	advmod:tmod	_	AdvType=Tim
+13	genuit	gigno	VERB	v3sria---	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	3	conj	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+14	,	,	PUNCT	u--------	_	15	punct	_	_
+15	populis	populus	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	3	conj	_	Case=Dat|Gender=Masc|Number=Plur
+16	que	que	CCONJ	c--------	_	15	cc	_	_
+17	novis	novus	ADJ	a-p---md-	Case=Dat|Gender=Masc|Number=Plur	15	amod	_	Case=Dat|Gender=Masc|Number=Plur
+18	,	,	PUNCT	u--------	_	20	punct	_	_
+19	incognite	incognitus	ADJ	a-s---mv-	Case=Voc|Gender=Masc|Number=Sing	20	amod	_	Case=Voc|Gender=Masc|Number=Sing
+20	serpens	serpens	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	22	vocative	_	Case=Voc|Gender=Masc|Number=Sing
+21	,	,	PUNCT	u--------	_	20	punct	_	_
+22	terror	terror	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	Case=Nom|Gender=Masc|Number=Sing
+23	eras	sum	AUX	v2siia---	Mood=Ind|Number=Sing|Person=2|Tense=Imp|Voice=Act	22	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin
+24	:	:	PUNCT	u--------	_	3	punct	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@218
+# text = Per quae Peneus ab imo effusus Pindo spumosis volvitur undis, deiectuque gravi tenues agitantia fumos nubila conducit summisque adspergine silvis inpluit et sonitu plus quam vicina fatigat.
+1	Per	per	ADP	r--------	_	2	case	_	_
+2	quae	qui	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur	6	obl	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel
+3	Peneus	Peneus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	nsubj:pass	_	Case=Nom|Gender=Masc|Number=Sing
+4	ab	ab	ADP	r--------	_	7	case	_	_
+5	imo	imus	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	7	amod	_	Case=Abl|Gender=Masc|Number=Sing
+6	effusus	effundo	VERB	v-srppmn-	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	9	advcl	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+7	Pindo	Pindus	PROPN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	6	obl	_	Case=Abl|Gender=Masc|Number=Sing
+8	spumosis	spumosus	ADJ	a-p---fb-	Case=Abl|Gender=Fem|Number=Plur	10	amod	_	Case=Abl|Gender=Fem|Number=Plur
+9	volvitur	volvo	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+10	undis	unda	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	9	obl	_	Case=Abl|Gender=Fem|Number=Plur
+11	,	,	PUNCT	u--------	_	19	punct	_	_
+12	deiectu	deiectus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	19	obl	_	Case=Abl|Gender=Masc|Number=Sing
+13	que	que	CCONJ	c--------	_	12	cc	_	_
+14	gravi	gravis	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	12	amod	_	Case=Abl|Gender=Masc|Number=Sing
+15	tenues	tenuis	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	17	amod	_	Case=Acc|Gender=Masc|Number=Plur
+16	agitantia	agito	VERB	v-pppana-	Case=Acc|Gender=Neut|Mood=Part|Number=Plur|Tense=Pres|Voice=Act	18	amod	_	Aspect=Imp|Case=Acc|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act
+17	fumos	fumus	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	16	obj	_	Case=Acc|Gender=Masc|Number=Plur
+18	nubila	nubila	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	19	obj	_	Case=Acc|Gender=Neut|Number=Plur
+19	conducit	conduco	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	9	conj	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+20	summis	summus	ADJ	a-p---fd-	Case=Dat|Gender=Fem|Number=Plur	9	amod	_	Case=Dat|Gender=Fem|Number=Plur
+21	que	que	CCONJ	c--------	_	20	cc	_	_
+22	adspergine	aspergo	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	24	obl	_	Case=Abl|Gender=Fem|Number=Sing
+23	silvis	silva	NOUN	n-p---fd-	Case=Dat|Gender=Fem|Number=Plur	24	obl	_	Case=Dat|Gender=Fem|Number=Plur
+24	inpluit	inpluo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	9	conj	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+25	et	et	CCONJ	c--------	_	30	cc	_	_
+26	sonitu	sonitus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	30	obl	_	Case=Abl|Gender=Masc|Number=Sing
+27	plus	multus	ADV	d--------	_	30	advmod	_	_
+28	quam	quam	SCONJ	c--------	_	29	mark	_	PronType=Rel
+29	vicina	vicinus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	27	advcl:cmp	_	Case=Abl|Gender=Fem|Number=Sing
+30	fatigat	fatigo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	9	conj	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+31	.	.	PUNCT	u--------	_	9	punct	_	_
+

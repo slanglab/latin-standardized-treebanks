@@ -1,0 +1,66 @@
+# sent_id = 29448
+# text = tantum autem auditum habebant quoniam
+# source = Jerome's Vulgate, Galatians 1
+1	tantum	tantum	ADV	Df	_	4	advmod	_	_
+2	autem	autem	PART	Df	_	4	discourse	_	_
+3	auditum	auditus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	Case=Acc|Gender=Masc|Number=Sing
+4	habebant	habeo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Imp|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+5	quoniam	quoniam	SCONJ	G-	_	3	mark	_	_
+
+# sent_id = 29485
+# text = non abicio gratiam Dei
+# source = Jerome's Vulgate, Galatians 2
+1	non	non	PART	Df	_	2	advmod:neg	_	Polarity=Neg
+2	abicio	abicio	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+3	gratiam	gratia	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	Case=Acc|Gender=Fem|Number=Sing
+4	Dei	deus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+
+# sent_id = 29610
+# text = ergo evacuatum est scandalum crucis
+# source = Jerome's Vulgate, Galatians 5
+1	ergo	ergo	ADV	Df	_	2	discourse	_	_
+2	evacuatum	evacuo	VERB	V-	Case=Nom|Gender=Neut|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	0	root	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+3	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	2	aux:pass	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+4	scandalum	scandalum	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	2	nsubj:pass	_	Case=Nom|Gender=Neut|Number=Sing
+5	crucis	crux	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+
+# sent_id = 29632
+# text = nam si quis existimat se aliquid esse cum sit nihil ipse se seducit
+# source = Jerome's Vulgate, Galatians 6
+1	nam	nam	PART	Df	_	13	discourse	_	_
+2	si	si	SCONJ	G-	_	4	mark	_	_
+3	quis	quis	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+4	existimat	existimo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	13	advcl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+5	se	sui	PRON	Pk	Case=Acc|Number=Sing|Person=3	6	nsubj	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes
+6	aliquid	aliquis	PRON	Px	Case=Acc|Gender=Neut|Number=Sing	4	ccomp	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind
+7	esse	sum	AUX	V-	Mood=Inf|Tense=Pres|Voice=Act	6	cop	_	Aspect=Imp|VerbForm=Inf
+8	cum	cum	SCONJ	G-	_	10	mark	_	_
+9	sit	sum	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	10	cop	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+10	nihil	nihil	PRON	Px	Case=Nom|Gender=Neut|Number=Sing	4	advcl	_	Case=Nom|Gender=Neut|Number=Sing|Polarity=Neg|PronType=Ind
+11	ipse	ipse	DET	Pp	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem
+12	se	sui	PRON	Pk	Case=Acc|Number=Sing|Person=3	13	obj	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes
+13	seducit	seduco	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 29641
+# text = bonum autem facientes non deficiamus
+# source = Jerome's Vulgate, Galatians 6
+1	bonum	bonus	ADJ	A-	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	Case=Acc|Gender=Neut|Number=Sing
+2	autem	autem	PART	Df	_	5	discourse	_	_
+3	facientes	facio	VERB	V-	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Pres|Voice=Act	5	advcl	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act
+4	non	non	PART	Df	_	5	advmod:neg	_	Polarity=Neg
+5	deficiamus	deficio	VERB	V-	Mood=Sub|Number=Plur|Person=1|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 225155
+# text = qui persequebatur nos aliquando nunc evangelizat fidem quam aliquando expugnabat
+# source = Jerome's Vulgate, Galatians 1
+1	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+2	persequebatur	persequor	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Voice=Pass	6	csubj	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass
+3	nos	nos	PRON	Pp	Case=Acc|Number=Plur|Person=1	2	obj	_	Case=Acc|Number=Plur|Person=1|PronType=Prs
+4	aliquando	aliquando	ADV	Df	_	2	advmod	_	_
+5	nunc	nunc	ADV	Df	_	6	advmod:tmod	_	AdvType=Tim
+6	evangelizat	evangelizo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+7	fidem	fides	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	Case=Acc|Gender=Fem|Number=Sing
+8	quam	qui	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel
+9	aliquando	aliquando	ADV	Df	_	10	advmod	_	_
+10	expugnabat	expugno	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Voice=Act	7	acl:relcl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+

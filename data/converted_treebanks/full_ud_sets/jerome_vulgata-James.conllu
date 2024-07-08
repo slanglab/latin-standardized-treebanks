@@ -1,0 +1,85 @@
+# sent_id = 31978
+# text = quicumque autem totam legem servaverit offendat autem in uno factus est omnium reus
+# source = Jerome's Vulgate, James 2
+1	quicumque	quicumque	DET	Pr	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+2	autem	autem	PART	Df	_	10	discourse	_	_
+3	totam	totus	DET	A-	Case=Acc|Gender=Fem|Number=Sing	4	det	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot
+4	legem	lex	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	Case=Acc|Gender=Fem|Number=Sing
+5	servaverit	servo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=FutP|Voice=Act	10	nsubj:pass	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+6	offendat	offendo	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	5	conj	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+7	autem	autem	PART	Df	_	6	discourse	_	_
+8	in	in	ADP	R-	_	9	case	_	AdpType=Prep
+9	uno	unus	NUM	Ma	Case=Abl|Gender=Neut|Number=Sing	6	obl	_	Case=Abl|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card
+10	factus	facio	VERB	V-	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	0	root	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+11	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	10	aux:pass	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+12	omnium	omnis	DET	Px	Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	Case=Gen|Gender=Neut|Number=Plur|PronType=Tot
+13	reus	reus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	xcomp	_	Case=Nom|Gender=Masc|Number=Sing
+
+# sent_id = 31986
+# text = quid proderit fratres mei si fidem quis dicat se habere opera autem non habeat
+# source = Jerome's Vulgate, James 2
+1	quid	quis	PRON	Pi	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int
+2	proderit	prosum	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+3	fratres	frater	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	2	vocative	_	Case=Voc|Gender=Masc|Number=Plur
+4	mei	meus	DET	Ps	Case=Voc|Gender=Masc|Number=Plur	3	det	_	Case=Voc|Gender=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs
+5	si	si	SCONJ	G-	_	8	mark	_	_
+6	fidem	fides	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	Case=Acc|Gender=Fem|Number=Sing
+7	quis	quis	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+8	dicat	dico	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	2	advcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+9	se	sui	PRON	Pk	Case=Acc|Number=Sing|Person=3	10	nsubj	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes
+10	habere	habeo	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	8	ccomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+11	opera	opus	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	14	obj	_	Case=Acc|Gender=Neut|Number=Plur
+12	autem	autem	PART	Df	_	14	discourse	_	_
+13	non	non	PART	Df	_	14	advmod:neg	_	Polarity=Neg
+14	habeat	habeo	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	8	conj	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 32015
+# text = ecce quantus ignis quam magnam silvam incendit
+# source = Jerome's Vulgate, James 3
+1	ecce	ecce	PART	I-	_	7	discourse	_	_
+2	quantus	quantus	DET	Pi	Case=Nom|Gender=Masc|Number=Sing	3	det	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+3	ignis	ignis	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+4	quam	quam	ADV	Du	_	5	advmod	_	PronType=Int
+5	magnam	magnus	ADJ	A-	Case=Acc|Gender=Fem|Number=Sing	6	amod	_	Case=Acc|Gender=Fem|Number=Sing
+6	silvam	silva	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	Case=Acc|Gender=Fem|Number=Sing
+7	incendit	incendo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 32023
+# text = non oportet fratres mei haec ita fieri
+# source = Jerome's Vulgate, James 3
+1	non	non	PART	Df	_	2	advmod:neg	_	Polarity=Neg
+2	oportet	oportet	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+3	fratres	frater	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	2	vocative	_	Case=Voc|Gender=Masc|Number=Plur
+4	mei	meus	DET	Ps	Case=Voc|Gender=Masc|Number=Plur	3	det	_	Case=Voc|Gender=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs
+5	haec	hic	DET	Pd	Case=Acc|Gender=Neut|Number=Plur	7	nsubj:pass	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem
+6	ita	ita	ADV	Df	_	7	xcomp	_	_
+7	fieri	fio	VERB	V-	Mood=Inf|Tense=Pres|Voice=Pass	2	ccomp	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+
+# sent_id = 32073
+# text = nunc autem exultatis in superbiis vestris
+# source = Jerome's Vulgate, James 4
+1	nunc	nunc	ADV	Df	_	3	advmod:tmod	_	AdvType=Tim
+2	autem	autem	PART	Df	_	3	discourse	_	_
+3	exultatis	ex(s)ulto	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+4	in	in	ADP	R-	_	5	case	_	AdpType=Prep
+5	superbiis	superbus	ADJ	A-	Case=Abl|Gender=Masc|Number=Plur	3	obl	_	Case=Abl|Gender=Masc|Number=Plur
+6	vestris	vester	DET	Ps	Case=Abl|Gender=Masc|Number=Plur	5	det	_	Case=Abl|Gender=Masc|Number=Plur|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs
+
+# sent_id = 32080
+# text = thesaurizastis in novissimis diebus
+# source = Jerome's Vulgate, James 5
+1	thesaurizastis	thesaurizo	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+2	in	in	ADP	R-	_	4	case	_	AdpType=Prep
+3	novissimis	novissimus	ADJ	A-	Case=Abl|Gender=Fem|Number=Plur	4	amod	_	Case=Abl|Gender=Fem|Number=Plur
+4	diebus	dies	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	1	obl	_	Case=Abl|Gender=Fem|Number=Plur
+
+# sent_id = 58456
+# text = et lingua ignis est universitas iniquitatis
+# source = Jerome's Vulgate, James 3
+1	et	et	ADV	Df	_	2	advmod:emph	_	_
+2	lingua	lingua	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+3	ignis	ignis	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Case=Nom|Gender=Masc|Number=Sing
+4	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+5	universitas	universitas	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	appos	_	Case=Nom|Gender=Fem|Number=Sing
+6	iniquitatis	iniquitas	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+

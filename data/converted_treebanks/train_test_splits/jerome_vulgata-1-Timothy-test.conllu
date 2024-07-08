@@ -1,0 +1,53 @@
+# sent_id = 30687
+# text = nam corporalis exercitatio ad modicum utilis est
+# source = Jerome's Vulgate, 1 Timothy 4
+1	nam	nam	PART	Df	_	6	discourse	_	_
+2	corporalis	corporalis	ADJ	A-	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	Case=Nom|Gender=Fem|Number=Sing
+3	exercitatio	exercitatio	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+4	ad	ad	ADP	R-	_	5	case	_	AdpType=Prep
+5	modicum	modicus	ADJ	A-	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	Case=Acc|Gender=Neut|Number=Sing
+6	utilis	utilis	ADJ	A-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Case=Nom|Gender=Fem|Number=Sing
+7	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+# sent_id = 30688
+# text = pietas autem ad omnia utilis est promissionem habens vitae quae nunc est et futurae
+# source = Jerome's Vulgate, 1 Timothy 4
+1	pietas	pietas	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+2	autem	autem	PART	Df	_	5	discourse	_	_
+3	ad	ad	ADP	R-	_	4	case	_	AdpType=Prep
+4	omnia	omnis	DET	Px	Case=Acc|Gender=Neut|Number=Plur	5	obl	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot
+5	utilis	utilis	ADJ	A-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Case=Nom|Gender=Fem|Number=Sing
+6	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	5	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+7	promissionem	promissio	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	Case=Acc|Gender=Fem|Number=Sing
+8	habens	habeo	VERB	V-	Case=Nom|Gender=Fem|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	5	advcl	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act
+9	vitae	vita	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+10	quae	qui	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel
+11	nunc	nunc	ADV	Df	_	12	advmod:tmod	_	AdvType=Tim
+12	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	9	acl:relcl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+13	et	et	CCONJ	C-	_	14	cc	_	_
+14	futurae	futurus	ADJ	A-	Case=Gen|Gender=Fem|Number=Sing	12	conj	_	Case=Gen|Gender=Fem|Number=Sing
+
+# sent_id = 30748
+# text = haut dubium quia nec auferre quid possumus
+# source = Jerome's Vulgate, 1 Timothy 6
+1	haut	haud	PART	Df	_	2	advmod:neg	_	_
+2	dubium	dubius	ADJ	A-	Case=Nom|Gender=Neut|Number=Sing	0	root	_	Case=Nom|Gender=Neut|Number=Sing
+3	quia	quia	SCONJ	G-	_	7	mark	_	_
+4	nec	neque	ADV	Df	_	5	advmod	_	_
+5	auferre	aufero	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	7	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+6	quid	quis	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Case=Acc|Gender=Neut|Number=Sing
+7	possumus	possum	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	2	ccomp	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 30749
+# text = habentes autem alimenta et quibus tegamur his contenti sumus
+# source = Jerome's Vulgate, 1 Timothy 6
+1	habentes	habeo	VERB	V-	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Pres|Voice=Act	8	advcl	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act
+2	autem	autem	PART	Df	_	8	discourse	_	_
+3	alimenta	alimentum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	1	obj	_	Case=Acc|Gender=Neut|Number=Plur
+4	et	et	CCONJ	C-	_	6	cc	_	_
+5	quibus	qui	PRON	Pr	Case=Abl|Gender=Masc|Number=Plur	6	obl	_	Case=Abl|Gender=Masc|Number=Plur|PronType=Rel
+6	tegamur	tego	VERB	V-	Mood=Sub|Number=Plur|Person=1|Tense=Pres|Voice=Pass	3	conj	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+7	his	hic	DET	Pd	Case=Dat|Gender=Neut|Number=Plur	8	obl:arg	_	Case=Dat|Gender=Neut|Number=Plur|PronType=Dem
+8	contenti	contentus	ADJ	A-	Case=Nom|Gender=Masc|Number=Plur	0	root	_	Case=Nom|Gender=Masc|Number=Plur
+9	sumus	sum	AUX	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	8	cop	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+

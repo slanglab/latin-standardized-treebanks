@@ -1,0 +1,404 @@
+# sent_id = 159737
+# text = Ferrarii lignarii doliorum cuparum que factores necessario habendi sunt ne a labore solemni rusticos causa desiderandae urbis auertat
+# source = Opus agriculturae, VI. De industria et necessariis ad rura sententiis
+1	Ferrarii	ferrarius	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	8	nsubj:pass	_	Case=Nom|Gender=Masc|Number=Plur
+2	lignarii	lignarius	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	1	conj	_	Case=Nom|Gender=Masc|Number=Plur
+3	doliorum	dolium	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	Case=Gen|Gender=Neut|Number=Plur
+4	cuparum	cupa	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	3	conj	_	Case=Gen|Gender=Fem|Number=Plur
+5	que	que	CCONJ	C-	_	4	cc	_	_
+6	factores	factor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	1	conj	_	Case=Nom|Gender=Masc|Number=Plur
+7	necessario	necessario	ADV	Df	_	8	advmod	_	_
+8	habendi	habeo	VERB	V-	Case=Nom|Gender=Masc|Mood=Gdv|Number=Plur|Voice=Pass	0	root	_	Aspect=Prosp|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+9	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	8	aux:pass	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+10	ne	ne	SCONJ	G-	_	18	mark	_	_
+11	a	ab	ADP	R-	_	12	case	_	AdpType=Prep
+12	labore	labor	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	18	obl	_	Case=Abl|Gender=Masc|Number=Sing
+13	solemni	sollemnis	ADJ	A-	Case=Abl|Gender=Masc|Number=Sing	12	amod	_	Case=Abl|Gender=Masc|Number=Sing
+14	rusticos	rusticus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	18	obj	_	Case=Acc|Gender=Masc|Number=Plur
+15	causa	causa	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+16	desiderandae	desidero	VERB	V-	Case=Gen|Gender=Fem|Mood=Gdv|Number=Sing|Voice=Pass	15	acl	_	Aspect=Prosp|Case=Gen|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+17	urbis	urbs	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	16	nsubj	_	Case=Gen|Gender=Fem|Number=Sing
+18	auertat	averto	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	8	advcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 159805
+# text = Frumenta omnia maxime laetantur patenti campo et soluto et ad solem reclini
+# source = Opus agriculturae, VI. De industria et necessariis ad rura sententiis
+1	Frumenta	frumentum	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	Case=Nom|Gender=Neut|Number=Plur
+2	omnia	omnis	DET	A-	Case=Nom|Gender=Neut|Number=Plur	1	det	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Tot
+3	maxime	magis	ADV	Df	Degree=Sup	4	advmod	_	Degree=Abs
+4	laetantur	laetor	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+5	patenti	pateo	VERB	V-	Case=Abl|Gender=Masc|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	6	acl	_	Aspect=Imp|Case=Abl|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act
+6	campo	campus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	Case=Abl|Gender=Masc|Number=Sing
+7	et	et	CCONJ	C-	_	8	cc	_	_
+8	soluto	solvo	VERB	V-	Case=Abl|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	5	conj	_	Aspect=Perf|Case=Abl|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+9	et	et	CCONJ	C-	_	12	cc	_	_
+10	ad	ad	ADP	R-	_	11	case	_	AdpType=Prep
+11	solem	sol	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	12	obl	_	Case=Acc|Gender=Masc|Number=Sing
+12	reclini	reclinis	ADJ	A-	Case=Abl|Gender=Masc|Number=Sing	5	conj	_	Case=Abl|Gender=Masc|Number=Sing
+
+# sent_id = 159807
+# text = Hordeum agro soluto delectatur et sicco
+# source = Opus agriculturae, VI. De industria et necessariis ad rura sententiis
+1	Hordeum	hordeum	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	4	nsubj:pass	_	Case=Nom|Gender=Neut|Number=Sing
+2	agro	ager	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	Case=Abl|Gender=Masc|Number=Sing
+3	soluto	solvo	VERB	V-	Case=Abl|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	2	acl	_	Aspect=Perf|Case=Abl|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+4	delectatur	delecto	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+5	et	et	CCONJ	C-	_	6	cc	_	_
+6	sicco	siccus	ADJ	A-	Case=Abl|Gender=Masc|Number=Sing	3	conj	_	Case=Abl|Gender=Masc|Number=Sing
+
+# sent_id = 159824
+# text = Positio ipsius agri qui eligendus est ea sit
+# source = Opus agriculturae, VII. De agri electione uel situ
+1	Positio	positio	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+2	ipsius	ipse	DET	Pd	Case=Gen|Gender=Masc|Number=Sing	3	det	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem
+3	agri	ager	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+4	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+5	eligendus	eligo	VERB	V-	Case=Nom|Gender=Masc|Mood=Gdv|Number=Sing|Voice=Pass	3	acl:relcl	_	Aspect=Prosp|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+6	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	5	aux:pass	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+7	ea	is	PRON	Pp	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+8	sit	sum	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	7	cop	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+# sent_id = 159846
+# text = Nam quercus umore concepto cum se coeperit siccare torquebitur et rimas in pauimento faciet
+# source = Opus agriculturae, VIIII. De hibernis et aestiuis mansionibus, et pauimentis
+1	Nam	nam	PART	Df	_	9	discourse	_	_
+2	quercus	quercus	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	9	nsubj:pass	_	Case=Nom|Gender=Fem|Number=Sing
+3	umore	umor	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	4	nsubj:pass	_	Case=Abl|Gender=Masc|Number=Sing
+4	concepto	concipio	VERB	V-	Case=Abl|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	9	advcl:abs	_	Aspect=Perf|Case=Abl|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+5	cum	cum	SCONJ	G-	_	7	mark	_	_
+6	se	sui	PRON	Pk	Case=Acc|Number=Sing|Person=3	8	obj	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes
+7	coeperit	coepi	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Perf|Voice=Act	9	advcl	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+8	siccare	sicco	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	7	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+9	torquebitur	torqueo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Pass	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass
+10	et	et	CCONJ	C-	_	14	cc	_	_
+11	rimas	rima	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	14	obj	_	Case=Acc|Gender=Fem|Number=Plur
+12	in	in	ADP	R-	_	13	case	_	AdpType=Prep
+13	pauimento	pavimentum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	14	obl	_	Case=Abl|Gender=Neut|Number=Sing
+14	faciet	facio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	9	conj	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+
+# sent_id = 159867
+# text = Sed si uti necesse sit maris harena erit commodum prius eam lacuna umoris dulcis inmergi ut uitium salis aquis suauibus eluta deponat
+# source = Opus agriculturae, X. De calce et harena
+1	Sed	sed	CCONJ	C-	_	9	cc	_	_
+2	si	si	SCONJ	G-	_	4	mark	_	_
+3	uti	utor	VERB	V-	Mood=Inf|Tense=Pres|Voice=Pass	4	ccomp	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+4	necesse	necesse	ADV	Df	_	9	advcl	_	_
+5	sit	sum	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	cop	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+6	maris	mare	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	Case=Gen|Gender=Neut|Number=Sing
+7	harena	(h)arena	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	3	obl:arg	_	Case=Abl|Gender=Fem|Number=Sing
+8	erit	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	9	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+9	commodum	commodus	ADJ	A-	Case=Nom|Gender=Neut|Number=Sing	0	root	_	Case=Nom|Gender=Neut|Number=Sing
+10	prius	prius	ADV	Df	Degree=Cmp	15	advmod:tmod	_	AdvType=Tim|Degree=Cmp
+11	eam	is	PRON	Pp	Case=Acc|Gender=Fem|Number=Sing|Person=3	15	nsubj:pass	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+12	lacuna	lacuna	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	15	obl	_	Case=Abl|Gender=Fem|Number=Sing
+13	umoris	umor	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+14	dulcis	dulcis	ADJ	A-	Case=Gen|Gender=Masc|Number=Sing	13	amod	_	Case=Gen|Gender=Masc|Number=Sing
+15	inmergi	immergo	VERB	V-	Mood=Inf|Tense=Pres|Voice=Pass	9	ccomp	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+16	ut	ut	SCONJ	G-	_	22	mark	_	_
+17	uitium	vitium	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	22	obj	_	Case=Acc|Gender=Neut|Number=Sing
+18	salis	sal	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+19	aquis	aqua	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	21	obl	_	Case=Abl|Gender=Fem|Number=Plur
+20	suauibus	suavis	ADJ	A-	Case=Abl|Gender=Fem|Number=Plur	19	amod	_	Case=Abl|Gender=Fem|Number=Plur
+21	eluta	eluo	VERB	V-	Case=Nom|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	22	advcl	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+22	deponat	depono	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	15	advcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 159936
+# text = Ita et operas quae hieme futurae sunt nullus algor inpediet
+# source = Opus agriculturae, XX. De oleo factorio
+1	Ita	ita	ADV	Df	_	10	advmod	_	_
+2	et	et	ADV	Df	_	10	advmod:emph	_	_
+3	operas	opera	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	10	obj	_	Case=Acc|Gender=Fem|Number=Plur
+4	quae	qui	PRON	Pr	Case=Nom|Gender=Fem|Number=Plur	6	nsubj	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel
+5	hieme	hiem(p)s	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	6	obl	_	Case=Abl|Gender=Fem|Number=Sing
+6	futurae	sum	AUX	V-	Case=Nom|Gender=Fem|Mood=Part|Number=Plur|Tense=Fut|Voice=Act	3	acl:relcl	_	Aspect=Prosp|Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part
+7	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	6	aux	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+8	nullus	nullus	DET	Px	Case=Nom|Gender=Masc|Number=Sing	9	det	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind
+9	algor	algor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+10	inpediet	impedio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+
+# sent_id = 159954
+# text = Inducunt alias si cymino pascantur adsidue uel hirci alarum balsami liquore tangantur
+# source = Opus agriculturae, XXIIII. De columbario
+1	Inducunt	induco	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+2	alias	alius	DET	Px	Case=Acc|Gender=Fem|Number=Plur	1	obj	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Con
+3	si	si	SCONJ	G-	_	5	mark	_	_
+4	cymino	cyminum	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	5	obl	_	Case=Abl|Gender=Masc|Number=Sing
+5	pascantur	pasco	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Pass	1	advcl	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+6	adsidue	assidue	ADV	Df	_	5	advmod	_	_
+7	uel	vel	CCONJ	C-	_	12	cc	_	_
+8	hirci	hircus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+9	alarum	ala	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	Case=Gen|Gender=Fem|Number=Plur
+10	balsami	balsamum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	Case=Gen|Gender=Neut|Number=Sing
+11	liquore	liquor	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	12	obl	_	Case=Abl|Gender=Masc|Number=Sing
+12	tangantur	tango	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Pass	5	conj	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+
+# sent_id = 160000
+# text = Oua autem pauonum quae gallinae subiecta sunt saepe manu conuertantur quia hoc ipsa facere uix ualebit
+# source = Opus agriculturae, XXVIII. De pauonibus
+1	Oua	ovum	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	10	nsubj:pass	_	Case=Nom|Gender=Neut|Number=Sing
+2	autem	autem	PART	Df	_	10	discourse	_	_
+3	pauonum	pavo	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+4	quae	qui	PRON	Pr	Case=Nom|Gender=Neut|Number=Plur	6	nsubj:pass	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel
+5	gallinae	gallina	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	6	obl:arg	_	Case=Dat|Gender=Fem|Number=Sing
+6	subiecta	subicio	VERB	V-	Case=Nom|Gender=Neut|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	1	acl:relcl	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+7	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	6	aux:pass	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+8	saepe	saepe	ADV	Df	_	10	advmod:tmod	_	AdvType=Tim
+9	manu	manus	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	10	obl	_	Case=Abl|Gender=Fem|Number=Sing
+10	conuertantur	converto	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Pass	0	root	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+11	quia	quia	SCONJ	G-	_	16	mark	_	_
+12	hoc	hic	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	14	obj	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem
+13	ipsa	ipse	DET	Pd	Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem
+14	facere	facio	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	16	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+15	uix	vix	ADV	Df	_	16	advmod	_	_
+16	ualebit	valeo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	10	advcl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+
+# sent_id = 160093
+# text = Alii spinarum plantas et semina in munitione disponunt
+# source = Opus agriculturae, XXXIIII. De locis horti et pomarii et sepibus et serendo
+1	Alii	alius	DET	Px	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Con
+2	spinarum	spina	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	Case=Gen|Gender=Fem|Number=Plur
+3	plantas	planta	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	8	obj	_	Case=Acc|Gender=Fem|Number=Plur
+4	et	et	CCONJ	C-	_	5	cc	_	_
+5	semina	semen	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	3	conj	_	Case=Acc|Gender=Neut|Number=Plur
+6	in	in	ADP	R-	_	7	case	_	AdpType=Prep
+7	munitione	munitio	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	8	obl	_	Case=Abl|Gender=Fem|Number=Sing
+8	disponunt	dispono	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 160111
+# text = Contra grandinem multa dicuntur
+# source = Opus agriculturae, XXXV. De remediis horti uel agri
+1	Contra	contra	ADP	R-	_	2	case	_	AdpType=Prep
+2	grandinem	grando	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	Case=Acc|Gender=Fem|Number=Sing
+3	multa	multus	DET	A-	Case=Nom|Gender=Neut|Number=Plur	4	nsubj:pass	_	Case=Nom|Gender=Neut|Number=Plur|NumType=Card|PronType=Ind
+4	dicuntur	dico	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+
+# sent_id = 160132
+# text = Vel acre acetum suco hyosciami mixtum fertur olerum pulices necare si spargas
+# source = Opus agriculturae, XXXV. De remediis horti uel agri
+1	Vel	vel	ADV	Df	_	7	advmod:emph	_	_
+2	acre	acer	ADJ	A-	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	Case=Nom|Gender=Neut|Number=Sing
+3	acetum	acetum	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	7	nsubj:pass	_	Case=Nom|Gender=Neut|Number=Sing
+4	suco	sucus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	6	obl	_	Case=Abl|Gender=Masc|Number=Sing
+5	hyosciami	hyosciamus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+6	mixtum	misceo	VERB	V-	Case=Nom|Gender=Neut|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	7	advcl	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+7	fertur	fero	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+8	olerum	holus	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	Case=Gen|Gender=Neut|Number=Plur
+9	pulices	pulex	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	10	obj	_	Case=Acc|Gender=Masc|Number=Plur
+10	necare	neco	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	7	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+11	si	si	SCONJ	G-	_	12	mark	_	_
+12	spargas	spargo	VERB	V-	Mood=Sub|Number=Sing|Person=2|Tense=Pres|Voice=Act	7	advcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 160140
+# text = Hoc et apibus nocet
+# source = Opus agriculturae, XXXV. De remediis horti uel agri
+1	Hoc	hic	DET	Pd	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem
+2	et	et	ADV	Df	_	3	advmod:emph	_	_
+3	apibus	apis	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	4	obl:arg	_	Case=Dat|Gender=Fem|Number=Plur
+4	nocet	noceo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 160145
+# text = et agrestis cucumeris et colocynthidis suffusio sic nocebit
+# source = Opus agriculturae, XXXV. De remediis horti uel agri
+1	et	et	CCONJ	C-	_	3	cc	_	_
+2	agrestis	agrestis	ADJ	A-	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	Case=Gen|Gender=Masc|Number=Sing
+3	cucumeris	cucumis	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+4	et	et	CCONJ	C-	_	5	cc	_	_
+5	colocynthidis	colocynthis	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	conj	_	Case=Gen|Gender=Fem|Number=Sing
+6	suffusio	suffusio	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+7	sic	sic	ADV	Df	_	8	advmod	_	_
+8	nocebit	noceo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+
+# sent_id = 160181
+# text = Nam sicut radicibus uirgultorum prosunt laetamen et paleae ita insidentes frondibus has perforant atque arere conpellunt
+# source = Opus agriculturae, XXXVI. De area
+1	Nam	nam	PART	Df	_	13	discourse	_	_
+2	sicut	sicut	SCONJ	Dq	_	5	mark	_	Compound=Yes|PronType=Rel
+3	radicibus	radix	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	5	obl:arg	_	Case=Dat|Gender=Fem|Number=Plur
+4	uirgultorum	virgultum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	3	nmod	_	Case=Gen|Gender=Neut|Number=Plur
+5	prosunt	prosum	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	13	dislocated	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+6	laetamen	laetamen	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	Case=Nom|Gender=Neut|Number=Sing
+7	et	et	CCONJ	C-	_	8	cc	_	_
+8	paleae	palea	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	6	conj	_	Case=Nom|Gender=Fem|Number=Plur
+9	ita	ita	ADV	Df	_	13	advmod	_	_
+10	insidentes	insido	VERB	V-	Case=Nom|Gender=Neut|Mood=Part|Number=Plur|Tense=Pres|Voice=Act	13	advcl	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act
+11	frondibus	frons	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	10	obl:arg	_	Case=Dat|Gender=Fem|Number=Plur
+12	has	hic	DET	Pd	Case=Acc|Gender=Fem|Number=Plur	13	obj	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem
+13	perforant	perforo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+14	atque	atque	CCONJ	C-	_	16	cc	_	_
+15	arere	areo	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	16	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+16	conpellunt	compello	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	13	conj	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 160218
+# text = Hoc enim signo fugam meditantur adsumere
+# source = Opus agriculturae, XXXVIII. De apibus emendis
+1	Hoc	hic	DET	Pd	Case=Abl|Gender=Neut|Number=Sing	3	det	_	Case=Abl|Gender=Neut|Number=Sing|PronType=Dem
+2	enim	enim	PART	Df	_	5	discourse	_	_
+3	signo	signum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	5	obl	_	Case=Abl|Gender=Neut|Number=Sing
+4	fugam	fuga	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	Case=Acc|Gender=Fem|Number=Sing
+5	meditantur	meditor	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+6	adsumere	assumo	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	5	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+
+# sent_id = 160276
+# text = Quae forma tunc seruanda est cum semen accipiet
+# source = Opus agriculturae, III. De proscindendis agris et iungendis bubus uel arandi disciplina
+1	Quae	qui	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing	2	det	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel
+2	forma	forma	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj:pass	_	Case=Nom|Gender=Fem|Number=Sing
+3	tunc	tunc	ADV	Df	_	4	advmod:tmod	_	AdvType=Tim
+4	seruanda	servo	VERB	V-	Case=Nom|Gender=Fem|Mood=Gdv|Number=Sing|Voice=Pass	0	root	_	Aspect=Prosp|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+5	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	aux:pass	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+6	cum	cum	SCONJ	G-	_	8	mark	_	_
+7	semen	semen	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	Case=Acc|Gender=Neut|Number=Sing
+8	accipiet	accipio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	3	advcl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+
+# sent_id = 160279
+# text = Cicercula mense hoc seritur loco laeto caelo umido
+# source = Opus agriculturae, V. De cicercula serenda cum disciplina sua
+1	Cicercula	cicercula	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj:pass	_	Case=Nom|Gender=Fem|Number=Sing
+2	mense	mensis	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	Case=Abl|Gender=Masc|Number=Sing
+3	hoc	hic	DET	Pd	Case=Abl|Gender=Masc|Number=Sing	2	det	_	Case=Abl|Gender=Masc|Number=Sing|PronType=Dem
+4	seritur	sero	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+5	loco	locus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	Case=Abl|Gender=Masc|Number=Sing
+6	laeto	laetus	ADJ	A-	Case=Abl|Gender=Masc|Number=Sing	5	amod	_	Case=Abl|Gender=Masc|Number=Sing
+7	caelo	caelum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	4	obl	_	Case=Abl|Gender=Neut|Number=Sing
+8	umido	umidus	ADJ	A-	Case=Abl|Gender=Neut|Number=Sing	7	amod	_	Case=Abl|Gender=Neut|Number=Sing
+
+# sent_id = 160334
+# text = Vltima conditio est eius loci in quo fuerunt uetusta uineta
+# source = Opus agriculturae, XIII. De solo et caelo et loco pangendis uineis congruenti et ea, quae illuc pertinet, disciplina
+1	Vltima	ultimus	ADJ	A-	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	Case=Nom|Gender=Fem|Number=Sing
+2	conditio	conditio	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+3	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	5	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+4	eius	is	DET	Pd	Case=Gen|Gender=Masc|Number=Sing	5	det	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem
+5	loci	locus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	0	root	_	Case=Gen|Gender=Masc|Number=Sing
+6	in	in	ADP	R-	_	7	case	_	AdpType=Prep
+7	quo	qui	PRON	Pr	Case=Abl|Gender=Neut|Number=Sing	5	nmod	_	Case=Abl|Gender=Neut|Number=Sing|PronType=Rel
+8	fuerunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	7	cop	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+9	uetusta	vetustus	ADJ	A-	Case=Nom|Gender=Neut|Number=Plur	10	amod	_	Case=Nom|Gender=Neut|Number=Plur
+10	uineta	vinetum	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	7	nsubj	_	Case=Nom|Gender=Neut|Number=Plur
+
+# sent_id = 160363
+# text = Si uitio loci uel temporis uel seminis cito lactuca durescit planta eius auulsa et denuo posita teneritudinem consequetur
+# source = Opus agriculturae, XIIII. De hortis
+1	Si	si	SCONJ	G-	_	10	mark	_	_
+2	uitio	vitium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	10	obl	_	Case=Abl|Gender=Neut|Number=Sing
+3	loci	locus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+4	uel	vel	CCONJ	C-	_	5	cc	_	_
+5	temporis	tempus	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	3	conj	_	Case=Gen|Gender=Neut|Number=Sing
+6	uel	vel	CCONJ	C-	_	7	cc	_	_
+7	seminis	semen	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	3	conj	_	Case=Gen|Gender=Neut|Number=Sing
+8	cito	cito	ADV	Df	_	10	advmod	_	_
+9	lactuca	lactuca	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+10	durescit	duresco	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	18	advcl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+11	planta	planta	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+12	eius	is	PRON	Pp	Case=Gen|Gender=Fem|Number=Sing|Person=3	11	nmod	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+13	auulsa	avello	VERB	V-	Case=Nom|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	18	advcl	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+14	et	et	CCONJ	C-	_	16	cc	_	_
+15	denuo	denuo	ADV	Df	_	16	advmod	_	_
+16	posita	pono	VERB	V-	Case=Nom|Gender=Fem|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	13	conj	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+17	teneritudinem	teneritudo	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	18	obj	_	Case=Acc|Gender=Fem|Number=Sing
+18	consequetur	consequor	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Pass	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass
+
+# sent_id = 160403
+# text = Cum in seminario adoleuerint relictis ibi quae spatio sufficiant plantis alias transferemus mense februario
+# source = Opus agriculturae, XV. De pomis
+1	Cum	cum	SCONJ	G-	_	4	mark	_	_
+2	in	in	ADP	R-	_	3	case	_	AdpType=Prep
+3	seminario	seminarium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	4	obl	_	Case=Abl|Gender=Neut|Number=Sing
+4	adoleuerint	adolesco	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Perf|Voice=Act	12	advcl	_	Aspect=Perf|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+5	relictis	relinquo	VERB	V-	Case=Abl|Gender=Fem|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	12	advcl:abs	_	Aspect=Perf|Case=Abl|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+6	ibi	ibi	ADV	Df	_	5	advmod:lmod	_	AdvType=Loc
+7	quae	qui	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel
+8	spatio	spatium	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	9	obl:arg	_	Case=Dat|Gender=Neut|Number=Sing
+9	sufficiant	sufficio	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Act	10	acl:relcl	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+10	plantis	planta	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	5	nsubj:pass	_	Case=Abl|Gender=Fem|Number=Plur
+11	alias	alius	DET	Px	Case=Acc|Gender=Fem|Number=Plur	12	obj	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Con
+12	transferemus	transfero	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Fut|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act
+13	mense	mensis	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	12	obl	_	Case=Abl|Gender=Masc|Number=Sing
+14	februario	februarius	ADJ	A-	Case=Abl|Gender=Masc|Number=Sing	13	amod	_	Case=Abl|Gender=Masc|Number=Sing
+
+# sent_id = 160419
+# text = Amygdala ad legendum maturitatem fatentur cum fuerint spoliata corticibus
+# source = Opus agriculturae, XV. De pomis
+1	Amygdala	amygdalum	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	Case=Nom|Gender=Neut|Number=Plur
+2	ad	ad	ADP	R-	_	3	case	_	AdpType=Prep
+3	legendum	lego	VERB	V-	Case=Acc|Mood=Ger|Voice=Act	4	acl	_	Aspect=Prosp|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+4	maturitatem	maturitas	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	Case=Acc|Gender=Fem|Number=Sing
+5	fatentur	fateor	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+6	cum	cum	SCONJ	G-	_	8	mark	_	_
+7	fuerint	sum	AUX	V-	Mood=Sub|Number=Plur|Person=3|Tense=Perf|Voice=Act	8	aux:pass	_	Aspect=Perf|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+8	spoliata	spolio	VERB	V-	Case=Nom|Gender=Neut|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	5	advcl	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+9	corticibus	cortex	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	8	obl:arg	_	Case=Abl|Gender=Masc|Number=Plur
+
+# sent_id = 160439
+# text = in frigidis locis bima
+# source = Opus agriculturae, XV. De pomis
+1	in	in	ADP	R-	_	3	case	_	AdpType=Prep
+2	frigidis	frigidus	ADJ	A-	Case=Abl|Gender=Neut|Number=Plur	3	amod	_	Case=Abl|Gender=Neut|Number=Plur
+3	locis	locus	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	0	root	_	Case=Abl|Gender=Neut|Number=Plur
+4	bima	bimus	ADJ	A-	Case=Nom|Gender=Fem|Number=Sing	3	advcl:pred	_	Case=Nom|Gender=Fem|Number=Sing
+
+# sent_id = 160446
+# text = Canalis longus a summo trunco ad imum debet excudi
+# source = Opus agriculturae, XV. De pomis
+1	Canalis	canalis	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+2	longus	longus	ADJ	A-	Case=Nom|Gender=Masc|Number=Sing	1	amod	_	Case=Nom|Gender=Masc|Number=Sing
+3	a	ab	ADP	R-	_	5	case	_	AdpType=Prep
+4	summo	summus	ADJ	A-	Case=Dat|Gender=Masc|Number=Sing	5	amod	_	Case=Dat|Gender=Masc|Number=Sing
+5	trunco	truncus	ADJ	A-	Case=Abl|Gender=Masc|Number=Sing	9	obl	_	Case=Abl|Gender=Masc|Number=Sing
+6	ad	ad	ADP	R-	_	7	case	_	AdpType=Prep
+7	imum	imus	ADJ	A-	Case=Acc|Gender=Neut|Number=Sing	9	obl	_	Case=Acc|Gender=Neut|Number=Sing
+8	debet	debeo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+9	excudi	excudo	VERB	V-	Mood=Inf|Tense=Pres|Voice=Pass	8	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+
+# sent_id = 160479
+# text = Et incipiunt ad educandos pullos oua subponi
+# source = Opus agriculturae, XXI. De gallinarum partu
+1	Et	et	CCONJ	C-	_	2	cc	_	_
+2	incipiunt	incipio	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+3	ad	ad	ADP	R-	_	4	mark	_	AdpType=Prep
+4	educandos	educo	VERB	V-	Case=Acc|Gender=Masc|Mood=Gdv|Number=Plur|Voice=Pass	7	advcl	_	Aspect=Prosp|Case=Acc|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+5	pullos	pullus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	4	nsubj:pass	_	Case=Acc|Gender=Masc|Number=Plur
+6	oua	ovum	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	Case=Nom|Gender=Neut|Number=Sing
+7	subponi	suppono	VERB	V-	Mood=Inf|Tense=Pres|Voice=Pass	2	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+
+# sent_id = 160496
+# text = Tunc iniecto antiquo stercore in aprilem mensem reseruentur paratae
+# source = Opus agriculturae, VI. De agris medicae parandis
+1	Tunc	tunc	ADV	Df	_	8	advmod	_	_
+2	iniecto	iniecto	VERB	V-	Case=Abl|Gender=Neut|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	8	advcl:abs	_	Aspect=Perf|Case=Abl|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+3	antiquo	antiquus	ADJ	A-	Case=Abl|Gender=Neut|Number=Sing	4	amod	_	Case=Abl|Gender=Neut|Number=Sing
+4	stercore	stercus	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	2	nsubj:pass	_	Case=Abl|Gender=Neut|Number=Sing
+5	in	in	ADP	R-	_	7	case	_	AdpType=Prep
+6	aprilem	Aprilis	ADJ	A-	Case=Acc|Gender=Masc|Number=Sing	7	amod	_	Case=Acc|Gender=Masc|Number=Sing
+7	mensem	mensis	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	Case=Acc|Gender=Masc|Number=Sing
+8	reseruentur	reservo	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Pass	0	root	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+9	paratae	paro	VERB	V-	Case=Nom|Gender=Fem|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	8	advcl	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+
+# sent_id = 160592
+# text = Sed altior sesquipede esse non debet
+# source = Opus agriculturae, XI. De uineis prouincialibus
+1	Sed	sed	CCONJ	C-	_	6	cc	_	_
+2	altior	altus	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	6	xcomp	_	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing
+3	sesquipede	sesquipes	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	2	obl:arg	_	Case=Abl|Gender=Masc|Number=Sing
+4	esse	sum	AUX	V-	Mood=Inf|Tense=Pres|Voice=Act	2	cop	_	Aspect=Imp|VerbForm=Inf
+5	non	non	PART	Df	_	6	advmod:neg	_	Polarity=Neg
+6	debet	debeo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 224631
+# text = quo tectorio siccato rursus amurca respergitur
+# source = Opus agriculturae, XVIIII. De horreo
+1	quo	qui	PRON	Pr	Case=Abl|Gender=Neut|Number=Sing	2	det	_	Case=Abl|Gender=Neut|Number=Sing|PronType=Rel
+2	tectorio	tectorium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	3	nsubj:pass	_	Case=Abl|Gender=Neut|Number=Sing
+3	siccato	sicco	VERB	V-	Case=Abl|Gender=Neut|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	6	advcl:abs	_	Aspect=Perf|Case=Abl|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+4	rursus	rursus	ADV	Df	_	6	advmod	_	_
+5	amurca	amurca	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	6	obl	_	Case=Abl|Gender=Fem|Number=Sing
+6	respergitur	respergo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+
+# sent_id = 224633
+# text = per aestatem patefacta refrigerent
+# source = Opus agriculturae, XXI. De stabulis equorum et boum
+1	per	per	ADP	R-	_	2	case	_	AdpType=Prep
+2	aestatem	aestas	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	Case=Acc|Gender=Fem|Number=Sing
+3	patefacta	patefacio	VERB	V-	Case=Nom|Gender=Neut|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	4	advcl	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+4	refrigerent	refrigero	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+

@@ -1,0 +1,176 @@
+# sent_id = 32644
+# text = si dixerimus quoniam non peccavimus mendacem facimus eum et verbum eius non est in nobis
+# source = Jerome's Vulgate, 1 John 1
+1	si	si	SCONJ	G-	_	2	mark	_	_
+2	dixerimus	dico	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=FutP|Voice=Act	7	advcl	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act
+3	quoniam	quoniam	SCONJ	G-	_	5	mark	_	_
+4	non	non	PART	Df	_	5	advmod:neg	_	Polarity=Neg
+5	peccavimus	pecco	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Perf|Voice=Act	2	ccomp	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+6	mendacem	mendax	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	7	xcomp	_	Case=Acc|Gender=Masc|Number=Sing
+7	facimus	facio	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+8	eum	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3	7	obj	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+9	et	et	CCONJ	C-	_	15	cc	_	_
+10	verbum	verbum	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	Case=Nom|Gender=Neut|Number=Sing
+11	eius	is	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3	10	nmod	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+12	non	non	PART	Df	_	15	advmod:neg	_	Polarity=Neg
+13	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	15	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+14	in	in	ADP	R-	_	15	case	_	AdpType=Prep
+15	nobis	nos	PRON	Pp	Case=Abl|Number=Plur|Person=1	7	conj	_	Case=Abl|Number=Plur|Person=1|PronType=Prs
+
+# sent_id = 32663
+# text = scribo vobis patres quoniam cognovistis eum qui ab initio est
+# source = Jerome's Vulgate, 1 John 2
+1	scribo	scribo	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+2	vobis	vos	PRON	Pp	Case=Dat|Number=Plur|Person=2	1	obl:arg	_	Case=Dat|Number=Plur|Person=2|PronType=Prs
+3	patres	pater	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	Case=Voc|Gender=Masc|Number=Plur
+4	quoniam	quoniam	SCONJ	G-	_	5	mark	_	_
+5	cognovistis	cognosco	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Perf|Voice=Act	1	advcl	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+6	eum	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obj	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+7	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+8	ab	ab	ADP	R-	_	9	case	_	AdpType=Prep
+9	initio	initium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	10	obl	_	Case=Abl|Gender=Neut|Number=Sing
+10	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	acl:relcl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+# sent_id = 32664
+# text = scribo vobis adulescentes quoniam vicistis malignum
+# source = Jerome's Vulgate, 1 John 2
+1	scribo	scribo	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+2	vobis	vos	PRON	Pp	Case=Dat|Number=Plur|Person=2	1	obl:arg	_	Case=Dat|Number=Plur|Person=2|PronType=Prs
+3	adulescentes	adulescens	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	Case=Voc|Gender=Masc|Number=Plur
+4	quoniam	quoniam	SCONJ	G-	_	5	mark	_	_
+5	vicistis	vinco	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Perf|Voice=Act	1	advcl	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+6	malignum	malignus	ADJ	A-	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Case=Acc|Gender=Neut|Number=Sing
+
+# sent_id = 32665
+# text = scripsi vobis infantes quoniam cognovistis Patrem
+# source = Jerome's Vulgate, 1 John 2
+1	scripsi	scribo	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+2	vobis	vos	PRON	Pp	Case=Dat|Number=Plur|Person=2	1	obl:arg	_	Case=Dat|Number=Plur|Person=2|PronType=Prs
+3	infantes	infans	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	Case=Voc|Gender=Masc|Number=Plur
+4	quoniam	quoniam	SCONJ	G-	_	5	mark	_	_
+5	cognovistis	cognosco	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Perf|Voice=Act	1	advcl	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+6	Patrem	pater	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	Case=Acc|Gender=Masc|Number=Sing
+
+# sent_id = 32680
+# text = quis est mendax nisi is qui negat quoniam Iesus non est Christus
+# source = Jerome's Vulgate, 1 John 2
+1	quis	quis	PRON	Pi	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int
+2	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	mendax	mendax	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Case=Nom|Gender=Masc|Number=Sing
+4	nisi	nisi	SCONJ	Df	_	5	mark	_	_
+5	is	is	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	advcl	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+6	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+7	negat	nego	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	5	acl:relcl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+8	quoniam	quoniam	SCONJ	G-	_	12	mark	_	_
+9	Iesus	Iesus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+10	non	non	PART	Df	_	12	advmod:neg	_	Polarity=Neg
+11	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	12	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+12	Christus	Christus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	ccomp	_	Case=Nom|Gender=Masc|Number=Sing
+
+# sent_id = 32751
+# text = vos ex Deo estis filioli et vicistis eos quoniam maior est qui in vobis est quam qui in mundo
+# source = Jerome's Vulgate, 1 John 4
+1	vos	vos	PRON	Pp	Case=Nom|Number=Plur|Person=2	3	nsubj	_	Case=Nom|Number=Plur|Person=2|PronType=Prs
+2	ex	ex	ADP	R-	_	3	case	_	AdpType=Prep
+3	Deo	deus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	0	root	_	Case=Abl|Gender=Masc|Number=Sing
+4	estis	sum	AUX	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|Voice=Act	3	cop	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin
+5	filioli	filiolus	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	3	vocative	_	Case=Voc|Gender=Masc|Number=Plur
+6	et	et	CCONJ	C-	_	7	cc	_	_
+7	vicistis	vinco	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Perf|Voice=Act	3	conj	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+8	eos	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3	7	obj	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+9	quoniam	quoniam	SCONJ	G-	_	10	mark	_	_
+10	maior	magnus	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	7	advcl	_	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing
+11	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	10	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+12	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+13	in	in	ADP	R-	_	14	case	_	AdpType=Prep
+14	vobis	vos	PRON	Pp	Case=Abl|Number=Plur|Person=2	12	acl:relcl	_	Case=Abl|Number=Plur|Person=2|PronType=Prs
+15	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	14	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+16	quam	quam	SCONJ	Df	_	17	mark	_	_
+17	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing	10	advcl:cmp	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+18	in	in	ADP	R-	_	19	case	_	AdpType=Prep
+19	mundo	mundus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	17	acl:relcl	_	Case=Abl|Gender=Masc|Number=Sing
+
+# sent_id = 32779
+# text = sed perfecta caritas foras mittit timorem quoniam timor poenam habet
+# source = Jerome's Vulgate, 1 John 4
+1	sed	sed	CCONJ	C-	_	5	cc	_	_
+2	perfecta	perfectus	ADJ	A-	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	Case=Nom|Gender=Fem|Number=Sing
+3	caritas	caritas	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+4	foras	foras	ADV	Df	_	5	advmod	_	_
+5	mittit	mitto	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+6	timorem	timor	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	Case=Acc|Gender=Masc|Number=Sing
+7	quoniam	quoniam	SCONJ	G-	_	10	mark	_	_
+8	timor	timor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+9	poenam	poena	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	Case=Acc|Gender=Fem|Number=Sing
+10	habet	habeo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	5	advcl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 32780
+# text = qui autem timet non est perfectus in caritate
+# source = Jerome's Vulgate, 1 John 4
+1	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+2	autem	autem	PART	Df	_	6	discourse	_	_
+3	timet	timeo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	csubj	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+4	non	non	PART	Df	_	6	advmod:neg	_	Polarity=Neg
+5	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+6	perfectus	perfectus	ADJ	A-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Case=Nom|Gender=Masc|Number=Sing
+7	in	in	ADP	R-	_	8	case	_	AdpType=Prep
+8	caritate	caritas	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	6	obl	_	Case=Abl|Gender=Fem|Number=Sing
+
+# sent_id = 32819
+# text = non pro illo dico ut roget
+# source = Jerome's Vulgate, 1 John 5
+1	non	non	PART	Df	_	3	advmod:neg	_	Polarity=Neg
+2	pro	pro	ADP	R-	_	3	case	_	AdpType=Prep
+3	illo	ille	DET	Pd	Case=Abl|Gender=Masc|Number=Sing	6	obl	_	Case=Abl|Gender=Masc|Number=Sing|PronType=Dem
+4	dico	dico	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+5	ut	ut	SCONJ	G-	_	6	mark	_	_
+6	roget	rogo	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	ccomp	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 50120
+# text = qui dicit se nosse eum et mandata eius non custodit mendax est
+# source = Jerome's Vulgate, 1 John 2
+1	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+2	dicit	dico	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	11	csubj	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+3	se	sui	PRON	Pk	Case=Acc|Number=Sing|Person=3	4	nsubj	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes
+4	nosse	nosco	VERB	V-	Mood=Inf|Tense=Perf|Voice=Act	2	ccomp	_	Aspect=Perf|VerbForm=Inf|Voice=Act
+5	eum	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	obj	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+6	et	et	CCONJ	C-	_	10	cc	_	_
+7	mandata	mandatum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	10	obj	_	Case=Acc|Gender=Neut|Number=Plur
+8	eius	is	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3	7	nmod	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+9	non	non	PART	Df	_	10	advmod:neg	_	Polarity=Neg
+10	custodit	custodio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	2	conj	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+11	mendax	mendax	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Case=Nom|Gender=Masc|Number=Sing
+12	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	11	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+# sent_id = 50122
+# text = scripsi vobis patres quia cognovistis eum qui ab initio
+# source = Jerome's Vulgate, 1 John 2
+1	scripsi	scribo	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+2	vobis	vos	PRON	Pp	Case=Dat|Number=Plur|Person=2	1	obl:arg	_	Case=Dat|Number=Plur|Person=2|PronType=Prs
+3	patres	pater	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	Case=Voc|Gender=Masc|Number=Plur
+4	quia	quia	SCONJ	G-	_	5	mark	_	_
+5	cognovistis	cognosco	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Perf|Voice=Act	1	advcl	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+6	eum	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obj	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+7	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+8	ab	ab	ADP	R-	_	9	case	_	AdpType=Prep
+9	initio	initium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	6	acl:relcl	_	Case=Abl|Gender=Neut|Number=Sing
+
+# sent_id = 50123
+# text = scripsi vobis adulescentes quia fortes estis et verbum Dei in vobis manet et vicistis malignum
+# source = Jerome's Vulgate, 1 John 2
+1	scripsi	scribo	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+2	vobis	vos	PRON	Pp	Case=Dat|Number=Plur|Person=2	1	obl:arg	_	Case=Dat|Number=Plur|Person=2|PronType=Prs
+3	adulescentes	adulescens	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	Case=Voc|Gender=Masc|Number=Plur
+4	quia	quia	SCONJ	G-	_	5	mark	_	_
+5	fortes	fortis	ADJ	A-	Case=Nom|Gender=Masc|Number=Plur	1	advcl	_	Case=Nom|Gender=Masc|Number=Plur
+6	estis	sum	AUX	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|Voice=Act	5	cop	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin
+7	et	et	CCONJ	C-	_	12	cc	_	_
+8	verbum	verbum	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	Case=Nom|Gender=Neut|Number=Sing
+9	Dei	deus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+10	in	in	ADP	R-	_	11	case	_	AdpType=Prep
+11	vobis	vos	PRON	Pp	Case=Abl|Number=Plur|Person=2	12	obl	_	Case=Abl|Number=Plur|Person=2|PronType=Prs
+12	manet	maneo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	5	conj	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+13	et	et	CCONJ	C-	_	14	cc	_	_
+14	vicistis	vinco	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Perf|Voice=Act	5	conj	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+15	malignum	malignus	ADJ	A-	Case=Acc|Gender=Neut|Number=Sing	14	obj	_	Case=Acc|Gender=Neut|Number=Sing
+

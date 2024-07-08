@@ -1,0 +1,867 @@
+# sent_id = 30476
+# text = Paulus et Silvanus et Timotheus ecclesiae Thessalonicensium in Deo Patre nostro et Domino Iesu Christo
+# source = Jerome's Vulgate, 2 Thessalonians 1
+1	Paulus	Paulus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Case=Nom|Gender=Masc|Number=Sing
+2	et	et	CCONJ	C-	_	3	cc	_	_
+3	Silvanus	Silvanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	Case=Nom|Gender=Masc|Number=Sing
+4	et	et	CCONJ	C-	_	5	cc	_	_
+5	Timotheus	Timotheus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	Case=Nom|Gender=Masc|Number=Sing
+6	ecclesiae	ecclesia	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	1	obl:arg	_	Case=Dat|Gender=Fem|Number=Sing
+7	Thessalonicensium	Thessalonicenses	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	Case=Gen|Gender=Masc|Number=Plur
+8	in	in	ADP	R-	_	9	case	_	AdpType=Prep
+9	Deo	deus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	1	obl	_	Case=Abl|Gender=Masc|Number=Sing
+10	Patre	pater	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	9	appos	_	Case=Abl|Gender=Masc|Number=Sing
+11	nostro	noster	DET	Ps	Case=Abl|Gender=Masc|Number=Sing	10	det	_	Case=Abl|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs
+12	et	et	CCONJ	C-	_	13	cc	_	_
+13	Domino	dominus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	9	conj	_	Case=Abl|Gender=Masc|Number=Sing
+14	Iesu	Iesus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	13	flat	_	Case=Abl|Gender=Masc|Number=Sing
+15	Christo	Christus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	14	flat:name	_	Case=Abl|Gender=Masc|Number=Sing
+
+# sent_id = 30477
+# text = gratia vobis et pax a Deo Patre nostro et Domino Iesu Christo
+# source = Jerome's Vulgate, 2 Thessalonians 1
+1	gratia	gratia	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Case=Nom|Gender=Fem|Number=Sing
+2	vobis	vos	PRON	Pp	Case=Dat|Number=Plur|Person=2	1	obl:arg	_	Case=Dat|Number=Plur|Person=2|PronType=Prs
+3	et	et	CCONJ	C-	_	4	cc	_	_
+4	pax	pax	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	Case=Nom|Gender=Fem|Number=Sing
+5	a	ab	ADP	R-	_	6	case	_	AdpType=Prep
+6	Deo	deus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	4	nmod	_	Case=Abl|Gender=Masc|Number=Sing
+7	Patre	pater	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	6	appos	_	Case=Abl|Gender=Masc|Number=Sing
+8	nostro	noster	DET	Ps	Case=Abl|Gender=Masc|Number=Sing	7	det	_	Case=Abl|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs
+9	et	et	CCONJ	C-	_	10	cc	_	_
+10	Domino	dominus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	6	conj	_	Case=Abl|Gender=Masc|Number=Sing
+11	Iesu	Iesus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	10	flat	_	Case=Abl|Gender=Masc|Number=Sing
+12	Christo	Christus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	11	flat:name	_	Case=Abl|Gender=Masc|Number=Sing
+
+# sent_id = 30478
+# text = gratias agere debemus Deo semper pro vobis fratres ita ut dignum est quoniam supercrescit fides vestra et abundat caritas uniuscuiusque omnium vestrum in invicem ita ut et nos ipsi in vobis gloriemur in ecclesiis Dei pro patientia vestra et fide in omnibus persecutionibus vestris et tribulationibus quas sustinetis in exemplum iusti iudicii Dei ut digni habeamini regno Dei pro quo et patimini si tamen iustum est apud Deum retribuere tribulationem his qui vos tribulant
+# source = Jerome's Vulgate, 2 Thessalonians 1
+1	gratias	gratia	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	2	obj	_	Case=Acc|Gender=Fem|Number=Plur
+2	agere	ago	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	3	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+3	debemus	debeo	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+4	Deo	deus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	obl:arg	_	Case=Dat|Gender=Masc|Number=Sing
+5	semper	semper	ADV	Df	_	3	advmod:tmod	_	AdvType=Tim
+6	pro	pro	ADP	R-	_	7	case	_	AdpType=Prep
+7	vobis	vos	PRON	Pp	Case=Abl|Number=Plur|Person=2	2	obl	_	Case=Abl|Number=Plur|Person=2|PronType=Prs
+8	fratres	frater	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	3	vocative	_	Case=Voc|Gender=Masc|Number=Plur
+9	ita	ita	ADV	Df	_	2	advmod	_	_
+10	ut	ut	ADV	Dq	_	11	advmod	_	PronType=Rel
+11	dignum	dignus	ADJ	A-	Case=Nom|Gender=Neut|Number=Sing	9	acl	_	Case=Nom|Gender=Neut|Number=Sing
+12	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	11	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+13	quoniam	quoniam	SCONJ	G-	_	14	mark	_	_
+14	supercrescit	supercresco	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	11	advcl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+15	fides	fides	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+16	vestra	vester	DET	Ps	Case=Abl|Gender=Fem|Number=Sing	15	det	_	Case=Abl|Gender=Fem|Number=Sing|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs
+17	et	et	CCONJ	C-	_	18	cc	_	_
+18	abundat	abundo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	14	conj	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+19	caritas	caritas	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+20	uniuscuiusque	unusquisque	DET	Px	Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Tot
+21	omnium	omnis	DET	Px	Case=Gen|Gender=Masc|Number=Plur	22	det	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot
+22	vestrum	vos	PRON	Pp	Case=Gen|Number=Plur|Person=2	20	nmod	_	Case=Gen|Number=Plur|Person=2|PronType=Prs
+23	in	in	ADP	R-	_	19	amod	_	_
+24	invicem	invicem	PRON	Df	_	23	obj	_	Compound=Yes|PronType=Rcp
+25	ita	ita	ADV	Df	_	18	advmod	_	_
+26	ut	ut	SCONJ	G-	_	32	mark	_	_
+27	et	et	ADV	Df	_	28	advmod:emph	_	_
+28	nos	nos	PRON	Pp	Case=Acc|Number=Plur|Person=1	32	nsubj	_	Case=Acc|Number=Plur|Person=1|PronType=Prs
+29	ipsi	ipse	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	28	det	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem
+30	in	in	ADP	R-	_	31	case	_	AdpType=Prep
+31	vobis	vos	PRON	Pp	Case=Abl|Number=Plur|Person=2	32	obl	_	Case=Abl|Number=Plur|Person=2|PronType=Prs
+32	gloriemur	glorior	VERB	V-	Mood=Sub|Number=Plur|Person=1|Tense=Pres|Voice=Pass	25	advcl	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+33	in	in	ADP	R-	_	34	case	_	AdpType=Prep
+34	ecclesiis	ecclesia	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	32	obl	_	Case=Abl|Gender=Fem|Number=Plur
+35	Dei	deus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	34	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+36	pro	pro	ADP	R-	_	37	case	_	AdpType=Prep
+37	patientia	patientia	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	32	obl	_	Case=Abl|Gender=Fem|Number=Sing
+38	vestra	vester	DET	Ps	Case=Abl|Gender=Fem|Number=Sing	37	det	_	Case=Abl|Gender=Fem|Number=Sing|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs
+39	et	et	CCONJ	C-	_	40	cc	_	_
+40	fide	fides	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	37	conj	_	Case=Abl|Gender=Fem|Number=Sing
+41	in	in	ADP	R-	_	43	case	_	AdpType=Prep
+42	omnibus	omnis	DET	Px	Case=Abl|Gender=Fem|Number=Plur	43	det	_	Case=Abl|Gender=Fem|Number=Plur|PronType=Tot
+43	persecutionibus	persecutio	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	40	nmod	_	Case=Abl|Gender=Fem|Number=Plur
+44	vestris	vester	DET	Ps	Case=Dat|Gender=Fem|Number=Plur	43	det	_	Case=Dat|Gender=Fem|Number=Plur|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs
+45	et	et	CCONJ	C-	_	46	cc	_	_
+46	tribulationibus	tribulatio	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	43	conj	_	Case=Abl|Gender=Fem|Number=Plur
+47	quas	qui	PRON	Pr	Case=Acc|Gender=Fem|Number=Plur	48	obj	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Rel
+48	sustinetis	sustineo	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|Voice=Act	46	acl:relcl	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+49	in	in	ADP	R-	_	50	case	_	AdpType=Prep
+50	exemplum	exemplum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	48	obl	_	Case=Acc|Gender=Neut|Number=Sing
+51	iusti	iustus	ADJ	A-	Case=Gen|Gender=Masc|Number=Sing	52	amod	_	Case=Gen|Gender=Masc|Number=Sing
+52	iudicii	iudicium	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	50	nmod	_	Case=Gen|Gender=Neut|Number=Sing
+53	Dei	deus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	52	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+54	ut	ut	SCONJ	G-	_	56	mark	_	_
+55	digni	dignus	ADJ	A-	Case=Nom|Gender=Masc|Number=Plur	56	xcomp	_	Case=Nom|Gender=Masc|Number=Plur
+56	habeamini	habeo	VERB	V-	Mood=Sub|Number=Plur|Person=2|Tense=Pres|Voice=Pass	48	advcl	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass
+57	regno	regnum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	55	obl:arg	_	Case=Abl|Gender=Neut|Number=Sing
+58	Dei	deus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	57	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+59	pro	pro	ADP	R-	_	60	case	_	AdpType=Prep
+60	quo	qui	PRON	Pr	Case=Abl|Gender=Masc|Number=Sing	62	obl	_	Case=Abl|Gender=Masc|Number=Sing|PronType=Rel
+61	et	et	ADV	Df	_	62	advmod:emph	_	_
+62	patimini	patior	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|Voice=Pass	58	acl:relcl	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass
+63	si	si	SCONJ	G-	_	65	mark	_	_
+64	tamen	tamen	ADV	Df	_	65	advmod	_	_
+65	iustum	iustus	ADJ	A-	Case=Nom|Gender=Neut|Number=Sing	62	advcl	_	Case=Nom|Gender=Neut|Number=Sing
+66	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	65	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+67	apud	apud	ADP	R-	_	68	case	_	AdpType=Prep
+68	Deum	deus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	65	obl	_	Case=Acc|Gender=Masc|Number=Sing
+69	retribuere	retribuo	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	65	ccomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+70	tribulationem	tribulatio	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	69	obj	_	Case=Acc|Gender=Fem|Number=Sing
+71	his	hic	DET	Pd	Case=Dat|Gender=Masc|Number=Plur	69	obl:arg	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Dem
+72	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing	74	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+73	vos	vos	PRON	Pp	Case=Acc|Number=Plur|Person=2	74	obj	_	Case=Acc|Number=Plur|Person=2|PronType=Prs
+74	tribulant	tribulo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	71	acl:relcl	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 30481
+# text = et vobis qui tribulamini requiem nobis cum in revelatione Domini Iesu de caelo cum angelis virtutis eius in flamma ignis dantis vindictam his qui non noverunt Deum et qui non oboediunt evangelio Domini nostri Iesu qui poenas dabunt in interitu aeternas a facie Domini et a gloria virtutis eius cum venerit glorificari in sanctis suis et admirabilis fieri in omnibus qui crediderunt quia creditum est testimonium nostrum super vos in die illo
+# source = Jerome's Vulgate, 2 Thessalonians 1
+1	et	et	CCONJ	C-	_	0	root	_	_
+2	vobis	vos	PRON	Pp	Case=Dat|Number=Plur|Person=2	1	obl:arg	_	Case=Dat|Number=Plur|Person=2|PronType=Prs
+3	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing	4	nsubj:pass	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+4	tribulamini	tribulo	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|Voice=Pass	2	acl:relcl	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass
+5	requiem	requies	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	Case=Acc|Gender=Fem|Number=Sing
+6	nobis	nos	PRON	Pp	Case=Abl|Number=Plur|Person=1	1	obl	_	Case=Abl|Number=Plur|Person=1|PronType=Prs
+7	cum	cum	ADP	R-	_	6	case	_	_
+8	in	in	ADP	R-	_	9	case	_	AdpType=Prep
+9	revelatione	revelatio	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	1	obl	_	Case=Abl|Gender=Fem|Number=Sing
+10	Domini	dominus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+11	Iesu	Iesus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	10	flat	_	Case=Gen|Gender=Masc|Number=Sing
+12	de	de	ADP	R-	_	13	case	_	AdpType=Prep
+13	caelo	caelum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	9	nmod	_	Case=Abl|Gender=Neut|Number=Sing
+14	cum	cum	ADP	R-	_	15	case	_	AdpType=Prep
+15	angelis	angelus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	9	nmod	_	Case=Abl|Gender=Masc|Number=Plur
+16	virtutis	virtus	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+17	eius	is	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3	16	det	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+18	in	in	ADP	R-	_	19	case	_	AdpType=Prep
+19	flamma	flamma	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	21	obl	_	Case=Abl|Gender=Fem|Number=Sing
+20	ignis	ignis	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+21	dantis	do	VERB	V-	Case=Gen|Gender=Masc|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	10	acl	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act
+22	vindictam	vindicta	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	21	obj	_	Case=Acc|Gender=Fem|Number=Sing
+23	his	hic	DET	Pd	Case=Dat|Gender=Masc|Number=Plur	21	obl:arg	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Dem
+24	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing	26	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+25	non	non	PART	Df	_	26	advmod:neg	_	Polarity=Neg
+26	noverunt	nosco	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	23	acl:relcl	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+27	Deum	deus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	26	obj	_	Case=Acc|Gender=Masc|Number=Sing
+28	et	et	CCONJ	C-	_	31	cc	_	_
+29	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing	31	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+30	non	non	PART	Df	_	31	advmod:neg	_	Polarity=Neg
+31	oboediunt	oboedio	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	26	conj	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+32	evangelio	evangelium	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	31	obl:arg	_	Case=Dat|Gender=Neut|Number=Sing
+33	Domini	dominus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	32	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+34	nostri	noster	DET	Ps	Case=Gen|Gender=Masc|Number=Sing	33	det	_	Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs
+35	Iesu	Iesus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	33	flat	_	Case=Gen|Gender=Masc|Number=Sing
+36	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing	38	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+37	poenas	poena	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	38	obj	_	Case=Acc|Gender=Fem|Number=Plur
+38	dabunt	do	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|Voice=Act	31	advcl	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+39	in	in	ADP	R-	_	40	case	_	AdpType=Prep
+40	interitu	interitus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	38	obl	_	Case=Abl|Gender=Masc|Number=Sing
+41	aeternas	aeternus	ADJ	A-	Case=Acc|Gender=Fem|Number=Plur	37	amod	_	Case=Acc|Gender=Fem|Number=Plur
+42	a	ab	ADP	R-	_	43	case	_	AdpType=Prep
+43	facie	facies	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	38	obl	_	Case=Abl|Gender=Fem|Number=Sing
+44	Domini	dominus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	43	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+45	et	et	CCONJ	C-	_	47	cc	_	_
+46	a	ab	ADP	R-	_	47	case	_	AdpType=Prep
+47	gloria	gloria	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	43	conj	_	Case=Abl|Gender=Fem|Number=Sing
+48	virtutis	virtus	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	47	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+49	eius	is	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3	48	det	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+50	cum	cum	ADP	R-	_	51	case	_	AdpType=Prep
+51	venerit	venio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=FutP|Voice=Act	38	advcl	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+52	glorificari	glorifico	VERB	V-	Mood=Inf|Tense=Pres|Voice=Pass	51	advcl	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+53	in	in	ADP	R-	_	54	case	_	AdpType=Prep
+54	sanctis	sanctus	ADJ	A-	Case=Abl|Gender=Masc|Number=Plur	52	obl	_	Case=Abl|Gender=Masc|Number=Plur
+55	suis	suus	DET	Pt	Case=Abl|Gender=Masc|Number=Plur	54	det	_	Case=Abl|Gender=Masc|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes
+56	et	et	CCONJ	C-	_	58	cc	_	_
+57	admirabilis	admirabilis	ADJ	A-	Case=Nom|Gender=Masc|Number=Sing	58	xcomp	_	Case=Nom|Gender=Masc|Number=Sing
+58	fieri	fio	VERB	V-	Mood=Inf|Tense=Pres|Voice=Pass	52	conj	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+59	in	in	ADP	R-	_	60	case	_	AdpType=Prep
+60	omnibus	omnis	DET	Px	Case=Abl|Gender=Masc|Number=Plur	58	obl	_	Case=Abl|Gender=Masc|Number=Plur|PronType=Tot
+61	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing	62	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+62	crediderunt	credo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	60	acl:relcl	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+63	quia	quia	SCONJ	G-	_	64	mark	_	_
+64	creditum	credo	VERB	V-	Case=Nom|Gender=Neut|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	62	ccomp	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+65	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	64	aux:pass	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+66	testimonium	testimonium	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	64	nsubj:pass	_	Case=Nom|Gender=Neut|Number=Sing
+67	nostrum	noster	DET	Ps	Case=Nom|Gender=Neut|Number=Sing	66	det	_	Case=Nom|Gender=Neut|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs
+68	super	super	ADP	R-	_	69	case	_	AdpType=Prep
+69	vos	vos	PRON	Pp	Case=Acc|Number=Plur|Person=2	64	obl	_	Case=Acc|Number=Plur|Person=2|PronType=Prs
+70	in	in	ADP	R-	_	71	case	_	AdpType=Prep
+71	die	dies	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	64	obl	_	Case=Abl|Gender=Masc|Number=Sing
+72	illo	ille	DET	Pd	Case=Abl|Gender=Masc|Number=Sing	71	det	_	Case=Abl|Gender=Masc|Number=Sing|PronType=Dem
+
+# sent_id = 30483
+# text = in quo etiam oramus semper pro vobis ut dignetur vos vocatione sua Deus et impleat omnem voluntatem bonitatis et opus fidei in virtute ut clarificetur nomen Domini nostri Iesu Christi in vobis et vos in illo secundum gratiam Dei nostri et Domini Iesu Christi
+# source = Jerome's Vulgate, 2 Thessalonians 1
+1	in	in	ADP	R-	_	2	case	_	AdpType=Prep
+2	quo	qui	PRON	Pr	Case=Abl|Gender=Neut|Number=Sing	4	obl	_	Case=Abl|Gender=Neut|Number=Sing|PronType=Rel
+3	etiam	etiam	ADV	Df	_	4	advmod:emph	_	_
+4	oramus	oro	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+5	semper	semper	ADV	Df	_	4	advmod:tmod	_	AdvType=Tim
+6	pro	pro	ADP	R-	_	7	case	_	AdpType=Prep
+7	vobis	vos	PRON	Pp	Case=Abl|Number=Plur|Person=2	4	obl	_	Case=Abl|Number=Plur|Person=2|PronType=Prs
+8	ut	ut	SCONJ	G-	_	9	mark	_	_
+9	dignetur	dignor	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Pass	4	advcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+10	vos	vos	PRON	Pp	Case=Acc|Number=Plur|Person=2	9	obj	_	Case=Acc|Number=Plur|Person=2|PronType=Prs
+11	vocatione	vocatio	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	9	obl:arg	_	Case=Abl|Gender=Fem|Number=Sing
+12	sua	suus	DET	Pt	Case=Abl|Gender=Fem|Number=Sing	11	det	_	Case=Abl|Gender=Fem|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes
+13	Deus	deus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+14	et	et	CCONJ	C-	_	15	cc	_	_
+15	impleat	impleo	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	9	conj	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+16	omnem	omnis	DET	Px	Case=Acc|Gender=Fem|Number=Sing	15	obj	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot
+17	voluntatem	voluntas	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	16	appos	_	Case=Acc|Gender=Fem|Number=Sing
+18	bonitatis	bonitas	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+19	et	et	CCONJ	C-	_	20	cc	_	_
+20	opus	opus	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	16	conj	_	Case=Acc|Gender=Neut|Number=Sing
+21	fidei	fides	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+22	in	in	ADP	R-	_	23	case	_	AdpType=Prep
+23	virtute	virtus	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	20	obl:arg	_	Case=Abl|Gender=Fem|Number=Sing
+24	ut	ut	SCONJ	G-	_	25	mark	_	_
+25	clarificetur	clarifico	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Pass	15	advcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+26	nomen	nomen	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	25	nsubj:pass	_	Case=Nom|Gender=Neut|Number=Sing
+27	Domini	dominus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+28	nostri	noster	DET	Ps	Case=Nom|Gender=Masc|Number=Plur	27	det	_	Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs
+29	Iesu	Iesus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	27	flat	_	Case=Gen|Gender=Masc|Number=Sing
+30	Christi	Christus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	29	flat:name	_	Case=Gen|Gender=Masc|Number=Sing
+31	in	in	ADP	R-	_	32	case	_	AdpType=Prep
+32	vobis	vos	PRON	Pp	Case=Abl|Number=Plur|Person=2	25	obl	_	Case=Abl|Number=Plur|Person=2|PronType=Prs
+33	et	et	CCONJ	C-	_	34	cc	_	_
+34	vos	vos	PRON	Pp	Case=Nom|Number=Plur|Person=2	25	conj	_	Case=Nom|Number=Plur|Person=2|PronType=Prs
+35	in	in	ADP	R-	_	36	case	_	AdpType=Prep
+36	illo	ille	DET	Pd	Case=Abl|Gender=Masc|Number=Sing	34	orphan	_	Case=Abl|Gender=Masc|Number=Sing|PronType=Dem
+37	secundum	secundum	ADP	R-	_	38	case	_	AdpType=Prep
+38	gratiam	gratia	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	34	orphan	_	Case=Acc|Gender=Fem|Number=Sing
+39	Dei	deus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	38	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+40	nostri	noster	DET	Ps	Case=Gen|Gender=Masc|Number=Sing	39	det	_	Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs
+41	et	et	CCONJ	C-	_	42	cc	_	_
+42	Domini	dominus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	39	conj	_	Case=Gen|Gender=Masc|Number=Sing
+43	Iesu	Iesus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	39	flat	_	Case=Gen|Gender=Masc|Number=Sing
+44	Christi	Christus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	43	flat:name	_	Case=Gen|Gender=Masc|Number=Sing
+
+# sent_id = 30485
+# text = rogamus autem vos fratres per adventum Domini nostri Iesu Christi et nostrae congregationis in ipsum ut non cito moveamini a sensu ne que terreamini ne que per spiritum ne que per sermonem ne que per epistulam tamquam per nos quasi instet dies Domini
+# source = Jerome's Vulgate, 2 Thessalonians 2
+1	rogamus	rogo	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+2	autem	autem	PART	Df	_	1	discourse	_	_
+3	vos	vos	PRON	Pp	Case=Acc|Number=Plur|Person=2	1	obj	_	Case=Acc|Number=Plur|Person=2|PronType=Prs
+4	fratres	frater	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	Case=Voc|Gender=Masc|Number=Plur
+5	per	per	ADP	R-	_	6	case	_	AdpType=Prep
+6	adventum	adventus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	Case=Acc|Gender=Masc|Number=Sing
+7	Domini	dominus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+8	nostri	noster	DET	Ps	Case=Gen|Gender=Masc|Number=Sing	7	det	_	Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs
+9	Iesu	Iesus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	7	flat	_	Case=Gen|Gender=Masc|Number=Sing
+10	Christi	Christus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	9	flat:name	_	Case=Gen|Gender=Masc|Number=Sing
+11	et	et	CCONJ	C-	_	13	cc	_	_
+12	nostrae	noster	DET	Ps	Case=Gen|Gender=Fem|Number=Sing	13	det	_	Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs
+13	congregationis	congregatio	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	conj	_	Case=Gen|Gender=Fem|Number=Sing
+14	in	in	ADP	R-	_	15	case	_	AdpType=Prep
+15	ipsum	ipse	DET	Pd	Case=Acc|Gender=Masc|Number=Sing	6	det	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem
+16	ut	ut	SCONJ	G-	_	19	mark	_	_
+17	non	non	PART	Df	_	19	advmod:neg	_	Polarity=Neg
+18	cito	cito	ADV	Df	_	19	advmod	_	_
+19	moveamini	moveo	VERB	V-	Mood=Sub|Number=Plur|Person=2|Tense=Pres|Voice=Pass	1	advcl	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass
+20	a	ab	ADP	R-	_	21	case	_	AdpType=Prep
+21	sensu	sensus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	19	obl	_	Case=Abl|Gender=Masc|Number=Sing
+22	ne	ne	ADV	Df	_	24	advmod	_	Polarity=Neg
+23	que	que	CCONJ	C-	_	24	cc	_	_
+24	terreamini	terreo	VERB	V-	Mood=Sub|Number=Plur|Person=2|Tense=Pres|Voice=Pass	19	conj	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass
+25	ne	ne	ADV	Df	_	28	advmod	_	Polarity=Neg
+26	que	que	CCONJ	C-	_	36	cc	_	_
+27	per	per	ADP	R-	_	28	case	_	AdpType=Prep
+28	spiritum	spiritus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	24	obl	_	Case=Acc|Gender=Masc|Number=Sing
+29	ne	ne	ADV	Df	_	32	advmod	_	Polarity=Neg
+30	que	que	CCONJ	C-	_	32	cc	_	_
+31	per	per	ADP	R-	_	32	case	_	AdpType=Prep
+32	sermonem	sermo	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	28	conj	_	Case=Acc|Gender=Masc|Number=Sing
+33	ne	ne	ADV	Df	_	36	advmod	_	Polarity=Neg
+34	que	que	CCONJ	C-	_	36	cc	_	_
+35	per	per	ADP	R-	_	36	case	_	AdpType=Prep
+36	epistulam	epistula	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	28	conj	_	Case=Acc|Gender=Fem|Number=Sing
+37	tamquam	tamquam	SCONJ	Df	_	41	mark	_	_
+38	per	per	ADP	R-	_	39	case	_	AdpType=Prep
+39	nos	nos	PRON	Pp	Case=Acc|Number=Plur|Person=1	41	obl	_	Case=Acc|Number=Plur|Person=1|PronType=Prs
+40	quasi	quasi	ADV	Df	_	41	advmod	_	_
+41	instet	insto	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	24	advcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+42	dies	dies	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	41	obj	_	Case=Acc|Gender=Masc|Number=Plur
+43	Domini	dominus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	42	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+
+# sent_id = 30487
+# text = ne quis vos seducat ullo modo quoniam nisi venerit discessio primum et revelatus fuerit homo peccati filius perditionis qui adversatur et extollitur supra omne quod dicitur Deus aut quod colitur ita ut in templo Dei sedeat ostendens se quia sit Deus
+# source = Jerome's Vulgate, 2 Thessalonians 2
+1	ne	ne	ADV	Df	_	4	advmod	_	Polarity=Neg
+2	quis	quis	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+3	vos	vos	PRON	Pp	Case=Acc|Number=Plur|Person=2	4	obj	_	Case=Acc|Number=Plur|Person=2|PronType=Prs
+4	seducat	seduco	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+5	ullo	ullus	DET	Px	Case=Abl|Gender=Masc|Number=Sing	6	det	_	Case=Abl|Gender=Masc|Number=Sing|PronType=Ind
+6	modo	modus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	Case=Abl|Gender=Masc|Number=Sing
+7	quoniam	quoniam	SCONJ	G-	_	9	mark	_	_
+8	nisi	nisi	SCONJ	G-	_	9	mark	_	_
+9	venerit	venio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=FutP|Voice=Act	4	advcl	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+10	discessio	discessio	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+11	primum	primum	ADV	Df	_	9	advmod	_	_
+12	et	et	CCONJ	C-	_	13	cc	_	_
+13	revelatus	revelo	VERB	V-	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Perf|Voice=Pass	9	conj	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+14	fuerit	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=FutP|Voice=Act	13	aux:pass	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+15	homo	homo	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	13	nsubj:pass	_	Case=Nom|Gender=Masc|Number=Sing
+16	peccati	peccatum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	Case=Gen|Gender=Neut|Number=Sing
+17	filius	filius	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	15	appos	_	Case=Nom|Gender=Masc|Number=Sing
+18	perditionis	perditio	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+19	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+20	adversatur	adversor	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	17	acl:relcl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+21	et	et	CCONJ	C-	_	22	cc	_	_
+22	extollitur	extollo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	20	conj	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+23	supra	supra	ADP	R-	_	24	case	_	AdpType=Prep
+24	omne	omnis	DET	Px	Case=Acc|Gender=Neut|Number=Sing	22	obl	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot
+25	quod	qui	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing	26	nsubj:pass	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel
+26	dicitur	dico	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	24	acl:relcl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+27	Deus	deus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	26	xcomp	_	Case=Nom|Gender=Masc|Number=Sing
+28	aut	aut	CCONJ	C-	_	30	cc	_	_
+29	quod	qui	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing	30	nsubj:pass	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel
+30	colitur	colo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	26	conj	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+31	ita	ita	ADV	Df	_	30	advmod	_	_
+32	ut	ut	SCONJ	G-	_	36	mark	_	_
+33	in	in	ADP	R-	_	34	case	_	AdpType=Prep
+34	templo	templum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	36	obl	_	Case=Abl|Gender=Neut|Number=Sing
+35	Dei	deus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	34	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+36	sedeat	sedeo	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	31	advcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+37	ostendens	ostendo	VERB	V-	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	36	advcl	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act
+38	se	sui	PRON	Pk	Case=Acc|Number=Sing|Person=3	37	obj	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes
+39	quia	quia	SCONJ	G-	_	41	mark	_	_
+40	sit	sum	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	41	cop	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+41	Deus	deus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	37	ccomp	_	Case=Nom|Gender=Masc|Number=Sing
+
+# sent_id = 30489
+# text = non retinetis quod cum adhuc essem apud vos haec dicebam vobis
+# source = Jerome's Vulgate, 2 Thessalonians 2
+1	non	non	PART	Df	_	2	advmod:neg	_	Polarity=Neg
+2	retinetis	retineo	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+3	quod	quod	SCONJ	G-	_	10	mark	_	PronType=Rel
+4	cum	cum	SCONJ	G-	_	8	mark	_	_
+5	adhuc	adhuc	ADV	Df	_	8	advmod	_	_
+6	essem	sum	AUX	V-	Mood=Sub|Number=Sing|Person=1|Tense=Imp|Voice=Act	8	cop	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+7	apud	apud	ADP	R-	_	8	case	_	AdpType=Prep
+8	vos	vos	PRON	Pp	Case=Acc|Number=Plur|Person=2	10	advcl	_	Case=Acc|Number=Plur|Person=2|PronType=Prs
+9	haec	hic	DET	Pd	Case=Acc|Gender=Neut|Number=Plur	10	obj	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem
+10	dicebam	dico	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Imp|Voice=Act	2	ccomp	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+11	vobis	vos	PRON	Pp	Case=Dat|Number=Plur|Person=2	10	obl:arg	_	Case=Dat|Number=Plur|Person=2|PronType=Prs
+
+# sent_id = 30490
+# text = et nunc quid detineat scitis ut reveletur in suo tempore
+# source = Jerome's Vulgate, 2 Thessalonians 2
+1	et	et	CCONJ	C-	_	5	cc	_	_
+2	nunc	nunc	ADV	Df	_	4	advmod:tmod	_	AdvType=Tim
+3	quid	quis	PRON	Pi	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int
+4	detineat	detineo	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	5	ccomp	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+5	scitis	scio	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+6	ut	ut	SCONJ	G-	_	7	mark	_	_
+7	reveletur	revelo	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Pass	4	advcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+8	in	in	ADP	R-	_	10	case	_	AdpType=Prep
+9	suo	suus	DET	Pt	Case=Abl|Gender=Neut|Number=Sing	10	det	_	Case=Abl|Gender=Neut|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes
+10	tempore	tempus	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	7	obl	_	Case=Abl|Gender=Neut|Number=Sing
+
+# sent_id = 30491
+# text = nam mysterium iam operatur iniquitatis
+# source = Jerome's Vulgate, 2 Thessalonians 2
+1	nam	nam	PART	Df	_	4	discourse	_	_
+2	mysterium	mysterium	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	Case=Nom|Gender=Neut|Number=Sing
+3	iam	iam	ADV	Df	_	4	advmod:tmod	_	AdvType=Tim
+4	operatur	operor	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+5	iniquitatis	iniquitas	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+
+# sent_id = 30493
+# text = et tunc revelabitur ille iniquus quem Dominus Iesus interficiet spiritu oris sui et destruet inlustratione adventus sui
+# source = Jerome's Vulgate, 2 Thessalonians 2
+1	et	et	CCONJ	C-	_	3	cc	_	_
+2	tunc	tunc	ADV	Df	_	3	advmod:tmod	_	AdvType=Tim
+3	revelabitur	revelo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Pass	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass
+4	ille	ille	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	5	det	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem
+5	iniquus	iniquus	ADJ	A-	Case=Nom|Gender=Masc|Number=Sing	3	nsubj:pass	_	Case=Nom|Gender=Masc|Number=Sing
+6	quem	qui	PRON	Pr	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel
+7	Dominus	dominus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+8	Iesus	Iesus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	flat	_	Case=Nom|Gender=Masc|Number=Sing
+9	interficiet	interficio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	5	acl:relcl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+10	spiritu	spiritus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	9	obl	_	Case=Abl|Gender=Masc|Number=Sing
+11	oris	os	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	Case=Gen|Gender=Neut|Number=Sing
+12	sui	suus	DET	Pt	Case=Gen|Gender=Neut|Number=Sing	11	det	_	Case=Gen|Gender=Neut|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes
+13	et	et	CCONJ	C-	_	14	cc	_	_
+14	destruet	destruo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	9	conj	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+15	inlustratione	illustratio	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	14	obl	_	Case=Abl|Gender=Fem|Number=Sing
+16	adventus	adventus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+17	sui	sui	PRON	Pk	Case=Gen|Number=Sing|Person=3	16	det	_	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes
+
+# sent_id = 30496
+# text = ideo mittit illis Deus operationem erroris ut credant mendacio ut iudicentur omnes qui non crediderunt veritati sed consenserunt iniquitati
+# source = Jerome's Vulgate, 2 Thessalonians 2
+1	ideo	ideo	ADV	Df	_	2	advmod	_	_
+2	mittit	mitto	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+3	illis	ille	DET	Pd	Case=Dat|Gender=Masc|Number=Plur	2	obl:arg	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Dem
+4	Deus	deus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+5	operationem	operatio	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	Case=Acc|Gender=Fem|Number=Sing
+6	erroris	error	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+7	ut	ut	SCONJ	G-	_	8	mark	_	_
+8	credant	credo	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Act	2	advcl	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+9	mendacio	mendacium	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	8	obl:arg	_	Case=Dat|Gender=Neut|Number=Sing
+10	ut	ut	SCONJ	G-	_	11	mark	_	_
+11	iudicentur	iudico	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Pass	2	advcl	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+12	omnes	omnis	DET	Px	Case=Nom|Gender=Masc|Number=Plur	11	nsubj:pass	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot
+13	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur	15	nsubj	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel
+14	non	non	PART	Df	_	15	advmod:neg	_	Polarity=Neg
+15	crediderunt	credo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	12	acl:relcl	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+16	veritati	veritas	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	15	obl:arg	_	Case=Dat|Gender=Fem|Number=Sing
+17	sed	sed	CCONJ	C-	_	18	cc	_	_
+18	consenserunt	consentio	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	15	conj	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+19	iniquitati	iniquitas	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	18	obl:arg	_	Case=Dat|Gender=Fem|Number=Sing
+
+# sent_id = 30497
+# text = nos autem debemus gratias agere Deo semper pro vobis fratres dilecti a Deo quod elegerit nos Deus primitias in salutem in sanctificatione Spiritus et fide veritatis
+# source = Jerome's Vulgate, 2 Thessalonians 2
+1	nos	nos	PRON	Pp	Case=Nom|Number=Plur|Person=1	3	nsubj	_	Case=Nom|Number=Plur|Person=1|PronType=Prs
+2	autem	autem	PART	Df	_	3	discourse	_	_
+3	debemus	debeo	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+4	gratias	gratia	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	5	obj	_	Case=Acc|Gender=Fem|Number=Plur
+5	agere	ago	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	3	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+6	Deo	deus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	5	obl:arg	_	Case=Dat|Gender=Masc|Number=Sing
+7	semper	semper	ADV	Df	_	5	advmod:tmod	_	AdvType=Tim
+8	pro	pro	ADP	R-	_	9	case	_	AdpType=Prep
+9	vobis	vos	PRON	Pp	Case=Abl|Number=Plur|Person=2	5	obl	_	Case=Abl|Number=Plur|Person=2|PronType=Prs
+10	fratres	frater	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	3	vocative	_	Case=Voc|Gender=Masc|Number=Plur
+11	dilecti	diligo	VERB	V-	Case=Voc|Gender=Masc|Mood=Part|Number=Plur|Tense=Perf|Voice=Pass	10	acl	_	Aspect=Perf|Case=Voc|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+12	a	ab	ADP	R-	_	13	case	_	AdpType=Prep
+13	Deo	deus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	11	obl:agent	_	Case=Abl|Gender=Masc|Number=Sing
+14	quod	quod	SCONJ	G-	_	15	mark	_	PronType=Rel
+15	elegerit	eligo	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Perf|Voice=Act	5	advcl	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+16	nos	nos	PRON	Pp	Case=Acc|Number=Plur|Person=1	15	obj	_	Case=Acc|Number=Plur|Person=1|PronType=Prs
+17	Deus	deus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+18	primitias	primitiae	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	15	xcomp	_	Case=Acc|Gender=Fem|Number=Plur
+19	in	in	ADP	R-	_	20	case	_	AdpType=Prep
+20	salutem	salus	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	15	obl	_	Case=Acc|Gender=Fem|Number=Sing
+21	in	in	ADP	R-	_	22	case	_	AdpType=Prep
+22	sanctificatione	sanctificatio	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	15	obl	_	Case=Abl|Gender=Fem|Number=Sing
+23	Spiritus	spiritus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+24	et	et	CCONJ	C-	_	25	cc	_	_
+25	fide	fides	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	22	conj	_	Case=Abl|Gender=Fem|Number=Sing
+26	veritatis	veritas	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+
+# sent_id = 30498
+# text = ad quod et vocavit vos per evangelium nostrum in adquisitionem gloriae Domini nostri Iesu Christi
+# source = Jerome's Vulgate, 2 Thessalonians 2
+1	ad	ad	ADP	R-	_	2	case	_	AdpType=Prep
+2	quod	qui	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel
+3	et	et	ADV	Df	_	4	advmod:emph	_	_
+4	vocavit	voco	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	0	root	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+5	vos	vos	PRON	Pp	Case=Acc|Number=Plur|Person=2	4	obj	_	Case=Acc|Number=Plur|Person=2|PronType=Prs
+6	per	per	ADP	R-	_	7	case	_	AdpType=Prep
+7	evangelium	evangelium	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	Case=Acc|Gender=Neut|Number=Sing
+8	nostrum	noster	DET	Ps	Case=Acc|Gender=Neut|Number=Sing	7	det	_	Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs
+9	in	in	ADP	R-	_	10	case	_	AdpType=Prep
+10	adquisitionem	acquisitio	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	Case=Acc|Gender=Fem|Number=Sing
+11	gloriae	gloria	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+12	Domini	dominus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+13	nostri	noster	DET	Ps	Case=Gen|Gender=Masc|Number=Sing	12	det	_	Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs
+14	Iesu	Iesus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	12	flat	_	Case=Gen|Gender=Masc|Number=Sing
+15	Christi	Christus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	14	flat:name	_	Case=Gen|Gender=Masc|Number=Sing
+
+# sent_id = 30499
+# text = itaque fratres state
+# source = Jerome's Vulgate, 2 Thessalonians 2
+1	itaque	itaque	PART	Df	_	3	discourse	_	_
+2	fratres	frater	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	3	vocative	_	Case=Voc|Gender=Masc|Number=Plur
+3	state	sto	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 30500
+# text = et tenete traditiones quas didicistis sive per sermonem sive per epistulam nostram
+# source = Jerome's Vulgate, 2 Thessalonians 2
+1	et	et	CCONJ	C-	_	2	cc	_	_
+2	tenete	teneo	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+3	traditiones	traditio	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	2	obj	_	Case=Acc|Gender=Fem|Number=Plur
+4	quas	qui	PRON	Pr	Case=Acc|Gender=Fem|Number=Plur	5	obj	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Rel
+5	didicistis	disco	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Perf|Voice=Act	3	acl:relcl	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act
+6	sive	sive	CCONJ	C-	_	8	cc	_	_
+7	per	per	ADP	R-	_	8	case	_	AdpType=Prep
+8	sermonem	sermo	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	obl	_	Case=Acc|Gender=Masc|Number=Sing
+9	sive	sive	CCONJ	C-	_	11	cc	_	_
+10	per	per	ADP	R-	_	11	case	_	AdpType=Prep
+11	epistulam	epistula	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	conj	_	Case=Acc|Gender=Fem|Number=Sing
+12	nostram	noster	DET	Ps	Case=Acc|Gender=Fem|Number=Sing	11	det	_	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs
+
+# sent_id = 30501
+# text = ipse autem Dominus noster Iesus Christus et Deus et Pater noster qui dilexit nos et dedit consolationem aeternam et spem bonam in gratia exhortetur corda vestra et confirmet in omni opere et sermone bono
+# source = Jerome's Vulgate, 2 Thessalonians 2
+1	ipse	ipse	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	3	det	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem
+2	autem	autem	PART	Df	_	24	discourse	_	_
+3	Dominus	dominus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+4	noster	noster	DET	Ps	Case=Nom|Gender=Masc|Number=Sing	3	det	_	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs
+5	Iesus	Iesus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	flat	_	Case=Nom|Gender=Masc|Number=Sing
+6	Christus	Christus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	Case=Nom|Gender=Masc|Number=Sing
+7	et	et	CCONJ	C-	_	8	cc	_	_
+8	Deus	deus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	Case=Nom|Gender=Masc|Number=Sing
+9	et	et	ADV	Df	_	3	conj	_	_
+10	Pater	pater	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	Case=Nom|Gender=Masc|Number=Sing
+11	noster	noster	DET	Ps	Case=Nom|Gender=Masc|Number=Sing	9	det	_	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs
+12	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+13	dilexit	diligo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	8	acl:relcl	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+14	nos	nos	PRON	Pp	Case=Acc|Number=Plur|Person=1	13	obj	_	Case=Acc|Number=Plur|Person=1|PronType=Prs
+15	et	et	CCONJ	C-	_	16	cc	_	_
+16	dedit	do	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Act	13	conj	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+17	consolationem	consolatio	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	16	obj	_	Case=Acc|Gender=Fem|Number=Sing
+18	aeternam	aeternus	ADJ	A-	Case=Acc|Gender=Fem|Number=Sing	17	amod	_	Case=Acc|Gender=Fem|Number=Sing
+19	et	et	CCONJ	C-	_	20	cc	_	_
+20	spem	spes	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	17	conj	_	Case=Acc|Gender=Fem|Number=Sing
+21	bonam	bonus	ADJ	A-	Case=Acc|Gender=Fem|Number=Sing	20	amod	_	Case=Acc|Gender=Fem|Number=Sing
+22	in	in	ADP	R-	_	23	case	_	AdpType=Prep
+23	gratia	gratia	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	16	obl	_	Case=Abl|Gender=Fem|Number=Sing
+24	exhortetur	exhortor	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+25	corda	cor	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	24	obj	_	Case=Acc|Gender=Neut|Number=Plur
+26	vestra	vester	DET	Ps	Case=Acc|Gender=Neut|Number=Plur	25	det	_	Case=Acc|Gender=Neut|Number=Plur|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs
+27	et	et	CCONJ	C-	_	28	cc	_	_
+28	confirmet	confirmo	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	24	conj	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+29	in	in	ADP	R-	_	31	case	_	AdpType=Prep
+30	omni	omnis	DET	Px	Case=Abl|Gender=Neut|Number=Sing	31	det	_	Case=Abl|Gender=Neut|Number=Sing|PronType=Tot
+31	opere	opus	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	28	obl	_	Case=Abl|Gender=Neut|Number=Sing
+32	et	et	CCONJ	C-	_	33	cc	_	_
+33	sermone	sermo	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	31	conj	_	Case=Abl|Gender=Masc|Number=Sing
+34	bono	bonus	ADJ	A-	Case=Abl|Gender=Masc|Number=Sing	33	amod	_	Case=Abl|Gender=Masc|Number=Sing
+
+# sent_id = 30502
+# text = de cetero fratres orate pro nobis ut sermo Domini currat et clarificetur sicut et apud vos et ut liberemur ab inportunis et malis hominibus
+# source = Jerome's Vulgate, 2 Thessalonians 3
+1	de	de	ADP	R-	_	2	case	_	AdpType=Prep
+2	cetero	ceterus	DET	A-	Case=Abl|Gender=Neut|Number=Sing	4	obl	_	Case=Abl|Gender=Neut|Number=Sing|PronType=Con
+3	fratres	frater	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	4	vocative	_	Case=Voc|Gender=Masc|Number=Plur
+4	orate	oro	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+5	pro	pro	ADP	R-	_	6	case	_	AdpType=Prep
+6	nobis	nos	PRON	Pp	Case=Abl|Number=Plur|Person=1	4	obl	_	Case=Abl|Number=Plur|Person=1|PronType=Prs
+7	ut	ut	SCONJ	G-	_	10	mark	_	_
+8	sermo	sermo	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+9	Domini	dominus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+10	currat	curro	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	advcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+11	et	et	CCONJ	C-	_	12	cc	_	_
+12	clarificetur	clarifico	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Pass	10	conj	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+13	sicut	sicut	SCONJ	Df	_	16	mark	_	Compound=Yes
+14	et	et	ADV	Df	_	16	advmod:emph	_	_
+15	apud	apud	ADP	R-	_	16	case	_	AdpType=Prep
+16	vos	vos	PRON	Pp	Case=Acc|Number=Plur|Person=2	12	advcl:cmp	_	Case=Acc|Number=Plur|Person=2|PronType=Prs
+17	et	et	CCONJ	C-	_	19	cc	_	_
+18	ut	ut	SCONJ	G-	_	19	mark	_	_
+19	liberemur	libero	VERB	V-	Mood=Sub|Number=Plur|Person=1|Tense=Pres|Voice=Pass	10	conj	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass
+20	ab	ab	ADP	R-	_	24	case	_	AdpType=Prep
+21	inportunis	importunus	ADJ	A-	Case=Abl|Gender=Masc|Number=Plur	24	amod	_	Case=Abl|Gender=Masc|Number=Plur
+22	et	et	CCONJ	C-	_	23	cc	_	_
+23	malis	malus	ADJ	A-	Case=Abl|Gender=Masc|Number=Plur	21	conj	_	Case=Abl|Gender=Masc|Number=Plur
+24	hominibus	homo	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	19	obl	_	Case=Abl|Gender=Masc|Number=Plur
+
+# sent_id = 30504
+# text = non enim omnium est fides
+# source = Jerome's Vulgate, 2 Thessalonians 3
+1	non	non	PART	Df	_	3	advmod:neg	_	Polarity=Neg
+2	enim	enim	PART	Df	_	3	discourse	_	_
+3	omnium	omnis	DET	Px	Case=Gen|Gender=Fem|Number=Plur	0	root	_	Case=Gen|Gender=Fem|Number=Plur|PronType=Tot
+4	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+5	fides	fides	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+
+# sent_id = 30505
+# text = fidelis autem Dominus est qui confirmabit vos et custodiet a malo
+# source = Jerome's Vulgate, 2 Thessalonians 3
+1	fidelis	fidelis	ADJ	A-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Case=Nom|Gender=Masc|Number=Sing
+2	autem	autem	PART	Df	_	1	discourse	_	_
+3	Dominus	dominus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+4	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+5	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+6	confirmabit	confirmo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	3	acl:relcl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+7	vos	vos	PRON	Pp	Case=Acc|Number=Plur|Person=2	6	obj	_	Case=Acc|Number=Plur|Person=2|PronType=Prs
+8	et	et	CCONJ	C-	_	9	cc	_	_
+9	custodiet	custodio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	6	conj	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act
+10	a	ab	ADP	R-	_	11	case	_	AdpType=Prep
+11	malo	malus	ADJ	A-	Case=Abl|Gender=Neut|Number=Sing	9	obl	_	Case=Abl|Gender=Neut|Number=Sing
+
+# sent_id = 30506
+# text = confidimus autem de vobis in Domino quoniam quae praecipimus et facitis et facietis
+# source = Jerome's Vulgate, 2 Thessalonians 3
+1	confidimus	confido	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+2	autem	autem	PART	Df	_	1	discourse	_	_
+3	de	de	ADP	R-	_	4	case	_	AdpType=Prep
+4	vobis	vos	PRON	Pp	Case=Abl|Number=Plur|Person=2	1	obl	_	Case=Abl|Number=Plur|Person=2|PronType=Prs
+5	in	in	ADP	R-	_	6	case	_	AdpType=Prep
+6	Domino	dominus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	1	obl	_	Case=Abl|Gender=Masc|Number=Sing
+7	quoniam	quoniam	SCONJ	G-	_	11	mark	_	_
+8	quae	qui	PRON	Pr	Case=Acc|Gender=Neut|Number=Plur	9	obj	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel
+9	praecipimus	praecipio	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	11	obj	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+10	et	et	CCONJ	C-	_	11	cc	_	_
+11	facitis	facio	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|Voice=Act	1	ccomp	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+12	et	et	CCONJ	C-	_	13	cc	_	_
+13	facietis	facio	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|Voice=Act	11	conj	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act
+
+# sent_id = 30507
+# text = Dominus autem dirigat corda vestra in caritate Dei et patientia Christi
+# source = Jerome's Vulgate, 2 Thessalonians 3
+1	Dominus	dominus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+2	autem	autem	PART	Df	_	3	discourse	_	_
+3	dirigat	dirigo	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+4	corda	cor	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	3	obj	_	Case=Acc|Gender=Neut|Number=Plur
+5	vestra	vester	DET	Ps	Case=Acc|Gender=Neut|Number=Plur	4	det	_	Case=Acc|Gender=Neut|Number=Plur|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs
+6	in	in	ADP	R-	_	7	case	_	AdpType=Prep
+7	caritate	caritas	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	3	obl	_	Case=Abl|Gender=Fem|Number=Sing
+8	Dei	deus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+9	et	et	CCONJ	C-	_	10	cc	_	_
+10	patientia	patientia	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	7	conj	_	Case=Abl|Gender=Fem|Number=Sing
+11	Christi	Christus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+
+# sent_id = 30508
+# text = denuntiamus autem vobis fratres in nomine Domini nostri Iesu Christi ut subtrahatis vos ab omni fratre ambulante inordinate et non secundum traditionem quam acceperunt a nobis
+# source = Jerome's Vulgate, 2 Thessalonians 3
+1	denuntiamus	denuntio	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+2	autem	autem	PART	Df	_	1	discourse	_	_
+3	vobis	vos	PRON	Pp	Case=Dat|Number=Plur|Person=2	1	obl:arg	_	Case=Dat|Number=Plur|Person=2|PronType=Prs
+4	fratres	frater	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	Case=Voc|Gender=Masc|Number=Plur
+5	in	in	ADP	R-	_	6	case	_	AdpType=Prep
+6	nomine	nomen	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	1	obl	_	Case=Abl|Gender=Neut|Number=Sing
+7	Domini	dominus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+8	nostri	noster	DET	Ps	Case=Gen|Gender=Masc|Number=Sing	7	det	_	Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs
+9	Iesu	Iesus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	7	flat	_	Case=Gen|Gender=Masc|Number=Sing
+10	Christi	Christus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	9	flat:name	_	Case=Gen|Gender=Masc|Number=Sing
+11	ut	ut	SCONJ	G-	_	12	mark	_	_
+12	subtrahatis	subtraho	VERB	V-	Mood=Sub|Number=Plur|Person=2|Tense=Pres|Voice=Act	1	ccomp	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+13	vos	vos	PRON	Pp	Case=Acc|Number=Plur|Person=2	12	obj	_	Case=Acc|Number=Plur|Person=2|PronType=Prs
+14	ab	ab	ADP	R-	_	16	case	_	AdpType=Prep
+15	omni	omnis	DET	Px	Case=Abl|Gender=Masc|Number=Sing	16	det	_	Case=Abl|Gender=Masc|Number=Sing|PronType=Tot
+16	fratre	frater	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	12	obl	_	Case=Abl|Gender=Masc|Number=Sing
+17	ambulante	ambulo	VERB	V-	Case=Abl|Gender=Masc|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	16	acl	_	Aspect=Imp|Case=Abl|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act
+18	inordinate	inordinate	ADV	Df	_	17	advmod	_	_
+19	et	et	CCONJ	C-	_	22	cc	_	_
+20	non	non	PART	Df	_	22	advmod:neg	_	Polarity=Neg
+21	secundum	secundum	ADP	R-	_	22	case	_	AdpType=Prep
+22	traditionem	traditio	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	18	conj	_	Case=Acc|Gender=Fem|Number=Sing
+23	quam	qui	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing	24	obj	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel
+24	acceperunt	accipio	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Perf|Voice=Act	22	acl:relcl	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+25	a	ab	ADP	R-	_	26	case	_	AdpType=Prep
+26	nobis	nos	PRON	Pp	Case=Abl|Number=Plur|Person=1	24	obl	_	Case=Abl|Number=Plur|Person=1|PronType=Prs
+
+# sent_id = 30509
+# text = ipsi enim scitis quemadmodum oporteat imitari nos quoniam non inquieti fuimus inter vos ne que gratis panem manducavimus ab aliquo sed in labore et fatigatione nocte et die operantes ne quem vestrum gravaremus
+# source = Jerome's Vulgate, 2 Thessalonians 3
+1	ipsi	ipse	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem
+2	enim	enim	PART	Df	_	3	discourse	_	_
+3	scitis	scio	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+4	quemadmodum	quemadmodum	ADV	Dq	_	5	advmod	_	PronType=Rel
+5	oporteat	oportet	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	ccomp	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+6	imitari	imitor	VERB	V-	Mood=Inf|Tense=Pres|Voice=Pass	5	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+7	nos	nos	PRON	Pp	Case=Acc|Number=Plur|Person=1	6	obj	_	Case=Acc|Number=Plur|Person=1|PronType=Prs
+8	quoniam	quoniam	SCONJ	G-	_	13	mark	_	_
+9	non	non	PART	Df	_	13	advmod:neg	_	Polarity=Neg
+10	inquieti	inquietus	ADJ	A-	Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	Case=Nom|Gender=Masc|Number=Plur
+11	fuimus	sum	AUX	V-	Mood=Ind|Number=Plur|Person=1|Tense=Perf|Voice=Act	13	cop	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin
+12	inter	inter	ADP	R-	_	13	case	_	AdpType=Prep
+13	vos	vos	PRON	Pp	Case=Acc|Number=Plur|Person=2	5	advcl	_	Case=Acc|Number=Plur|Person=2|PronType=Prs
+14	ne	ne	ADV	Df	_	18	advmod	_	Polarity=Neg
+15	que	que	CCONJ	C-	_	18	cc	_	_
+16	gratis	gratis	ADV	Df	_	18	advmod	_	_
+17	panem	panis	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	18	obj	_	Case=Acc|Gender=Masc|Number=Sing
+18	manducavimus	manduco	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Perf|Voice=Act	13	conj	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+19	ab	ab	ADP	R-	_	20	case	_	AdpType=Prep
+20	aliquo	aliquis	PRON	Px	Case=Abl|Gender=Masc|Number=Sing	18	obl	_	Case=Abl|Gender=Masc|Number=Sing|PronType=Ind
+21	sed	sed	CCONJ	C-	_	29	cc	_	_
+22	in	in	ADP	R-	_	23	case	_	AdpType=Prep
+23	labore	labor	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	29	obl	_	Case=Abl|Gender=Masc|Number=Sing
+24	et	et	CCONJ	C-	_	25	cc	_	_
+25	fatigatione	fatigatio	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	23	conj	_	Case=Abl|Gender=Fem|Number=Sing
+26	nocte	nox	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	29	obl	_	Case=Abl|Gender=Fem|Number=Sing
+27	et	et	CCONJ	C-	_	28	cc	_	_
+28	die	dies	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	26	conj	_	Case=Abl|Gender=Masc|Number=Sing
+29	operantes	operor	VERB	V-	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Pres|Voice=Act	13	conj	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act
+30	ne	ne	SCONJ	G-	_	33	mark	_	_
+31	quem	qui	PRON	Pr	Case=Acc|Gender=Masc|Number=Sing	33	obj	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel
+32	vestrum	vos	PRON	Pp	Case=Gen|Number=Plur|Person=2	31	nmod	_	Case=Gen|Number=Plur|Person=2|PronType=Prs
+33	gravaremus	gravo	VERB	V-	Mood=Sub|Number=Plur|Person=1|Tense=Imp|Voice=Act	29	advcl	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+
+# sent_id = 30512
+# text = non quasi non habuerimus potestatem sed ut nos met ipsos formam daremus vobis ad imitandum nos
+# source = Jerome's Vulgate, 2 Thessalonians 3
+1	non	non	ADV	Df	_	0	root	_	Polarity=Neg
+2	quasi	quasi	SCONJ	G-	_	4	mark	_	_
+3	non	non	PART	Df	_	4	advmod:neg	_	Polarity=Neg
+4	habuerimus	habeo	VERB	V-	Mood=Sub|Number=Plur|Person=1|Tense=Perf|Voice=Act	1	advcl	_	Aspect=Perf|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+5	potestatem	potestas	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	Case=Acc|Gender=Fem|Number=Sing
+6	sed	sed	CCONJ	C-	_	12	cc	_	_
+7	ut	ut	SCONJ	G-	_	12	mark	_	_
+8	nos	nos	PRON	Pp	Case=Acc|Number=Plur|Person=1	12	obj	_	Case=Acc|Number=Plur|Person=1|PronType=Prs
+9	met	met	PART	Df	_	8	advmod:emph	_	_
+10	ipsos	ipse	DET	Pd	Case=Acc|Gender=Masc|Number=Plur	8	det	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Dem
+11	formam	forma	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	12	xcomp	_	Case=Acc|Gender=Fem|Number=Sing
+12	daremus	do	VERB	V-	Mood=Sub|Number=Plur|Person=1|Tense=Imp|Voice=Act	1	conj	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+13	vobis	vos	PRON	Pp	Case=Dat|Number=Plur|Person=2	12	obl:arg	_	Case=Dat|Number=Plur|Person=2|PronType=Prs
+14	ad	ad	ADP	R-	_	15	case	_	AdpType=Prep
+15	imitandum	imitor	VERB	V-	Case=Acc|Mood=Ger|Voice=Act	12	advcl	_	Aspect=Prosp|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+16	nos	nos	PRON	Pp	Case=Acc|Number=Plur|Person=1	15	obj	_	Case=Acc|Number=Plur|Person=1|PronType=Prs
+
+# sent_id = 30513
+# text = nam et cum essemus apud vos hoc denuntiabamus vobis quoniam si quis non vult operari ne c manducet
+# source = Jerome's Vulgate, 2 Thessalonians 3
+1	nam	nam	PART	Df	_	8	discourse	_	_
+2	et	et	ADV	Df	_	8	advmod:emph	_	_
+3	cum	cum	SCONJ	G-	_	6	mark	_	_
+4	essemus	sum	AUX	V-	Mood=Sub|Number=Plur|Person=1|Tense=Imp|Voice=Act	6	cop	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin
+5	apud	apud	ADP	R-	_	6	case	_	AdpType=Prep
+6	vos	vos	PRON	Pp	Case=Acc|Number=Plur|Person=2	8	advcl	_	Case=Acc|Number=Plur|Person=2|PronType=Prs
+7	hoc	hic	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem
+8	denuntiabamus	denuntio	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Imp|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+9	vobis	vos	PRON	Pp	Case=Dat|Number=Plur|Person=2	8	obl:arg	_	Case=Dat|Number=Plur|Person=2|PronType=Prs
+10	quoniam	quoniam	SCONJ	G-	_	18	mark	_	_
+11	si	si	SCONJ	G-	_	14	mark	_	_
+12	quis	quis	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+13	non	non	PART	Df	_	14	advmod:neg	_	Polarity=Neg
+14	vult	volo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	18	advcl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+15	operari	operor	VERB	V-	Mood=Inf|Tense=Pres|Voice=Pass	14	ccomp	_	Aspect=Imp|VerbForm=Inf|Voice=Pass
+16	ne	ne	ADV	Df	_	18	advmod	_	Polarity=Neg
+17	c	que	CCONJ	C-	_	16	cc	_	_
+18	manducet	manduco	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	8	ccomp	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 30515
+# text = audimus enim inter vos quosdam ambulare inquiete nihil operantes sed curiose agentes
+# source = Jerome's Vulgate, 2 Thessalonians 3
+1	audimus	audio	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+2	enim	enim	PART	Df	_	1	discourse	_	_
+3	inter	inter	ADP	R-	_	4	case	_	AdpType=Prep
+4	vos	vos	PRON	Pp	Case=Acc|Number=Plur|Person=2	5	nmod	_	Case=Acc|Number=Plur|Person=2|PronType=Prs
+5	quosdam	quidam	DET	Px	Case=Acc|Gender=Masc|Number=Plur	6	nsubj	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Ind
+6	ambulare	ambulo	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	1	ccomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+7	inquiete	inquiete	ADV	Df	_	6	advmod	_	_
+8	nihil	nihil	PRON	Px	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	Case=Acc|Gender=Neut|Number=Sing|Polarity=Neg|PronType=Ind
+9	operantes	operor	VERB	V-	Case=Acc|Gender=Masc|Mood=Part|Number=Plur|Tense=Pres|Voice=Act	6	advcl	_	Aspect=Imp|Case=Acc|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act
+10	sed	sed	CCONJ	C-	_	12	cc	_	_
+11	curiose	curiose	ADV	Df	_	12	advmod	_	_
+12	agentes	ago	VERB	V-	Case=Acc|Gender=Masc|Mood=Part|Number=Plur|Tense=Pres|Voice=Act	9	conj	_	Aspect=Imp|Case=Acc|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act
+
+# sent_id = 30516
+# text = his autem qui eius modi sunt denuntiamus et obsecramus in Domino Iesu Christo ut cum silentio operantes suum panem manducent
+# source = Jerome's Vulgate, 2 Thessalonians 3
+1	his	hic	DET	Pd	Case=Dat|Gender=Masc|Number=Plur	7	obl:arg	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Dem
+2	autem	autem	PART	Df	_	7	discourse	_	_
+3	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel
+4	eius	is	DET	Pd	Case=Gen|Gender=Masc|Number=Sing	5	det	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem
+5	modi	modus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	acl:relcl	_	Case=Gen|Gender=Masc|Number=Sing
+6	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	5	cop	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+7	denuntiamus	denuntio	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+8	et	et	CCONJ	C-	_	9	cc	_	_
+9	obsecramus	obsecro	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	7	conj	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+10	in	in	ADP	R-	_	11	case	_	AdpType=Prep
+11	Domino	dominus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	9	obl	_	Case=Abl|Gender=Masc|Number=Sing
+12	Iesu	Iesus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	11	flat	_	Case=Abl|Gender=Masc|Number=Sing
+13	Christo	Christus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	12	flat:name	_	Case=Abl|Gender=Masc|Number=Sing
+14	ut	ut	SCONJ	G-	_	20	mark	_	_
+15	cum	cum	ADP	R-	_	16	case	_	AdpType=Prep
+16	silentio	silentium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	17	obl	_	Case=Abl|Gender=Neut|Number=Sing
+17	operantes	operor	VERB	V-	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Pres|Voice=Act	20	advcl	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act
+18	suum	suus	DET	Pt	Case=Acc|Gender=Masc|Number=Sing	19	det	_	Case=Acc|Gender=Masc|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes
+19	panem	panis	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	20	obj	_	Case=Acc|Gender=Masc|Number=Sing
+20	manducent	manduco	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Act	9	ccomp	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 30517
+# text = vos autem fratres nolite deficere benefacientes
+# source = Jerome's Vulgate, 2 Thessalonians 3
+1	vos	vos	PRON	Pp	Case=Nom|Number=Plur|Person=2	4	nsubj	_	Case=Nom|Number=Plur|Person=2|PronType=Prs
+2	autem	autem	PART	Df	_	4	discourse	_	_
+3	fratres	frater	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	4	vocative	_	Case=Voc|Gender=Masc|Number=Plur
+4	nolite	nolo	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+5	deficere	deficio	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	4	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+6	benefacientes	benefacio	VERB	V-	Case=Nom|Gender=Masc|Mood=Part|Number=Plur|Tense=Pres|Voice=Act	5	advcl	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act
+
+# sent_id = 30518
+# text = quod si quis non oboedit verbo nostro per epistulam hunc notate et non commisceamini cum illo ut confundatur
+# source = Jerome's Vulgate, 2 Thessalonians 3
+1	quod	quod	ADV	Df	_	5	advmod	_	_
+2	si	si	SCONJ	G-	_	5	mark	_	_
+3	quis	quis	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+4	non	non	PART	Df	_	5	advmod:neg	_	Polarity=Neg
+5	oboedit	oboedio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	11	advcl	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+6	verbo	verbum	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	5	obl:arg	_	Case=Dat|Gender=Neut|Number=Sing
+7	nostro	noster	DET	Ps	Case=Dat|Gender=Neut|Number=Sing	6	det	_	Case=Dat|Gender=Neut|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs
+8	per	per	ADP	R-	_	9	case	_	AdpType=Prep
+9	epistulam	epistula	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	Case=Acc|Gender=Fem|Number=Sing
+10	hunc	hic	DET	Pd	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem
+11	notate	noto	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+12	et	et	CCONJ	C-	_	14	cc	_	_
+13	non	non	PART	Df	_	14	advmod:neg	_	Polarity=Neg
+14	commisceamini	commisceo	VERB	V-	Mood=Sub|Number=Plur|Person=2|Tense=Pres|Voice=Pass	11	conj	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass
+15	cum	cum	ADP	R-	_	16	case	_	AdpType=Prep
+16	illo	ille	DET	Pd	Case=Abl|Gender=Masc|Number=Sing	14	obl	_	Case=Abl|Gender=Masc|Number=Sing|PronType=Dem
+17	ut	ut	SCONJ	G-	_	18	mark	_	_
+18	confundatur	confundo	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Pass	14	advcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass
+
+# sent_id = 30519
+# text = et nolite quasi inimicum existimare sed corripite ut fratrem
+# source = Jerome's Vulgate, 2 Thessalonians 3
+1	et	et	CCONJ	C-	_	2	cc	_	_
+2	nolite	nolo	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+3	quasi	quasi	ADV	Df	_	5	advmod	_	_
+4	inimicum	inimicus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	Case=Acc|Gender=Masc|Number=Sing
+5	existimare	existimo	VERB	V-	Mood=Inf|Tense=Pres|Voice=Act	2	xcomp	_	Aspect=Imp|VerbForm=Inf|Voice=Act
+6	sed	sed	CCONJ	C-	_	7	cc	_	_
+7	corripite	corripio	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	2	conj	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
+8	ut	ut	ADV	Df	_	7	advmod	_	_
+9	fratrem	frater	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	Case=Acc|Gender=Masc|Number=Sing
+
+# sent_id = 30520
+# text = ipse autem Dominus pacis det vobis pacem sempiternam in omni loco
+# source = Jerome's Vulgate, 2 Thessalonians 3
+1	ipse	ipse	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	3	det	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem
+2	autem	autem	PART	Df	_	5	discourse	_	_
+3	Dominus	dominus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+4	pacis	pax	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	Case=Gen|Gender=Fem|Number=Sing
+5	det	do	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+6	vobis	vos	PRON	Pp	Case=Dat|Number=Plur|Person=2	5	obl:arg	_	Case=Dat|Number=Plur|Person=2|PronType=Prs
+7	pacem	pax	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	Case=Acc|Gender=Fem|Number=Sing
+8	sempiternam	sempiternus	ADJ	A-	Case=Acc|Gender=Fem|Number=Sing	7	amod	_	Case=Acc|Gender=Fem|Number=Sing
+9	in	in	ADP	R-	_	11	case	_	AdpType=Prep
+10	omni	omnis	DET	Px	Case=Abl|Gender=Masc|Number=Sing	11	det	_	Case=Abl|Gender=Masc|Number=Sing|PronType=Tot
+11	loco	locus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	5	obl	_	Case=Abl|Gender=Masc|Number=Sing
+
+# sent_id = 30521
+# text = Dominus cum omnibus vobis
+# source = Jerome's Vulgate, 2 Thessalonians 3
+1	Dominus	dominus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Case=Nom|Gender=Masc|Number=Sing
+2	cum	cum	ADP	R-	_	4	case	_	AdpType=Prep
+3	omnibus	omnis	DET	Px	Case=Abl|Gender=Masc|Number=Plur	4	det	_	Case=Abl|Gender=Masc|Number=Plur|PronType=Tot
+4	vobis	vos	PRON	Pp	Case=Abl|Number=Plur|Person=2	0	root	_	Case=Abl|Number=Plur|Person=2|PronType=Prs
+
+# sent_id = 30522
+# text = salutatio mea manu Pauli quod est signum in omni epistula
+# source = Jerome's Vulgate, 2 Thessalonians 3
+1	salutatio	salutatio	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Case=Nom|Gender=Fem|Number=Sing
+2	mea	meus	DET	Ps	Case=Nom|Gender=Fem|Number=Sing	3	det	_	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs
+3	manu	manus	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	1	obl	_	Case=Abl|Gender=Fem|Number=Sing
+4	Pauli	Paulus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+5	quod	qui	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel
+6	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	7	cop	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+7	signum	signum	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	1	acl:relcl	_	Case=Nom|Gender=Neut|Number=Sing
+8	in	in	ADP	R-	_	10	case	_	AdpType=Prep
+9	omni	omnis	DET	Px	Case=Abl|Gender=Fem|Number=Sing	10	det	_	Case=Abl|Gender=Fem|Number=Sing|PronType=Tot
+10	epistula	epistula	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nmod	_	Case=Nom|Gender=Fem|Number=Sing
+
+# sent_id = 30524
+# text = gratia Domini nostri Iesu Christi cum omnibus vobis
+# source = Jerome's Vulgate, 2 Thessalonians 3
+1	gratia	gratia	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	Case=Nom|Gender=Fem|Number=Sing
+2	Domini	dominus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	Case=Gen|Gender=Masc|Number=Sing
+3	nostri	noster	DET	Ps	Case=Gen|Gender=Masc|Number=Sing	2	det	_	Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs
+4	Iesu	Iesus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	flat	_	Case=Gen|Gender=Masc|Number=Sing
+5	Christi	Christus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	flat:name	_	Case=Gen|Gender=Masc|Number=Sing
+6	cum	cum	ADP	R-	_	8	case	_	AdpType=Prep
+7	omnibus	omnis	DET	Px	Case=Abl|Gender=Masc|Number=Plur	8	det	_	Case=Abl|Gender=Masc|Number=Plur|PronType=Tot
+8	vobis	vos	PRON	Pp	Case=Abl|Number=Plur|Person=2	0	root	_	Case=Abl|Number=Plur|Person=2|PronType=Prs
+
+# sent_id = 225206
+# text = tantum ut qui tenet nunc donec de medio fiat
+# source = Jerome's Vulgate, 2 Thessalonians 2
+1	tantum	tantum	ADV	Df	_	0	root	_	_
+2	ut	ut	SCONJ	G-	_	9	mark	_	_
+3	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel
+4	tenet	teneo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	9	csubj	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+5	nunc	nunc	ADV	Df	_	4	advmod:tmod	_	AdvType=Tim
+6	donec	donec	SCONJ	G-	_	9	mark	_	_
+7	de	de	ADP	R-	_	8	case	_	AdpType=Prep
+8	medio	medius	ADJ	A-	Case=Abl|Gender=Neut|Number=Sing	9	obl	_	Case=Abl|Gender=Neut|Number=Sing
+9	fiat	fio	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	advcl	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+
+# sent_id = 225211
+# text = ita scribo
+# source = Jerome's Vulgate, 2 Thessalonians 3
+1	ita	ita	ADV	Df	_	2	advmod	_	_
+2	scribo	scribo	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+
