@@ -1,0 +1,74 @@
+# Case
+Gen	0
+Nom	1
+Abl	2
+None	3
+Loc	4
+Dat	5
+Acc	6
+Voc	7
+
+# Degree
+Sup	0
+None	1
+Cmp	2
+
+# Gender
+Masc	0
+None	1
+Neut	2
+Fem	3
+
+# Mood
+Part	0
+Gdv	1
+Ger	2
+Inf	3
+Sub	4
+None	5
+Sup	6
+Imp	7
+Ind	8
+
+# Number
+None	0
+Sing	1
+Plur	2
+
+# Person
+3	0
+None	1
+2	2
+1	3
+
+# Tense
+None	0
+Perf	1
+Imp	2
+FutP	3
+Pres	4
+Fut	5
+Plup	6
+
+# Voice
+None	0
+Act	1
+Pass	2
+
+# upos
+PART	0
+NUM	1
+VERB	2
+PUNCT	3
+ADJ	4
+SCONJ	5
+PRON	6
+CCONJ	7
+AUX	8
+ADV	9
+ADP	10
+DET	11
+NOUN	12
+X	13
+PROPN	14
+
