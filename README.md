@@ -11,7 +11,7 @@ Code and data for: Marisa Hudspeth, Brendan O’Connor, Laure Thompson, "Latin T
 │   └── morph_tagging
 │       └── scripts
 ```
-- Code for finetuning LatinBERT ([Bamman and Burns, 2020]([https://doi.org/10.48550/arXiv.2009.10053])) for morphological tagging.
+- Code for finetuning LatinBERT ([Bamman and Burns, 2020](https://doi.org/10.48550/arXiv.2009.10053)) for morphological tagging.
 ```
 ├── data
 │   ├── converted_treebanks
