@@ -25,7 +25,7 @@ Code and data for: Marisa Hudspeth, Brendan O’Connor, Laure Thompson, "Latin T
   - `lasla`: converted files from the [LASLA repo](https://github.com/CIRCSE/LASLA/tree/main/conllup) 
   - `ud`: converted files from 5 UD treebanks. Original, UD train-test splits
   - `full_ud_sets`: individual files for each unique text in the 5 UD treebanks. No train/test splits
-  - `train_test_splits`: custom train/test splits. Each unique work in LASLA and UD, has separate files for its train, dev, and test sets (whichever are applicable). 
+  - `train_test_splits`: custom train/test splits proposed in our paper. Each unique work in LASLA and UD, has separate files for its train, dev, and test sets (whichever are applicable). 
   - `split_ids.json`: for each unique work in LASLA and UD, lists which sentence IDs belong to which train/dev/test set 
 ```
 │   ├── original_treebanks 
