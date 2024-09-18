@@ -1,9 +1,11 @@
 # latin-standardized-treebanks
 Code and data for: [Marisa Hudspeth](https://www.marisahudspeth.com/), Brendan O’Connor, Laure Thompson, "Latin Treebanks in Review: An Evaluation of Morphological Tagging Across Time." Machine Learning for Ancient Languages (ML4AL) Workshop, 2024. See [paper](https://aclanthology.org/2024.ml4al-1.21/) or [slides](https://www.marisahudspeth.com/_files/ugd/8e4ffa_422a9e72c1fb4dddb2291a21e5b4e43b.pdf).
 
+<br>
 
 ![Latin Treebank diagram](paper/latin_treebank_diagram_hudspeth2024.png)
 
+<br>
 
 ## Directory Structure
 ```
